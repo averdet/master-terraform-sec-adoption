@@ -1,0 +1,1308 @@
+Repository Full Name,Repository Description,Star Count,Fork Count,Repository Licence,Main Language,Language Repartition
+Farnaz-Ansari/TerraformPipelines,Multi-stage DevOps  pipelines for Terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Infopoly-Limited/Azure-firewall,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+NiteshSngh/discover-dollar-case-study,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+zachchism/Cloud-Resume-Project,"My resume in Azure, following the Cloud Resume Challenge by Forrest Brazeal",0,0,NO LICENSE,HCL,"{'HCL': 47.44, 'CSS': 17.04, 'HTML': 16.85, 'JavaScript': 12.67, 'Python': 6.01}"
+larryclaman/tf-databricks-singleton,,0,0,NO LICENSE,HCL,"{'HCL': 83.75, 'Shell': 15.8, 'Python': 0.44}"
+rajivranjan89/CaseStudy,,0,0,NO LICENSE,HCL,"{'HCL': 92.91, 'PowerShell': 4.68, 'Python': 2.41}"
+on2itsecurity/auxo-provider-azure,Automatically create protect-surfaces and add Azure resources to AUXO ,0,0,MIT License,Python,"{'Python': 71.83, 'HCL': 27.84, 'Shell': 0.34}"
+YuliaKokorieva/sq-aci,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+konradkulagaAVAC/terraformTraining,,0,0,NO LICENSE,HCL,"{'HCL': 38.84, 'C#': 22.35, 'CSS': 20.0, 'HTML': 17.74, 'JavaScript': 1.07}"
+praveen2391/dsspoc,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+princebillygk-jatri/portfolio-infrastructure,,1,0,NO LICENSE,HCL,"{'HCL': 96.02, 'Makefile': 3.98}"
+sourcegraph/tf-k8s-configs,"Terraform configurations for provisioning bare bones Kubernetes clusters on GCP, AWS and Azure platforms.",2,0,NO LICENSE,HCL,{'HCL': 100.0}
+Devops-Corfo-2022-seccion1-Grupo4/terraform_lab,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mobindaraie/Getting-Started-with-Terraform,,0,0,NO LICENSE,HCL,"{'HCL': 91.82, 'PowerShell': 5.54, 'Shell': 2.64}"
+rajesh-pandian-1988/iac-azure-resources,To learn deploying resources to Azure using GitHub Actions,0,0,NO LICENSE,PowerShell,"{'PowerShell': 47.99, 'HCL': 31.35, 'Bicep': 20.66}"
+dirien/quick-bites,Quick Bites of different technologies,8,0,Apache License 2.0,Go,"{'Go': 50.13, 'TypeScript': 27.64, 'CUE': 9.32, 'Rust': 8.31, 'HCL': 3.56, 'Open Policy Agent': 1.04}"
+KangDroid-File-Cloud/KDRFC-Terraform,Infrastructure Configuration(Code) for KDRFC Services,0,0,NO LICENSE,HCL,"{'HCL': 86.04, 'Smarty': 13.96}"
+frasermolyneux/portal-sync,Part of XtremeIdiots Portal solution; data synchronization for game servers ban files and other external services. Deployed using Terraform and GitHub Actions.,0,0,GNU General Public License v3.0,C#,"{'C#': 83.46, 'HCL': 16.54}"
+lahouely/orders_infrastructure,This repository hosts the terraform source code that will deploy the necessary infrastructure resources for the my orders project.,0,0,MIT License,HCL,"{'HCL': 81.6, 'Shell': 18.4}"
+bmmateru/acme-demo,"""This is a demo presented to ACME. They goal is to show value for automation and utilizing terraform cloud as their main tool.",0,0,GNU General Public License v3.0,HCL,"{'HCL': 66.63, 'Shell': 33.37}"
+SubbaYamarthi/sampleTerraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+castleking1810/infra-configuration,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kashw2/Terraform-at-Scale,Various examples of Terraform being used to scale ,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+ongood/coder,,0,0,GNU Affero General Public License v3.0,Go,"{'Go': 70.34, 'TypeScript': 26.11, 'Shell': 1.74, 'Makefile': 0.41, 'Dockerfile': 0.35, 'PLpgSQL': 0.22, 'NSIS': 0.18, 'HTML': 0.15, 'Open Policy Agent': 0.14, 'HCL': 0.11, 'Smarty': 0.09, 'JavaScript': 0.09, 'Nix': 0.03, 'PowerShell': 0.02, 'Roff': 0.0}"
+Nawodawi/Terraform-with-azure-devops-.net,,0,0,NO LICENSE,C#,"{'C#': 52.17, 'HCL': 34.98, 'Dockerfile': 12.85}"
+AlessandroGracia27/Terraform_VM,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tonyskidmore/terraform-azurerm-vmss,Terraform azurerm Virtual Machine Scale Set module,0,0,MIT License,HCL,"{'HCL': 91.12, 'Shell': 8.88}"
+briteliteimmersive/azure-cloud-foundations,Devops scripts for cloud infrastructure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kikikrittamate/soft_arch_assignment8,,0,0,NO LICENSE,HCL,"{'HCL': 72.19, 'Shell': 27.81}"
+ycetindil/Azure-Devops-Azure-VM-WordPress-Installed,,0,0,NO LICENSE,HCL,"{'HCL': 93.35, 'Shell': 4.84, 'Dockerfile': 1.81}"
+Mariem-Louhichi/example-repo,description ,0,1,NO LICENSE,HCL,"{'HCL': 99.52, 'HTML': 0.48}"
+ForgeRock/forgeops-extras,Terraform and other artifacts that can be used with the forgeops project,0,2,NO LICENSE,HCL,"{'HCL': 89.37, 'Shell': 8.44, 'Smarty': 1.28, 'Makefile': 0.91}"
+mlkmhd/terraform-test,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/FTALive-Sessions,This repository is a public-facing source of information for FastTrack for Azure Live sessions.,75,59,MIT License,Jupyter Notebook,"{'Jupyter Notebook': 62.97, 'Shell': 10.92, 'Bicep': 10.82, 'Python': 7.09, 'HCL': 3.69, 'PowerShell': 3.17, 'Go': 0.4, 'JavaScript': 0.39, 'C#': 0.31, 'HTML': 0.13, 'Dockerfile': 0.1}"
+Azure/terraform-azurerm-loadbalancer,Terraform Azure RM Module for Load Balancer,46,97,MIT License,HCL,"{'HCL': 93.69, 'Go': 5.49, 'Makefile': 0.82}"
+danibyay/telegram-bot-cicd,Telegram bot project with Kotlin and CI/CD pipeline,0,0,NO LICENSE,Kotlin,"{'Kotlin': 56.52, 'HCL': 38.85, 'Dockerfile': 4.63}"
+ccweerasinghe1994/terraform-docs-study,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ParnThanatibordee/softarch-hw-assignment-8,,0,0,NO LICENSE,HCL,"{'HCL': 80.08, 'Shell': 19.92}"
+echo-webkom/echo-web,Nettsiden til echo – Linjeforeningen for informatikk,14,2,GNU General Public License v3.0,TypeScript,"{'TypeScript': 68.12, 'Kotlin': 25.27, 'HCL': 3.64, 'JavaScript': 2.23, 'Shell': 0.47, 'Dockerfile': 0.19, 'HTML': 0.07, 'CSS': 0.01}"
+CREPIC21/MyWebsite,,0,0,NO LICENSE,CSS,"{'CSS': 45.76, 'HTML': 30.31, 'HCL': 18.55, 'JavaScript': 5.17, 'Dockerfile': 0.21}"
+hmcts/terraform-module-vnet-peering,terraform-module-vnet-peering,2,0,NO LICENSE,HCL,{'HCL': 100.0}
+very-sad-doggo/Diploma_task,this repo contains all related diploma info including application ,0,0,NO LICENSE,HCL,"{'HCL': 70.06, 'Shell': 29.94}"
+waeltken/tf-aks-multi-region,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ronsha001/devtube-infrastructure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+getindata/terraform-azurerm-keyvault-secret-data-source,Terraform module for reading secrets from Azure KeyVault,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+moascode/azure-deploy-web-server,This repo contains Packer and Terraform scripts to deploy a web server in Azure,0,0,NO LICENSE,HCL,"{'HCL': 95.55, 'Shell': 4.45}"
+Dieryson/azure,azure/terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+eingaruca/00_Repo_code,Repositorio código,1,0,NO LICENSE,Python,"{'Python': 59.22, 'HCL': 26.55, 'Groovy': 14.22}"
+davidomahony/kubernetes,Kubernetes Notes,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sameed03/hub_and_spoke,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+albertodall/TerraformPlayground,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+piyushahuja/toy-terraform,,0,0,NO LICENSE,HCL,"{'HCL': 95.25, 'Shell': 4.75}"
+germanium-git/tf_azure_subnet_with_nsg_udr,New Azure subnet with NSG & UDR assignment,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/send-letter-service,,0,4,MIT License,Java,"{'Java': 92.5, 'HTML': 3.91, 'HCL': 2.97, 'Groovy': 0.5, 'Dockerfile': 0.11, 'Shell': 0.01}"
+ruskle/EPAM-L1-DevOps-autumn2022,,0,0,NO LICENSE,C#,"{'C#': 42.52, 'HTML': 29.51, 'Shell': 13.76, 'HCL': 8.12, 'CSS': 5.04, 'JavaScript': 1.05}"
+Ananyojha/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+JAY-DEV-OP/automationjenkins,build and deploy,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+equinor/radix-platform,Issue tracking and feature requests for Omnia Radix,23,2,MIT License,Shell,"{'Shell': 92.32, 'HCL': 5.33, 'HTML': 2.03, 'PowerShell': 0.16, 'TSQL': 0.16}"
+kavish-p/udacity-azure-devops-project1,Deploying a Web Server in Azure,0,0,NO LICENSE,HCL,"{'HCL': 97.62, 'Shell': 2.38}"
+devgioele/fabriko,A GitHub Action for RBAC of geographic information systems using Mapbox,0,0,MIT License,TypeScript,"{'TypeScript': 68.82, 'Shell': 22.67, 'Python': 6.64, 'HCL': 1.87}"
+kashw2/Fleet-of-the-Faithful-Knights,Monorepo for the Fleet of the Faithful Knights,7,0,GNU General Public License v3.0,TypeScript,"{'TypeScript': 85.99, 'HTML': 6.37, 'HCL': 5.68, 'SCSS': 1.86, 'Dockerfile': 0.11}"
+kashw2/QuickStack,"A quick and easy to setup full stack solution built to enable success using Angular 14, TypeScript and Terraform",0,0,NO LICENSE,TypeScript,"{'TypeScript': 49.41, 'HCL': 22.28, 'HTML': 22.13, 'JavaScript': 3.03, 'SCSS': 2.38, 'Shell': 0.6, 'Dockerfile': 0.16}"
+hemangi1992/azure-devops-kubernates-terraform-pipeline,,0,0,NO LICENSE,Java,"{'Java': 52.09, 'HCL': 45.64, 'Dockerfile': 2.27}"
+nikita-akuity/tf-provider-example,Example of using `akuity/akp` terraform provider,1,0,NO LICENSE,HCL,"{'HCL': 96.9, 'Jsonnet': 3.1}"
+zanileberkay/terraform-backend,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Guiih13/devops,,0,0,NO LICENSE,Java,"{'Java': 60.4, 'HCL': 34.16, 'Dockerfile': 3.08, 'Gherkin': 1.24, 'JavaScript': 0.68, 'Python': 0.44}"
+mjmenger/terraform-f5xc-azure-base,,2,0,NO LICENSE,HCL,{'HCL': 100.0}
+geranzig/diplo-mod7-lab2,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+grupo7-modulo7/modulo7-terraform,Tarea Modulo 7 - terraform,0,0,NO LICENSE,HCL,"{'HCL': 98.14, 'Shell': 1.86}"
+BMeyn/sample_terraform_docs,,0,0,NO LICENSE,Shell,"{'Shell': 95.48, 'Dockerfile': 3.64, 'HCL': 0.88}"
+ManpreetKaur1526/releaserepo26,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/terraform,Source code for the Azure Marketplace Terraform development VM package.,377,496,MIT License,HCL,"{'HCL': 97.9, 'Shell': 2.1}"
+freddieentity/kubernetes-blueprints,,0,0,NO LICENSE,HCL,"{'HCL': 88.81, 'Ruby': 6.63, 'Makefile': 2.63, 'Dockerfile': 1.82, 'Shell': 0.11}"
+kvietmeier/Terraform,Terraform projects,2,0,Other,HCL,"{'HCL': 67.47, 'PowerShell': 31.73, 'Shell': 0.79}"
+pagopa/io-infra,IO platform infrastructure,6,4,NO LICENSE,HCL,"{'HCL': 71.54, 'Smarty': 25.93, 'Shell': 2.53}"
+fingineering/terraform-102,Second part of the terraform tutorial and workshop,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+madhurisai12/aks-cluster,,0,0,Mozilla Public License 2.0,HCL,{'HCL': 100.0}
+FancyCorp-Demo/packer-golden-image,Golden Packer Image,0,1,NO LICENSE,HCL,"{'HCL': 58.68, 'Shell': 25.89, 'Makefile': 8.73, 'HTML': 6.7}"
+mochecki/terraform-devops,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+implodingduck/azure-tf-demo,,0,0,MIT License,HCL,"{'HCL': 93.64, 'Shell': 6.36}"
+lg37/devops,,0,0,NO LICENSE,HCL,"{'HCL': 77.65, 'Shell': 8.82, 'PowerShell': 8.43, 'Smarty': 5.1}"
+sondresjolyst/github-action-copy,,0,0,NO LICENSE,Shell,"{'Shell': 91.7, 'HCL': 5.46, 'HTML': 2.07, 'PowerShell': 0.61, 'TSQL': 0.16}"
+alexandreweiss/aviatrix-shared,,0,0,NO LICENSE,HCL,"{'HCL': 94.96, 'Bicep': 5.04}"
+MetacoSA/terraform,Terraform automation to deploy Harmonize and related infrastructure,0,1,Apache License 2.0,HCL,{'HCL': 100.0}
+jason-johnson/test-az-messaging-redundancy,Some testing on redundancy scenarios for messaging consumption,0,0,MIT License,HCL,{'HCL': 100.0}
+wallarm/oob-ebpf,Wallarm out of band for Kubernetes based on eBPF,1,0,Apache License 2.0,Smarty,"{'Smarty': 45.23, 'HCL': 23.84, 'Shell': 21.39, 'Makefile': 9.54}"
+pagopa/cstar-infrastructure,Code infrastructure CSTAR project,5,2,NO LICENSE,Smarty,"{'Smarty': 45.96, 'HCL': 35.54, 'PLpgSQL': 14.41, 'Shell': 2.33, 'HTML': 1.54, 'JavaScript': 0.21}"
+RahulTripathi-07/Terraform,Terraform Learning,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+oddyrepo/SpotiFlyer,,0,0,GNU General Public License v3.0,Kotlin,"{'Kotlin': 95.3, 'CSS': 2.24, 'Java': 1.62, 'HCL': 0.39, 'HTML': 0.25, 'Shell': 0.12, 'Ruby': 0.1}"
+asean-rssa/tf_azure_deployment,Azure Deployments using Terraform,28,16,GNU General Public License v3.0,HCL,"{'HCL': 89.3, 'Shell': 5.43, 'Python': 4.25, 'Scala': 1.02}"
+alikhajeh1/tf-monorepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+lorcahumada/mod7-terraform-ansible,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+miguel-vega/local-pw,Local Public Witnessing,0,0,MIT License,C#,"{'C#': 96.4, 'HTML': 2.94, 'HCL': 0.66}"
+aztfmod/terraform-azurerm-caf,Terraform supermodule for the CAF Terraform landing zones part of Microsoft Cloud Adoption Framework for Azure,354,478,MIT License,HCL,"{'HCL': 96.98, 'Shell': 1.52, 'Smarty': 1.43, 'TSQL': 0.07}"
+Trustedsavvy/BRyamlrepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+cdelashmutt-pivotal/terraform-accelerator,,0,0,Mozilla Public License 2.0,HCL,{'HCL': 100.0}
+Nootandevops/yamlhw,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jshively37/terraform-vault-dynamic-azure-demo,Terraform code that uses Vault's Azure dynamic secrets to build something simple in Azure.,0,0,MIT License,HCL,{'HCL': 100.0}
+ycetindil/Terraform-Azure-VM-WordPress-Installed,,0,0,NO LICENSE,HCL,"{'HCL': 95.07, 'Shell': 4.93}"
+pagopa/terraform-azurerm-v3,Terraform modules for Azure cloud,2,0,NO LICENSE,HCL,"{'HCL': 98.18, 'Shell': 1.82}"
+ahaider-intune-git/5-SH-JH-Log-Analytics-Azure-Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pagopa/selfcare-infra,SelfCare project infrastructure,0,4,NO LICENSE,HTML,"{'HTML': 88.08, 'Smarty': 6.58, 'HCL': 4.87, 'Shell': 0.32, 'CSS': 0.12, 'Python': 0.04}"
+shalini423/github_test,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nondefyde/DevOps,,1,0,NO LICENSE,HCL,"{'HCL': 80.9, 'Shell': 17.82, 'JavaScript': 0.88, 'Dockerfile': 0.4}"
+jmvigueras/modules,,1,0,NO LICENSE,HCL,"{'HCL': 99.19, 'Shell': 0.44, 'Smarty': 0.37}"
+deorukhakarpritee/Terraform-code,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tkubica12/ai-demos,,0,0,NO LICENSE,Jupyter Notebook,"{'Jupyter Notebook': 85.16, 'Python': 9.68, 'HCL': 4.89, 'Dockerfile': 0.27}"
+ricardo2009/aksgitaction,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+oaviles/hello_iac,"Reference Implementation about IaC to deploy Azure Services, based on DevSecOps Practices",2,0,NO LICENSE,HCL,"{'HCL': 76.3, 'Shell': 12.01, 'Bicep': 11.69}"
+EnergiMidt/terraform-azurerm-linuxwebapp,Manages a Linux Web App.,1,0,Mozilla Public License 2.0,HCL,"{'HCL': 93.82, 'Shell': 6.18}"
+fjroldan/bavv-gi-cloud-terraform-azure-vm,,0,1,MIT License,HCL,"{'HCL': 85.61, 'Shell': 14.39}"
+timblewitt/Zscaler1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dhirajmankar90/Terraform_Assignment_Azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+adityamillind98/checkov,,0,0,Apache License 2.0,Python,"{'Python': 77.01, 'HCL': 22.19, 'Bicep': 0.45, 'Shell': 0.17, 'Dockerfile': 0.09, 'Jinja': 0.05, 'Smarty': 0.02, 'Batchfile': 0.01, 'JavaScript': 0.0, 'TypeScript': 0.0}"
+ParisaMousavi/enterprise-acr,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+princehen/repo1,My terraform code,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hashicorp-demo-lab/demo-bootstrap,,2,0,NO LICENSE,Python,"{'Python': 37.12, 'HCL': 31.78, 'HTML': 22.74, 'Shell': 5.75, 'CSS': 2.46, 'Dockerfile': 0.15}"
+ViswanathAla/tf-modules-Azurepoc,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pdevops29/yamlrepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+noeljohnk007/kubernetes,,0,0,NO LICENSE,Shell,"{'Shell': 88.64, 'HCL': 10.94, 'Batchfile': 0.42}"
+casdeone/terraform-azure-sandbox,terraform azure sandbox,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dani-at-ibm/terraform-azure-devops,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jksprattler/azure-security,"Azure AD, RBAC, Policy, Secure vWAN, hybrid AD design proof of concepts/labs/demos using Terraform, Python",0,1,NO LICENSE,HCL,"{'HCL': 87.0, 'Python': 13.0}"
+giri347/single_code_two_azurewebapps,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Akp212/KPMG-Challanges,,0,0,NO LICENSE,HCL,"{'HCL': 96.52, 'Shell': 3.48}"
+yogikondeboina/lkg,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+casdeone/terraform-azure-dev-budgets,terraform-azure-dev-budgets,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+40net-cloud/fortinet-azure-solutions,A set of Azure Templates for getting you started in Azure with Fortinet solutions. This repository is a place for beta releases and work on the latest templates to be published on github.com/fortinet or custom templates.,40,55,MIT License,HCL,"{'HCL': 51.82, 'Shell': 26.07, 'PowerShell': 13.79, 'Smarty': 7.07, 'Python': 1.24}"
+Arsenikki/kuberseni-gitops,🚀 GitOps supercharged Kubernetes-based homelab ⛵,0,0,MIT License,HCL,"{'HCL': 77.48, 'Jinja': 22.52}"
+casdeone/terraform-azure-compute,terraform azure compute ,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tahrats/Script_Hub_And_Spoke_Azure_Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dpdeepankar/terraform,practice set for terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ManpreetKaur1526/terraformdisk23,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tonyskidmore/ado-vmss-simple-demo,ado-vmss-simple-demo,0,0,MIT License,HCL,{'HCL': 100.0}
+michaelstephensonuk/CodeSnippets,A random repo of code snippets,0,0,MIT License,HCL,"{'HCL': 63.44, 'PowerShell': 21.44, 'C#': 15.12}"
+ahaider-intune-git/7-SH-JH-terraform-azurerm-windows-vm-maanged-disk-2csvs-main,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+adilreza/terraform_learning,,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+lakshmi94u/MeenigeSuresh,,0,0,NO LICENSE,HCL,"{'HCL': 82.15, 'JavaScript': 17.85}"
+massdriver-cloud/azure-storage-account-application-assets,,0,0,NO LICENSE,HCL,"{'HCL': 78.02, 'Ruby': 17.82, 'Makefile': 4.16}"
+Ravi01459/Terraform_Assignment,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tonyskidmore/terraform-shell-azure-devops-elasticpool,Terraform Azure DevOps Scale Set Agent module,0,0,MIT License,Shell,"{'Shell': 76.75, 'HCL': 22.27, 'Dockerfile': 0.83, 'Makefile': 0.15}"
+Subash-Bhattachan/test1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+amillalen/ejercicio_kubernetes,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ManpreetKaur1526/terraform2923,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+TGDavid/Action-test,,0,0,NO LICENSE,,{}
+sheeriot/iotdash,Infrastructure for applications,0,0,NO LICENSE,HCL,"{'HCL': 86.34, 'Shell': 13.66}"
+aklex/init_db_tf,Init Azure MS SQL via TF,1,0,NO LICENSE,HCL,"{'HCL': 87.27, 'TSQL': 12.73}"
+ankittkamal/Azure-DevOps-Kubernetes-Terraform-pipeline,,0,0,NO LICENSE,Java,"{'Java': 52.09, 'HCL': 45.64, 'Dockerfile': 2.27}"
+simotark/tf-demo,terraform demo,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kawycki/aks-hub-spoke,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+alpeles/IaCDemo,,0,0,NO LICENSE,HTML,"{'HTML': 54.64, 'HCL': 45.36}"
+BMeyn/tf_module_generic_resource_group,,0,0,NO LICENSE,Shell,"{'Shell': 90.4, 'Go': 4.01, 'Dockerfile': 3.45, 'HCL': 1.74, 'Makefile': 0.39}"
+frasermolyneux/portal-repository-func,Part of XtremeIdiots Portal solution; repository maintenance and statistics building. Deployed using Terraform and GitHub Actions.,0,0,GNU General Public License v3.0,C#,"{'C#': 58.22, 'HCL': 41.78}"
+hz9-developer/terraform,Ejercicio Terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yogikondeboina/github-terraform-azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+slipstreamamx/DevOps-Course-Starter2021,,0,0,NO LICENSE,Python,"{'Python': 63.4, 'HTML': 16.98, 'HCL': 14.72, 'Dockerfile': 3.06, 'Jinja': 0.99, 'Shell': 0.84}"
+ravi-git-22/28-jan-iac-azure-resources,to learn deploying resources to Azure using Github actrions,0,0,NO LICENSE,JavaScript,"{'JavaScript': 24.78, 'HTML': 22.3, 'C#': 16.94, 'HCL': 13.67, 'CSS': 12.05, 'Bicep': 10.26}"
+fvilarinho/akamai-multicloud-demo,This is a demo project to demonstrate how easy is to deploy an K8S application in a multi-cloud (including Akamai Cloud Computing) strategy using Terraform.,1,0,Apache License 2.0,HCL,"{'HCL': 90.3, 'Shell': 9.7}"
+sandhyaaw12/terraform,Practice,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+arindam0310018/28-Jan-2023-DevOps__Terraform-Count-and-If-Else,COUNT AND IF ELSE WITH TERRAFORM & DEVOPS,0,1,MIT License,HCL,{'HCL': 100.0}
+supertrampr/terraform_azure_mysqldb_flexible_example_test,Simple module to test Azure Database for MySQL - Flexible Server,0,0,NO LICENSE,Go,{'Go': 100.0}
+dsprabhu/hashicorp-certified-terraform-associate-on-azure-main,,0,0,NO LICENSE,HCL,"{'HCL': 94.78, 'Shell': 4.03, 'HTML': 1.18}"
+yogikondeboina/srikanth-azt,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ThalesGroup/learn-ciphertrust,,1,0,MIT License,JavaScript,"{'JavaScript': 71.33, 'HCL': 23.55, 'TypeScript': 2.54, 'Shell': 1.48, 'Dockerfile': 0.89, 'CSS': 0.21}"
+KISLAYA-SRI/Capstone-Project-Demo_Team-A,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dobenna/lab_terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+komalsinha0207/NotificationHub,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ContainerSolutions/bluebank-onboarding,Repo with code for Day in the life exercises (to better onboard engineers in a blue bank),0,0,NO LICENSE,HCL,"{'HCL': 68.15, 'Go': 31.85}"
+simplon-paul-lion/brief7,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mich-deg/terraform-advanced,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+SuwaniDemoOrg/my-devsecops,,0,0,MIT License,TSQL,"{'TSQL': 65.11, 'C#': 23.67, 'Go': 2.37, 'Bicep': 1.93, 'HCL': 1.93, 'Java': 1.68, 'Shell': 1.2, 'HTML': 0.8, 'JavaScript': 0.63, 'PowerShell': 0.42, 'Dockerfile': 0.21, 'CSS': 0.05}"
+mccrackenyyc/global-web-app,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+lakshmikarc/terraform-1,,0,0,NO LICENSE,HCL,"{'HCL': 93.72, 'HTML': 5.03, 'Ruby': 1.13, 'Shell': 0.07, 'SCSS': 0.04}"
+seanke/ViteAspNetExample,,0,0,NO LICENSE,C#,"{'C#': 54.51, 'PowerShell': 25.38, 'HCL': 7.7, 'CSS': 4.97, 'TypeScript': 3.78, 'HTML': 3.67}"
+NHSDigital/summary-care-record-api,,5,3,Other,Java,"{'Java': 52.88, 'HTML': 25.97, 'Python': 15.52, 'Mustache': 4.59, 'Shell': 0.36, 'JavaScript': 0.28, 'Makefile': 0.17, 'HCL': 0.14, 'Dockerfile': 0.11}"
+sirisha423/terraform,,0,0,NO LICENSE,HCL,"{'HCL': 99.63, 'PowerShell': 0.37}"
+Azure/Mission-Critical-Online,This repository is part of the Azure Mission-Critical open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure for mission-critical workloads. This repository contains the online reference implementation a fully functional production-grade reference Implementation.,186,49,MIT License,C#,"{'C#': 32.61, 'HCL': 32.5, 'Smarty': 14.64, 'PowerShell': 12.23, 'JavaScript': 3.55, 'Vue': 1.81, 'Dockerfile': 1.09, 'CSS': 0.72, 'Python': 0.57, 'HTML': 0.14, 'Shell': 0.13}"
+zioproto/istio-aks-example,Example of running Istio on AKS,3,1,MIT License,HCL,"{'HCL': 98.68, 'Shell': 1.32}"
+thomaswatsonv1/azure104-network-practice,A repo for getting practice with Azure networking in preparation for the AZ104 exam,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+HCDemos/hashicafe-Azure-HCP-PackerVault,"deploy hashicafe app to Azure using Terraform Cloud, HCP Packer, and HCP Vault",0,0,Apache License 2.0,HCL,"{'HCL': 80.19, 'HTML': 19.81}"
+randeer/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Pulavarthykarthik-nagarro/terraform_code,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ivansurif/terraform_sandbox,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ratnadeb/terraform-virtual_machin_creation,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+andriylew/DevOps,,0,0,NO LICENSE,C#,"{'C#': 54.07, 'Shell': 45.37, 'HCL': 0.56}"
+AndriiKotselovskyi/m06_sparkbasics_python_azure-master,,0,0,NO LICENSE,Python,"{'Python': 99.78, 'Shell': 0.08, 'Dockerfile': 0.05, 'HCL': 0.04, 'PowerShell': 0.02, 'Nu': 0.02, 'Batchfile': 0.02}"
+chris99plus/cad-budget-tracker,Project for the Cloud Application Development course,0,0,NO LICENSE,JavaScript,"{'JavaScript': 72.83, 'TypeScript': 14.68, 'Smarty': 5.04, 'CSS': 1.96, 'SCSS': 1.81, 'HCL': 1.62, 'Dockerfile': 1.34, 'HTML': 0.73}"
+alykes/jf-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Ravi01459/Repo3,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yunikon-nl/terraform-azurerm-aks,Terraform module.,0,0,MIT License,HCL,"{'HCL': 96.34, 'Go': 3.66}"
+baserrato/k8s-thehardway,Liatrio Bootcamp Kubernetes the Hardway,0,0,NO LICENSE,HCL,"{'HCL': 94.17, 'Makefile': 5.83}"
+implodingduck/terraform-samples,,0,0,MIT License,HCL,"{'HCL': 96.37, 'Python': 3.63}"
+wenzel-felix/terraform-azurerm-file-based-role-assignments,This terraform module allows the user to create Azure role assignments based on json files. By providing this setup the terraform code itself is highly minimized while also allowing better overview through a fully customizable file structure.,0,0,MIT License,HCL,{'HCL': 100.0}
+emmelop/terraform101,,0,0,NO LICENSE,HCL,"{'HCL': 96.36, 'Shell': 3.64}"
+Chris-Harvey0/CSC8110-Cloud-Computing,,0,0,NO LICENSE,Java,"{'Java': 91.32, 'HCL': 4.19, 'Shell': 2.64, 'Dockerfile': 1.22, 'Python': 0.62}"
+magrathj/Synapse-Warehouse,Example of Synapse data warehouse which pulls data from Azure SQL DB,0,0,NO LICENSE,HCL,"{'HCL': 64.92, 'Python': 35.08}"
+hyunsukgo/terraform-az,Azure Cloud 배포 초기 설정,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+prash280887/TerraformDeployDemo,,0,0,MIT License,HCL,"{'HCL': 63.99, 'Python': 32.08, 'Shell': 3.92}"
+nurguloz/terraformprojectjan30,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+HadeyAhsan/Azure-Terraform-VM,,0,0,NO LICENSE,HCL,"{'HCL': 86.8, 'Shell': 10.46, 'Smarty': 2.74}"
+chaitanya2616/https-github.com-devops-master-class,,0,0,NO LICENSE,Java,"{'Java': 61.67, 'HCL': 32.77, 'Dockerfile': 3.15, 'Gherkin': 1.27, 'JavaScript': 0.7, 'Python': 0.45}"
+massdriver-cloud/application-templates,Example application bundles to run on Massdriver,0,0,MIT License,HCL,"{'HCL': 87.34, 'Smarty': 12.66}"
+rs-pk/ansiblesonar,,0,0,NO LICENSE,Jinja,"{'Jinja': 42.49, 'Python': 30.18, 'HCL': 24.03, 'Shell': 3.29}"
+rajan-bhaniwal/rajan.bhaniwal,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+T-Runner/T-Runner,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 57.03, 'C#': 39.02, 'CSS': 1.45, 'HCL': 0.99, 'HTML': 0.82, 'Dockerfile': 0.66, 'TSQL': 0.02, 'Shell': 0.02}"
+BabalolaBrainiac/Deployment-Docker-Kubernetes,,0,0,NO LICENSE,Java,"{'Java': 68.4, 'HCL': 25.21, 'Dockerfile': 5.21, 'JavaScript': 0.72, 'Python': 0.46}"
+Menaga12/TF,,0,0,MIT License,HCL,"{'HCL': 85.67, 'JavaScript': 10.38, 'Shell': 2.96, 'Lua': 0.8, 'TypeScript': 0.13, 'Dockerfile': 0.07}"
+nataliaduraess/Terraform,,1,0,NO LICENSE,HCL,"{'HCL': 85.03, 'Python': 14.97}"
+QA-Git-acc-01/TF-Repo,,0,0,MIT License,HCL,"{'HCL': 85.67, 'JavaScript': 10.38, 'Shell': 2.96, 'Lua': 0.8, 'TypeScript': 0.13, 'Dockerfile': 0.07}"
+rakesh-vishwabrahmana/Test,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azferry/azure-terraform,Getting started using Terraform in Azure with example templates,1,0,MIT License,HCL,{'HCL': 100.0}
+sisada123/myproject,,0,0,MIT License,Python,"{'Python': 71.43, 'Jupyter Notebook': 20.96, 'HCL': 5.35, 'Bicep': 1.39, 'Dockerfile': 0.87}"
+VijayJaligama/MyWebApp,,0,0,NO LICENSE,HTML,"{'HTML': 88.47, 'HCL': 6.74, 'C#': 2.73, 'CSS': 1.54, 'Dockerfile': 0.32, 'Shell': 0.11, 'JavaScript': 0.08}"
+hari11uj1/terraform_snowflake_int,terraform snow flake integration,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+biskilled/terraform_azure,,0,0,NO LICENSE,Python,"{'Python': 69.23, 'HCL': 30.77}"
+ranjanm1/teraform-aks-k8s,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+arjunachari12/azure-tf,,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+DFE-Digital/apply-for-teacher-training,A service for applying to teacher training courses,28,6,MIT License,Ruby,"{'Ruby': 86.17, 'HTML': 11.35, 'JavaScript': 0.84, 'HCL': 0.67, 'SCSS': 0.61, 'Makefile': 0.23, 'Dockerfile': 0.06, 'Shell': 0.06, 'Procfile': 0.0}"
+JahvoTrust/MLOpsPython,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+FlyingDutchmannn/CICDprojektTerraform,projekt für Techstarter Terraform ,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+erikadealmeidaramos/terraform-azure-vm,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+akmara1/my-repo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nkilli2022/assig,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Contrast-Security-OSS/demo-webgoat.net,,2,5,NO LICENSE,C#,"{'C#': 56.04, 'ASP.NET': 25.72, 'CSS': 10.6, 'JavaScript': 5.32, 'TypeScript': 1.29, 'HCL': 0.99, 'Python': 0.02, 'Shell': 0.01}"
+atingupta2005/Bosch-Azure-Devops-Feb-23,,0,0,NO LICENSE,HCL,"{'HCL': 63.37, 'Shell': 28.18, 'Jinja': 4.65, 'HTML': 1.42, 'Dockerfile': 1.34, 'Batchfile': 1.04}"
+douglas-arc/sandbox-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+visma-raet/terraform-azurerm-kubernetes,Terraform Module for deploying a Azure Kubernetes (AKS) cluster,0,0,MIT License,HCL,"{'HCL': 81.8, 'Shell': 14.43, 'Python': 3.77}"
+froggogood/Terrafrom-basic_IaC,A basic Terraform provisioning script for me to learn.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+briandenicola/codespaces-developer-demo,A demonstration on how to use GitHub CodeSpaces customized with DevContainers for modern application development. ,2,0,MIT License,HCL,"{'HCL': 69.56, 'Shell': 16.15, 'Go': 8.76, 'TypeScript': 4.2, 'Dockerfile': 1.32}"
+pagopa/pagopa-azure-devops,,3,0,NO LICENSE,HCL,"{'HCL': 99.54, 'Shell': 0.46}"
+dfds/infrastructure-modules,Terraform modules for infrastructure,21,14,MIT License,HCL,"{'HCL': 94.1, 'Go': 3.21, 'Shell': 2.19, 'PowerShell': 0.45, 'Makefile': 0.04}"
+RICHNVRDIE/new-repo,,0,0,NO LICENSE,HCL,"{'HCL': 63.2, 'Java': 36.8}"
+hmcts/pip-data-management,Data Management Microservice for Publishing and Information Project,2,1,MIT License,Java,"{'Java': 98.16, 'HCL': 1.03, 'Shell': 0.42, 'Groovy': 0.37, 'Dockerfile': 0.02}"
+jakewalsh90/Terraform-Azure,"Contains Terraform code for Azure deployment - snippets, useful bits, samples, labs and more. All deployable in small instances with ready to go code. Includes GitHub Actions for deployment!",56,93,The Unlicense,HCL,"{'HCL': 93.34, 'PowerShell': 6.43, 'Shell': 0.23}"
+chrburmeister/terraform-dynamic,Example code for Terraform dynamic-block statement,0,0,MIT License,HCL,{'HCL': 100.0}
+novakgz/atividade01,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+HarishRajTechStack/rsa-test-iac,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+MohamedHosny101/demo-nov,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+husseinahmed-dev/LS-Lab2,Infrastructure-as-Code with Ansible and Terraform,1,0,MIT License,C#,"{'C#': 69.6, 'HTML': 20.73, 'HCL': 4.7, 'Dockerfile': 3.2, 'CSS': 1.16, 'Shell': 0.51, 'JavaScript': 0.1}"
+PerninManon/TerraformWorkshops,,0,2,NO LICENSE,HCL,{'HCL': 100.0}
+mattdonnelly10/mattsiac,My IAC,0,0,NO LICENSE,HCL,"{'HCL': 65.33, 'PowerShell': 34.67}"
+anoopraj467/Capston-Infra,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+PrajawalSharma/aks_acr,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hashicorp/terraform-azurerm-terraform-enterprise,A Terraform module for deploying Terraform Enterprise on Azure.,54,56,Mozilla Public License 2.0,HCL,"{'HCL': 90.2, 'Shell': 9.8}"
+O2-Bionics/O2NextGen,Cross-platform .NET microservices and container based application that runs on Linux Windows and macOS. ,0,0,MIT License,CSS,"{'CSS': 79.89, 'C#': 12.91, 'HCL': 1.78, 'HTML': 1.61, 'JavaScript': 1.58, 'Shell': 0.86, 'Smarty': 0.77, 'Dockerfile': 0.33, 'TypeScript': 0.1, 'Mustache': 0.08, 'PowerShell': 0.04, 'TSQL': 0.03, 'SCSS': 0.03}"
+KateCourt/strapi-oracle-test,,0,0,NO LICENSE,HCL,"{'HCL': 50.9, 'JavaScript': 26.98, 'Shell': 14.32, 'Dockerfile': 7.8}"
+rafikzoubli/Azure-Terraform,,0,0,NO LICENSE,HCL,"{'HCL': 86.66, 'Shell': 10.23, 'Smarty': 3.11}"
+arand18/TerraForm,Learning terraform ,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Contrast-Security-OSS/demo-petclinic,,1,6,NO LICENSE,TypeScript,"{'TypeScript': 49.85, 'HCL': 41.97, 'Dockerfile': 4.07, 'Shell': 2.28, 'Python': 1.84}"
+azurenoops/terraform-azurerm-overlays-virtualwan,Terraform module composition to create Virtual Wan Network based on the Microsoft Azure VWan Architecture using with the Azure NoOps Accelerator.,0,0,MIT License,HCL,{'HCL': 100.0}
+electrotechnik/mlops_demo_repo_04_02,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+dharrilal/ModifiedALZ,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+chkp-idoh/demo-app,,0,0,NO LICENSE,HCL,"{'HCL': 94.95, 'Shell': 2.28, 'Python': 1.67, 'JavaScript': 0.62, 'PowerShell': 0.4, 'Dockerfile': 0.06, 'PHP': 0.02}"
+jaredthivener/Azure-Terraform,Azure Terraform Projects,0,0,NO LICENSE,HCL,"{'HCL': 88.33, 'Shell': 7.41, 'Smarty': 4.27}"
+markti/azure-vpn-udmp,Connect a UniFi Dream Machine Pro to an Azure Virtual Network using S2S Connectivity,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+tina-hoeflich/DevOps-Projekt-Semester-5-,,0,0,Apache License 2.0,HTML,"{'HTML': 45.37, 'Python': 35.81, 'HCL': 18.83}"
+Azure/terraform-azurerm-caf-enterprise-scale,Azure landing zones Terraform module,413,297,MIT License,HCL,"{'HCL': 83.12, 'Open Policy Agent': 8.01, 'Shell': 3.84, 'PowerShell': 3.41, 'Go': 1.32, 'Makefile': 0.31}"
+VinayTalla20/Terraform-projects,,0,0,NO LICENSE,HCL,"{'HCL': 91.66, 'Shell': 6.9, 'Smarty': 1.44}"
+knoldus/terratesting_azure_aks,In this techhub we can test our terraform aks cluster using terratest,0,0,NO LICENSE,Go,"{'Go': 71.03, 'HCL': 28.97}"
+karim-belhadjali/karim-belhadjali-costum-terraform-module,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+moarychan/sca-property-source,,0,0,NO LICENSE,HCL,"{'HCL': 74.1, 'Java': 19.2, 'PowerShell': 3.35, 'Shell': 3.35}"
+ricardoccosta-devops/iac_terraform,Arquivo de Terraform para Deploy de INFRAESTRUTURA as CODE (IaC),0,0,NO LICENSE,HCL,{'HCL': 100.0}
+khaledakk/terraform-azure-module,khaled-costum-terraform-module,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+devraaka/test,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+LakshmiKondeti/terraform-azurerm-staticwebsitepublic,Terraform Modules to be shared in Terraform Public Registry,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+Tietokilta/infra,Terraform IaC for all TiK services,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+clouddrove/terraform-azure-load-balancer,,0,1,Apache License 2.0,HCL,"{'HCL': 93.57, 'Go': 5.99, 'Makefile': 0.45}"
+hashicorp-demo-lab/azure-migration,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+chboudry/aml-secure-terraform,,0,0,The Unlicense,HCL,"{'HCL': 81.79, 'Jupyter Notebook': 16.83, 'Python': 1.38}"
+jasonmauss/TerraformAzure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bhuwanonline/Ensuring-Quality-Releases,,0,0,Other,JavaScript,"{'JavaScript': 36.79, 'HTML': 34.28, 'HCL': 16.9, 'CSS': 5.25, 'Python': 4.98, 'Shell': 1.6, 'ASP.NET': 0.21}"
+jyotsnadandela/terraform-azure-mystorage,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sghodela1/application-gateway,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+cloudstateu/internal-k8s-workshops,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 41.77, 'HCL': 30.77, 'Dockerfile': 11.58, 'CSS': 7.45, 'Pug': 4.51, 'HTML': 2.93, 'PHP': 0.99}"
+MoeinT/Terraforming-Azure,,0,0,MIT License,Python,"{'Python': 52.51, 'HCL': 47.49}"
+claranet/terraform-azurerm-alerting,Terraform module for Azure Alerting,0,10,Apache License 2.0,HCL,{'HCL': 100.0}
+nareshr183/github-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+skenderidis/stress-test,,0,0,NO LICENSE,HCL,"{'HCL': 67.09, 'Shell': 28.26, 'Jinja': 4.65}"
+ivee-tech/az-infra,,0,0,MIT License,PowerShell,"{'PowerShell': 69.65, 'Bicep': 6.79, 'HCL': 5.8, 'Shell': 5.01, 'Dockerfile': 4.22, 'Makefile': 2.95, 'Python': 1.97, 'C#': 1.75, 'HTML': 1.52, 'CSS': 0.28, 'JavaScript': 0.05, 'PHP': 0.02}"
+mwiget/f5xc-vela,,0,0,NO LICENSE,HCL,"{'HCL': 90.0, 'Shell': 10.0}"
+CPS-Innovation/Polaris,,1,0,MIT License,C#,"{'C#': 51.13, 'TypeScript': 26.53, 'HCL': 10.79, 'Smarty': 5.42, 'JavaScript': 4.94, 'SCSS': 0.8, 'CSS': 0.19, 'Shell': 0.11, 'HTML': 0.09}"
+arjunachari12/azure--web-app-linux,,0,3,NO LICENSE,HCL,{'HCL': 100.0}
+gmanniv0073/webappstarter,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Pedroasmaia/PlanModuleTerraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ssc-sp/datahub-resource-modules,,0,0,NO LICENSE,HCL,"{'HCL': 80.08, 'PowerShell': 19.92}"
+hmcts/cvp-audio-ingress,,0,4,MIT License,Smarty,"{'Smarty': 57.33, 'HCL': 39.32, 'PowerShell': 3.35}"
+ManpreetKaur1526/practicereleaserepo3,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dharrilal/01-Custom-Enterprise-Scale,Custom Enterprise-Scale,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Mahesh6111/wbtestrepo2,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+azurenoops/terraform-azurerm-overlays-resource-group,Terraform module for Azure Resource Group to be used with the Azure NoOps Accelerator,0,0,MIT License,HCL,{'HCL': 100.0}
+xNazim/terraform-cloud,infrastructure in tf cloud,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+qman-being/terraform-azure,Collection of Terraform modules for Azure,0,0,MIT License,HCL,{'HCL': 100.0}
+iurietopor/azure-with-terraform,Some begging hand-on experience,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rogerio-tecinfo/vms,,0,0,NO LICENSE,HCL,"{'HCL': 99.26, 'PowerShell': 0.74}"
+dritongorani/simplon,,0,0,NO LICENSE,Shell,"{'Shell': 64.83, 'HCL': 30.86, 'HTML': 3.49, 'PowerShell': 0.82}"
+antrusd/ansible-wildfly-windows,Ansible Playbooks to deploy WildFly to Windows,0,3,NO LICENSE,HCL,{'HCL': 100.0}
+Contrast-Security-OSS/demo-railsgoat,,0,0,MIT License,HTML,"{'HTML': 51.95, 'JavaScript': 22.75, 'Ruby': 13.92, 'SCSS': 6.88, 'CSS': 3.54, 'HCL': 0.53, 'Dockerfile': 0.29, 'Shell': 0.08, 'CoffeeScript': 0.04, 'Python': 0.02, 'Procfile': 0.01}"
+jWatsonDev/2022-savage-intellectual,,0,0,NO LICENSE,TypeScript,"{'TypeScript': 62.38, 'SCSS': 14.67, 'HTML': 10.83, 'HCL': 6.98, 'JavaScript': 5.14}"
+policyoftruth/terragrunt-azure,,0,0,MIT License,HCL,"{'HCL': 96.3, 'Shell': 3.7}"
+Swathi-Vijai/poc-fail-test,,0,0,NO LICENSE,Go,"{'Go': 63.5, 'HCL': 36.5}"
+zpirzada/terraform_az_resgroup,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pekalam/auctionhouse,"Web auction platform implemented with CQRS and event sourcing patterns Built with ASP.NET Core, Angular 8, SQL Server, MongoDB. Containerized and tested.",7,4,NO LICENSE,C#,"{'C#': 64.53, 'TypeScript': 10.63, 'CSS': 6.89, 'TSQL': 5.0, 'HTML': 3.39, 'JavaScript': 2.43, 'SCSS': 2.41, 'Shell': 1.79, 'Dockerfile': 1.22, 'HCL': 0.73, 'PowerShell': 0.61, 'Handlebars': 0.37}"
+Denolle-Lab/azure,trying out azure for winter incubator 2022 ,0,2,MIT License,HCL,"{'HCL': 96.0, 'Shell': 4.0}"
+FelixAnna/keep-hands-on,,2,0,NO LICENSE,C#,"{'C#': 30.23, 'JavaScript': 17.72, 'CSS': 17.17, 'HTML': 8.53, 'Go': 7.97, 'Dart': 6.74, 'HCL': 2.82, 'Java': 2.35, 'C++': 1.98, 'Shell': 1.62, 'CMake': 1.33, 'Dockerfile': 0.95, 'Ruby': 0.21, 'TSQL': 0.14, 'Swift': 0.12, 'C': 0.11, 'Kotlin': 0.01, 'Objective-C': 0.0}"
+rhamza97/terraform-nouhaila-roua-custom-module,Custom Terraform Module TP4,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ibersanoMS/terraform-azure-template,Template repository with Terraform file structure and workflows to validate and deploy infrastructure,0,0,MIT License,HCL,{'HCL': 100.0}
+sddev12/MetarGrab,Grabs airport METARs for use with Flight Simulators,0,0,NO LICENSE,TypeScript,"{'TypeScript': 71.1, 'CSS': 14.02, 'Dockerfile': 8.95, 'HCL': 4.93, 'JavaScript': 1.0}"
+azurenoops/terraform-module-overlays-template,Terraform module template for creating Azure NoOps Accelerator modules,0,0,MIT License,HCL,{'HCL': 100.0}
+Azure/mlops-v2-cv-demo,A prebuilt Computer Vision project using the MLOps V2 Solution Accelerator,0,0,MIT License,Python,"{'Python': 78.52, 'HCL': 19.51, 'Dockerfile': 1.97}"
+dlminvestments/dlm--infrastructure-pipeline,,0,0,NO LICENSE,Go,"{'Go': 82.93, 'HCL': 11.74, 'Shell': 4.35, 'Makefile': 0.99}"
+Baptiste-exakis/b7,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tpeterson66/terraform-azurerm-network,Terraform module repo for azure networking resources,1,3,NO LICENSE,HCL,"{'HCL': 78.91, 'Smarty': 20.9, 'Python': 0.19}"
+Accurate0/infrastructure,terraform,0,0,MIT License,HCL,"{'HCL': 99.76, 'Dockerfile': 0.13, 'HTML': 0.1}"
+Swathi-Vijai/infra-checkov-terratest,,0,0,NO LICENSE,Go,"{'Go': 64.0, 'HCL': 36.0}"
+juanma-dominguez/azure-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+DFE-Digital/terraform-azurerm-container-apps-hosting,Azure Container Apps Hosting terraform module,0,1,MIT License,HCL,"{'HCL': 96.34, 'Shell': 3.48, 'HTML': 0.12, 'Ruby': 0.07}"
+paka86/azure-workshop,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+zpirzada/terraform_azure,,0,0,Other,HCL,{'HCL': 100.0}
+HoneyBunny0/VirtuaAI,Projet PFEE,0,0,NO LICENSE,Jupyter Notebook,"{'Jupyter Notebook': 99.25, 'Python': 0.39, 'HCL': 0.35, 'Shell': 0.02}"
+shrikantdhomane/azure-devops-kubernetes-terraform,,0,0,NO LICENSE,Java,"{'Java': 52.1, 'HCL': 45.63, 'Dockerfile': 2.27}"
+spa-tech/azure-sql,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+SAJJAN4755/sanjay123,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+varshad357/Terraform-module-020223,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+abhish9-sys/azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+darkskull58/terraform-codes,,0,0,NO LICENSE,HCL,"{'HCL': 97.62, 'Shell': 2.03, 'HTML': 0.35}"
+chianw/singtelcaf,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+njokdan/terrapipeline,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ICCS-ISAC/Candy,Candy : Pan Canadian Indy Blockchain Initiative,7,6,Apache License 2.0,HCL,"{'HCL': 96.26, 'Jinja': 1.8, 'Dockerfile': 1.67, 'Smarty': 0.27}"
+liamfoneill/Infra-As-Code-Demo,Used as a quick demo for infrastructure as code,0,0,MIT License,C#,"{'C#': 47.86, 'Bicep': 24.52, 'HCL': 20.67, 'HTML': 6.94}"
+zpirzada/Terraform_Demo,,0,0,NO LICENSE,HCL,"{'HCL': 98.15, 'PowerShell': 1.85}"
+Sasi2014/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+frasermolyneux/poc-kginjqpwprpqr5c,This repository contains a proof of concept for deploying a function app using vnet integration and private endpoints.,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+JeffGiroux/f5xc-mcn,"F5 Distributed Cloud (XC) code samples, architecture use cases, and lab walkthroughs.",1,2,Apache License 2.0,HCL,"{'HCL': 95.41, 'Shell': 4.59}"
+viswavik3/tf,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Xeus-Territory/funBashPS,Powershell & Bash Script for Solving Problem ,0,0,NO LICENSE,HCL,"{'HCL': 43.03, 'Shell': 33.28, 'PowerShell': 17.37, 'Dockerfile': 4.67, 'JavaScript': 1.65}"
+isidoracupara/Earthquake-detection-deployment-Terraform,,0,0,MIT License,Python,"{'Python': 87.05, 'HCL': 9.32, 'Dockerfile': 2.94, 'Shell': 0.69}"
+jakewalsh90/Terraform-Modules-Azure,Contains Terraform Modules I have created - All deployable in small instances with ready to go code. ,4,2,The Unlicense,HCL,{'HCL': 100.0}
+boltKrank/tap_terraform,Terraform to deploy Tanzu Application Platform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ABK9999/Deep-Authenticator,,0,0,MIT License,Python,"{'Python': 87.55, 'HCL': 11.22, 'Shell': 0.79, 'Dockerfile': 0.44}"
+jcamel1/policy-az-iac,,0,0,NO LICENSE,HCL,"{'HCL': 88.73, 'PowerShell': 11.27}"
+sam3797/azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+abhinav999k/adds_super,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Thilankac/food-delivery-app-cloud,,0,1,NO LICENSE,C#,"{'C#': 86.28, 'HCL': 13.72}"
+harinderjits-git/samplekcc,,1,0,Apache License 2.0,HCL,"{'HCL': 97.49, 'Makefile': 1.7, 'Shell': 0.81}"
+massdriver-cloud/terraform-modules,,0,0,MIT License,HCL,"{'HCL': 92.84, 'Java': 1.71, 'JavaScript': 1.28, 'PHP': 1.22, 'Python': 0.91, 'C#': 0.87, 'Ruby': 0.85, 'Go': 0.33}"
+Botvinnik94/terraform-example,This is a sample Terraform script for setting up resources in Azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+aiubsakib/terraform-github-action,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+equinor/terraform-azurerm-key-vault,Terraform module which creates an Azure Key vault,0,1,NO LICENSE,HCL,"{'HCL': 93.81, 'Go': 6.19}"
+GerromeSieger/Terraform-Azure-Project,Terraform scripts that provision Azure resources,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ahshaaban/CI-CD-with-Quality-realease,,1,0,NO LICENSE,JavaScript,"{'JavaScript': 55.98, 'HTML': 36.24, 'CSS': 3.73, 'Less': 2.11, 'HCL': 1.4, 'Shell': 0.29, 'Python': 0.22, 'ASP.NET': 0.02}"
+Ravindram333/terraform-windows,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+vasimbala/terraform-cloud,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Wojciech-Rozanski-CDT/rozanskilab,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+equinor/radix-terraform-azurerm-aks,module for aks cluster with terraform,2,0,MIT License,HCL,"{'HCL': 68.9, 'Shell': 28.92, 'Go': 2.18}"
+nkilli2022/variablerepo1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+azurenoops/terraform-azurerm-overlays-windows-virtualmachine,Terraform module for Azure Virtual Machines (Windows) for using with the Azure NoOps Accelerator,0,0,MIT License,HCL,{'HCL': 100.0}
+bjornhofer/terraform_management_group,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+billygr/terraform-fortigate-lab,Fortinet Single VM Fortigate Lab,0,0,NO LICENSE,HCL,"{'HCL': 91.74, 'Shell': 8.26}"
+recognizegroup/terraform,Public Terraform module repository.,15,2,GNU General Public License v3.0,HCL,"{'HCL': 99.82, 'Shell': 0.18}"
+AndresRCB/aks-public-cluster,Simple public AKS cluster with automatic authorized IP address configuration for demos.,1,2,MIT License,HCL,"{'HCL': 82.44, 'Go': 10.72, 'Shell': 3.85, 'Makefile': 3.0}"
+Omegapoint/terraform-101,terraform 101,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+learnings-notes/tf-storageaccount,,0,0,NO LICENSE,PowerShell,"{'PowerShell': 61.51, 'HCL': 38.49}"
+keshwarsingh/core-wallet,,0,0,NO LICENSE,C#,"{'C#': 59.33, 'HCL': 40.67}"
+hashicorp/vault-plugin-secrets-azure,Vault Azure Secrets plugin,24,15,Mozilla Public License 2.0,Go,"{'Go': 86.82, 'Shell': 7.45, 'HCL': 4.3, 'Makefile': 1.44}"
+alejo-RB/terraform,Arquitectura cloud con azure,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+ojobabs/12edit,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sampath-aruchamy/clone,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+DFE-Digital/get-an-identity,,2,2,NO LICENSE,C#,"{'C#': 76.95, 'HTML': 10.83, 'Ruby': 8.86, 'HCL': 1.49, 'Makefile': 0.48, 'PowerShell': 0.38, 'SCSS': 0.36, 'JavaScript': 0.33, 'Shell': 0.16, 'CSS': 0.1, 'Dockerfile': 0.07}"
+libralmy/AKS-CSI-AKVwithWorkloadIdentity,,0,0,MIT License,HCL,"{'HCL': 81.98, 'Shell': 13.05, 'Python': 4.96, 'Dockerfile': 0.01}"
+visma-raet/terraform-azurerm-appservice,Terraform Module for deploying an Azure App Service,0,0,MIT License,HCL,"{'HCL': 74.38, 'Shell': 20.3, 'Python': 5.32}"
+MacheteBang/MealBot,A function that stores and reports back the family's meals.,0,0,MIT License,C#,"{'C#': 72.24, 'HCL': 27.76}"
+colbyford/orthanc-on-azure,Deployment logic for running the Orthanc DICOM viewer 🩻 on Azure ☁.,0,1,GNU General Public License v3.0,HCL,"{'HCL': 89.8, 'Dockerfile': 10.2}"
+aiubsakib/test02,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rrodriguez-tpm/hello-aks,Deploying a secured hello-world application onto AKS.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+wenzel-felix/terraform-azurerm-file-based-role-definitions,This terraform module allows the user to create Azure custom roles based on json files compatible with the default Azure json format for roles. By providing this setup the terraform code itself is highly minimized while also allowing better overview through a fully customizable file structure.,0,0,MIT License,HCL,{'HCL': 100.0}
+rhofset/Templates,Templates,0,0,NO LICENSE,HCL,"{'HCL': 99.07, 'Smarty': 0.93}"
+Crhis35/lt-test-gql,Challenge,0,0,NO LICENSE,TypeScript,"{'TypeScript': 91.67, 'HCL': 3.31, 'JavaScript': 1.7, 'Dockerfile': 1.61, 'Makefile': 1.55, 'Shell': 0.17}"
+rizwankhan0121/terraform-repo,terraform-training,0,0,NO LICENSE,HCL,"{'HCL': 71.51, 'Shell': 24.93, 'HTML': 3.32, 'Dockerfile': 0.24}"
+ahossain71/terraform-azure-infra,Contains sample terraform scripts to deploy simple infrastructure resources to MS Azure environment,0,0,MIT License,HCL,"{'HCL': 92.13, 'Groovy': 7.87}"
+overfly42/2022-ND,Udacity Nanodegree DevOps starting 2022,0,0,NO LICENSE,HCL,"{'HCL': 82.96, 'Shell': 17.04}"
+arjunachari12/azure-linux-vm-terraform,,0,3,NO LICENSE,HCL,{'HCL': 100.0}
+PaloAltoNetworks/terraform-azurerm-vmseries-modules,Terraform Reusable Modules for VM-Series on Azure,41,45,MIT License,HCL,"{'HCL': 98.09, 'Shell': 1.91}"
+imsauravroy007/DevOps-Test,This folder contains the solution for 3 exercises ,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+ivokim/terraform-Impacta,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bhanuprakash-Csg/terraform-scripts-,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+keithpatton/aks-workloadidentity-sample,AKS Workload Identity Sample,2,0,MIT License,HCL,"{'HCL': 66.45, 'C#': 29.22, 'Dockerfile': 4.33}"
+Eklezyarez/TerraformAzure-Lab1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kalebdixon13/ITT490CloudMigration,This repository holds the code for the migration project of a small construction company ,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ManpreetKaur1526/pipelinerepo23,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+chamambom/my-azure-mvc-ref-repo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/avdaccelerator,AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices,132,99,MIT License,Bicep,"{'Bicep': 96.28, 'HCL': 2.27, 'PowerShell': 1.45}"
+manikantaswami8234/swami-terrafform-git-azure,terraform code,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ravikanthkadudula/Challenge,,0,0,NO LICENSE,HCL,"{'HCL': 91.52, 'PowerShell': 8.48}"
+lapuken/104,Convert all labs to terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+boxboat/speedboat-terragrunt,,2,0,NO LICENSE,HCL,{'HCL': 100.0}
+AkzholS7/ec2,,0,0,NO LICENSE,HCL,"{'HCL': 96.62, 'Shell': 3.38}"
+rubquinta/Modulo_7,Codigos de ejercicios de Modulo 7: archivos tf de terraform y también ansible,0,0,NO LICENSE,HCL,"{'HCL': 87.28, 'Ruby': 10.44, 'Shell': 2.29}"
+castrolle/microservicios.co-develop,microservicios.co,0,0,NO LICENSE,Java,"{'Java': 40.44, 'TypeScript': 21.31, 'SCSS': 14.61, 'HTML': 8.15, 'Python': 7.78, 'HCL': 4.8, 'JavaScript': 1.83, 'Dockerfile': 1.04, 'Shell': 0.04}"
+geekzter/azure-pipelines-container-agent,Azure Pipeline Agent Container App,2,0,MIT License,HCL,"{'HCL': 67.76, 'PowerShell': 26.82, 'Shell': 2.0, 'Dockerfile': 1.93, 'Smarty': 1.31, 'Ruby': 0.18}"
+crookm/blog,Infrastructure definitions for my blog,0,0,NO LICENSE,HCL,"{'HCL': 62.44, 'HTML': 37.56}"
+LinusWeigand/terraform-aks-cluster,,0,0,NO LICENSE,HCL,"{'HCL': 85.08, 'Shell': 14.92}"
+canada-ca-terraform-modules/terraform-azurerm-flex-mysql,Terraform module to deploy a managed MySQL Flexible Server on Azure,0,1,Other,HCL,{'HCL': 100.0}
+tjsullivan1/kitchen-inventory,Track what's in the kitchen,0,1,MIT License,Python,"{'Python': 51.08, 'HCL': 48.92}"
+GuruduGanesh/AzureDevops-practise,AzureDevops-practise,0,0,NO LICENSE,C#,"{'C#': 38.81, 'CSS': 34.56, 'HTML': 19.44, 'HCL': 2.61, 'JavaScript': 2.06, 'PowerShell': 1.79, 'Dockerfile': 0.74}"
+ivee-tech/az-scripts,,0,0,MIT License,PowerShell,"{'PowerShell': 70.23, 'Bicep': 6.66, 'HCL': 5.69, 'Shell': 4.91, 'Dockerfile': 4.13, 'Makefile': 2.89, 'Python': 1.93, 'C#': 1.72, 'HTML': 1.5, 'CSS': 0.27, 'JavaScript': 0.05, 'PHP': 0.01}"
+CesarAugst/Infrastructure_and_cloud_computing,Repositório criado para armazenar as atividades da matéria de Infrastructure and Cloud Computing,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+park-misun/poc-k8s-private,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Loupeznik/terraform-configs,,0,0,MIT License,HCL,"{'HCL': 99.33, 'PowerShell': 0.67}"
+equinor/terraform-azurerm-acr,Terraform module which creates an Azure Container Registry,0,0,NO LICENSE,HCL,"{'HCL': 77.66, 'Go': 22.34}"
+gajjarraja/newkubeaks,,0,0,NO LICENSE,Java,"{'Java': 48.71, 'HCL': 46.33, 'HTML': 2.53, 'Shell': 1.89, 'Dockerfile': 0.54}"
+AkzholS7/friday,,0,0,NO LICENSE,HCL,"{'HCL': 96.96, 'Shell': 3.04}"
+fakesergei/azure-resources,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/azure-data-labs-modules,🌵 A list of Terraform modules to build your Azure Data IaC templates.,22,3,MIT License,HCL,"{'HCL': 87.16, 'Go': 12.84}"
+NaveenGurralu/gitpr2,,0,0,NO LICENSE,HCL,"{'HCL': 88.34, 'HTML': 11.66}"
+doakcovington/DoakOps,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+akuity/terraform-akp-example,Some examples of using akuity/akp terraform provider,0,0,NO LICENSE,HCL,"{'HCL': 96.64, 'Jsonnet': 3.36}"
+msveeb/terraform,,0,0,NO LICENSE,HCL,"{'HCL': 99.95, 'Dockerfile': 0.05}"
+DRepublic-io/Move,,0,0,NO LICENSE,Rust,"{'Rust': 74.38, 'Move': 17.05, 'TypeScript': 3.77, 'Python': 1.72, 'HCL': 1.34, 'Shell': 0.5, 'JavaScript': 0.45, 'CSS': 0.42, 'Mustache': 0.15, 'Dockerfile': 0.08, 'Elixir': 0.07, 'Makefile': 0.02, 'HTML': 0.02, 'Go': 0.01, 'Smarty': 0.01, 'PLpgSQL': 0.01, 'PowerShell': 0.01, 'Boogie': 0.0}"
+equinor/terraform-azurerm-log-analytics,Terraform module which creates an Azure Log Analytics workspace,0,0,NO LICENSE,HCL,"{'HCL': 73.15, 'Go': 26.85}"
+e2eSolutionArchitect/terraform,"Terraform for AWS, Azure, GCP",10,57,NO LICENSE,HCL,"{'HCL': 94.82, 'Shell': 3.65, 'Dockerfile': 0.72, 'JavaScript': 0.41, 'Smarty': 0.4}"
+pagopa/terraform-infrastructure-template,Terraform template repository for infrastructures projects,3,3,NO LICENSE,HCL,"{'HCL': 84.4, 'Shell': 15.6}"
+naren46/kubecicd,,0,0,NO LICENSE,HTML,"{'HTML': 37.74, 'C#': 27.82, 'Shell': 12.74, 'HCL': 8.68, 'Mustache': 4.29, 'CSS': 3.28, 'PowerShell': 2.63, 'Dockerfile': 2.14, 'JavaScript': 0.67}"
+rafamellonh/TerraForm-Documentation,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Fanny-gutting/devopsPerso,,0,0,NO LICENSE,PHP,"{'PHP': 80.29, 'TypeScript': 11.01, 'HCL': 3.98, 'JavaScript': 2.16, 'HTML': 1.08, 'SCSS': 0.58, 'Vue': 0.56, 'Shell': 0.34}"
+Javier-Moreno-Personal/terraform,terraform testing,0,0,NO LICENSE,HCL,"{'HCL': 93.8, 'PowerShell': 6.2}"
+paulveillard/cybersecurity-secrets-management,"An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Secrets Management Process in Cybersecurity.",2,0,MIT License,Shell,"{'Shell': 32.48, 'HCL': 30.93, 'Go': 18.71, 'Lua': 6.41, 'C#': 2.33, 'JavaScript': 2.14, 'Java': 1.41, 'Ruby': 1.28, 'CSS': 1.21, 'Makefile': 1.14, 'HTML': 0.99, 'Dockerfile': 0.52, 'Smarty': 0.4, 'TSQL': 0.04}"
+petitess/terraform-azure,,0,0,NO LICENSE,HCL,"{'HCL': 99.89, 'PowerShell': 0.11}"
+rceraline/terraform-and-bicep,Online course to learn Terraform + Bicep on Azure.,0,0,MIT License,HCL,"{'HCL': 95.64, 'PowerShell': 4.36}"
+yiqu1/terraform-exercise3,,0,0,NO LICENSE,,{}
+rsutrave1/pipelinerepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/pip-shared-infrastructures,Shared Infrastructure for PIP project,0,0,MIT License,CSS,"{'CSS': 87.92, 'HCL': 6.79, 'HTML': 3.57, 'Shell': 0.94, 'Groovy': 0.78}"
+matts-wiz/ci-demo-snitowsky,,0,0,NO LICENSE,HCL,"{'HCL': 86.74, 'PowerShell': 8.07, 'Shell': 3.58, 'Dockerfile': 1.61}"
+MorhafAlshibly/coanda,A multi-purpose backend game API originally based on a racing game,1,0,NO LICENSE,TypeScript,"{'TypeScript': 96.6, 'HCL': 3.4}"
+esgi-lyon/paas-tutorial-live,,0,0,NO LICENSE,HCL,"{'HCL': 60.4, 'Jinja': 28.49, 'Smarty': 11.11}"
+jliac/w-demo,,0,0,NO LICENSE,HCL,"{'HCL': 86.78, 'PowerShell': 8.07, 'Shell': 3.58, 'Dockerfile': 1.57}"
+limdave/github_sync,Azure terraform code not using modules,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+LQss11/devops-tools,,0,0,NO LICENSE,HCL,"{'HCL': 44.07, 'Go': 16.16, 'Shell': 14.49, 'Python': 12.92, 'Dockerfile': 6.84, 'PowerShell': 3.88, 'JavaScript': 1.66}"
+mountainjj/CP-Demo-AZ-TF,,0,0,NO LICENSE,HCL,"{'HCL': 91.95, 'Shell': 8.05}"
+Pemiro/bc-template,,0,0,MIT License,Bicep,"{'Bicep': 29.57, 'Shell': 24.07, 'PowerShell': 24.02, 'JavaScript': 20.84, 'Python': 0.54, 'C#': 0.26, 'CSS': 0.17, 'HCL': 0.15, 'Java': 0.13, 'HTML': 0.1, 'XSLT': 0.09, 'Groovy': 0.03, 'Batchfile': 0.02, 'HiveQL': 0.01, 'Solidity': 0.0, 'Dockerfile': 0.0, 'TSQL': 0.0}"
+hmcts/am-role-assignment-refresh-batch,A batch job to reapply the role assignments.,0,1,MIT License,Java,"{'Java': 86.72, 'Shell': 5.71, 'Groovy': 3.45, 'HCL': 3.4, 'Dockerfile': 0.72}"
+Yvand/terraform-azurerm-sharepoint,Terraform module to deploy SharePoint Subscription / 2019 / 2016 / 2013 on Azure,0,1,Apache License 2.0,HCL,{'HCL': 100.0}
+BrutalHex/IAC_Sample,,0,0,NO LICENSE,HCL,"{'HCL': 47.9, 'Python': 42.81, 'JavaScript': 9.29}"
+pendaflex247/Azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ManpreetKaur1526/rgrepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nbarrasson/aks-thundernetes-example,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/pip-subscription-management,Subscription Management Microservice for Publishing and Information Project,0,0,MIT License,Java,"{'Java': 95.04, 'HCL': 2.4, 'Shell': 1.99, 'Groovy': 0.48, 'Dockerfile': 0.09}"
+jwalters30/tf-azure,,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+anksonu92/terraform-on-azure-with-azure-devops1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+c-go-m/web-shop,,0,0,NO LICENSE,HTML,"{'HTML': 76.97, 'HCL': 14.72, 'TypeScript': 7.05, 'Dockerfile': 0.87, 'SCSS': 0.39}"
+adityapwr/ji-capstone,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+AfsahSiddiqui5/FDM-DevOpsExercise,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+brave/security-action,Composite GitHub CI Action containing the minimal viable security lint for brave repositories,9,1,Mozilla Public License 2.0,Ruby,"{'Ruby': 39.29, 'JavaScript': 13.77, 'Shell': 13.5, 'HTML': 11.32, 'HCL': 10.88, 'jq': 5.94, 'TypeScript': 3.32, 'Svelte': 1.97}"
+PeteCastle/2023-Data-Engineering-Zoomcamp,Data Engineering Zoomcamp 2023 Cohort,1,0,NO LICENSE,Python,"{'Python': 84.76, 'HCL': 12.96, 'Dockerfile': 2.28}"
+lacework/terraform-azure-activity-log,Terraform module for configuring an integration with Azure Subscriptions and Tenants for Activity Log analysis,2,9,NO LICENSE,HCL,"{'HCL': 49.74, 'Shell': 47.97, 'Makefile': 2.28}"
+jddios837/terraform-book-amin-espinoza,Repository to save files relate with practices of Amin Espinoza boor,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hari11uj1/SNOWFLAKE-TERRAFORM-INT,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kedacore/testing-infrastructure,,0,1,Apache License 2.0,HCL,{'HCL': 100.0}
+LucasBotan/AulaInfra_Atividade01,Atividade01 - Infrastructure and Cloud Computing - FS05,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+thorstenunger/IT-P_CoE-Architektur_Azure-TF,Im Rahmen IT-P CoE Architektur wird eine Azure Test / Demo Umgebung zur Verfügung gestellt.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bayudwiyansatria/terraform-modules,Terraform Modules Mono Repository,0,0,MIT License,HCL,{'HCL': 100.0}
+tavoip/terraform-multi,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+SonyMC/Demo,"Services , Notes and Scripts that were used for demo and can be referenced",0,0,NO LICENSE,Java,"{'Java': 71.61, 'HCL': 16.97, 'Dockerfile': 8.44, 'Gherkin': 2.98}"
+leiyu3/terraform-exercise,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Nrsh13/aks_cluster_setup,AKS Cluster Setup Using Terraform,0,0,NO LICENSE,HCL,"{'HCL': 78.1, 'Shell': 21.9}"
+jddios837/Employee.ManagementSystem,Application that allows an organization to manage its employees,0,0,NO LICENSE,C#,"{'C#': 47.5, 'HTML': 34.88, 'CSS': 11.06, 'HCL': 6.57}"
+Rajitha-Alawatta/azure-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Anthony-Nolan/Atlas,A free & open-source Donor Search Algorithm Service,8,4,GNU General Public License v3.0,C#,"{'C#': 95.57, 'HCL': 2.36, 'Gherkin': 1.49, 'JavaScript': 0.38, 'TSQL': 0.11, 'PowerShell': 0.04, 'Shell': 0.03}"
+hashicorp/vault-plugin-auth-azure,Azure Authentication Plugin for Vault,13,18,Mozilla Public License 2.0,Go,"{'Go': 81.18, 'HCL': 12.02, 'Shell': 4.33, 'Python': 1.5, 'Makefile': 0.97}"
+atniptw/reimagined-pancake,,0,0,MIT License,HTML,"{'HTML': 40.03, 'HCL': 26.42, 'C#': 19.8, 'CSS': 11.4, 'JavaScript': 2.34}"
+Rajkumar-21/Terraform-On-Practice,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hyamchi/Terraform-On-Azure-Samples,,0,0,NO LICENSE,HCL,"{'HCL': 96.84, 'Shell': 3.16}"
+oomasharma9/testingrepo,,0,0,NO LICENSE,HCL,"{'HCL': 72.1, 'PowerShell': 14.42, 'Shell': 13.48}"
+omerlab/gitops-foundations2-env-2892009,gitops-foundations2-env-2892009.git,0,0,Other,HCL,"{'HCL': 82.86, 'Shell': 17.14}"
+ycetindil/Terraform-Azure-VM-Docker-Installed,,0,0,NO LICENSE,HCL,"{'HCL': 94.79, 'Shell': 5.21}"
+microsoft/AzureTRE,An accelerator to help organizations build Trusted Research Environments on Azure.,110,91,MIT License,Python,"{'Python': 54.32, 'HCL': 21.26, 'TypeScript': 10.25, 'Shell': 9.47, 'Java': 2.62, 'Makefile': 0.96, 'Dockerfile': 0.65, 'SCSS': 0.25, 'PowerShell': 0.13, 'HTML': 0.1}"
+dapolloxp/fio-perf,fio perf test,0,0,MIT License,HCL,"{'HCL': 72.49, 'Smarty': 16.91, 'Shell': 8.63, 'Dockerfile': 1.98}"
+AmanPathak-dev/Terraform-for-Azure,"Let's Start with the New Cloud ""Microsoft Azure"".",0,0,NO LICENSE,HCL,{'HCL': 100.0}
+qbeyond/terraform-azuredevops-service-connection,,0,0,MIT License,HCL,{'HCL': 100.0}
+pietervincken/renovate-talk-azure,,0,0,MIT License,Shell,"{'Shell': 56.47, 'HCL': 43.53}"
+FlewBirds/eagle,,0,0,NO LICENSE,HTML,"{'HTML': 98.33, 'CSS': 1.12, 'JavaScript': 0.5, 'Shell': 0.02, 'HCL': 0.01, 'Dockerfile': 0.01, 'Java': 0.01}"
+noukaridevops/jsd,,0,0,NO LICENSE,HCL,"{'HCL': 63.2, 'Java': 36.8}"
+clouddrove/terraform-azure-databricks,,0,0,Apache License 2.0,HCL,"{'HCL': 89.66, 'Go': 9.62, 'Makefile': 0.72}"
+kevinevans1/azure_arc_lab,Azure Arc Demo Lab,0,0,NO LICENSE,HCL,"{'HCL': 77.87, 'PowerShell': 22.13}"
+bharath19882023/mechproject,,0,0,Other,Shell,"{'Shell': 47.02, 'Python': 40.44, 'HCL': 8.91, 'JavaScript': 2.7, 'HTML': 0.62, 'CSS': 0.31}"
+torfjor/vpn_azure,Azure has datacenters in Norway. Perfect for accessing restricted content abroad.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+february1234/devops-master-class-master,,0,0,NO LICENSE,Java,"{'Java': 61.67, 'HCL': 32.77, 'Dockerfile': 3.15, 'Gherkin': 1.27, 'JavaScript': 0.7, 'Python': 0.45}"
+JasonKAls/rearc,rearc interview stuff (TO BE DELETED AFTERWARDS),0,0,NO LICENSE,HCL,"{'HCL': 89.77, 'JavaScript': 9.01, 'Dockerfile': 1.21}"
+yomikoye/AKS,,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+viswareddychint/azure-devops-aks-kubernetes-terraform-pipeline,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/terraform-azurerm-virtual-machine,Terraform Azure RM Virtual Machine Module,3,4,MIT License,HCL,"{'HCL': 94.14, 'Go': 5.55, 'Makefile': 0.31}"
+microsoft/planetary-computer-hub,Configuration for https://planetarycomputer.microsoft.com/compute,36,11,MIT License,HCL,"{'HCL': 51.08, 'HTML': 25.44, 'Shell': 13.28, 'Python': 9.79, 'Smarty': 0.34, 'Makefile': 0.07}"
+knowlesy/terraform,terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Rev-G/blizzow-aks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rgl/terraform-azure-postgres,example Azure Database for PostgreSQL Flexible Server instance using the terraform azurerm provider,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+hu1uu/tf-S2S-Azure-vSRX,Terraform Code for Azure Deployment of S2S VPN with vSRX,1,0,Apache License 2.0,HCL,{'HCL': 100.0}
+wguzik/tf-zadania,Zadania z Terraforma dla początkujących.,0,0,MIT License,HCL,{'HCL': 100.0}
+shurick81/ms-365-vms,,0,0,NO LICENSE,PowerShell,"{'PowerShell': 51.78, 'HCL': 43.14, 'Shell': 5.08}"
+craigharris98/pebble,,0,0,NO LICENSE,HCL,"{'HCL': 92.19, 'Python': 7.81}"
+HoussemDellai/terraform-course,Full course for deploying Infrastructure to the Cloud using Terraform,199,690,NO LICENSE,HCL,"{'HCL': 69.48, 'Shell': 23.3, 'Go': 4.23, 'PowerShell': 1.77, 'Open Policy Agent': 1.23}"
+lalithabindhu/Github_actions_public,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bjornhofer/terraform_resource_group,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ManpreetKaur1526/pipelinetfrepo23,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+shwethaks1/acme-app,,0,0,MIT License,CSS,"{'CSS': 60.54, 'HTML': 27.4, 'Java': 5.22, 'C#': 2.9, 'Python': 2.24, 'JavaScript': 0.9, 'HCL': 0.57, 'Starlark': 0.09, 'Shell': 0.09, 'Dockerfile': 0.04, 'Procfile': 0.0}"
+davidvaldez89d/tearraform-azure-twitter,Terraform script to deploy twitter scraper in Azure,0,0,MIT License,Python,"{'Python': 71.71, 'HCL': 25.4, 'Dockerfile': 2.02, 'Shell': 0.88}"
+Rashikahuja/Technical_challenge,,0,0,NO LICENSE,HCL,"{'HCL': 67.12, 'PowerShell': 32.88}"
+AgustinBer/DE-Zoomcamp,Homework and assignments of DE Zoomcamp,0,0,NO LICENSE,Python,"{'Python': 80.91, 'HCL': 18.3, 'Dockerfile': 0.78}"
+bjornhofer/terraform_vnet,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+toraghulravi/Measurements,,0,0,NO LICENSE,Python,"{'Python': 77.27, 'HCL': 11.79, 'Shell': 10.27, 'Dockerfile': 0.68}"
+olivier2t/pocs,,0,0,NO LICENSE,HCL,"{'HCL': 97.68, 'Shell': 2.08, 'Jinja': 0.22, 'PowerShell': 0.02}"
+kiyo-s/cnoaz,Sample Code of CloudNative Platform on Azure,0,0,NO LICENSE,Bicep,"{'Bicep': 92.9, 'HCL': 7.1}"
+zagianp/resume,,0,0,NO LICENSE,HTML,"{'HTML': 66.13, 'HCL': 32.39, 'JavaScript': 1.49}"
+hmcts/am-org-role-mapping-service,,2,1,MIT License,Java,"{'Java': 93.93, 'Gherkin': 3.92, 'Groovy': 1.13, 'Shell': 0.52, 'HCL': 0.43, 'Dockerfile': 0.07}"
+dulao5/tf-azure-tidb,"This repository contains Terraform code to deploy a TiDB cluster on Azure. By using Terraform, you can automate the process of creating and managing resources on Azure, such as virtual machines, databases, and networking components. ",0,0,NO LICENSE,HCL,"{'HCL': 79.83, 'Smarty': 20.17}"
+acmarpu/azure-tf-ci_cd-deployment-yaml-files,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/vh-infra-core,space for sharedservice infrastructure for the VH project,1,0,MIT License,HCL,{'HCL': 100.0}
+bonahbruce/iac,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Jake-Fawcett/advent-of-code-2022,Advent of Code 2022 learning Go.,0,0,NO LICENSE,Go,"{'Go': 94.92, 'HCL': 5.08}"
+suresh131423/terraform131423,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+MangoInstantMessenger/MangoMessengerAPI,Mango Messenger ASP .NET 6 Web API,29,8,MIT License,C#,"{'C#': 83.65, 'TypeScript': 10.97, 'SCSS': 1.5, 'HCL': 1.44, 'PowerShell': 1.13, 'Bicep': 0.9, 'Dockerfile': 0.18, 'JavaScript': 0.18, 'Shell': 0.06}"
+LucasBotan/Atividade01-Aula-Infra,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+gabrielvieirap/Iac,Infraestrutura como código usando terraform para Azure ,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+TheKingMarco/Learn-Kubernetes,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+larztech/lt-az-tf-demo,Test Azure terraform,1,1,NO LICENSE,HCL,{'HCL': 100.0}
+Planning-Inspectorate/infrastructure-environments,,2,2,MIT License,HCL,{'HCL': 100.0}
+Ordojan/azure-adventure-part-2,,0,0,NO LICENSE,HCL,"{'HCL': 67.04, 'PowerShell': 32.96}"
+duckhuu/python,,0,0,NO LICENSE,HCL,"{'HCL': 86.35, 'Python': 5.46, 'Shell': 4.56, 'Dockerfile': 3.64}"
+yiqu1/terraform-azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+azuretraining6/githubactions,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+odl859082/azure-ai-in-a-day-lab02,,0,0,MIT License,Python,"{'Python': 91.63, 'Shell': 4.7, 'HCL': 2.42, 'R': 0.65, 'Dockerfile': 0.6}"
+safaheem/landingzoneacc-appservice,,0,0,MIT License,Bicep,"{'Bicep': 51.14, 'HCL': 40.49, 'PowerShell': 4.49, 'C#': 1.86, 'HTML': 1.51, 'CSS': 0.41, 'JavaScript': 0.09}"
+hashicorp-terraform-cloud/okd-init,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jrmaciel-zx/pak-terraform,,1,0,NO LICENSE,HCL,"{'HCL': 98.63, 'Shell': 1.37}"
+Atisha-Shaurya/Demo-terratest,,0,0,NO LICENSE,Go,"{'Go': 78.52, 'HCL': 21.48}"
+khaledakk/lab2,lab2 Terrafomr,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+SuryenduB/Terraform,,0,0,NO LICENSE,HCL,"{'HCL': 99.89, 'Batchfile': 0.11}"
+PurnachandRaja/Terraform-Azure-Projects,,0,0,NO LICENSE,HCL,"{'HCL': 96.63, 'Shell': 3.37}"
+Vijay0246/Digital-IP,,0,0,NO LICENSE,HCL,"{'HCL': 80.02, 'Shell': 19.98}"
+cloud-fairy/component-library,Cloudfairy's public component library,1,0,Apache License 2.0,HCL,{'HCL': 100.0}
+davidhjh/exercise,GitHub exercise,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+marsalal/terraform-explore,Exploring terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+moarychan/sca-passwordless-mysql,,0,0,NO LICENSE,HCL,"{'HCL': 34.32, 'Java': 25.38, 'PowerShell': 20.78, 'Shell': 19.52}"
+Azure/terraform-azurerm-postgresql,Azure Database for PostgreSQL Module,25,45,MIT License,HCL,"{'HCL': 87.79, 'Go': 11.02, 'Makefile': 1.19}"
+DevOpsDojoDev/ops-mgr-sh360-coupons-t0-msanzdelrio,,0,0,MIT License,Java,"{'Java': 43.19, 'CSS': 18.41, 'Bicep': 12.81, 'PowerShell': 8.41, 'HTML': 8.04, 'JavaScript': 4.16, 'HCL': 3.29, 'Gherkin': 0.81, 'Dockerfile': 0.61, 'Batchfile': 0.26}"
+FILIZA1/TerraformProject,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+gabrielmccoll/terraformaks,,0,0,Apache License 2.0,HCL,"{'HCL': 94.64, 'PowerShell': 5.36}"
+PacktPublishing/Terraform-Cookbook-Second-Edition,"Code Repository for Terraform Cookbook Second Edition, Published by Packt",13,12,MIT License,HCL,"{'HCL': 85.39, 'Shell': 7.58, 'Ruby': 2.47, 'Go': 2.29, 'Dockerfile': 2.26}"
+jplummer01/MLops-V2Demo,,0,0,MIT License,Python,"{'Python': 50.26, 'HCL': 49.74}"
+bjornhofer/terraform_vnet_peering,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ElioLopez/gitlab-on-azure,Terraform scripts to build a self managed gitlab instance on Azure,0,0,GNU General Public License v3.0,HCL,"{'HCL': 91.44, 'Smarty': 8.56}"
+pennyberry/Public,,0,0,MIT License,HCL,"{'HCL': 51.65, 'Shell': 39.54, 'PowerShell': 8.1, 'Smarty': 0.71}"
+amitvashisttech/terraform-azure-dxc-20-Jan-2023,,0,1,NO LICENSE,HCL,"{'HCL': 98.54, 'Shell': 1.46}"
+mischavandenburg/lab,"Scientists learn from books, but the continuous learning happens in the lab. In this repo I collect my labs, projects, scripts and experiments which I use for learning, exploring, and gaining hands-on experience.",0,0,MIT License,Python,"{'Python': 38.0, 'Shell': 18.17, 'HCL': 17.17, 'PHP': 7.76, 'CSS': 4.4, 'Lua': 3.78, 'Svelte': 3.72, 'HTML': 2.88, 'JavaScript': 1.73, 'Dockerfile': 1.36, 'TypeScript': 1.02}"
+zacaryfettig/Terraform-Templates,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+abarqawi/JordanAKS,contains some files related to AKS session,0,0,NO LICENSE,HCL,"{'HCL': 98.77, 'Shell': 1.23}"
+ezekiel444/k8s,Kubernetes space,0,0,NO LICENSE,HCL,"{'HCL': 76.23, 'Shell': 19.62, 'Go': 4.15}"
+m99coder/kilo-poc,"A Proof-of-concept for using K3s to create a Kubernetes cluster deployed on nodes from different public cloud providers (AWS, GCP, Azure) utilizing Kilo",0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/dynatrace-availability-dashboards,Automation of synthetic monitors used for dynatrace monitoring,0,0,MIT License,Python,"{'Python': 46.5, 'HCL': 38.97, 'Shell': 14.53}"
+abhiversion2/terraform-on-azure-with-azure-devops,Terraform on Azure with Azure IaC DevOps,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+danielfloresd/Launcher,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 87.86, 'CSS': 10.96, 'HTML': 0.81, 'HCL': 0.21, 'Shell': 0.1, 'Dockerfile': 0.05}"
+naveenthejat/terra_practise,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+CDCgov/trusted-intermediary,,3,1,Apache License 2.0,Java,"{'Java': 45.87, 'Groovy': 42.02, 'Shell': 5.29, 'HCL': 4.62, 'Python': 1.71, 'Dockerfile': 0.5}"
+ratnadeb/data_disk_attachment,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hkaanturgut/Automate-Docker-builds-using-Jenkins-Pipelines-Dockerize-Python-App-Upload-Images-into-Azure-Con,,0,1,NO LICENSE,HCL,"{'HCL': 62.32, 'Ruby': 24.74, 'HTML': 8.09, 'Python': 2.8, 'Dockerfile': 2.04}"
+priedijk/FAKKEL-test,,0,0,NO LICENSE,HCL,"{'HCL': 61.01, 'PowerShell': 27.53, 'Shell': 5.74, 'Ruby': 5.72}"
+PHACDataHub/wastewater-graphql,,3,0,MIT License,TypeScript,"{'TypeScript': 89.81, 'HCL': 8.55, 'JavaScript': 1.64}"
+visma-raet/terraform-azurerm-applicationgateway,Terraform Module for deploying a Azure Application Gateway,0,0,MIT License,HCL,"{'HCL': 55.88, 'Shell': 34.96, 'Python': 9.16}"
+visma-raet/terraform-azurerm-acr,Terraform Module for deploying a Azure Container Registry,0,0,MIT License,HCL,"{'HCL': 59.21, 'Shell': 32.32, 'Python': 8.47}"
+Fanny-gutting/devops-back,,0,0,NO LICENSE,PHP,"{'PHP': 96.83, 'HCL': 2.08, 'Vue': 0.68, 'Shell': 0.41}"
+fedenemi/house_regression_production_azure,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+gajjarraja/-azure-devops-github-acr-aks-app1,"Azure DevOps App1 Demo with AKS, Github and Azure Containter Registry",0,0,NO LICENSE,Java,"{'Java': 48.71, 'HCL': 46.33, 'HTML': 2.53, 'Shell': 1.89, 'Dockerfile': 0.54}"
+zpirzada/terraform_azure_zeb,,0,0,Other,HCL,{'HCL': 100.0}
+dolphinsandrainbows/hello-github-actions,,0,0,MIT License,HCL,"{'HCL': 99.52, 'Python': 0.48}"
+dcanadillas/terraform-cts-azure-lb,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Trustedsavvy/terraform-azurerm-vnet,this is for vnet,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/NoOpsAccelerator,"A flexible, Infrastructure-as-Code foundation that assists customers with the development and deployment of opinionated infrastructure models that are secure, well-governed, and simple to maintain. ",53,30,MIT License,Bicep,"{'Bicep': 67.46, 'HCL': 31.65, 'Go': 0.49, 'Dockerfile': 0.19, 'PowerShell': 0.18, 'Shell': 0.03}"
+kloudtester/devops_script,,0,0,NO LICENSE,HCL,"{'HCL': 88.91, 'Smarty': 8.59, 'Dockerfile': 2.5}"
+Capson12/terraform-test1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Ozoubia/EDC_vm_2_vm,,0,0,Apache License 2.0,Java,"{'Java': 62.06, 'Kotlin': 29.9, 'HCL': 8.03}"
+cshea15/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+CPS-Innovation/polaris-reverseproxy-poc,Reverse proxy proof of concept config for polaris,0,0,MIT License,HCL,"{'HCL': 68.7, 'JavaScript': 31.3}"
+SharathP940/firsttestgit,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+clouddrove/terraform-azure-network-security-group,,0,1,Apache License 2.0,HCL,"{'HCL': 90.76, 'Go': 8.6, 'Makefile': 0.64}"
+zabarishi/terrraformdemo01,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Muralikandula/Master,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+garamo22/terraformcicd,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+fadallar/terraform-azurerm-blob-storage,,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+srd7395/terraform-azurerm-example,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pcfuzzi/terraformprojektwoche,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+zsolt-github/Demo-Project-Jenkins,This GitHub repo contains Terraform config files to build Azure resources needed to run a Jenkins server so I can learn and practice.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+gravik123/MLOpsPython,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+bjornhofer/terraform_policy,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+manjubluemoon/terraform-azure-clouds,connecting and spinning resources from terraform cloud to azure cloud,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+frisisuas/TF-AzureDevOps-Packer,"Repositorio para comprobar mediante Terraform, Packer y Azure DevOps la creación de una golden Image de W10 21h1 + office 365 + configuraciones de idioma e instalación de programas.",0,2,MIT License,PowerShell,"{'PowerShell': 95.11, 'HCL': 4.85, 'Batchfile': 0.04}"
+gganssauge/test-node-labels,Demonstration of a problem with the azurerm terraform provider,0,0,NO LICENSE,Shell,"{'Shell': 60.98, 'HCL': 27.98, 'Dockerfile': 9.64, 'Makefile': 1.4}"
+ms-us-rcg-app-innovation/entity-search,repository ,0,0,MIT License,HCL,"{'HCL': 57.4, 'PowerShell': 42.6}"
+MartaMasson/Messages-and-Events-Brokers,,0,0,NO LICENSE,C#,"{'C#': 65.92, 'HCL': 34.08}"
+pranayagoinaka1/AzureRM,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+PacktPublishing/Infrastructure-as-Code-for-Beginners-,,1,0,MIT License,HCL,"{'HCL': 85.66, 'Jinja': 14.34}"
+JaldeepSenjaliya/devops-first-exercise,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Sukhilkumarnatha/AzureRM,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+CDCgov/phdi-azure,,3,2,Creative Commons Zero v1.0 Universal,HCL,"{'HCL': 43.06, 'Shell': 29.01, 'Python': 27.94}"
+shanmukha511/terraform-storage-account,Terraform code for azure storage account,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sanjay7709/devops,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Saketh222/Azure-main.tf,repo for sample azure file,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+PacketFabric/terraform-provider-packetfabric,Terraform Provider for PacketFabric Network-as-a-Service,10,2,Mozilla Public License 2.0,Go,"{'Go': 99.59, 'Makefile': 0.41}"
+tfmods/terraform-caf-kubernetes-services,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+serdar52-93/cicd-terraform-project,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yunikon-nl/terraform-azurerm-private-dns-zone,Terraform module.,0,0,MIT License,HCL,"{'HCL': 84.12, 'Go': 15.88}"
+RustamAlizada/mlops-v2,,0,0,MIT License,Python,"{'Python': 71.43, 'Jupyter Notebook': 20.96, 'HCL': 5.35, 'Bicep': 1.39, 'Dockerfile': 0.87}"
+data-platform-hq/terraform-databricks-databricks-runtime,Terraform module for managing Databricks Workspace using Databricks provider,1,0,Apache License 2.0,HCL,{'HCL': 100.0}
+Vasu153/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+JaldeepSenjaliya/project-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dbobola/stackon,"Having fun in the Metaverse comes with a bit of cost using digital assets. How will it feel If you can predict the future price of your digital assets? Well, Stackon is here for you!",0,0,NO LICENSE,JavaScript,"{'JavaScript': 60.37, 'Python': 22.65, 'HCL': 7.32, 'HTML': 3.74, 'Solidity': 2.91, 'CSS': 1.79, 'Dockerfile': 1.21}"
+leiyu3/git-excercise,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+docusign/sample-app-mytelecom-nodejs,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 65.98, 'SCSS': 15.73, 'HCL': 13.42, 'Makefile': 2.33, 'HTML': 1.36, 'Shell': 0.7, 'Dockerfile': 0.49}"
+Biscuit93/project-1,Week 1 project for T-22-DEV-01,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+simongottschlag/cloud-and-scalability4,,0,0,NO LICENSE,HCL,"{'HCL': 63.32, 'JavaScript': 29.36, 'Dockerfile': 3.66, 'Pug': 2.6, 'CSS': 1.05}"
+anacarolines/Mlops-demo,,0,0,MIT License,Python,"{'Python': 51.12, 'HCL': 48.88}"
+Mohammedyb/jenkinsscripts,,0,1,NO LICENSE,Java,"{'Java': 84.52, 'HCL': 14.99, 'Dockerfile': 0.48}"
+pate1431/Project_1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+shefirot/caldera_cloud,Caldera enviroment to run test deployed on cloud usiing Git Hub Actions,0,0,NO LICENSE,HCL,"{'HCL': 78.23, 'Shell': 9.25, 'Jinja': 8.15, 'PowerShell': 4.37}"
+massdriver-cloud/application-examples,,0,0,NO LICENSE,HCL,"{'HCL': 65.44, 'Smarty': 16.55, 'JavaScript': 12.83, 'Dockerfile': 1.94, 'Python': 1.27, 'Shell': 1.17, 'Rust': 0.8}"
+bjornhofer/terraform_virtual_machine,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+T-Systems-MMS/terraform-azurerm-container,,0,0,Mozilla Public License 2.0,HCL,{'HCL': 100.0}
+kilwa0/NewsNow,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+implodingduck/az-func-service-bus-trigger,,0,0,MIT License,HCL,"{'HCL': 55.57, 'JavaScript': 43.92, 'Shell': 0.51}"
+rocksde/az-dbr-libs-sta,store python whl on sta on az to load in databricks,0,0,NO LICENSE,HCL,"{'HCL': 84.34, 'Shell': 12.87, 'Dockerfile': 2.79}"
+equinor/terraform-azurerm-web-app,Terraform module which creates an Azure Web App,0,0,NO LICENSE,HCL,"{'HCL': 91.77, 'Go': 8.23}"
+avirajith/https-github.com-Trustedsavvy-classicrepo,VM creation,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Be-Cenzo/Hermes,,0,0,NO LICENSE,Java,"{'Java': 79.35, 'JavaScript': 16.63, 'HCL': 4.02}"
+Balabala08/Terraform-example,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+himanshu07768/Devops,This is a first repository which is related to Devops,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+t217145/asb-demo,Azure Service Bus Demo with Terraform,0,0,NO LICENSE,Java,"{'Java': 72.04, 'HCL': 23.71, 'PowerShell': 4.25}"
+ned1313/terraform-tuesdays,Demo files for various Terraform Tuesday Examples,310,400,MIT License,HCL,"{'HCL': 88.69, 'Shell': 10.92, 'PowerShell': 0.31, 'Smarty': 0.08}"
+Senil456/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mjmenger/expensive.food,,1,1,NO LICENSE,HCL,"{'HCL': 95.89, 'Shell': 4.11}"
+knoldus/Snyk_IaC_Test_in_ADO,"Here, In this template we will learn how to check vulnerabilities in IaC using Snyk",0,0,NO LICENSE,HCL,{'HCL': 100.0}
+smorenburg/pathway-to-aks-deploying-with-terraform,,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+nimbix/jarvice-helm,Helm chart and Terraform modules for the JARVICE XE Hybrid Cloud HPC platform,9,7,Other,HCL,"{'HCL': 62.0, 'Shell': 36.46, 'Mustache': 1.54}"
+FancyCorp-Demo/tfc-org-setup,Initial Configuration for TFC Organization,0,1,NO LICENSE,HCL,"{'HCL': 86.65, 'Shell': 7.39, 'Makefile': 5.97}"
+Grad1ent/AzureLandingZone.tf,Azure Landing Zone as IaC over Terraform,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Goitom-Zeru/terraform-azure-devops,,0,0,MIT License,HCL,"{'HCL': 85.28, 'Shell': 14.72}"
+methodidacte/MyMLOpsPython,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart,Sample project showcasing SAP Cloud SDK for OData consumption from SAP S4 with Azure App Service,1,5,MIT License,TypeScript,"{'TypeScript': 81.8, 'HCL': 9.61, 'Bicep': 8.15, 'Pug': 0.28, 'Shell': 0.09, 'CSS': 0.05, 'Dockerfile': 0.03}"
+rajrahul03/assesment,Code_challange,0,0,NO LICENSE,HCL,"{'HCL': 87.09, 'PowerShell': 12.91}"
+hongphuc95/owncloud-poc,A POC for Owncloud installation,0,0,NO LICENSE,HCL,"{'HCL': 98.62, 'Shell': 1.38}"
+mhaywardhill/azure-adb-vnet-deployment,,0,0,MIT License,HCL,{'HCL': 100.0}
+wozorio/terraform-azure-linux-vm,Provisioning of a Ubuntu virtual machine in Azure.,1,2,MIT License,HCL,"{'HCL': 99.53, 'Shell': 0.47}"
+chrisley75/Azure_CIEM,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+DHKratos4/projectpipeline,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Arvind644/azure-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+safaheem/aselandingzonedeployment2923,,0,0,MIT License,Bicep,"{'Bicep': 51.14, 'HCL': 40.49, 'PowerShell': 4.49, 'C#': 1.86, 'HTML': 1.51, 'CSS': 0.41, 'JavaScript': 0.09}"
+democb/DT-javaqa,,0,0,Other,HCL,"{'HCL': 90.01, 'Java': 5.55, 'Dockerfile': 4.44}"
+bq-anushka-25/GitHubActionTest,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ccamlin111/Azure-Vnet-Terraform,,0,0,NO LICENSE,HCL,"{'HCL': 87.22, 'Go': 12.78}"
+hotosm/raw-data-api,Export tool API is a set of high-performant APIs for transforming and exporting OpenStreetMap (OSM) data in different GIS file formats,5,2,GNU Affero General Public License v3.0,PLpgSQL,"{'PLpgSQL': 61.35, 'Python': 34.43, 'Lua': 2.49, 'HCL': 1.65, 'Dockerfile': 0.09}"
+subashiniraju/labworks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pate1431/example,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yiqu1/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+confluentinc/terraform-provider-confluent,Terraform Provider for Confluent,71,35,Apache License 2.0,Go,"{'Go': 99.6, 'Makefile': 0.25, 'Shell': 0.1, 'HCL': 0.05}"
+Mahesh096/Aks-cluster,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+grinntec/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mgok5/Azure-DevOps-TerraformDemo,,0,0,NO LICENSE,C#,"{'C#': 53.46, 'HCL': 46.54}"
+caiopeterlini/infraAndCloud,,0,0,NO LICENSE,HCL,"{'HCL': 99.07, 'Shell': 0.93}"
+joaovictorino/terraform-docker-spring,,2,3,NO LICENSE,Java,"{'Java': 74.84, 'HTML': 13.67, 'Less': 7.61, 'HCL': 3.16, 'Shell': 0.46, 'Dockerfile': 0.25}"
+pragathi202014/new-repo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+viswavik3/tfvm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+himatvarsani-cloudreach/Azure_Virtual_Network_Module,Azure Virtual Network Module,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+harsimrankaur149/Exercise1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+noeljohnk007/incubator,This repository contains the projects that are in early phase. ,0,0,NO LICENSE,Java,"{'Java': 70.59, 'Python': 15.59, 'HCL': 8.46, 'Shell': 5.36}"
+serdar52-93/Terraform-cicd-project,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+owainow/fd-apim-aks,"A project created to deploy a DotNet Microservice in AKS using Api Management and Azure Front Door, deployed with Terraform. ",0,0,NO LICENSE,HCL,{'HCL': 100.0}
+epam/hub-azure-components,,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+itom-qe/terraform-test-2023-02-11-T-07-02-969-qhnub,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Ragapriya2022/Storageaccountraga,,0,0,NO LICENSE,HCL,"{'HCL': 68.88, 'HTML': 31.12}"
+ranbirlab/TF-ADO-Automation,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+shanawaj-git/work,,0,0,NO LICENSE,,{}
+hmcts/et-ccd-callbacks,Employment Tribunals CCD Callbacks Service,0,3,MIT License,Java,"{'Java': 96.33, 'JavaScript': 3.14, 'PLpgSQL': 0.16, 'Shell': 0.14, 'Groovy': 0.13, 'HCL': 0.09, 'Dockerfile': 0.02}"
+jass85688/project-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+willvelida/aca-on-terraform,,0,0,MIT License,HCL,{'HCL': 100.0}
+mattias-fjellstrom/terraform-cloud-sales-application,Terraform Cloud demo application,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+djbrooker88/terraform,Terraform scripts created as part of learning,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+NuRoZ123/challenge48Hgeneral,,0,1,MIT License,JavaScript,"{'JavaScript': 43.62, 'Vue': 29.92, 'HCL': 23.75, 'HTML': 1.39, 'Shell': 0.64, 'Dockerfile': 0.56, 'CSS': 0.13}"
+jwvanhollebeke/azure-databricks-lab,Azure Databricks documentation and lab environment(s),0,0,MIT License,HCL,"{'HCL': 98.03, 'Shell': 1.97}"
+amahommad383/DEPLOY-TO-WEB-APPTO-AZURE-APP,,0,0,NO LICENSE,TypeScript,"{'TypeScript': 45.26, 'JavaScript': 32.68, 'HTML': 10.2, 'HCL': 8.45, 'Ruby': 1.63, 'Mustache': 0.75, 'Dockerfile': 0.62, 'CSS': 0.41}"
+mg-prisma/config-drift,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dileshfernando/terraform-test,terraform-test,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+parshi2106/Devops-Beginning,,0,0,NO LICENSE,PowerShell,"{'PowerShell': 42.28, 'HCL': 39.05, 'Bicep': 18.67}"
+NewcastleRSE/mousemapp-predict-function,A serverless function for predicting a value on the  mouse-grimace scale from an image of a mouse,0,0,NO LICENSE,Python,"{'Python': 56.78, 'HCL': 37.65, 'Dockerfile': 5.57}"
+davidhjh/project-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+phanikishorelanka/Task1,Terraform task,0,0,NO LICENSE,HCL,"{'HCL': 97.52, 'Shell': 2.48}"
+TejaswiGitR/code,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+solver149/adocicd,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ispyrydonenko/terraform,,0,0,NO LICENSE,HCL,"{'HCL': 98.69, 'PowerShell': 1.31}"
+lynnlangit/learning-cloud,"List of resources - courses, sample code, articles and screencasts for learning AWS, Azure, GCP, IBM and Alibaba Cloud",339,99,Apache License 2.0,Jupyter Notebook,"{'Jupyter Notebook': 96.75, 'HCL': 3.25}"
+yogikondeboina/Gact,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+equinor/terraform-azurerm-storage,Terraform module which creates an Azure Storage account,1,1,NO LICENSE,HCL,"{'HCL': 70.17, 'Go': 29.83}"
+Sandeep-Bejjenki/azure_tf_function_app,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pavanaz121144/terraform_azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+burhanudinarshad/learning,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+DevOps-Team-Ca/CI-CD-Team-Project-Jenkins-Azure-Pipeline-GithubActions,,2,1,MIT License,JavaScript,"{'JavaScript': 74.34, 'HCL': 12.6, 'Mustache': 8.73, 'HTML': 3.98, 'Dockerfile': 0.35}"
+technicalflow/myterraform,,3,0,MIT License,HCL,"{'HCL': 93.96, 'Shell': 5.59, 'PowerShell': 0.45}"
+ManpreetKaur1526/testrepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/am-judicial-booking-service,,0,1,MIT License,Java,"{'Java': 89.43, 'Groovy': 3.97, 'Gherkin': 2.63, 'Shell': 2.13, 'HCL': 1.54, 'Dockerfile': 0.29}"
+Anna6638312/NewRepo,,0,0,MIT License,Bicep,"{'Bicep': 51.14, 'HCL': 40.49, 'PowerShell': 4.49, 'C#': 1.86, 'HTML': 1.51, 'CSS': 0.41, 'JavaScript': 0.09}"
+oguzhanaydogan/GithubActions-Angular-Real-World-Example-App,,0,0,MIT License,TypeScript,"{'TypeScript': 69.43, 'HTML': 25.84, 'JavaScript': 2.35, 'HCL': 1.89, 'Dockerfile': 0.26, 'CSS': 0.23}"
+sindhu2805s/terraformrepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+soloma70/HomeTasks_L1,My HomeTasks for step L1 EPAM  Cloud&DevOps Fundamentals Autumn 2022,0,0,NO LICENSE,HTML,"{'HTML': 43.13, 'HCL': 32.56, 'Shell': 24.31}"
+qmar1/avx-distributed-firewalling,Distributed Firewalling Terraform module ,0,0,NO LICENSE,HCL,"{'HCL': 91.56, 'Shell': 6.83, 'Python': 1.61}"
+LokeshShelva/azure-mlops,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+timmyreilly/IotHubTesting,,0,0,NO LICENSE,HCL,"{'HCL': 47.89, 'PowerShell': 27.58, 'C#': 13.57, 'Python': 7.92, 'Shell': 2.63, 'Dockerfile': 0.41}"
+Yogesh0777/demo-poc-aks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+RY3IEZN/Terraform_basic,,0,0,NO LICENSE,HCL,"{'HCL': 88.84, 'Shell': 11.16}"
+pagopa/mil-payment-notice,,0,0,NO LICENSE,Java,"{'Java': 96.47, 'HCL': 2.7, 'Shell': 0.69, 'JavaScript': 0.15}"
+ayounas/tfyvm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+waynehoggett/TFTest2,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/et-sya-api,Employment Tribunals submit your application (SYA) case API repo,2,0,MIT License,Java,"{'Java': 98.07, 'HCL': 1.35, 'Shell': 0.36, 'Groovy': 0.17, 'Dockerfile': 0.04}"
+RY3IEZN/Next_Cloud_Server_terrafrom,,0,0,NO LICENSE,HCL,"{'HCL': 86.18, 'Shell': 9.74, 'Smarty': 4.08}"
+ulc0/csels-mlops-prod,csels mlops prod template,0,0,NO LICENSE,Python,"{'Python': 58.56, 'HCL': 41.44}"
+bcc-code/bcc-documentation-base,A base VuePress theme that can be used to render documentation for other BCC projects,0,0,Apache License 2.0,C#,"{'C#': 50.42, 'HCL': 37.28, 'TypeScript': 7.23, 'Vue': 2.67, 'SCSS': 1.2, 'Dockerfile': 0.65, 'Shell': 0.54}"
+jmc265/jeeb-uk,Files & Code for jeeb.uk,2,0,NO LICENSE,JavaScript,"{'JavaScript': 27.42, 'HCL': 24.53, 'Nunjucks': 21.66, 'SCSS': 18.62, 'CSS': 6.64, 'Shell': 1.14}"
+Radical-Dave/terraform-templates,terraform-templates,0,0,MIT License,HCL,"{'HCL': 95.53, 'Python': 4.47}"
+lgcelarie/terraform-labs,Terraform labs to get some repository-backed experience hehe,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+leiyu3/project-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Astridstar/mlops-project-templates-az,,0,0,MIT License,Python,"{'Python': 71.43, 'Jupyter Notebook': 20.96, 'HCL': 5.35, 'Bicep': 1.39, 'Dockerfile': 0.87}"
+clouddrove/terraform-azure-aks,,0,1,Apache License 2.0,HCL,"{'HCL': 95.47, 'Go': 4.21, 'Makefile': 0.32}"
+sergelogvinov/terraform-talos,Terraform examples to run Talos,18,5,MIT License,HCL,"{'HCL': 81.13, 'Smarty': 11.84, 'Makefile': 7.03}"
+t-benedet/Azure-terraform-ci,,0,0,NO LICENSE,HCL,"{'HCL': 95.23, 'Open Policy Agent': 4.77}"
+ravi-git-22/11-feb-azure-container-repository,this repo is for deploying web-app to docker image and pushing the docket image to azure container registry,0,0,NO LICENSE,HCL,"{'HCL': 52.97, 'HTML': 29.38, 'JavaScript': 17.66}"
+MortenAurs/azure-data-science,,0,0,MIT License,HCL,{'HCL': 100.0}
+balakrishna5/azure-container-repo,This repo is used to deploy docker images to Azure container Registry,0,0,NO LICENSE,Shell,"{'Shell': 37.86, 'HCL': 26.62, 'HTML': 22.2, 'JavaScript': 13.33}"
+elielijah321/timeline,,0,0,NO LICENSE,TypeScript,"{'TypeScript': 77.77, 'C#': 8.76, 'CSS': 6.77, 'HTML': 3.39, 'HCL': 3.31}"
+OLeonardoRodrigues/terraform-azurerm-available-ips,Module responsible for getting available IPs inside a subnet.,3,0,NO LICENSE,HCL,"{'HCL': 56.81, 'Shell': 43.19}"
+qbeyond/terraform-azurerm-azure-bastion,,2,0,MIT License,HCL,{'HCL': 100.0}
+kolosovpetro/TerraformTemplate,Template for terraform and azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Ragapriya2022/azure-app-services,Deploy a web app using Github actions to azure app services,0,0,NO LICENSE,HCL,"{'HCL': 51.2, 'Shell': 28.35, 'HTML': 20.45}"
+SudhakarVSBattula/azureappservices,This repository is used to learn to deploy a web app using Git hub actions to Azure App Service,0,0,NO LICENSE,HCL,"{'HCL': 71.21, 'HTML': 28.79}"
+equinor/terraform-azurerm-sql,Terraform module which creates Azure SQL resources,2,0,NO LICENSE,HCL,"{'HCL': 94.91, 'Go': 5.09}"
+g7crtechnologies/24-7terraform,,0,0,NO LICENSE,HCL,"{'HCL': 69.32, 'Makefile': 30.5, 'Smarty': 0.18}"
+ShyamaKalandoor/test123,,0,0,Apache License 2.0,HCL,"{'HCL': 99.98, 'Dockerfile': 0.02}"
+murali-java/devops-master-class,,0,0,NO LICENSE,Java,"{'Java': 61.67, 'HCL': 32.77, 'Dockerfile': 3.15, 'Gherkin': 1.27, 'JavaScript': 0.7, 'Python': 0.45}"
+jkroepke/homelab,,8,1,Apache License 2.0,HCL,"{'HCL': 89.87, 'Python': 6.17, 'Shell': 1.86, 'Mustache': 1.5, 'Smarty': 0.61}"
+claranet/terraform-azurerm-app-gateway,Terraform module for Azure Application Gateway,18,30,Apache License 2.0,HCL,{'HCL': 100.0}
+sirisha423/IISDevOpstest,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+harsimrankaur149/project-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ned1313/robusta-on-aks,Demo to install Robusta on AKS with Prometheus,0,0,MIT License,HCL,{'HCL': 100.0}
+c0deFlunky/TerrformAVD,Azure Virtual Desktop via Terrafrom,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Rev-G/cloud,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+madebambo/DockerOps,,0,0,NO LICENSE,HCL,"{'HCL': 59.04, 'Dockerfile': 20.62, 'JavaScript': 20.34}"
+matt-de-dominicis/day1repo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+JonathonPrakob/testing,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+claranet/terraform-azurerm-db-postgresql-flexible,Terraform module composition (feature) for Azure PostGreSQL Flexible Database,5,3,Apache License 2.0,HCL,{'HCL': 100.0}
+nunofilipecosta/Terraform-Playground,,0,0,MIT License,HCL,"{'HCL': 98.05, 'HTML': 1.95}"
+unicodebinod/terraform-project,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yunikon-nl/terraform-azurerm-private-dns-zones,Terraform module for creating Private DNS Zones and Virtual Network links.,0,0,MIT License,HCL,"{'HCL': 84.46, 'Go': 15.54}"
+wahid2272/aks_tf_with_github_action,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+lola-pola/aks-tf-example,,0,0,MIT License,HCL,"{'HCL': 76.23, 'Smarty': 23.77}"
+jameskutty1010/terraformaksenv,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ryotatbiz/terraform-azurerm-modules,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nishanttx/history,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+thecomalley/az-hybrid-connectivity,Azure Lab for Hybrid Connectivity,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+KellysonRN/terraforms-labs,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+aacsharhg/terraform-linuxopa-azad,Terraform request from upwork that needs to have a centos image with opa and integration with Azure AD,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+Vinaum8/terraform-monitor-stack,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+The-Taggart-Institute/kasm-manager,Frontend for managing deployment of Kasm Workspaces in Docker Swarm,0,0,NO LICENSE,Python,"{'Python': 48.91, 'HCL': 47.59, 'Shell': 3.5}"
+Malek-Zaag/notes-api,"A notes api that enables developers save time and money , they can add, update or delete their  notes or even serach by keywords .",0,0,NO LICENSE,HCL,"{'HCL': 65.32, 'JavaScript': 32.58, 'Dockerfile': 2.1}"
+realsanket/infracosttest,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+benchiverton/OnlineStore,Basic online store built using Blazor Webassembly,5,1,MIT License,HTML,"{'HTML': 48.11, 'C#': 30.96, 'HCL': 10.56, 'CSS': 4.42, 'JavaScript': 4.18, 'PowerShell': 1.78}"
+bhavinkotak/terraform-aks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+chamindac/terraform_samples,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+NickBaynham/tf-aws-eks,A repository for an AWS EKS Cluster IaC,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+Rakhilgit/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+aiubsakib/test1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bcc-code/community-tools,,0,0,NO LICENSE,Go,"{'Go': 53.8, 'Vue': 16.37, 'TypeScript': 13.09, 'HCL': 10.76, 'JavaScript': 3.79, 'HTML': 1.37, 'Shell': 0.42, 'Dockerfile': 0.29, 'CSS': 0.12}"
+sree102006/aksterraform,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+anwesh-b/Sudoku-OCR,,0,0,NO LICENSE,HCL,"{'HCL': 61.07, 'Python': 38.93}"
+fadallar/terraform-azurerm-acr,,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+Sammy69au/website_iac,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jaswanth-cloud/hashicorp-certified-terrafrom-associate-on-azure,,0,0,NO LICENSE,HCL,"{'HCL': 94.78, 'Shell': 4.03, 'HTML': 1.18}"
+cdelashmutt-pivotal/terraform-tap-bootstrap,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ravi-git-22/11-feb-deploy-app-pipeline-static-website,this repository is to create  a staic website and host in Azure Storage,0,0,NO LICENSE,HCL,"{'HCL': 47.75, 'Shell': 38.93, 'HTML': 13.32}"
+GigaSpaces-ProfessionalServices/BBW-DIH-k8s,CSM repo for BBW dih/k8s project,0,0,NO LICENSE,Shell,"{'Shell': 68.03, 'HCL': 31.97}"
+subashiniraju/pipelinerepo2,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+XenitAB/xkf-templates,Terraform files to be used by XKF instances,0,0,NO LICENSE,HCL,"{'HCL': 89.94, 'Makefile': 10.06}"
+waynehoggett/tf-playground,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jerryli-ctc/terraform-azurerm-keyvault,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ezlee/terraform-azurerm-keyvault,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jeremypageitcompany/Azure_PA_HA,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Faralas/AI-TDA,Project for integrate IA + Python TDA + DevOps,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rajesh-pandian-1988/azure-app-service,This repository is used to learn to deploy a web app using GitHub Actions to Azure App Service.,0,0,NO LICENSE,HCL,"{'HCL': 48.55, 'Shell': 32.04, 'HTML': 19.42}"
+sap-linuxlab/terraform.modules_for_sap,Subcomponent of the Terraform Templates for SAP. Terraform Modules for each Cloud and Hypervisor and dynamic Ansible Playbooks for SAP installations.,2,0,Apache License 2.0,HCL,{'HCL': 100.0}
+zakarel/Azure-terraform-templates,,2,0,MIT License,HCL,{'HCL': 100.0}
+DeepaKovvada/terraform-azurerm-vnet,this is vnet,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rajesh-pandian-1988/pipeline-static-website,This repository is to create a static website and host it in Azure Storage,0,0,NO LICENSE,Shell,"{'Shell': 49.97, 'HCL': 33.35, 'HTML': 16.68}"
+rajesh-pandian-1988/azure-container-repository,This repository is to learn how to deploy docker images to Azure Container Registry,0,0,NO LICENSE,HCL,"{'HCL': 43.42, 'HTML': 35.16, 'JavaScript': 21.42}"
+luckydread/infrastructure,Project infrastructure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+JATINKUMAR1008/azure-aks,,0,0,NO LICENSE,CSS,"{'CSS': 32.96, 'HCL': 26.71, 'JavaScript': 25.3, 'HTML': 14.48, 'Dockerfile': 0.56}"
+Ozoubia/vm_to_vm,,0,0,Apache License 2.0,Java,"{'Java': 62.06, 'Kotlin': 29.9, 'HCL': 8.03}"
+idejon/cloud-infrastructure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ravi-git-22/11-feb-azure-app-service,this repository is used for deploying a webapp using github actions to Azure app service,0,0,NO LICENSE,HCL,"{'HCL': 73.0, 'HTML': 27.0}"
+zoleg/WebApp,,0,0,NO LICENSE,HTML,"{'HTML': 42.64, 'C#': 22.28, 'HCL': 20.76, 'CSS': 11.79, 'JavaScript': 2.53}"
+vijaypraneeth/cloudops-cmp-aais-prd-v3,,0,0,NO LICENSE,HCL,"{'HCL': 96.75, 'PowerShell': 3.25}"
+emmersion/DistributedTools,Experimental server for running voting and decision delegation poker,0,0,MIT License,C#,"{'C#': 69.25, 'JavaScript': 14.1, 'HTML': 11.07, 'CSS': 3.97, 'HCL': 1.61}"
+praveenvaddi/Sample-repo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+haneefshaikh/Terraform_Azure_Assignment,Terraform_Azure_Assignment,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+claranet/terraform-azurerm-function-app,Terraform module for Azure Function App,8,15,Apache License 2.0,HCL,{'HCL': 100.0}
+jplummer01/MLops-V2-CV-Demo,,0,0,MIT License,Python,"{'Python': 78.46, 'HCL': 19.57, 'Dockerfile': 1.97}"
+tuomasta/snakes,,0,0,NO LICENSE,F#,"{'F#': 85.96, 'HCL': 11.01, 'Dockerfile': 3.03}"
+CLHdevOps/terraform-aks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+3xperthulk/docker-install,,0,1,NO LICENSE,HCL,"{'HCL': 73.73, 'PowerShell': 20.58, 'Shell': 5.69}"
+danielmsimuko/terraform-azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+daszkiewiczk/terraform-examples,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+zolthun/tf-samples,Repository with a few terraform easy to understand examples,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ans-ccoe/terraform-modules,A repo to contain CCoE Terraform Modules,0,0,NO LICENSE,HCL,"{'HCL': 91.96, 'PowerShell': 8.04}"
+TJ156TJ/Azure_playground,,0,0,NO LICENSE,Bicep,"{'Bicep': 91.91, 'PowerShell': 4.24, 'HCL': 3.86}"
+Ragapriya2022/azure-container-repository,deploy docker images to azure container registery,0,0,NO LICENSE,HCL,"{'HCL': 62.61, 'HTML': 37.39}"
+bootlabstech/terraform-azurerm-webapp-arch,,0,0,MIT License,HCL,{'HCL': 100.0}
+davidgpozo/caldera_cloud,Caldera enviroment to run test deployed on cloud usiing Git Hub Actions,0,0,NO LICENSE,HCL,"{'HCL': 78.23, 'Shell': 9.25, 'Jinja': 8.15, 'PowerShell': 4.37}"
+AhuraMazda99/azure,azure resources,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+keitamory/Terraform_Infra,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nishanttx/newrepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sushrestha/azure,"stuffs related to Azure - Terraform code, Design and so on",0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Nisha318/Terraform-Azure-Configs,Terraform Configuration Files for Azure,1,0,NO LICENSE,HCL,"{'HCL': 99.98, 'PowerShell': 0.02}"
+wibblemaster/ctest,Simple AKS TF example,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sduff/ccloud-demo,ccloud-demo,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ShyamaKalandoor/JCRepo,,0,0,NO LICENSE,HCL,"{'HCL': 99.98, 'Dockerfile': 0.02}"
+LOLRedPanda/app-core,Open Source Core Application,2,0,GNU General Public License v3.0,JavaScript,"{'JavaScript': 53.48, 'TypeScript': 30.51, 'HCL': 15.18, 'Dockerfile': 0.76, 'CSS': 0.06}"
+amitsharma77336/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+terenceluk/Development,,0,0,NO LICENSE,HCL,"{'HCL': 88.84, 'Shell': 8.6, 'Ruby': 2.25, 'PowerShell': 0.32}"
+tetrateio/tetrate-service-bridge-sandbox,"Deploy Tetrate Service Bridge Demo on Azure Kubernetes Service (AKS), Google Kubernetes Engine (GKE) and/or Elastic Kubernetes Service (EKS) using Terraform",8,8,Apache License 2.0,HCL,"{'HCL': 90.91, 'Makefile': 7.99, 'Shell': 1.1}"
+ElettroAle/SharedInfrastructure,,0,0,NO LICENSE,HCL,"{'HCL': 99.4, 'PowerShell': 0.6}"
+identiq-protocol/edge-infrastructure,Identiq Edge provisioning Terraform modules  ,4,0,NO LICENSE,HCL,"{'HCL': 90.81, 'Shell': 8.82, 'Smarty': 0.37}"
+TestOrg679/APIMTerraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+meloservices/WSL2-Powershell-Script,,0,0,NO LICENSE,HCL,"{'HCL': 89.63, 'PowerShell': 10.37}"
+Mouflok/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dawlysd/azure-application-gateway-microhack,,2,1,NO LICENSE,HCL,{'HCL': 100.0}
+kgknutsson/terraform-modules,Reusable Terraform modules,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+gogorichie/tf-playground,Terraform Based Azure Playground Environment For Learning,3,2,NO LICENSE,HCL,"{'HCL': 98.77, 'Shell': 1.23}"
+massdriver-cloud/massdriver-cli,A command line interface for managing your Massdriver account and resources,3,2,Apache License 2.0,Go,"{'Go': 95.82, 'HCL': 1.32, 'Makefile': 1.09, 'Dockerfile': 0.86, 'Ruby': 0.78, 'Shell': 0.14}"
+imjoseangel/terraform-azurerm-cognitive,Terraform Module for deploying a Azure Cognitive Service (QNA),0,0,MIT License,HCL,"{'HCL': 67.26, 'Shell': 25.18, 'Python': 6.44, 'Makefile': 1.12}"
+claranet/terraform-azurerm-bastion-vm,Terraform module for a bastion (Jump Host) via a Linux VM,3,1,Apache License 2.0,HCL,"{'HCL': 99.55, 'Smarty': 0.45}"
+yogikondeboina/githuby,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+AkzholS7/terraform-azurerm-networking_folder,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+santosh-gh/Terraform,,0,0,NO LICENSE,HCL,"{'HCL': 94.83, 'Shell': 5.17}"
+Mastermind-J3/project-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/am-role-assignment-batch-service,,0,1,MIT License,Java,"{'Java': 92.93, 'HTML': 3.43, 'Shell': 1.9, 'Groovy': 1.08, 'HCL': 0.41, 'Dockerfile': 0.24}"
+vijaypraneeth/bdonline-tf-code-v2.5,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+gabhijit99/test,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yogikondeboina/azterraformact,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+itom-qe/terraform-test-2023-02-13-T-10-02-611-beahy,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+siddhartha2303/azurelabs,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nidave5/codegoat1,,0,0,NO LICENSE,HCL,"{'HCL': 93.19, 'Makefile': 2.18, 'Go': 1.64, 'Shell': 1.49, 'Bicep': 0.68, 'Dockerfile': 0.28, 'JavaScript': 0.27, 'Smarty': 0.26}"
+afriha/aks-labs,,0,0,Apache License 2.0,HCL,"{'HCL': 98.76, 'HTML': 1.24}"
+fingineering/MaskedColumnDBDemo,A demo project containing Terraform files and SQL Server Project to create a demo DB with masked columns,0,0,NO LICENSE,HCL,"{'HCL': 78.53, 'TSQL': 21.47}"
+gangwalabhay99/terraform-github-action,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sighup/xyz-infra,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+olandodeflexy/aks-cluster-terraform,,0,0,NO LICENSE,HCL,"{'HCL': 61.23, 'Shell': 38.77}"
+olandodeflexy/token-generation-script,,0,0,NO LICENSE,HCL,"{'HCL': 83.12, 'Shell': 16.88}"
+hari11uj1/testsight,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hashicorp-japan/se-workshop-hashicat-app-jp,,0,0,Mozilla Public License 2.0,HCL,"{'HCL': 84.33, 'Shell': 15.67}"
+FdelMazo/7573-Arqui,Trabajos Prácticos de Arquitectura de Software (Curso Calonico) - 7573 - 2022c2 FIUBA ,2,0,NO LICENSE,HCL,"{'HCL': 50.59, 'JavaScript': 29.33, 'Shell': 13.13, 'Makefile': 3.09, 'Python': 2.98, 'Dockerfile': 0.88}"
+Rehshma/Terraform_Project,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+steffaloff/cafekopp,Web app with NextJs-13,0,0,NO LICENSE,JavaScript,"{'JavaScript': 65.87, 'CSS': 21.25, 'HCL': 12.88}"
+adamrushuk/devops-lab,This is the main repo where I test and use DevOps tools and processes.,20,2,NO LICENSE,PowerShell,"{'PowerShell': 38.15, 'HCL': 30.01, 'Shell': 29.61, 'Dockerfile': 1.23, 'Smarty': 0.56, 'Python': 0.45}"
+equinor/terraform-azurerm-databricks,Terraform module which creates Azure Databricks resources,0,0,NO LICENSE,HCL,"{'HCL': 80.53, 'Go': 19.47}"
+IndhumathiParamasivam/terraform-aks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ShyamaKalandoor/my_terragoat,,0,0,Apache License 2.0,HCL,"{'HCL': 99.98, 'Dockerfile': 0.02}"
+tjsullivan1/tjs-scripts,"Instead of using gists, a repo for my scripts. ",2,0,MIT License,PowerShell,"{'PowerShell': 38.19, 'HCL': 23.62, 'Bicep': 22.37, 'Python': 11.45, 'Shell': 3.59, 'Batchfile': 0.47, 'Dockerfile': 0.31}"
+AnilDeyyala/terratest-modules-terraform,,0,0,NO LICENSE,Go,"{'Go': 51.66, 'HCL': 48.34}"
+giridhar23/terraform-provision-aks-cluster,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Ozoubia/test,,0,0,Apache License 2.0,Java,"{'Java': 62.06, 'Kotlin': 29.76, 'HCL': 8.01, 'Python': 0.18}"
+clouddrove/terraform-azure-virtual-machine,,0,1,MIT License,HCL,"{'HCL': 97.75, 'Go': 2.0, 'Makefile': 0.15, 'Shell': 0.11}"
+zsolt-github/Demo-Project-Jenkins--v2,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hari11uj1/PURVIEW,THIS IS FOR PURVIEW,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pluralsight-cloud/content-Hands-on-with-Terraform-on-Azure,,0,0,NO LICENSE,Bicep,"{'Bicep': 69.91, 'PowerShell': 27.79, 'HCL': 2.3}"
+CPS-Innovation/DNS-Self-Service,Repository to allow developers to create their own DNS zones and records under int.cps.gov.uk,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+BrightCubes/terraform-azure-workshop,,0,0,NO LICENSE,HCL,"{'HCL': 99.8, 'Shell': 0.2}"
+praveen2391/dss-cus,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ravi-git-22/11-feb-deploy-app-pipeline-static-website2,this repository is to create  a staic website and host in Azure Storage,0,0,NO LICENSE,HCL,"{'HCL': 46.8, 'Shell': 39.63, 'HTML': 13.56}"
+CPS-Innovation/pipeline-vpnclient-poc,Demo of azure vnet and VPN client that can be used by humans and also DevOps pipelines,0,0,MIT License,HCL,{'HCL': 100.0}
+jmspradlin/multicloud,Example Terraform Deployment to multiple cloud providers.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bootlabstech/terraform-azurerm-blob,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+anksonu92/terraform-on-azure-with-azure-devops,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pagopa/pagopa-afm-calculator,Taxpayer fees calculator for pagoPA,0,1,NO LICENSE,Java,"{'Java': 68.42, 'Gherkin': 14.43, 'JavaScript': 6.18, 'Shell': 5.18, 'HCL': 4.14, 'Python': 1.03, 'Dockerfile': 0.62}"
+kl3lia/mlops-project-template,,0,0,MIT License,Python,"{'Python': 71.43, 'Jupyter Notebook': 20.96, 'HCL': 5.35, 'Bicep': 1.39, 'Dockerfile': 0.87}"
+fawziklo/mlops-accelerator-demo,,0,0,MIT License,Python,"{'Python': 51.12, 'HCL': 48.88}"
+mstva/kodeec,Flask Backend API with Azure Infrastructure,0,0,NO LICENSE,HCL,"{'HCL': 56.37, 'Python': 35.41, 'Dockerfile': 4.24, 'Shell': 3.98}"
+tim-gr/cloud-lab,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 60.13, 'HCL': 32.32, 'Pug': 5.37, 'CSS': 2.17}"
+sirisha423/azure_windows_vm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+katharikoti/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+karthiksg23/Bosch-Azure-Devops-Feb-23,,0,0,NO LICENSE,HCL,"{'HCL': 63.37, 'Shell': 28.18, 'Jinja': 4.65, 'HTML': 1.42, 'Dockerfile': 1.34, 'Batchfile': 1.04}"
+pagopa/mil-infra,SW Client Project - Multi-channel Integration Layer - Infrastructure,0,0,NO LICENSE,HCL,"{'HCL': 93.17, 'Shell': 6.83}"
+tuananh281/devops-project,This is my first DevOps project,2,1,NO LICENSE,HCL,"{'HCL': 98.61, 'Shell': 1.39}"
+Anuragkhare9211/mlops-v2,,0,0,MIT License,Python,"{'Python': 71.43, 'Jupyter Notebook': 20.96, 'HCL': 5.35, 'Bicep': 1.39, 'Dockerfile': 0.87}"
+trevorpatch73/TF-MAC-HUB-SPOKE,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mario-slowinski/terraform-azurerm-subnet,Terraform Azure Subnet.,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+Sunbird-Obsrv/obsrv-automation,,0,5,MIT License,Mustache,"{'Mustache': 85.12, 'HCL': 11.75, 'Smarty': 3.13}"
+vdmgolub-corp/demo-repo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+MohanBatta/website,,0,0,NO LICENSE,HCL,"{'HCL': 72.93, 'HTML': 27.07}"
+alex-kuck/circleci-env-via-terraform,Minimal example displaying how to sync secrets managed in Terraform to CircleCI,0,0,NO LICENSE,HCL,"{'HCL': 93.88, 'Makefile': 6.12}"
+GTRekter/Training,Training template,8,10,MIT License,HCL,"{'HCL': 45.73, 'JavaScript': 29.12, 'C#': 13.63, 'HTML': 7.89, 'CSS': 1.47, 'Dockerfile': 1.13, 'Go': 0.62, 'Shell': 0.42}"
+Vriksha-maker/test,,0,0,NO LICENSE,HCL,"{'HCL': 78.6, 'JavaScript': 10.99, 'PowerShell': 10.41}"
+anis-org/terraform-workshop,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Naveen-100/terraform-assessment,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Avi207/terraform_adv,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+MontiCore/montithings,A MontiCore language for IoT applications,10,6,Other,Java,"{'Java': 42.63, 'C++': 30.09, 'FreeMarker': 9.38, 'C': 5.55, 'Prolog': 4.85, 'Mathematica': 3.42, 'Python': 1.52, 'Shell': 0.72, 'Vue': 0.65, 'CMake': 0.26, 'PowerShell': 0.25, 'Dockerfile': 0.21, 'HCL': 0.2, 'JavaScript': 0.18, 'Groovy': 0.05, 'Arc': 0.03, 'Fluent': 0.0}"
+vazsingh/azure-tools,,0,0,NO LICENSE,Bicep,"{'Bicep': 54.42, 'HCL': 24.0, 'PowerShell': 21.58}"
+StevenDK2405/Azure-Cloud-DevOps-Starter-Code,,0,0,Other,Jupyter Notebook,"{'Jupyter Notebook': 70.48, 'HCL': 15.4, 'Python': 7.13, 'Shell': 4.62, 'Makefile': 1.69, 'Dockerfile': 0.69}"
+nausif/azure-tf-practice,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+aileenjenkins/lab2,,0,0,NO LICENSE,HCL,"{'HCL': 73.49, 'Shell': 13.43, 'Bicep': 13.07}"
+youssefjeh/Automating-Terraform-deployments-on-Azure-using-Jenkins,,0,0,NO LICENSE,HCL,"{'HCL': 66.78, 'Java': 16.37, 'HTML': 7.53, 'Shell': 7.22, 'Dockerfile': 2.1}"
+ExtraBB/tf,Terraform for AZ-700,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+devops1777/Tarun-Windows-VM,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+mhassaninmsft/fraud-detection,,0,0,NO LICENSE,C#,"{'C#': 74.21, 'HCL': 22.69, 'Dockerfile': 2.77, 'Shell': 0.33}"
+ycetindil/Terraform-Azure-Standard-Load-Balancer,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+oWretch/Nerdio-Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ccs-test-org/az-nsg,Azure Network Security Group,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+treydoesdevops/terraform-modules-exam,Creating reusable infrastructure as code with terraform modules,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+cycloidio/backend-test-catalogs-repo,,0,0,NO LICENSE,HCL,"{'HCL': 69.95, 'Jinja': 16.79, 'Python': 7.9, 'Shell': 5.36}"
+narisada014/azure_queuing,,0,0,NO LICENSE,Go,"{'Go': 88.6, 'HCL': 11.4}"
+sndpch/multiple-azure-vm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sndpch/azure-vm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tribv-gh-org/terraform-azurerm-landingzone,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+itom-qe/terraform-test-2023-02-15-T-10-02-757-hihsk,,0,0,NO LICENSE,,{}
+Azure-Samples/media-services-video-indexer,Contains the Azure Media Services Video Indexer samples,80,61,MIT License,JavaScript,"{'JavaScript': 32.45, 'Jupyter Notebook': 21.13, 'C#': 11.55, 'HTML': 9.08, 'Python': 8.58, 'HCL': 4.94, 'PowerShell': 4.17, 'Smarty': 3.41, 'TypeScript': 2.03, 'Java': 1.45, 'CSS': 0.65, 'Dockerfile': 0.41, 'Bicep': 0.07, 'SCSS': 0.03, 'Shell': 0.03, 'ASP.NET': 0.01}"
+lohrenzho/terrazure,sample azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+suresh-akidev/terraform-skillupstan,,0,0,NO LICENSE,HCL,"{'HCL': 97.38, 'Shell': 2.62}"
+OTTER-5GWAN/topology,Terraform code for generating multi-WAN topology,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+namballa/globalcloud,globalcloud,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+massdriver-cloud/azure-cognitive-service-language,,0,0,NO LICENSE,HCL,"{'HCL': 46.32, 'Ruby': 34.46, 'Makefile': 19.22}"
+almostrealism/iwfm-docker,Integrated Water Flow Model Docker Container based on Intel HPC Kit,1,1,NO LICENSE,Fortran,"{'Fortran': 52.97, 'TeX': 38.18, 'Python': 3.58, 'Shell': 1.59, 'C': 1.49, 'CMake': 0.84, 'Makefile': 0.49, 'HCL': 0.45, 'HTML': 0.18, 'C++': 0.09, 'Smarty': 0.08, 'M4': 0.03, 'Meson': 0.02, 'Dockerfile': 0.01, 'NASL': 0.01}"
+Robin118/terraform_azure,Este repositorio contiene la configuración de IaaS con Terraform de una arquitectura en Microsoft Azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sagarpawar123/IaCBatch,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ggauchon/FYC-Exercice,Document aide FYC,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+freelearn2000/Python1,,0,0,NO LICENSE,HCL,"{'HCL': 46.12, 'Jupyter Notebook': 33.44, 'HTML': 10.99, 'JavaScript': 9.45}"
+gbralo/garage,,0,0,NO LICENSE,C#,"{'C#': 71.93, 'HCL': 16.97, 'Dockerfile': 11.09}"
+OrCider/terragoat,,0,0,Apache License 2.0,HCL,"{'HCL': 99.98, 'Dockerfile': 0.02}"
+movinalot/hashitalks-2023,Terraform code for HashiTalks 2023 - Advanced Terraform Techniques 2/16 11:45-12:15 Eastern,0,0,MIT License,HCL,{'HCL': 100.0}
+montassarRebai/Eurowings-digital,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+HappyPotatoman/DevOpsAdvancedTerraform,Terraform Scripts,0,0,NO LICENSE,HCL,"{'HCL': 92.25, 'Python': 4.47, 'Dockerfile': 3.29}"
+rmasclef/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+matt-de-dominicis/project-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jmspradlin/azure-demo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+SudhakarVSBattula/Pipeline-Staticwebapp,This repository is used to deploy static web app,0,0,NO LICENSE,HCL,"{'HCL': 66.77, 'HTML': 33.23}"
+anupam-sy/terraform-azure-lab,This repository contains Terraform codes for Infrastructure deployment on Azure Public Cloud.,0,3,MIT License,HCL,{'HCL': 100.0}
+deepanshu03091995/Deep_Authenticator_image_recognition,,0,0,MIT License,Python,"{'Python': 87.55, 'HCL': 11.22, 'Shell': 0.79, 'Dockerfile': 0.44}"
+mjtechguy/tf-ab-demo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+BackstageOrgTest/labs-msl8r,,0,0,MIT License,,"{'Java': 59.18, 'Shell': 21.18, 'Groovy': 12.13, 'HCL': 4.63, 'Dockerfile': 2.88}"
+AndrinJmurco/Customers_test,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+learningcicd/tfe-build-composite,,0,0,NO LICENSE,Open Policy Agent,"{'Open Policy Agent': 61.24, 'HTML': 27.25, 'HCL': 11.31, 'CSS': 0.21}"
+akinomojola/terratestscript,Terraform scripts in design...,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+brianpaulflynn/AIML01,,0,0,NO LICENSE,HCL,"{'HCL': 96.96, 'Shell': 3.04}"
+FrenchBarbusCorp/Workshop-Azure-Container-Apps,Workshop 1 journée sur Azure Container Apps,2,50,NO LICENSE,HTML,"{'HTML': 46.37, 'HCL': 23.37, 'JavaScript': 19.24, 'Shell': 6.28, 'Dockerfile': 4.73}"
+martin-boost-dev/labels-test,,0,0,NO LICENSE,HCL,"{'HCL': 84.48, 'Python': 12.89, 'HTML': 1.87, 'Ruby': 0.75, 'Dockerfile': 0.01}"
+raphaeldeletoille/digital,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+scottamass/Devops-Course-Starter,,0,0,NO LICENSE,Python,"{'Python': 52.28, 'HTML': 36.82, 'HCL': 8.9, 'CSS': 1.43, 'Jinja': 0.57}"
+MaxRuban24/watchplayread-iac,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+qbeyond/terraform-azurerm-domain-controller,,0,0,MIT License,HCL,{'HCL': 100.0}
+CDCgov/prime-simplereport,"SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments.",40,18,Creative Commons Zero v1.0 Universal,TypeScript,"{'TypeScript': 41.88, 'Java': 41.45, 'HCL': 9.65, 'CSS': 2.15, 'SCSS': 1.89, 'JavaScript': 1.84, 'PLpgSQL': 0.38, 'Shell': 0.37, 'Makefile': 0.16, 'HTML': 0.12, 'Python': 0.07, 'Dockerfile': 0.04}"
+MDRCS/terrafrom_azure,Terraform Snippets to provision resources on Azure Cloud ,0,0,MIT License,HCL,{'HCL': 100.0}
+zepouet/my-cycloid-stack,,0,0,NO LICENSE,HCL,"{'HCL': 84.23, 'Shell': 15.77}"
+johnathanvidu/prod-tests,,0,11,NO LICENSE,HCL,"{'HCL': 86.68, 'Mustache': 12.71, 'Shell': 0.61}"
+hmcts/civil-citizen-ui,Civil Citizen UI (CCUI) application,4,6,MIT License,TypeScript,"{'TypeScript': 80.46, 'Nunjucks': 15.37, 'JavaScript': 3.34, 'Shell': 0.37, 'Groovy': 0.18, 'HCL': 0.14, 'SCSS': 0.12, 'Dockerfile': 0.01}"
+Pwd9000-ML/Azure-Terraform-Deployments,Repo used to deploy Azure Resources using Terraform and GitHub Actions,19,11,MIT License,HCL,"{'HCL': 87.44, 'PowerShell': 12.56}"
+Rakeshwebtech/multiserverlinux,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+syedishaq13129/AzurePipelines,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+MervHashiCorp/AzureVault_AzureAD-SSH,AzureAD Auth Method,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+emilefraser/terraform-extended,,0,0,"BSD 3-Clause ""New"" or ""Revised"" License",Makefile,"{'Makefile': 47.02, 'Shell': 33.08, 'HCL': 11.91, 'Batchfile': 7.99}"
+leancodepl/terraform-kubernetes-cluster,,2,3,Other,HCL,"{'HCL': 92.28, 'Smarty': 7.72}"
+anampvalente/devops,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+noney1412/extend-terraform-modules,,0,0,NO LICENSE,HCL,"{'HCL': 97.57, 'PowerShell': 2.43}"
+koenwillems-tomtom/ansible-ctrl-node,ansible-ctrl-node,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+thetruemandalorian/devopsdockerkuberneazuredevops,,0,0,NO LICENSE,Java,"{'Java': 61.67, 'HCL': 32.77, 'Dockerfile': 3.15, 'Gherkin': 1.27, 'JavaScript': 0.7, 'Python': 0.45}"
+sreekanthvarmayadavalli/azure-aks-kubernetes-masterclass,,0,0,NO LICENSE,HCL,"{'HCL': 53.54, 'Java': 42.17, 'HTML': 2.19, 'Shell': 1.64, 'Dockerfile': 0.47}"
+sagarpawar123/hello-world,Test  Website,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+knoldus/Terraform-script-to-create-resouregroup-and-acr,This template helps you to create acr using terrafrom script,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+girishbm4567/terraform-master,To learn terraform,0,0,NO LICENSE,HCL,"{'HCL': 97.97, 'Shell': 2.03}"
+suresh0106/multiple-VMs-Deployment,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+NoPanicBanick/iac-banicry-aks,Infrastructure as code for standing up my aks cluster in azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Abdulrahman-Alpha/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ptsaran/saran,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jatinbhalla/janbatch,,0,20,NO LICENSE,HCL,"{'HCL': 90.52, 'Java': 9.34, 'Rich Text Format': 0.14}"
+Gitlearning1847/Azure-vm-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rocketstack-matt/feedme.email,,0,1,NO LICENSE,HCL,"{'HCL': 53.11, 'Java': 46.89}"
+absandell/azure-virtual-network-demo,Demonstration of VNet Creation in Terraform for Azure Cloud Environment,0,0,MIT License,HCL,{'HCL': 100.0}
+johnnyarteaga/AzureDevopsPipelines,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+thuneby/Orchestrator,A lightweight event-based orchestrator in .Net Core,0,0,Other,C#,"{'C#': 85.02, 'JavaScript': 6.99, 'HTML': 3.61, 'CSS': 1.8, 'Dockerfile': 1.77, 'HCL': 0.48, 'Gherkin': 0.2, 'TSQL': 0.15}"
+arshadwhoami/Assignments,,0,0,NO LICENSE,HCL,"{'HCL': 86.9, 'Python': 6.73, 'PowerShell': 6.37}"
+onkar945/demo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+shishwath/myrepo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rabanedo/azure-cp2,Despliegue Azure AKS con Terraform + Ansible,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+JFolberth/Azure_IaC_Flavors,Open source repository to help others learn about IaC and the various flavors,4,3,MIT License,HCL,"{'HCL': 58.13, 'Bicep': 29.19, 'C#': 11.29, 'Dockerfile': 1.39}"
+jchancellor-ms/infrastructure-labs,Azure Infrastructure test-labs.  Restructuring layout,0,0,NO LICENSE,HCL,"{'HCL': 58.35, 'PowerShell': 41.15, 'Shell': 0.49}"
+a-z-unity/terraform-self-containing-cloud-provisioning,IoC example,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+chrisbuckleycode/cloud-devops-azure,"Azure Terraform. Larger projects have own repo, everything else here",0,0,MIT License,HCL,{'HCL': 100.0}
+ulc0/csels-mlops-dev,devv2 mlops template,0,0,NO LICENSE,Python,"{'Python': 58.59, 'HCL': 41.41}"
+Sumit016/Cloud_Tasks,,2,0,NO LICENSE,HCL,"{'HCL': 85.79, 'PowerShell': 9.91, 'Shell': 4.29}"
+cassucena/pipeline-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/cpp-terraform-functionapp-deployment,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yogikondeboina/git-push,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+oguzhanaydogan/terraform-lb-phonebook-app,,0,0,NO LICENSE,HCL,"{'HCL': 43.93, 'Python': 34.49, 'HTML': 19.82, 'Shell': 1.75}"
+Snwhite7/TerraformBasics,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+HellBuoyIshh/Apexon,Apexon,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yhyakuna/vault-demos,HashiCorp Vault demo assets,0,0,NO LICENSE,HCL,"{'HCL': 76.12, 'Shell': 23.88}"
+mattvbv/tf-module-azure-aks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+julienLemarie/SdvGaming,,1,0,NO LICENSE,C#,"{'C#': 70.37, 'HTML': 20.57, 'HCL': 6.5, 'CSS': 2.16, 'JavaScript': 0.4}"
+caotritran/Terraform_Azure_CDN,,0,0,NO LICENSE,HCL,"{'HCL': 55.45, 'Python': 44.55}"
+raedrizk/ansible-terraform-demos,,2,0,MIT License,HCL,"{'HCL': 67.98, 'Jinja': 30.01, 'Shell': 2.01}"
+drcrook1/databricks_ml_data_ops_2023,Updated version of my older ML Ops on databricks repo but modernized.  Things have just changed a lot over the years and the old one is not as relevent any more.,0,0,MIT License,HCL,"{'HCL': 38.87, 'Shell': 36.69, 'Bicep': 24.44}"
+Nyksson/JabbaDabbaLabb,labb,0,0,NO LICENSE,JavaScript,"{'JavaScript': 60.0, 'HCL': 32.49, 'Pug': 5.35, 'CSS': 2.16}"
+Thess-tech/web-app,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 60.12, 'HCL': 32.34, 'Pug': 5.37, 'CSS': 2.17}"
+marols97/-org-repo-,,0,0,NO LICENSE,HCL,"{'HCL': 57.8, 'JavaScript': 33.74, 'Dockerfile': 4.23, 'Pug': 3.01, 'CSS': 1.22}"
+nuncomputing/terraform-azure-static-website-module-manifests,,0,0,NO LICENSE,HCL,"{'HCL': 91.5, 'HTML': 8.5}"
+tatsuryu/azure-tf-vm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/aks-sds-deploy,,3,5,NO LICENSE,HCL,"{'HCL': 72.49, 'Shell': 27.51}"
+elfilado/Infra,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mattiasholm/code,A collection of code and cheat sheets to facilitate the daily life of an Azure Solutions Architect!,3,3,MIT License,PowerShell,"{'PowerShell': 59.72, 'Shell': 17.14, 'HCL': 8.87, 'Python': 7.48, 'Bicep': 4.19, 'Batchfile': 2.5, 'Dockerfile': 0.09}"
+LadrianoCloud/rpy-helm,Repositório Criado para test do Helm,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+VillandryCalderon/Service,Test_Service,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ned1313/hashitalks-2023-boundary,Demo code for HashiTalks 2023 Boundary Presentation,0,0,MIT License,HCL,"{'HCL': 68.09, 'Shell': 31.91}"
+ajchon/Github-Actions-Terraform-Azure,This is a demo repo for Github Actions,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+LuiguiCastillo/terraform-azure,Infraestructura en el proveedor de Azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+clouddrove/terraform-azure-resource-group,Terraform module for managing Azure resource groups,0,2,Apache License 2.0,HCL,"{'HCL': 98.61, 'Makefile': 1.39}"
+qbeyond/terraform-azurerm-nsg,Creates a network security group that takes a .yaml File as input where network security group rules are defined.,0,0,MIT License,HCL,{'HCL': 100.0}
+WayneHoggett-ACG/Hands-On-with-Terraform-on-Azure,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+BestSolutionOrg/azure-devops-templates-iac,,0,0,MIT License,Bicep,"{'Bicep': 70.95, 'Dockerfile': 15.02, 'HCL': 14.03}"
+gehlotanish/terraform-azure-storage,,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+jcroyoaun/cerouno-terraform-course,Curso de IaC Semana 10 para Cerouno,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+chrismatteson/k8s-spin-demo,A demo repository with code to spin up various kubernetes environments and deploy a demo spin application,0,0,NO LICENSE,HCL,"{'HCL': 90.25, 'Rust': 5.66, 'Dockerfile': 4.09}"
+ComputeCanada/magic_castle,Terraform modules to replicate the HPC user experience in the cloud,85,28,MIT License,HCL,"{'HCL': 91.64, 'Shell': 4.41, 'Python': 3.95}"
+sunileman/1ClickECK,1Click Automation of Elastic Cloud on Kubernetes,5,2,NO LICENSE,HCL,"{'HCL': 73.44, 'Shell': 26.56}"
+rameshagowda/terraform-azure-ghactions,,0,0,MIT License,Open Policy Agent,"{'Open Policy Agent': 50.83, 'HCL': 41.44, 'Makefile': 7.73}"
+geekzter/azure-pipeline-agents,Network integrated Pipeline Agents,15,6,MIT License,HCL,"{'HCL': 70.2, 'PowerShell': 28.31, 'Shell': 1.36, 'Ruby': 0.1, 'Batchfile': 0.04}"
+rameshagowda/terraform-azure-gha,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Veer-Kambampati/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sravan483/devops-practice,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kalalvishal/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rahulkusuma234/API,Building REST API and converting source code into docker image then later deploying into kubernetes cluster using terraform,0,0,NO LICENSE,HCL,"{'HCL': 63.55, 'Python': 26.63, 'Dockerfile': 9.82}"
+nikolamar/kubernetes-templates,,0,0,NO LICENSE,HCL,"{'HCL': 52.03, 'Dockerfile': 27.39, 'JavaScript': 8.98, 'Go': 8.18, 'TypeScript': 3.14, 'Shell': 0.28}"
+hmcts/terraform-module-azure-bastion,This module allows deploying azure bastion service.,0,0,MIT License,HCL,{'HCL': 100.0}
+Navinalone/Terraform-SimpleR,simple resources creating using Terraform ,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+genrydev/DevOps-Technical-Assessment,DevOps Technical Assessment,0,0,MIT License,HCL,"{'HCL': 68.29, 'Python': 24.01, 'Dockerfile': 7.7}"
+asfritecx/LearningTerraform,For my self learning for terraform,0,0,MIT License,HCL,{'HCL': 100.0}
+AriaM99c/cloudworkshop,,0,0,NO LICENSE,HCL,"{'HCL': 63.31, 'JavaScript': 29.36, 'Dockerfile': 3.67, 'Pug': 2.61, 'CSS': 1.05}"
+WhiteMaken/lab2cloud,Lab 2 of Cloud workshop,0,0,NO LICENSE,HCL,"{'HCL': 64.03, 'JavaScript': 28.61, 'Dockerfile': 3.79, 'Pug': 2.55, 'CSS': 1.03}"
+victoriaboquist/cloudLab,,0,0,NO LICENSE,HCL,"{'HCL': 57.79, 'JavaScript': 33.75, 'Dockerfile': 4.23, 'Pug': 3.02, 'CSS': 1.22}"
+MorrisRep/saab-morris,lab,0,0,NO LICENSE,JavaScript,"{'JavaScript': 50.46, 'HCL': 43.21, 'Pug': 4.51, 'CSS': 1.82}"
+ekorneyc/CL,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ErikBock/NewMindsScalability,,0,0,NO LICENSE,HCL,"{'HCL': 60.29, 'JavaScript': 35.3, 'Pug': 3.14, 'CSS': 1.27}"
+INGourav/Azure-Resources,Repo to Store all script related to Azure resources,1,1,NO LICENSE,PowerShell,"{'PowerShell': 82.52, 'HCL': 15.6, 'Shell': 1.37, 'Dockerfile': 0.44, 'HTML': 0.06}"
+patkleef/azure-private-dns-resolver,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+vicky141087/asml,,0,0,NO LICENSE,HCL,"{'HCL': 47.25, 'Jinja': 29.4, 'Shell': 10.67, 'PowerShell': 6.78, 'C#': 3.26, 'HTML': 1.9, 'JavaScript': 0.46, 'CSS': 0.15, 'Python': 0.13}"
+matheusbudin/Terraform-Course,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hashicorp/hashicat-azure,Sample app for Terraform workshops,75,1921,Apache License 2.0,HCL,"{'HCL': 94.18, 'Shell': 5.82}"
+sreekanthvarmayadavalli/hashicorp-certified-terraform-associate-on-azure,,0,0,NO LICENSE,HCL,"{'HCL': 94.78, 'Shell': 4.03, 'HTML': 1.18}"
+jwelby007/hashitalks-2023-data-driven-code,,0,0,MIT License,HCL,{'HCL': 100.0}
+dbobola/dathway,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 85.94, 'Python': 5.47, 'HCL': 4.35, 'HTML': 3.84, 'CSS': 0.21, 'Dockerfile': 0.19}"
+MissPiggy111/terraform-azurerm-staticwebsitepublic,Terraform Modules to be shared in Terraform Public Registry,0,0,Apache License 2.0,HCL,"{'HCL': 91.5, 'HTML': 8.5}"
+pagopa/selfcare-platform-azure-devops,,0,0,NO LICENSE,HCL,"{'HCL': 98.97, 'Shell': 1.03}"
+briggendudex/app-gw-module,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ClementDim/eval_azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/aks-baseline-windows,,10,0,MIT License,JavaScript,"{'JavaScript': 56.35, 'C#': 17.55, 'HCL': 16.65, 'HTML': 6.0, 'CSS': 1.37, 'TSQL': 0.93, 'Dockerfile': 0.61, 'PowerShell': 0.51, 'ASP.NET': 0.02}"
+pavanjava/terraform-tutorial,has got terraform configs to play with Azure & AWS,3,1,Apache License 2.0,HCL,{'HCL': 100.0}
+inhashed/thehive-sentinel-integration,Integration tools for TheHive and Azure Sentinel,6,6,GNU General Public License v3.0,,"{'Python': 36.38, 'Go': 33.18, 'HCL': 29.88, 'Dockerfile': 0.56}"
+arjunachari12/tf-linux-web-app,,0,2,NO LICENSE,HCL,{'HCL': 100.0}
+joseiram-avd/mlops-project-template,,0,0,MIT License,Python,"{'Python': 71.43, 'Jupyter Notebook': 20.96, 'HCL': 5.35, 'Bicep': 1.39, 'Dockerfile': 0.87}"
+ANUJCK/Azure-appservices-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+tobiasbuhmann/azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sajipoochira/terraform-deployment,,0,0,NO LICENSE,HCL,"{'HCL': 99.46, 'PowerShell': 0.54}"
+aasanov/terraform-azure,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+giri347/webapp_pip_task,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nathanbacon/minecraft-vpn,,0,0,NO LICENSE,HCL,"{'HCL': 85.23, 'Shell': 14.77}"
+pmasineni/janbatch,,0,0,NO LICENSE,HCL,"{'HCL': 90.52, 'Java': 9.34, 'Rich Text Format': 0.14}"
+Schillman/Azure-IaC,"Terraform, Infrastructure as code for Azure Tenant.",1,0,MIT License,HCL,"{'HCL': 99.08, 'Shell': 0.92}"
+josephGz/Infrastructure-with-terraform-for-Azure,,0,0,NO LICENSE,HCL,"{'HCL': 81.2, 'Shell': 18.8}"
+hmcts/hmc-judicial-payment-service,,0,0,MIT License,Java,"{'Java': 51.46, 'Shell': 33.19, 'Groovy': 11.47, 'HCL': 2.02, 'Dockerfile': 1.86}"
+maniimanjari/tech_challenge,,0,0,NO LICENSE,HCL,"{'HCL': 29.18, 'Go': 28.9, 'Python': 15.56, 'JavaScript': 6.9, 'HTML': 5.96, 'CSS': 4.95, 'Makefile': 3.56, 'Dockerfile': 2.78, 'PowerShell': 2.2}"
+ptsaran/terraform-azure-vm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+flyingnets-sh/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+markti/azure-terraformer,Labs from Azure Terraformer,1,0,NO LICENSE,HCL,"{'HCL': 98.29, 'Shell': 1.71}"
+openshift/installer,Install an OpenShift 4.x cluster,1279,1240,Apache License 2.0,,{}
+engklebercarvalho/2TCNR2023,,0,0,NO LICENSE,HCL,"{'HCL': 90.24, 'Shell': 9.76}"
+kingmzk/-azure-devops-kubernetes-terraform,,0,0,NO LICENSE,Java,"{'Java': 52.1, 'HCL': 45.63, 'Dockerfile': 2.27}"
+zriw/terraformazureiis,This project deploys a web server on Azure using Terraform. ,0,0,MIT License,HCL,{'HCL': 100.0}
+P0SlX/Azure-App,,0,0,NO LICENSE,C#,"{'C#': 68.52, 'HTML': 22.67, 'HCL': 6.62, 'CSS': 1.85, 'JavaScript': 0.34}"
+vbabulreddy/IBM_Cloud_Team,,0,0,NO LICENSE,HCL,"{'HCL': 67.04, 'Python': 32.96}"
+to-ando/sample-resource-group,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+equinor/terraform-azurerm-event-grid,,0,0,NO LICENSE,HCL,"{'HCL': 60.36, 'Go': 39.64}"
+gitavi21/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+anujagulhane/azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+PratapCannon/terraform_projrct,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kikikrittamate/arch_chap9,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 69.91, 'HCL': 15.62, 'Handlebars': 9.15, 'Shell': 4.37, 'CSS': 0.76, 'Dockerfile': 0.19}"
+drewlearns/liatrio,,0,0,NO LICENSE,HCL,"{'HCL': 95.14, 'JavaScript': 3.96, 'Shell': 0.48, 'Dockerfile': 0.42}"
+FOJEROLE/VPN_In_EDC_Datenraum,Integration von Wireguard_VPN in EDC Datenraum,0,0,NO LICENSE,Java,"{'Java': 93.9, 'Kotlin': 2.65, 'Ruby': 1.12, 'Shell': 0.63, 'TypeScript': 0.54, 'HTML': 0.42, 'Batchfile': 0.21, 'JavaScript': 0.2, 'HCL': 0.15, 'CSS': 0.06, 'Haml': 0.04, 'Dockerfile': 0.04, 'Smarty': 0.03, 'PHP': 0.01}"
+SoftcatMS/terraform-azure-updatemanagement,,0,0,NO LICENSE,HCL,"{'HCL': 98.16, 'Ruby': 1.84}"
+ravi2krishna/terraform-mdp-157-azure,Terraform Project For AZURE Demonstration,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Aygermany/Azure-DevOps-Kubernetes,,0,0,NO LICENSE,Java,"{'Java': 52.1, 'HCL': 45.63, 'Dockerfile': 2.27}"
+dulao5/tf-aws-to-azure-bgp-vpn,This GitHub repository provides a module that can be used to set up a highly available (HA) BGP VPN connection between an Azure virtual network and an AWS VPC.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+hmcts/launchdarkly-terraform,Terraform to create/manage feature toggle using LaunchDarkly,0,2,MIT License,HCL,"{'HCL': 80.2, 'Shell': 19.8}"
+manmohanmirkar123/azure-terraform-demo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+fdervisi/IaC-overview,,1,0,NO LICENSE,HCL,"{'HCL': 70.3, 'TypeScript': 16.62, 'JavaScript': 12.85, 'Dockerfile': 0.22}"
+christopalm/terraformcosmosafunction,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ocurity/e2e-monorepo,monorepo hosting several vulnerable applications both infrastructure and code wise in order to run e2e tests for dracon faster,0,0,NO LICENSE,PHP,"{'PHP': 17.16, 'JavaScript': 16.54, 'CSS': 16.43, 'HTML': 16.42, 'HCL': 11.37, 'SCSS': 10.08, 'Less': 3.68, 'Python': 2.71, 'EJS': 2.32, 'Go': 1.91, 'Jinja': 0.77, 'Shell': 0.46, 'Dockerfile': 0.08, 'Smarty': 0.03, 'Makefile': 0.03}"
+devtrf/DOPT,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ajchon/abs-demo-iac,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+robandpdx/arc-azure-terraform,,0,0,NO LICENSE,HCL,"{'HCL': 62.15, 'Shell': 24.05, 'Dockerfile': 13.8}"
+zilberd/my-foundation-kit,,0,0,MIT License,HCL,"{'HCL': 83.87, 'Open Policy Agent': 8.17, 'Shell': 4.22, 'PowerShell': 3.51, 'Makefile': 0.24}"
+samarsae-tr/-org-repo-,,0,0,NO LICENSE,HCL,"{'HCL': 63.37, 'JavaScript': 29.3, 'Dockerfile': 3.66, 'Pug': 2.61, 'CSS': 1.05}"
+thomasnowell/azure-lab,,0,0,NO LICENSE,HCL,"{'HCL': 60.32, 'JavaScript': 35.26, 'Pug': 3.15, 'CSS': 1.27}"
+equinor/terraform-azurerm-function-app,,0,0,NO LICENSE,HCL,"{'HCL': 94.79, 'Go': 5.21}"
+zoleg/Exampli,,0,0,Apache License 2.0,HCL,"{'HCL': 99.98, 'Dockerfile': 0.02}"
+arjunachari12/tf-rg,,0,2,NO LICENSE,HCL,{'HCL': 100.0}
+Rajeshhv1/ter-new,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+AnnaSnkhchyan-dev/cinchy.terraform,,0,0,MIT License,HCL,"{'HCL': 96.48, 'Mustache': 2.62, 'Smarty': 0.91}"
+mikkelhm/astabm-www,,0,0,MIT License,JavaScript,"{'JavaScript': 47.15, 'HCL': 45.68, 'HTML': 6.29, 'CSS': 0.88}"
+shivanimangla/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sassoftware/viya4-iac-azure,This project contains Terraform configuration files to provision infrastructure components required to deploy SAS Viya platform products on Microsoft Azure Cloud.,64,74,Apache License 2.0,HCL,"{'HCL': 94.95, 'Shell': 4.21, 'Dockerfile': 0.84}"
+prnayak4/tf-azure-antimalware,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+pcawichii/terraform-armstrong,The Terraform code to create the system required to host the edge devices.,0,0,NO LICENSE,HCL,"{'HCL': 85.9, 'TSQL': 14.1}"
+briandenicola/kubernetes,A repository of various K8S setups and configurations,7,2,MIT License,HCL,"{'HCL': 85.25, 'Shell': 4.89, 'C#': 3.22, 'JavaScript': 1.53, 'PowerShell': 1.23, 'CUE': 1.02, 'Makefile': 0.98, 'Dockerfile': 0.59, 'Pug': 0.57, 'Go': 0.39, 'Mustache': 0.31}"
+Daurn/SnakeArnaudNicJB,TP Cloud SDV,0,0,NO LICENSE,C#,"{'C#': 69.74, 'HTML': 21.45, 'HCL': 7.14, 'CSS': 1.68}"
+tamsey/cosmos,,0,0,NO LICENSE,Python,"{'Python': 88.06, 'HCL': 11.94}"
+azure365pro/azure-hub-spoke-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jmvigueras/playground,,3,2,NO LICENSE,HCL,"{'HCL': 97.94, 'Smarty': 2.05, 'Shell': 0.01}"
+charmoniumQ/wf-reg-test,,0,3,MIT License,Jupyter Notebook,"{'Jupyter Notebook': 94.37, 'Python': 4.81, 'HCL': 0.48, 'Shell': 0.24, 'Nix': 0.1}"
+HetaSewak/azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+RustyTake-Off/azure-policy-terraform,Mini project - Create azure policy with terraform.,1,0,MIT License,HCL,{'HCL': 100.0}
+kardell2006g/terraform-azurerm-tfe-prereqs,,0,0,NO LICENSE,HCL,"{'HCL': 99.92, 'Shell': 0.08}"
+jefutte/phpIPAM-Azure-AppService,phpIPAM docker running in Azure App Service,0,0,NO LICENSE,HCL,"{'HCL': 61.22, 'Bicep': 38.78}"
+Jiwanaga/lab-terra-containerapp,,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+kjblanchard/azure_learning,Learning azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+newpopnow/nd082-project1,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+erickgarces30/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+qbeyond/terraform-azurerm-policy-deploy-dependency-agent-windows,,0,0,MIT License,HCL,{'HCL': 100.0}
+Gitlearning1847/Terraform-lab,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+danilomnds/terraform-azurerm-aks,Module - Azure Kubernetes Services (AKS),0,0,NO LICENSE,HCL,{'HCL': 100.0}
+neshevajoana/terraform-repo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+fadallar/terraform-azurerm-keyvault,,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+goddann/test,,0,0,MIT License,JavaScript,"{'JavaScript': 40.9, 'Java': 33.24, 'HCL': 10.67, 'HTML': 8.91, 'Shell': 2.94, 'PowerShell': 1.64, 'CSS': 1.06, 'Less': 0.55, 'Dockerfile': 0.09}"
+aztfmods/module-azurerm-kv,terraform module which creates keyvault resources on azure,0,0,MIT License,HCL,"{'HCL': 93.64, 'Go': 6.36}"
+hqlco/AJK_TUGAS2_KELOMPOK3,,1,0,Apache License 2.0,PHP,"{'PHP': 81.42, 'Blade': 13.56, 'HCL': 3.46, 'Shell': 0.93, 'HTML': 0.35, 'Python': 0.27}"
+priyanka14092/Terraform--Learning-Practice,This repository contains terraform tasks done during learning period.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ludovicAngenard/gamingSDV,Deploy VM on Azure cloud,0,0,NO LICENSE,C#,"{'C#': 70.84, 'HTML': 20.61, 'HCL': 6.0, 'CSS': 2.15, 'JavaScript': 0.4}"
+rompianil/DevOps,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+zahidscatizzi/Azure-Terraform,"Archivo de configuración de Terraform que monta virtual networks, subnets, bases de datos y maquinas virtuales usadas como servidores de Drupal y Moodle.",0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Tonyplaza/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+rikkhanna/Jenkins_Azure_terraform,Installing and configuring jenkins on Azure Linux VM using Terraform,0,0,Apache License 2.0,HCL,"{'HCL': 94.52, 'Shell': 5.48}"
+fescobar-arg/Acid-Latam-Challenge,,0,0,NO LICENSE,HCL,"{'HCL': 52.44, 'Python': 25.09, 'Shell': 18.49, 'Dockerfile': 3.98}"
+OGjenzo/Ansible-Terraform-Lab,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+NicolajAaH/SWJ-terraform,Terraform files for provisioning resources on Azure for SoftwareJobs,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+ManchirajuSatish/kpmgtest,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+lwplabs/lwplabs-kubernetes,Repo for Kubernetes workshop,0,1,NO LICENSE,HCL,"{'HCL': 65.82, 'Shell': 19.38, 'Java': 6.52, 'HTML': 4.32, 'Dockerfile': 3.97}"
+bobbyabuchi/devops,,2,0,NO LICENSE,HCL,{'HCL': 100.0}
+DAKiersz/something-stochastic-hugo,New repository for An attempt to port initial efforts to the Hugo SSG.,0,0,GNU General Public License v3.0,HTML,"{'HTML': 73.67, 'HCL': 14.9, 'CSS': 11.43}"
+dapr-in-prod/samples,,3,0,MIT License,HCL,"{'HCL': 65.21, 'Shell': 31.26, 'JavaScript': 2.23, 'Dockerfile': 1.29}"
+hwang-db/terraform-homelab-project,Homelab project for Terraform use cases.,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+henrygustavo/azure-iac,,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+JespsonSTP/multi-cloud_MMORPG_terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+RajaCloud002/Practice,Terraform Pratice,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+arsArjun/Azure-Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+codeweaver116/skeddaChallenge,Technical challenge for skedda,0,0,NO LICENSE,HCL,"{'HCL': 77.47, 'C#': 22.53}"
+umamanikant/janbatch,,0,0,NO LICENSE,HCL,"{'HCL': 95.24, 'Java': 4.69, 'Rich Text Format': 0.07}"
+sathishjayapal/iAC-NikeRuns,,0,0,MIT License,HCL,{'HCL': 100.0}
+keithpatton/aks-sample,AKS Workload Identity Sample,2,0,MIT License,HCL,"{'HCL': 66.58, 'C#': 27.57, 'Dockerfile': 5.85}"
+unicodebinod/CI-CD_Project,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 44.02, 'HCL': 26.22, 'HTML': 14.11, 'Jinja': 9.41, 'CSS': 5.22, 'Dockerfile': 1.03}"
+LefeWare-Solutions/Azure-MasterIaCTemplates,"Azure Infrastructure as Code Templates for ARM, BICEP and Terraform",3,0,NO LICENSE,Bicep,"{'Bicep': 89.89, 'HCL': 7.29, 'PowerShell': 2.47, 'Shell': 0.36}"
+alekceu/EpamFinalProjectAzure,Epam Final Project,0,0,NO LICENSE,HTML,"{'HTML': 59.01, 'CSS': 29.1, 'JavaScript': 6.65, 'HCL': 3.86, 'PHP': 1.38}"
+bancey/bancey-infra,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+akamai/sia-enterprise-azure-example,Deployment example of Secure Internet Access Enterprise into Microsoft Azure,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mrgyllen/create-azure-storage-terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bsaiteja95/terraform-json-tagging,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+gvndverma787/Terraform-new,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jebrownSEP/terragrunt-brown-bag,Terragrunt and Terraform SEP Brown bag,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+contoso48/azure-linux-vm-terraform-ppg,Deploy an Azure Linux VM into an existing VNET and Proximity Placement Group,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure/aks-app-routing-operator,Kubernetes operator that implements AKS Web Application Routing,10,4,MIT License,Go,"{'Go': 90.06, 'HCL': 5.66, 'Shell': 2.63, 'Makefile': 1.16, 'Dockerfile': 0.49}"
+gs-costa/gsc_individual,Repository with my codes of practice and examples,0,0,MIT License,Python,"{'Python': 96.75, 'HTML': 1.12, 'JavaScript': 1.1, 'CSS': 0.79, 'HCL': 0.12, 'PowerShell': 0.08, 'Shell': 0.03}"
+youyou31/ProductsStoreOnKubernetes,,0,0,NO LICENSE,HTML,"{'HTML': 37.74, 'C#': 27.82, 'Shell': 12.74, 'HCL': 8.68, 'Mustache': 4.29, 'CSS': 3.28, 'PowerShell': 2.63, 'Dockerfile': 2.14, 'JavaScript': 0.67}"
+implodingduck/quackers-bank,,1,0,MIT License,Java,"{'Java': 33.26, 'JavaScript': 21.33, 'HCL': 20.89, 'Shell': 15.48, 'HTML': 5.93, 'Dockerfile': 1.8, 'CSS': 1.32}"
+langley232/multicloud,,0,0,NO LICENSE,HCL,"{'HCL': 73.73, 'HTML': 9.42, 'Python': 8.91, 'Dockerfile': 7.2, 'Shell': 0.74}"
+cds-snc/feedback-collector,Express based app to capture form data and send it to you,0,0,MIT License,JavaScript,"{'JavaScript': 57.67, 'CSS': 20.35, 'HTML': 16.41, 'HCL': 5.42, 'Dockerfile': 0.15}"
+PinakiKundu/terraform-azure-eventhub,,1,0,The Unlicense,HCL,{'HCL': 100.0}
+fiap-ci-cd/octodex-feed-app,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 46.64, 'HCL': 35.5, 'Dockerfile': 9.62, 'Shell': 6.25, 'CSS': 1.99}"
+gvndverma787/webapp,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+OlegCher/terraform-argo-nginx-aks,"This solution allows you to provide basic kubernetes infrastructure (NGINX-Ingress, Argocd, AKS).",0,0,NO LICENSE,HCL,{'HCL': 100.0}
+fjroldan/azure-app-service,,0,0,NO LICENSE,HCL,"{'HCL': 52.82, 'C#': 47.18}"
+SoSorryTT/Soft-arch,,0,0,MIT License,JavaScript,"{'JavaScript': 72.43, 'HCL': 15.99, 'Handlebars': 9.27, 'Shell': 1.35, 'CSS': 0.77, 'Dockerfile': 0.19}"
+Rehshma/project_1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+RoadKing159753/ScaleTest2,,0,0,NO LICENSE,C#,"{'C#': 74.95, 'PowerShell': 8.7, 'HCL': 8.48, 'TypeScript': 4.68, 'EJS': 1.8, 'Dockerfile': 0.63, 'HTML': 0.23, 'CSS': 0.22, 'JavaScript': 0.22, 'Shell': 0.09, 'Batchfile': 0.02}"
+fultux/terraform-azure-examples,Various examples of  working with Terraform on Azure,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+Ryan-prog-s/Gaming-SDV,,0,0,NO LICENSE,C#,"{'C#': 70.12, 'HTML': 21.03, 'HCL': 6.56, 'CSS': 1.95, 'JavaScript': 0.34}"
+Michelprogram/GamingCloud,,0,0,NO LICENSE,C#,"{'C#': 60.56, 'HTML': 19.41, 'CSS': 14.34, 'HCL': 4.87, 'JavaScript': 0.82}"
+ajitskhot/tf-azure-aks,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Vivekkalane/vivek11,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Ambika-Awari/AKS-,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+databricks/terraform-databricks-examples,Examples of implementing CI/CD pipelines to deploy Databricks resources using Terraform,33,15,Other,HCL,{'HCL': 100.0}
+himanshukhari/himanshuk,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Azure-Learnings/AKS-Terraform,,0,0,NO LICENSE,HCL,"{'HCL': 47.16, 'HTML': 36.67, 'PowerShell': 15.8, 'Dockerfile': 0.37}"
+meenaig/Demo23,Demo on PR,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+arjunachari12/tf-vm,,0,8,NO LICENSE,HCL,{'HCL': 100.0}
+alassko/terraform-ecs,,0,1,NO LICENSE,HCL,"{'HCL': 80.94, 'Shell': 11.15, 'Dockerfile': 7.91}"
+girishblr2026/tf-linux-web-app,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dharrilal/AzurevWAN,,0,0,NO LICENSE,HCL,"{'HCL': 97.66, 'PowerShell': 2.34}"
+cal-itp/eligibility-server,Server implementation of the Eligibility Verification API,0,3,GNU Affero General Public License v3.0,Python,"{'Python': 66.63, 'HCL': 29.22, 'Shell': 2.59, 'Dockerfile': 1.56}"
+picccard/az-tf-api-demo,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+emilefraser/terraform-azure,,0,0,MIT License,HCL,"{'HCL': 40.68, 'Batchfile': 30.38, 'Shell': 27.28, 'PowerShell': 1.65}"
+thewhitelink/AzureCloudDevOpsProject1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+udacity/cd11573-multicloud-computing-project,Project Starter Repo for Udacity's MultiCloud Computing Course,1,0,Other,HCL,{'HCL': 100.0}
+Navid-Khan-Kognitiv/TF-Cloud-Azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+erick-prosimo/test,,0,1,NO LICENSE,PowerShell,"{'PowerShell': 69.75, 'Shell': 21.18, 'Bicep': 8.7, 'HCL': 0.37}"
+evaleranava/nxg-operations,This is a repository to create public cloud infraestructure by Terraform,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+amit17133129/freelance_and_job_support_projects,,0,2,NO LICENSE,HCL,"{'HCL': 78.43, 'Python': 9.13, 'Jinja': 6.23, 'Shell': 4.08, 'Dockerfile': 2.13}"
+anhkhoale1/Terrafrom_Azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+MSuren81/Udacity_2023_P1,,0,0,NO LICENSE,Jupyter Notebook,"{'Jupyter Notebook': 66.07, 'HCL': 20.09, 'Python': 6.68, 'Shell': 4.94, 'Makefile': 1.58, 'Dockerfile': 0.65}"
+clouddrove/terraform-azure-flexible-mysql,,0,0,Apache License 2.0,HCL,"{'HCL': 91.41, 'Go': 7.99, 'Makefile': 0.6}"
+antjpcdrogas/chatGPTVoiceDiscBot,Discord bot that uses OpenAI chatGPT under the hood. Prompts and answers using voice with(gTTS),2,0,NO LICENSE,JavaScript,"{'JavaScript': 78.0, 'HCL': 18.93, 'Dockerfile': 3.07}"
+mrsimonemms/gitpod-self-hosted,Resources for managing your own Gitpod installation,40,5,Apache License 2.0,HCL,"{'HCL': 70.56, 'Shell': 19.11, 'Makefile': 7.14, 'JavaScript': 2.75, 'Ruby': 0.27, 'Dockerfile': 0.18}"
+KiroMat/NetCoreTerraform,,0,0,NO LICENSE,C#,"{'C#': 79.52, 'Dockerfile': 14.0, 'HCL': 6.48}"
+bharathcloud3/infa,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+AnaAguilarBosonit/MLOps,,0,0,MIT License,Python,"{'Python': 70.48, 'Jupyter Notebook': 22.92, 'Shell': 3.73, 'HCL': 1.89, 'R': 0.51, 'Dockerfile': 0.47}"
+Theego99/michimaker,Michi Maker,0,0,NO LICENSE,CSS,"{'CSS': 44.65, 'PHP': 18.59, 'HTML': 16.28, 'JavaScript': 14.35, 'HCL': 6.13}"
+yunqian44/Terraform_Cnbate_KeyVault,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Prasanga1996/terraformProject,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Jiwanaga/azure-terraform,,0,0,NO LICENSE,Shell,"{'Shell': 95.95, 'Dockerfile': 3.63, 'HCL': 0.42}"
+servetadil/LoadyApi,This api provides functionallity to search drivers,0,0,NO LICENSE,C#,"{'C#': 86.96, 'HCL': 9.91, 'Dockerfile': 3.13}"
+hirenrparghi/test,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jiaweitao001/terraform-azurerm-yor-test-azure-read-only,The repo contains an example for testing yor for Azurerm.,0,0,MIT License,HCL,{'HCL': 100.0}
+fescobar-arg/acid-latam-challenge,Repo con los archivos del challenge acid-latam para SRE,0,0,NO LICENSE,HCL,"{'HCL': 62.15, 'Python': 29.87, 'Dockerfile': 4.68, 'Shell': 3.3}"
+codeandrew/terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+dhall0803/terraform-hub-and-spoke,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+fr-platform/terraform-azurerm-vm-linux,A module to create a Linux Virtual Machine on Azure using Terraform.,1,2,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+fr-platform/terraform-azurerm-available-ips,Module responsible for getting available IPs inside a subnet.,4,0,NO LICENSE,HCL,"{'HCL': 56.81, 'Shell': 43.19}"
+RukayaOK/multi-cloud-packer-terraform,"Bootstrap Packer with Terraform for Azure, GCP, AWS. Test images with a Multi-Cloud website using Cloudflare for DNS.",0,0,MIT License,HCL,"{'HCL': 72.9, 'Makefile': 13.06, 'Shell': 9.14, 'Dockerfile': 4.74, 'HTML': 0.16}"
+Sasi2014/vnettf,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bashikr/ba1992,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 60.11, 'HCL': 32.34, 'Pug': 5.37, 'CSS': 2.17}"
+hmcts/cnp-keda-shared-infrastucture,,0,1,MIT License,HCL,"{'HCL': 78.38, 'Groovy': 21.62}"
+CTNdefru/monday02-20-23,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+clouddrove/terraform-azure-storage,,0,1,Apache License 2.0,HCL,"{'HCL': 95.44, 'Go': 4.24, 'Makefile': 0.32}"
+dhandapaniga/project1,udacity project,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+VolkerWessels/terraform-conditional-access,Terraform module for Conditional Access,0,0,MIT License,HCL,{'HCL': 100.0}
+Azure-Samples/container-apps-azapi-terraform,This sample shows how to deploy a Dapr application to Azure Container Apps using Terraform with the AzAPI Provider.,16,6,MIT License,HCL,"{'HCL': 99.31, 'Shell': 0.69}"
+PowerOps-MK/IaC,Infrastructure as Code,0,0,GNU General Public License v3.0,HCL,{'HCL': 100.0}
+elft-net/AzurefromScratch,Getting on speaking terms with Azure ,0,0,NO LICENSE,HTML,"{'HTML': 45.23, 'HCL': 22.77, 'C#': 21.04, 'Shell': 4.3, 'Python': 3.6, 'Java': 2.75, 'Dockerfile': 0.31}"
+prancer-io/prancer-terramerra,,5,1,NO LICENSE,HCL,"{'HCL': 99.98, 'Shell': 0.02}"
+RustyTake-Off/aks-terraform,[Mini Project] - Set up of an AKS Cluster and K8s deployment.,1,0,MIT License,HCL,{'HCL': 100.0}
+devianzincarnate/AzureRaptor,,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+NathStevo97/Azure_Terraform_Demos,,0,1,NO LICENSE,HCL,{'HCL': 100.0}
+neriyan/githubactionsdemo,,0,0,NO LICENSE,Kotlin,"{'Kotlin': 78.74, 'HCL': 21.26}"
+PinakiKundu/terraform-azure-rbac,Terraform code to add RBAC to Azure resources.,1,0,NO LICENSE,HCL,{'HCL': 100.0}
+MissaouiChedy/TerraformCloudVCS,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+sucounix/Azure-AKS-TF,,0,0,NO LICENSE,HCL,"{'HCL': 78.61, 'Shell': 16.51, 'Python': 2.72, 'Dockerfile': 2.15}"
+ArsNQ/Terraform,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+yami2254/AzureTerraform,Terraform으로 Azure DevOps를 통해 Azure 리소스 배포,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+bhuwanonline/project3-ensuring-quality-release,,0,0,NO LICENSE,JavaScript,"{'JavaScript': 35.35, 'HTML': 32.94, 'HCL': 16.65, 'Python': 8.04, 'CSS': 5.05, 'Shell': 1.78, 'ASP.NET': 0.2}"
+kubermatic/kubeone,"Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  ",1099,206,Apache License 2.0,Go,"{'Go': 95.95, 'Shell': 3.46, 'Dockerfile': 0.25, 'Makefile': 0.25, 'Python': 0.05, 'Smarty': 0.04}"
+natilik/terraform-foundations-training,Lab materials for Terraform foundations training.,0,0,NO LICENSE,HCL,"{'HCL': 98.5, 'PowerShell': 1.3, 'Shell': 0.21}"
+SamiVinci/mlops-project-template,,0,0,MIT License,Python,"{'Python': 71.43, 'Jupyter Notebook': 20.96, 'HCL': 5.35, 'Bicep': 1.39, 'Dockerfile': 0.87}"
+jmc265/personal-cloud,My files for self hosting,13,2,NO LICENSE,HCL,"{'HCL': 48.45, 'JavaScript': 18.22, 'Shell': 18.0, 'TypeScript': 14.64, 'Dockerfile': 0.68, 'HTML': 0.02}"
+ivica3730k/terraform-modules,,0,0,NO LICENSE,HCL,"{'HCL': 82.28, 'Shell': 17.72}"
+hmcts/slack-help-bot,,2,1,MIT License,JavaScript,"{'JavaScript': 92.17, 'Shell': 2.9, 'HCL': 2.59, 'PowerShell': 2.07, 'Dockerfile': 0.26}"
+Nagaraju-Kalidindi/Challenge-1,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+A-Montenegro/nd082-Azure-Cloud-DevOps-Starter-Code,DevOps Nano Degree,0,0,Apache License 2.0,Jupyter Notebook,"{'Jupyter Notebook': 76.87, 'Python': 7.77, 'HCL': 7.74, 'Shell': 5.03, 'Makefile': 1.84, 'Dockerfile': 0.75}"
+sreyasvarma/terraform,terraform-poc,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+santosh-gh/Pipeline-Examples,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Mohamed-Mostafa69/Terraform_Azure_IAAC,,0,0,NO LICENSE,HCL,"{'HCL': 93.94, 'Shell': 6.06}"
+ParisaMousavi/enterprise-automation,,0,0,NO LICENSE,HCL,"{'HCL': 63.57, 'PowerShell': 31.97, 'Python': 4.46}"
+ColeHeard/terraform-azurerm-avd,An Azure Virtual Desktop module. Uploaded for the public Terraform Registry.,1,0,MIT License,HCL,{'HCL': 100.0}
+karuindia/resource-group-create,Test,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+onaiculluciano/terraform-azurerm-staticwebsitepublic,Terraform Modules to be shared in Terraform Public Registry,0,0,Other,HCL,{'HCL': 100.0}
+hmcts/azure-github-federation-config,,0,0,MIT License,HCL,{'HCL': 100.0}
+kmayer10/cosmosdb,,0,0,NO LICENSE,Python,"{'Python': 73.08, 'HCL': 26.92}"
+rashinkarshekhar/cosmosdb-training,,0,0,NO LICENSE,Python,"{'Python': 73.57, 'HCL': 26.43}"
+amitbisht-cg/demo-cg,,0,0,NO LICENSE,HCL,"{'HCL': 75.59, 'PowerShell': 13.26, 'Shell': 7.97, 'Python': 3.18}"
+meenaig/mygit_meena,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+eric-golinko-db/azure-mlops-sample,,0,0,NO LICENSE,Python,"{'Python': 57.5, 'HCL': 41.4, 'Shell': 1.11}"
+Azure-Learnings/Cloud_Tasks,,1,0,NO LICENSE,HCL,"{'HCL': 85.79, 'PowerShell': 9.91, 'Shell': 4.29}"
+jammybot/project,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+NorwegianRefugeeCouncil/core,,0,0,Other,Go,"{'Go': 91.34, 'HCL': 4.05, 'SCSS': 1.42, 'JavaScript': 1.21, 'PLpgSQL': 1.1, 'Makefile': 0.39, 'Shell': 0.3, 'Dockerfile': 0.19}"
+LeoneGarage/mlops-cleanaway,,0,0,NO LICENSE,Python,"{'Python': 58.33, 'HCL': 41.67}"
+rimaz523/marketplace-terraform-infra,Infrastructure code of a one-stop online marketplace site created using terraform,0,0,NO LICENSE,HCL,"{'HCL': 87.46, 'PowerShell': 12.54}"
+Rakeshnalgonda5/terra,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+jonas-wanninger/MyTerraformProject,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+alfonsoholguin/Cloud,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Nedgs/Gaming,,0,0,NO LICENSE,C#,"{'C#': 68.13, 'HTML': 21.03, 'HCL': 6.32, 'CSS': 4.06, 'JavaScript': 0.37, 'SCSS': 0.08}"
+arjunachari12/tf-all-hcl,,0,7,NO LICENSE,HCL,{'HCL': 100.0}
+sumedh004/azure,,0,0,NO LICENSE,HCL,"{'HCL': 50.14, 'Shell': 49.86}"
+AbhinavLondhe8515/Multiple_Vm,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+Pankaj1006/DevOps_Tools,,0,0,NO LICENSE,Java,"{'Java': 61.67, 'HCL': 32.77, 'Dockerfile': 3.15, 'Gherkin': 1.27, 'JavaScript': 0.7, 'Python': 0.45}"
+farrellsoft/terraform-azure-virtual-network,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+WayneHoggett-ACG/TerraformCI,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+vikashpudi/vikash,Config files for my GitHub profile.,0,0,NO LICENSE,HCL,"{'HCL': 81.08, 'Groovy': 16.85, 'HTML': 1.11, 'Shell': 0.31, 'ASL': 0.24, 'Python': 0.18, 'PowerShell': 0.13, 'Dockerfile': 0.11, 'PHP': 0.01}"
+sreejuGit/HelloWorldApp,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+prajwalnagaraja07/mlopsv2-cv,,0,0,MIT License,Python,"{'Python': 50.26, 'HCL': 49.74}"
+prajwalnagaraja07/mlopsv2-sparse,,0,0,MIT License,Python,"{'Python': 50.26, 'HCL': 49.74}"
+michal1803/terraformCloud_Azure_integration,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+v1r7u/cloud_computing_v2,,0,0,NO LICENSE,HCL,"{'HCL': 85.94, 'Python': 5.95, 'Dockerfile': 5.25, 'JavaScript': 1.57, 'Shell': 1.28}"
+pendaflex247/Terraform,Terraform Automation projects,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+nathanbacon/mandelbrot,,0,0,NO LICENSE,C#,"{'C#': 46.22, 'TypeScript': 19.22, 'HCL': 12.56, 'Shell': 9.78, 'HTML': 7.01, 'JavaScript': 4.44, 'CSS': 0.77}"
+PaulNiklausPraveen/Terraform-Azure,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+syedhassaanahmed/portable-etl,"E2E data pipeline built on Spark Structured Streaming, showcased in both Cloud and Edge",0,1,MIT License,HCL,"{'HCL': 49.37, 'Python': 37.47, 'Shell': 10.51, 'TSQL': 2.64}"
+muzakkirsaifi123/Learning-DevOps,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+fadallar/terraform-azurerm-cosmosdb-mongo,Terraform Module for Azure CosmosDB - MongoDB API ,0,0,Apache License 2.0,HCL,{'HCL': 100.0}
+infinitydaemon/canary,CWD's Honeypot to prevent mass ransomware and malware attacks,3,1,Other,Python,"{'Python': 54.35, 'PowerShell': 17.51, 'Shell': 13.33, 'CSS': 8.22, 'HTML': 3.27, 'HCL': 2.85, 'Batchfile': 0.24, 'JavaScript': 0.23}"
+souzafgg/az-terraform,,0,0,NO LICENSE,HCL,"{'HCL': 84.01, 'Shell': 15.99}"
+aztfmods/module-azurerm-vnet,terraform module which creates virtual network resources on azure,0,0,MIT License,HCL,"{'HCL': 88.55, 'Go': 11.45}"
+heartagram22/devops,devops ,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+mrgyllen/azurerm-linux-virtual-machine,,0,0,NO LICENSE,HCL,{'HCL': 100.0}
+kardell2006g/terraform-azurerm-tfe,,0,0,NO LICENSE,HCL,"{'HCL': 91.45, 'Shell': 8.21, 'Smarty': 0.34}"

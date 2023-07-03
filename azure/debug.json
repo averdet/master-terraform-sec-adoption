@@ -1,0 +1,964 @@
+{
+    "check_type": "terraform",
+    "results": {
+        "passed_checks": [
+            {
+                "check_id": "CKV_AZURE_118",
+                "bc_check_id": "BC_AZR_NETWORKING_35",
+                "check_name": "Ensure that Network Interfaces disable IP forwarding",
+                "check_result": {
+                    "result": "PASSED",
+                    "evaluated_keys": [
+                        "enable_ip_forwarding"
+                    ]
+                },
+                "code_block": [
+                    [
+                        24,
+                        "resource \"azurerm_network_interface\" \"myNic\" {\n"
+                    ],
+                    [
+                        25,
+                        "  name                = \"myNic\"\n"
+                    ],
+                    [
+                        26,
+                        "  location            = azurerm_resource_group.myResourceGroup.location\n"
+                    ],
+                    [
+                        27,
+                        "  resource_group_name = azurerm_resource_group.myResourceGroup.name\n"
+                    ],
+                    [
+                        28,
+                        "\n"
+                    ],
+                    [
+                        29,
+                        "  ip_configuration {\n"
+                    ],
+                    [
+                        30,
+                        "    name                          = \"myNicConfiguration\"\n"
+                    ],
+                    [
+                        31,
+                        "    subnet_id                     = azurerm_subnet.mySubnet.id\n"
+                    ],
+                    [
+                        32,
+                        "    private_ip_address_allocation = \"Dynamic\"\n"
+                    ],
+                    [
+                        33,
+                        "  }\n"
+                    ],
+                    [
+                        34,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/infra/main.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "repo_file_path": "/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "file_line_range": [
+                    24,
+                    34
+                ],
+                "resource": "azurerm_network_interface.myNic",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.resource.azure.NetworkInterfaceEnableIPForwarding",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/ensure-that-network-interfaces-disable-ip-forwarding",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "breadcrumbs": {
+                    "location": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ],
+                    "resource_group_name": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ]
+                }
+            },
+            {
+                "check_id": "CKV_AZURE_45",
+                "bc_check_id": "BC_AZR_SECRETS_2",
+                "check_name": "Ensure that no sensitive credentials are exposed in VM custom_data",
+                "check_result": {
+                    "result": "PASSED",
+                    "evaluated_keys": [
+                        "os_profile/[0]/custom_data"
+                    ]
+                },
+                "code_block": [
+                    [
+                        39,
+                        "resource \"azurerm_virtual_machine\" \"myVM\" {\n"
+                    ],
+                    [
+                        40,
+                        "  name                  = \"myVM\"\n"
+                    ],
+                    [
+                        41,
+                        "  location              = azurerm_resource_group.myResourceGroup.location\n"
+                    ],
+                    [
+                        42,
+                        "  resource_group_name   = azurerm_resource_group.myResourceGroup.name\n"
+                    ],
+                    [
+                        43,
+                        "  network_interface_ids = [azurerm_network_interface.myNic.id]\n"
+                    ],
+                    [
+                        44,
+                        "\n"
+                    ],
+                    [
+                        45,
+                        "  vm_size             = \"Standard_B1s\"\n"
+                    ],
+                    [
+                        46,
+                        "  delete_os_disk_on_termination = true\n"
+                    ],
+                    [
+                        47,
+                        "\n"
+                    ],
+                    [
+                        48,
+                        "  storage_image_reference {\n"
+                    ],
+                    [
+                        49,
+                        "    publisher = \"Canonical\"\n"
+                    ],
+                    [
+                        50,
+                        "    offer     = \"UbuntuServer\"\n"
+                    ],
+                    [
+                        51,
+                        "    sku       = \"18.04-LTS\"\n"
+                    ],
+                    [
+                        52,
+                        "    version   = \"latest\"\n"
+                    ],
+                    [
+                        53,
+                        "  }\n"
+                    ],
+                    [
+                        54,
+                        "\n"
+                    ],
+                    [
+                        55,
+                        "  storage_os_disk {\n"
+                    ],
+                    [
+                        56,
+                        "    name              = \"myOsDisk\"\n"
+                    ],
+                    [
+                        57,
+                        "    caching           = \"ReadWrite\"\n"
+                    ],
+                    [
+                        58,
+                        "    create_option     = \"FromImage\"\n"
+                    ],
+                    [
+                        59,
+                        "    managed_disk_type = \"Standard_LRS\"\n"
+                    ],
+                    [
+                        60,
+                        "  }\n"
+                    ],
+                    [
+                        61,
+                        "\n"
+                    ],
+                    [
+                        62,
+                        " // add OS linux profile\n"
+                    ],
+                    [
+                        63,
+                        "    os_profile {\n"
+                    ],
+                    [
+                        64,
+                        "        computer_name  = \"myVM\"\n"
+                    ],
+                    [
+                        65,
+                        "        admin_username = \"myadmin\"\n"
+                    ],
+                    [
+                        66,
+                        "        admin_password = \"M1#yadminpassword\"\n"
+                    ],
+                    [
+                        67,
+                        "\n"
+                    ],
+                    [
+                        68,
+                        "\n"
+                    ],
+                    [
+                        69,
+                        "    }\n"
+                    ],
+                    [
+                        70,
+                        "    \n"
+                    ],
+                    [
+                        71,
+                        "    os_profile_linux_config {\n"
+                    ],
+                    [
+                        72,
+                        "        disable_password_authentication = false\n"
+                    ],
+                    [
+                        73,
+                        "    }\n"
+                    ],
+                    [
+                        74,
+                        "    \n"
+                    ],
+                    [
+                        75,
+                        "    \n"
+                    ],
+                    [
+                        76,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/infra/main.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "repo_file_path": "/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "file_line_range": [
+                    39,
+                    76
+                ],
+                "resource": "azurerm_virtual_machine.myVM",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.resource.azure.VMCredsInCustomData",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/set-an-expiration-date-on-all-secrets",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "breadcrumbs": {
+                    "location": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ],
+                    "resource_group_name": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ]
+                }
+            },
+            {
+                "check_id": "CKV_AZURE_119",
+                "bc_check_id": "BC_AZR_NETWORKING_36",
+                "check_name": "Ensure that Network Interfaces don't use public IPs",
+                "check_result": {
+                    "result": "PASSED",
+                    "entity": {
+                        "azurerm_network_interface": {
+                            "myNic": {
+                                "__end_line__": 34,
+                                "__start_line__": 24,
+                                "ip_configuration": [
+                                    {
+                                        "name": [
+                                            "myNicConfiguration"
+                                        ],
+                                        "private_ip_address_allocation": [
+                                            "Dynamic"
+                                        ],
+                                        "subnet_id": [
+                                            "azurerm_subnet.mySubnet.id"
+                                        ]
+                                    }
+                                ],
+                                "location": [
+                                    "eastus"
+                                ],
+                                "name": [
+                                    "myNic"
+                                ],
+                                "resource_group_name": [
+                                    "myResourceGroup"
+                                ],
+                                "__address__": "azurerm_network_interface.myNic"
+                            }
+                        }
+                    },
+                    "evaluated_keys": [
+                        "resource_type"
+                    ]
+                },
+                "code_block": [
+                    [
+                        24,
+                        "resource \"azurerm_network_interface\" \"myNic\" {\n"
+                    ],
+                    [
+                        25,
+                        "  name                = \"myNic\"\n"
+                    ],
+                    [
+                        26,
+                        "  location            = azurerm_resource_group.myResourceGroup.location\n"
+                    ],
+                    [
+                        27,
+                        "  resource_group_name = azurerm_resource_group.myResourceGroup.name\n"
+                    ],
+                    [
+                        28,
+                        "\n"
+                    ],
+                    [
+                        29,
+                        "  ip_configuration {\n"
+                    ],
+                    [
+                        30,
+                        "    name                          = \"myNicConfiguration\"\n"
+                    ],
+                    [
+                        31,
+                        "    subnet_id                     = azurerm_subnet.mySubnet.id\n"
+                    ],
+                    [
+                        32,
+                        "    private_ip_address_allocation = \"Dynamic\"\n"
+                    ],
+                    [
+                        33,
+                        "  }\n"
+                    ],
+                    [
+                        34,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/infra/main.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "repo_file_path": "/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "file_line_range": [
+                    24,
+                    34
+                ],
+                "resource": "azurerm_network_interface.myNic",
+                "evaluations": null,
+                "check_class": "checkov.common.graph.checks_infra.base_check",
+                "fixed_definition": null,
+                "entity_tags": {},
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/ensure-that-network-interfaces-dont-use-public-ips",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "breadcrumbs": {
+                    "location": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ],
+                    "resource_group_name": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ]
+                }
+            },
+            {
+                "check_id": "CKV2_AZURE_14",
+                "bc_check_id": "BC_AZR_GENERAL_34",
+                "check_name": "Ensure that Unattached disks are encrypted",
+                "check_result": {
+                    "result": "PASSED",
+                    "entity": {
+                        "azurerm_virtual_machine": {
+                            "myVM": {
+                                "__end_line__": 76,
+                                "__start_line__": 39,
+                                "delete_os_disk_on_termination": [
+                                    true
+                                ],
+                                "location": [
+                                    "eastus"
+                                ],
+                                "name": [
+                                    "myVM"
+                                ],
+                                "network_interface_ids": [
+                                    [
+                                        "azurerm_network_interface.myNic.id"
+                                    ]
+                                ],
+                                "os_profile": [
+                                    {
+                                        "admin_password": [
+                                            "M1#yadminpassword"
+                                        ],
+                                        "admin_username": [
+                                            "myadmin"
+                                        ],
+                                        "computer_name": [
+                                            "myVM"
+                                        ]
+                                    }
+                                ],
+                                "os_profile_linux_config": [
+                                    {
+                                        "disable_password_authentication": [
+                                            false
+                                        ]
+                                    }
+                                ],
+                                "resource_group_name": [
+                                    "myResourceGroup"
+                                ],
+                                "storage_image_reference": [
+                                    {
+                                        "offer": [
+                                            "UbuntuServer"
+                                        ],
+                                        "publisher": [
+                                            "Canonical"
+                                        ],
+                                        "sku": [
+                                            "18.04-LTS"
+                                        ],
+                                        "version": [
+                                            "latest"
+                                        ]
+                                    }
+                                ],
+                                "storage_os_disk": [
+                                    {
+                                        "caching": [
+                                            "ReadWrite"
+                                        ],
+                                        "create_option": [
+                                            "FromImage"
+                                        ],
+                                        "managed_disk_type": [
+                                            "Standard_LRS"
+                                        ],
+                                        "name": [
+                                            "myOsDisk"
+                                        ]
+                                    }
+                                ],
+                                "vm_size": [
+                                    "Standard_B1s"
+                                ],
+                                "__address__": "azurerm_virtual_machine.myVM"
+                            }
+                        }
+                    },
+                    "evaluated_keys": [
+                        "resource_type",
+                        "encryption_settings",
+                        "encryption_settings/enabled",
+                        "disk_encryption_set_id"
+                    ]
+                },
+                "code_block": [
+                    [
+                        39,
+                        "resource \"azurerm_virtual_machine\" \"myVM\" {\n"
+                    ],
+                    [
+                        40,
+                        "  name                  = \"myVM\"\n"
+                    ],
+                    [
+                        41,
+                        "  location              = azurerm_resource_group.myResourceGroup.location\n"
+                    ],
+                    [
+                        42,
+                        "  resource_group_name   = azurerm_resource_group.myResourceGroup.name\n"
+                    ],
+                    [
+                        43,
+                        "  network_interface_ids = [azurerm_network_interface.myNic.id]\n"
+                    ],
+                    [
+                        44,
+                        "\n"
+                    ],
+                    [
+                        45,
+                        "  vm_size             = \"Standard_B1s\"\n"
+                    ],
+                    [
+                        46,
+                        "  delete_os_disk_on_termination = true\n"
+                    ],
+                    [
+                        47,
+                        "\n"
+                    ],
+                    [
+                        48,
+                        "  storage_image_reference {\n"
+                    ],
+                    [
+                        49,
+                        "    publisher = \"Canonical\"\n"
+                    ],
+                    [
+                        50,
+                        "    offer     = \"UbuntuServer\"\n"
+                    ],
+                    [
+                        51,
+                        "    sku       = \"18.04-LTS\"\n"
+                    ],
+                    [
+                        52,
+                        "    version   = \"latest\"\n"
+                    ],
+                    [
+                        53,
+                        "  }\n"
+                    ],
+                    [
+                        54,
+                        "\n"
+                    ],
+                    [
+                        55,
+                        "  storage_os_disk {\n"
+                    ],
+                    [
+                        56,
+                        "    name              = \"myOsDisk\"\n"
+                    ],
+                    [
+                        57,
+                        "    caching           = \"ReadWrite\"\n"
+                    ],
+                    [
+                        58,
+                        "    create_option     = \"FromImage\"\n"
+                    ],
+                    [
+                        59,
+                        "    managed_disk_type = \"Standard_LRS\"\n"
+                    ],
+                    [
+                        60,
+                        "  }\n"
+                    ],
+                    [
+                        61,
+                        "\n"
+                    ],
+                    [
+                        62,
+                        " // add OS linux profile\n"
+                    ],
+                    [
+                        63,
+                        "    os_profile {\n"
+                    ],
+                    [
+                        64,
+                        "        computer_name  = \"myVM\"\n"
+                    ],
+                    [
+                        65,
+                        "        admin_username = \"myadmin\"\n"
+                    ],
+                    [
+                        66,
+                        "        admin_password = \"M1#yadminpassword\"\n"
+                    ],
+                    [
+                        67,
+                        "\n"
+                    ],
+                    [
+                        68,
+                        "\n"
+                    ],
+                    [
+                        69,
+                        "    }\n"
+                    ],
+                    [
+                        70,
+                        "    \n"
+                    ],
+                    [
+                        71,
+                        "    os_profile_linux_config {\n"
+                    ],
+                    [
+                        72,
+                        "        disable_password_authentication = false\n"
+                    ],
+                    [
+                        73,
+                        "    }\n"
+                    ],
+                    [
+                        74,
+                        "    \n"
+                    ],
+                    [
+                        75,
+                        "    \n"
+                    ],
+                    [
+                        76,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/infra/main.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "repo_file_path": "/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "file_line_range": [
+                    39,
+                    76
+                ],
+                "resource": "azurerm_virtual_machine.myVM",
+                "evaluations": null,
+                "check_class": "checkov.common.graph.checks_infra.base_check",
+                "fixed_definition": null,
+                "entity_tags": {},
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/ensure-that-unattached-disks-are-encrypted",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "breadcrumbs": {
+                    "location": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ],
+                    "resource_group_name": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ]
+                }
+            }
+        ],
+        "failed_checks": [
+            {
+                "check_id": "CKV_AZURE_1",
+                "bc_check_id": "BC_AZR_NETWORKING_1",
+                "check_name": "Ensure Azure Instance does not use basic authentication(Use SSH Key Instead)",
+                "check_result": {
+                    "result": "FAILED",
+                    "evaluated_keys": [
+                        "os_profile_linux_config/[0]/disable_password_authentication"
+                    ]
+                },
+                "code_block": [
+                    [
+                        39,
+                        "resource \"azurerm_virtual_machine\" \"myVM\" {\n"
+                    ],
+                    [
+                        40,
+                        "  name                  = \"myVM\"\n"
+                    ],
+                    [
+                        41,
+                        "  location              = azurerm_resource_group.myResourceGroup.location\n"
+                    ],
+                    [
+                        42,
+                        "  resource_group_name   = azurerm_resource_group.myResourceGroup.name\n"
+                    ],
+                    [
+                        43,
+                        "  network_interface_ids = [azurerm_network_interface.myNic.id]\n"
+                    ],
+                    [
+                        44,
+                        "\n"
+                    ],
+                    [
+                        45,
+                        "  vm_size             = \"Standard_B1s\"\n"
+                    ],
+                    [
+                        46,
+                        "  delete_os_disk_on_termination = true\n"
+                    ],
+                    [
+                        47,
+                        "\n"
+                    ],
+                    [
+                        48,
+                        "  storage_image_reference {\n"
+                    ],
+                    [
+                        49,
+                        "    publisher = \"Canonical\"\n"
+                    ],
+                    [
+                        50,
+                        "    offer     = \"UbuntuServer\"\n"
+                    ],
+                    [
+                        51,
+                        "    sku       = \"18.04-LTS\"\n"
+                    ],
+                    [
+                        52,
+                        "    version   = \"latest\"\n"
+                    ],
+                    [
+                        53,
+                        "  }\n"
+                    ],
+                    [
+                        54,
+                        "\n"
+                    ],
+                    [
+                        55,
+                        "  storage_os_disk {\n"
+                    ],
+                    [
+                        56,
+                        "    name              = \"myOsDisk\"\n"
+                    ],
+                    [
+                        57,
+                        "    caching           = \"ReadWrite\"\n"
+                    ],
+                    [
+                        58,
+                        "    create_option     = \"FromImage\"\n"
+                    ],
+                    [
+                        59,
+                        "    managed_disk_type = \"Standard_LRS\"\n"
+                    ],
+                    [
+                        60,
+                        "  }\n"
+                    ],
+                    [
+                        61,
+                        "\n"
+                    ],
+                    [
+                        62,
+                        " // add OS linux profile\n"
+                    ],
+                    [
+                        63,
+                        "    os_profile {\n"
+                    ],
+                    [
+                        64,
+                        "        computer_name  = \"myVM\"\n"
+                    ],
+                    [
+                        65,
+                        "        admin_username = \"myadmin\"\n"
+                    ],
+                    [
+                        66,
+                        "        admin_password = \"M1#yadminpassword\"\n"
+                    ],
+                    [
+                        67,
+                        "\n"
+                    ],
+                    [
+                        68,
+                        "\n"
+                    ],
+                    [
+                        69,
+                        "    }\n"
+                    ],
+                    [
+                        70,
+                        "    \n"
+                    ],
+                    [
+                        71,
+                        "    os_profile_linux_config {\n"
+                    ],
+                    [
+                        72,
+                        "        disable_password_authentication = false\n"
+                    ],
+                    [
+                        73,
+                        "    }\n"
+                    ],
+                    [
+                        74,
+                        "    \n"
+                    ],
+                    [
+                        75,
+                        "    \n"
+                    ],
+                    [
+                        76,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/infra/main.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "repo_file_path": "/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "file_line_range": [
+                    39,
+                    76
+                ],
+                "resource": "azurerm_virtual_machine.myVM",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.resource.azure.AzureInstancePassword",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/bc_azr_networking_1",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                "breadcrumbs": {
+                    "location": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ],
+                    "resource_group_name": [
+                        {
+                            "type": "resource",
+                            "name": "azurerm_resource_group.myResourceGroup",
+                            "path": "/home/alexandre/Documents/polymtl/dev/azure-github-miner-replication-package/tmp/antjpcdrogas/chatGPTVoiceDiscBot/infra/main.tf",
+                            "module_connection": false
+                        }
+                    ]
+                }
+            }
+        ],
+        "skipped_checks": [],
+        "parsing_errors": []
+    },
+    "summary": {
+        "passed": 4,
+        "failed": 1,
+        "skipped": 0,
+        "parsing_errors": 0,
+        "resource_count": 5,
+        "checkov_version": "2.3.29"
+    },
+    "url": "Add an api key '--bc-api-key <api-key>' to see more detailed insights via https://bridgecrew.cloud"
+}

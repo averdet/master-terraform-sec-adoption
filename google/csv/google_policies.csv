@@ -1,0 +1,137 @@
+Id,Type,Entity,Policy,IaC,Selected,Category
+1464,CKV_GCP_1,resource,google_container_cluster,Ensure Stackdriver Logging is set to Enabled on Kubernetes Engine Clusters,TRUE,Logging/Monitoring
+1465,CKV_GCP_2,resource,google_compute_firewall,Ensure Google compute firewall ingress does not allow unrestricted ssh access,TRUE,Access policy
+1466,CKV_GCP_3,resource,google_compute_firewall,Ensure Google compute firewall ingress does not allow unrestricted rdp access,TRUE,Access policy
+1468,CKV_GCP_6,resource,google_sql_database_instance,Ensure all Cloud SQL database instance requires all incoming connections to use SSL,TRUE,Encryption in transit
+1470,CKV_GCP_8,resource,google_container_cluster,Ensure Stackdriver Monitoring is set to Enabled on Kubernetes Engine Clusters,TRUE,Logging/Monitoring
+1473,CKV_GCP_11,resource,google_sql_database_instance,Ensure that Cloud SQL database Instances are not open to the world,TRUE,Access policy
+1477,CKV_GCP_15,resource,google_bigquery_dataset,Ensure that BigQuery datasets are not anonymously or publicly accessible,TRUE,Access policy
+1478,CKV_GCP_16,resource,google_dns_managed_zone,Ensure that DNSSEC is enabled for Cloud DNS,TRUE,Access policy
+1480,CKV_GCP_18,resource,google_container_cluster,Ensure GKE Control Plane is not public,TRUE,Access policy
+1481,CKV_GCP_19,resource,google_container_cluster,Ensure GKE basic auth is disabled,TRUE,Access policy
+1485,CKV_GCP_23,resource,google_container_cluster,Ensure Kubernetes Cluster is created with Alias IP ranges enabled,TRUE,IP Address binding
+1487,CKV_GCP_25,resource,google_container_cluster,Ensure Kubernetes Cluster is created with Private cluster enabled,TRUE,Access policy
+1488,CKV_GCP_26,resource,google_compute_subnetwork,Ensure that VPC Flow Logs is enabled for every subnet in a VPC Network,TRUE,Logging/Monitoring
+1490,CKV_GCP_28,resource,google_storage_bucket_iam_binding,Ensure that Cloud Storage bucket is not anonymously or publicly accessible,TRUE,Access policy
+1492,CKV_GCP_29,resource,google_storage_bucket,Ensure that Cloud Storage buckets have uniform bucket-level access enabled,TRUE,Access policy
+1496,CKV_GCP_31,resource,google_compute_instance,Ensure that instances are not configured to use the default service account with full access to all Cloud APIs,TRUE,Admin by default
+1499,CKV_GCP_32,resource,google_compute_instance,Ensure 'Block Project-wide SSH keys' is enabled for VM instances,TRUE,Encryption in transit
+1509,CKV_GCP_36,resource,google_compute_instance,Ensure that IP forwarding is not enabled on Instances,TRUE,IP Address binding
+1512,CKV_GCP_37,resource,google_compute_disk,Ensure VM disks for critical VMs are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1513,CKV_GCP_38,resource,google_compute_instance,Ensure VM disks for critical VMs are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1517,CKV_GCP_40,resource,google_compute_instance,Ensure that Compute instances do not have public IP addresses,TRUE,IP Address binding
+1520,CKV_GCP_41,resource,google_project_iam_binding,Ensure that IAM users are not assigned the Service Account User or Service Account Token Creator roles at project level,FALSE,
+1522,CKV_GCP_42,resource,google_project_iam_member,Ensure that Service Account has no Admin privileges,TRUE,Admin by default
+1524,CKV_GCP_44,resource,google_folder_iam_binding,Ensure no roles that enable to impersonate and manage all service accounts are used at a folder level,TRUE,Admin by default
+1526,CKV_GCP_45,resource,google_organization_iam_binding,Ensure no roles that enable to impersonate and manage all service accounts are used at an organization level,TRUE,Admin by default
+1537,CKV_GCP_51,resource,google_sql_database_instance,Ensure PostgreSQL database 'log_checkpoints' flag is set to 'on',TRUE,Logging/Monitoring
+1538,CKV_GCP_52,resource,google_sql_database_instance,Ensure PostgreSQL database 'log_connections' flag is set to 'on',TRUE,Logging/Monitoring
+1539,CKV_GCP_53,resource,google_sql_database_instance,Ensure PostgreSQL database 'log_disconnections' flag is set to 'on',TRUE,Logging/Monitoring
+1540,CKV_GCP_54,resource,google_sql_database_instance,Ensure PostgreSQL database 'log_lock_waits' flag is set to 'on',TRUE,Logging/Monitoring
+1541,CKV_GCP_55,resource,google_sql_database_instance,Ensure PostgreSQL database 'log_min_messages' flag is set to a valid value,TRUE,Logging/Monitoring
+1542,CKV_GCP_56,resource,google_sql_database_instance,Ensure PostgreSQL database 'log_temp_files flag is set to '0',TRUE,Logging/Monitoring
+1543,CKV_GCP_57,resource,google_sql_database_instance,Ensure PostgreSQL database 'log_min_duration_statement' flag is set to '-1',TRUE,Logging/Monitoring
+1546,CKV_GCP_60,resource,google_sql_database_instance,Ensure Cloud SQL database does not have public IP,TRUE,IP Address binding
+1547,CKV_GCP_61,resource,google_container_cluster,Enable VPC Flow Logs and Intranode Visibility,TRUE,Logging/Monitoring
+1548,CKV_GCP_62,resource,google_storage_bucket,Bucket should log access,TRUE,Logging/Monitoring
+1549,CKV_GCP_63,resource,google_storage_bucket,Bucket should not log to itself,TRUE,Logging/Monitoring
+1550,CKV_GCP_64,resource,google_container_cluster,Ensure clusters are created with Private Nodes,TRUE,Access policy
+1563,CKV_GCP_74,resource,google_compute_subnetwork,Ensure that private_ip_google_access is enabled for Subnet,TRUE,IP Address binding
+1564,CKV_GCP_75,resource,google_compute_firewall,Ensure Google compute firewall ingress does not allow unrestricted FTP access,TRUE,Access policy
+1565,CKV_GCP_76,resource,google_compute_subnetwork,Ensure that Private google access is enabled for IPV6,TRUE,Access policy
+1568,CKV_GCP_79,resource,google_sql_database_instance,Ensure SQL database is using latest Major version,TRUE,Outdated feature
+1569,CKV_GCP_80,resource,google_bigquery_table,Ensure Big Query Tables are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1570,CKV_GCP_81,resource,google_bigquery_dataset,Ensure Big Query Datasets are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1572,CKV_GCP_83,resource,google_pubsub_topic,Ensure PubSub Topics are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1573,CKV_GCP_84,resource,google_artifact_registry_repository,Ensure Artifact Registry Repositories are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1574,CKV_GCP_85,resource,google_bigtable_instance,Ensure Big Table Instances are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1575,CKV_GCP_86,resource,google_cloudbuild_worker_pool,Ensure Cloud build workers are private,TRUE,Access policy
+1576,CKV_GCP_87,resource,google_data_fusion_instance,Ensure Data fusion instances are private,TRUE,Access policy
+1577,CKV_GCP_88,resource,google_compute_firewall,Ensure Google compute firewall ingress does not allow unrestricted mysql access,TRUE,Access policy
+1578,CKV_GCP_89,resource,google_notebooks_instance,Ensure Vertex AI instances are private,TRUE,Access policy
+1579,CKV_GCP_90,resource,google_dataflow_job,Ensure data flow jobs are encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1580,CKV_GCP_91,resource,google_dataproc_cluster,Ensure Dataproc cluster is encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1581,CKV_GCP_92,resource,google_vertex_ai_dataset,Ensure Vertex AI datasets uses a CMK (Customer Manager Key),TRUE,Encryption at rest
+1582,CKV_GCP_93,resource,google_spanner_database,Ensure Spanner Database is encrypted with Customer Supplied Encryption Keys (CSEK),TRUE,Encryption at rest
+1583,CKV_GCP_94,resource,google_dataflow_job,Ensure Dataflow jobs are private,TRUE,Access policy
+1585,CKV_GCP_96,resource,google_vertex_ai_metadata_store,Ensure Vertex AI Metadata Store uses a CMK (Customer Manager Key),TRUE,Encryption at rest
+1586,CKV_GCP_97,resource,google_redis_instance,Ensure Memorystore for Redis uses intransit encryption,TRUE,Encryption in transit
+1587,CKV_GCP_98,resource,google_dataproc_cluster_iam_binding,Ensure that Dataproc clusters are not anonymously or publicly accessible,TRUE,Access policy
+1589,CKV_GCP_99,resource,google_pubsub_topic_iam_binding,Ensure that Pub/Sub Topics are not anonymously or publicly accessible,TRUE,Access policy
+1591,CKV_GCP_100,resource,google_bigquery_table_iam_binding,Ensure that BigQuery Tables are not anonymously or publicly accessible,TRUE,Access policy
+1593,CKV_GCP_101,resource,google_artifact_registry_repository_iam_binding,Ensure that Artifact Registry repositories are not anonymously or publicly accessible,TRUE,Access policy
+1595,CKV_GCP_102,resource,google_cloud_run_service_iam_binding,Ensure that GCP Cloud Run services are not anonymously or publicly accessible,TRUE,Access policy
+1597,CKV_GCP_103,resource,google_dataproc_cluster,Ensure Dataproc Clusters do not have public IPs,TRUE,IP Address binding
+1598,CKV_GCP_104,resource,google_data_fusion_instance,Ensure Datafusion has stack driver logging enabled,TRUE,Logging/Monitoring
+1599,CKV_GCP_105,resource,google_data_fusion_instance,Ensure Datafusion has stack driver monitoring enabled,TRUE,Logging/Monitoring
+1600,CKV_GCP_106,resource,google_compute_firewall,Ensure Google compute firewall ingress does not allow unrestricted http port 80 access,TRUE,IP Address binding
+1601,CKV_GCP_107,resource,google_cloudfunctions2_function_iam_binding,Cloud functions should not be public,TRUE,Access policy
+1605,CKV_GCP_108,resource,google_sql_database_instance,Ensure hostnames are logged for GCP PostgreSQL databases,TRUE,Logging/Monitoring
+1606,CKV_GCP_109,resource,google_sql_database_instance,Ensure the GCP PostgreSQL database log levels are set to ERROR or lower,TRUE,Logging/Monitoring
+1608,CKV_GCP_111,resource,google_sql_database_instance,Ensure GCP PostgreSQL logs SQL statements,TRUE,Logging/Monitoring
+1609,CKV_GCP_112,resource,google_kms_crypto_key_iam_binding,Esnure KMS policy should not allow public access,TRUE,Access policy
+1612,CKV_GCP_113,data,google_iam_policy,Ensure IAM policy should not define public access,TRUE,Access policy
+1613,CKV_GCP_114,resource,google_storage_bucket,Ensure public access prevention is enforced on Cloud Storage bucket,TRUE,Access policy
+1629,CKV2_GCP_6,resource,google_kms_crypto_key,Ensure that Cloud KMS cryptokeys are not anonymously or publicly accessible,TRUE,Access policy
+1632,CKV2_GCP_7,resource,google_sql_database_instance,Ensure that a MySQL database instance does not allow anyone to connect with administrative privileges,TRUE,Admin by default
+1634,CKV2_GCP_8,resource,google_kms_key_ring,Ensure that Cloud KMS Key Rings are not anonymously or publicly accessible,TRUE,Access policy
+1637,CKV2_GCP_9,resource,google_container_registry,Ensure that Container Registry repositories are not anonymously or publicly accessible,TRUE,Access policy
+1643,CKV2_GCP_13,resource,google_sql_database_instance,Ensure PostgreSQL database flag 'log_duration' is set to 'on',TRUE,Logging/Monitoring
+1644,CKV2_GCP_14,resource,google_sql_database_instance,Ensure PostgreSQL database flag 'log_executor_stats' is set to 'off',TRUE,Logging/Monitoring
+1645,CKV2_GCP_15,resource,google_sql_database_instance,Ensure PostgreSQL database flag 'log_parser_stats' is set to 'off',TRUE,Logging/Monitoring
+1646,CKV2_GCP_16,resource,google_sql_database_instance,Ensure PostgreSQL database flag 'log_planner_stats' is set to 'off',TRUE,Logging/Monitoring
+1647,CKV2_GCP_17,resource,google_sql_database_instance,Ensure PostgreSQL database flag 'log_statement_stats' is set to 'off',TRUE,Logging/Monitoring
+1648,CKV2_GCP_18,resource,google_compute_network,Ensure GCP network defines a firewall and does not use the default firewall,TRUE,Access policy
+1467,CKV_GCP_4,resource,google_compute_ssl_policy,Ensure no HTTPS or SSL proxy load balancers permit SSL policies with weak cipher suites,FALSE,
+1469,CKV_GCP_7,resource,google_container_cluster,Ensure Legacy Authorization is set to Disabled on Kubernetes Engine Clusters,FALSE,
+1471,CKV_GCP_9,resource,google_container_node_pool,Ensure 'Automatic node repair' is enabled for Kubernetes Clusters,FALSE,
+1472,CKV_GCP_10,resource,google_container_node_pool,Ensure 'Automatic node upgrade' is enabled for Kubernetes Clusters,FALSE,
+1474,CKV_GCP_12,resource,google_container_cluster,Ensure Network Policy is enabled on Kubernetes Engine Clusters,FALSE,
+1475,CKV_GCP_13,resource,google_container_cluster,Ensure client certificate authentication to Kubernetes Engine Clusters is disabled,FALSE,
+1476,CKV_GCP_14,resource,google_sql_database_instance,Ensure all Cloud SQL database instance have backup configuration enabled,FALSE,
+1479,CKV_GCP_17,resource,google_dns_managed_zone,Ensure that RSASHA1 is not used for the zone-signing and key-signing keys in Cloud DNS DNSSEC,FALSE,
+1482,CKV_GCP_20,resource,google_container_cluster,Ensure master authorized networks is set to enabled in GKE clusters,FALSE,
+1483,CKV_GCP_21,resource,google_container_cluster,Ensure Kubernetes Clusters are configured with Labels,FALSE,
+1484,CKV_GCP_22,resource,google_container_node_pool,Ensure Container-Optimized OS (cos) is used for Kubernetes Engine Clusters Node image,FALSE,
+1486,CKV_GCP_24,resource,google_container_cluster,Ensure PodSecurityPolicy controller is enabled on the Kubernetes Engine Clusters,FALSE,
+1489,CKV_GCP_27,resource,google_project,Ensure that the default network does not exist in a project,FALSE,
+1493,CKV_GCP_30,resource,google_compute_instance,Ensure that instances are not configured to use the default service account,FALSE,
+1502,CKV_GCP_33,resource,google_compute_project_metadata,Ensure oslogin is enabled for a Project,FALSE,
+1503,CKV_GCP_34,resource,google_compute_instance,Ensure that no instance in the project overrides the project setting for enabling OSLogin(OSLogin needs to be enabled in project metadata for all instances),FALSE,
+1506,CKV_GCP_35,resource,google_compute_instance,Ensure 'Enable connecting to serial ports' is not enabled for VM Instance,FALSE,
+1514,CKV_GCP_39,resource,google_compute_instance,Ensure Compute instances are launched with Shielded VM enabled,FALSE,
+1523,CKV_GCP_43,resource,google_kms_crypto_key,Ensure KMS encryption keys are rotated within a period of 90 days,FALSE,
+1528,CKV_GCP_46,resource,google_project_iam_binding,Ensure Default Service account is not used at a project level,FALSE,
+1530,CKV_GCP_47,resource,google_organization_iam_binding,Ensure default service account is not used at an organization level,FALSE,
+1532,CKV_GCP_48,resource,google_folder_iam_binding,Ensure Default Service account is not used at a folder level,FALSE,
+1534,CKV_GCP_49,resource,google_project_iam_binding,Ensure roles do not impersonate or manage Service Accounts used at project level,FALSE,
+1536,CKV_GCP_50,resource,google_sql_database_instance,Ensure MySQL database 'local_infile' flag is set to 'off',FALSE,
+1544,CKV_GCP_58,resource,google_sql_database_instance,Ensure SQL database 'cross db ownership chaining' flag is set to 'off',FALSE,
+1545,CKV_GCP_59,resource,google_sql_database_instance,Ensure SQL database 'contained database authentication' flag is set to 'off',FALSE,
+1551,CKV_GCP_65,resource,google_container_cluster,Manage Kubernetes RBAC users with Google Groups for GKE,FALSE,
+1552,CKV_GCP_66,resource,google_container_cluster,Ensure use of Binary Authorization,FALSE,
+1553,CKV_GCP_67,resource,google_container_cluster,Ensure legacy Compute Engine instance metadata APIs are Disabled,FALSE,
+1554,CKV_GCP_68,resource,google_container_cluster,Ensure Secure Boot for Shielded GKE Nodes is Enabled,FALSE,
+1556,CKV_GCP_69,resource,google_container_cluster,Ensure the GKE Metadata Server is Enabled,FALSE,
+1558,CKV_GCP_70,resource,google_container_cluster,Ensure the GKE Release Channel is set,FALSE,
+1559,CKV_GCP_71,resource,google_container_cluster,Ensure Shielded GKE Nodes are Enabled,FALSE,
+1560,CKV_GCP_72,resource,google_container_cluster,Ensure Integrity Monitoring for Shielded GKE Nodes is Enabled,FALSE,
+1562,CKV_GCP_73,resource,google_compute_security_policy,Ensure Cloud Armor prevents message lookup in Log4j2. See CVE-2021-44228 aka log4jshell,FALSE,
+1566,CKV_GCP_77,resource,google_compute_firewall,Ensure Google compute firewall ingress does not allow on ftp port,FALSE,
+1567,CKV_GCP_78,resource,google_storage_bucket,Ensure Cloud storage has versioning enabled,FALSE,
+1571,CKV_GCP_82,resource,google_kms_crypto_key,Ensure KMS keys are protected from deletion,FALSE,
+1584,CKV_GCP_95,resource,google_redis_instance,Ensure Memorystore for Redis has AUTH enabled,FALSE,
+1607,CKV_GCP_110,resource,google_sql_database_instance,Ensure pgAudit is enabled for your GCP PostgreSQL database,FALSE,
+1614,CKV_GCP_115,resource,google_organization_iam_binding,Ensure basic roles are not used at organization level.,FALSE,
+1616,CKV_GCP_116,resource,google_folder_iam_binding,Ensure basic roles are not used at folder level.,FALSE,
+1618,CKV_GCP_117,resource,google_project_iam_binding,Ensure basic roles are not used at project level.,FALSE,
+1620,CKV2_GCP_1,resource,google_project_default_service_accounts,Ensure GKE clusters are not running using the Compute Engine default service account,FALSE,
+1621,CKV2_GCP_2,resource,google_compute_network,Ensure legacy networks do not exist for a project,FALSE,
+1622,CKV2_GCP_3,resource,google_service_account_key,Ensure that there are only GCP-managed service account keys for each service account,FALSE,
+1623,CKV2_GCP_4,resource,google_logging_folder_sink,Ensure that retention policies on log buckets are configured using Bucket Lock,FALSE,
+1627,CKV2_GCP_5,resource,google_project,Ensure that Cloud Audit Logging is configured properly across all services and all users from a project,FALSE,
+1640,CKV2_GCP_10,resource,google_cloudfunctions_function,Ensure GCP Cloud Function HTTP trigger is secured,FALSE,
+1641,CKV2_GCP_11,resource,google_project_services,Ensure GCP GCR Container Vulnerability Scanning is enabled,FALSE,
+1642,CKV2_GCP_12,resource,google_compute_firewall,Ensure GCP compute firewall ingress does not allow unrestricted access to all ports,FALSE,
+1649,CKV2_GCP_19,resource,google_container_cluster,Ensure GCP Kubernetes engine clusters have 'alpha cluster' feature disabled,FALSE,
+1650,CKV2_GCP_20,resource,google_sql_database_instance,Ensure MySQL DB instance has point-in-time recovery backup configured,FALSE,

@@ -1,0 +1,233 @@
+Id,Type,Entity,Policy,IaC,Selected,Category
+1065,CKV_AZURE_1,resource,azurerm_linux_virtual_machine,Ensure Azure Instance does not use basic authentication(Use SSH Key Instead),TRUE,Access policy
+1074,CKV_AZURE_9,resource,azurerm_network_security_group,Ensure that RDP access is restricted from the internet,TRUE,Access policy
+1076,CKV_AZURE_10,resource,azurerm_network_security_group,Ensure that SSH access is restricted from the internet,TRUE,Access policy
+1120,CKV_AZURE_34,resource,azurerm_storage_container,Ensure that 'Public access level' is set to Private for blob containers,TRUE,Access policy
+1135,CKV_AZURE_48,resource,azurerm_mariadb_server,Ensure 'public network access enabled' is set to 'False' for MariaDB servers,TRUE,Access policy
+1136,CKV_AZURE_49,resource,azurerm_linux_virtual_machine_scale_set,Ensure Azure linux scale set does not use basic authentication(Use SSH Key Instead),TRUE,Access policy
+1140,CKV_AZURE_53,resource,azurerm_mysql_server,Ensure 'public network access enabled' is set to 'False' for mySQL servers,TRUE,Access policy
+1148,CKV_AZURE_59,resource,azurerm_storage_account,Ensure that Storage accounts disallow public access,TRUE,Access policy
+1163,CKV_AZURE_68,resource,azurerm_postgresql_server,Ensure that PostgreSQL server disables public network access,TRUE,Access policy
+1179,CKV_AZURE_77,resource,azurerm_network_security_group,Ensure that UDP Services are restricted from the Internet,TRUE,Access policy
+1196,CKV_AZURE_89,resource,azurerm_redis_cache,Ensure that Azure Cache for Redis disables public network access,TRUE,Access policy
+1210,CKV_AZURE_101,resource,azurerm_cosmosdb_account,Ensure that Azure Cosmos DB disables public network access,TRUE,Access policy
+1213,CKV_AZURE_104,resource,azurerm_data_factory,Ensure that Azure Data factory public network access is disabled,TRUE,Access policy
+1215,CKV_AZURE_106,resource,azurerm_eventgrid_domain,Ensure that Azure Event Grid Domain public network access is disabled,TRUE,Access policy
+1217,CKV_AZURE_108,resource,azurerm_iothub,Ensure that Azure IoT Hub disables public network access,TRUE,Access policy
+1222,CKV_AZURE_113,resource,azurerm_mssql_server,Ensure that SQL server disables public network access,TRUE,Access policy
+1229,CKV_AZURE_120,resource,azurerm_application_gateway,Ensure that Application Gateway enables WAF,TRUE,Access policy
+1231,CKV_AZURE_121,resource,azurerm_frontdoor,Ensure that Azure Front Door enables WAF,TRUE,Access policy
+1234,CKV_AZURE_124,resource,azurerm_search_service,Ensure that Azure Cognitive Search disables public network access,TRUE,Access policy
+1249,CKV_AZURE_139,resource,azurerm_container_registry,Ensure ACR set to disable public networking,TRUE,Access policy
+1272,CKV_AZURE_160,resource,azurerm_network_security_group,Ensure that HTTP (port 80) access is restricted from the internet,TRUE,Access policy
+1275,CKV_AZURE_162,resource,azurerm_spring_cloud_api_portal,Ensures Spring Cloud API Portal Public Access Is Disabled,TRUE,Access policy
+1324,CKV_AZURE_204,resource,azurerm_servicebus_namespace,Ensure 'public network access enabled' is set to 'False' for Azure Service Bus,TRUE,Access policy
+1353,CKV2_AZURE_6,resource,azurerm_sql_firewall_rule,Ensure 'Allow access to Azure services' for PostgreSQL Database Server is disabled,TRUE,Access policy
+1356,CKV2_AZURE_8,resource,azurerm_monitor_activity_log_alert,Ensure the storage container storing the activity logs is not publicly accessible,TRUE,Access policy
+1247,CKV_AZURE_137,resource,azurerm_container_registry,Ensure ACR admin account is disabled,TRUE,Admin by default
+1251,CKV_AZURE_141,resource,azurerm_kubernetes_cluster,Ensure AKS local admin account is disabled,TRUE,Admin by default
+1067,CKV_AZURE_2,resource,azurerm_managed_disk,Ensure Azure managed disk has encryption enabled,TRUE,Encryption at rest
+1172,CKV_AZURE_73,resource,azurerm_automation_variable_bool,Ensure that Automation account variables are encrypted,TRUE,Encryption at rest
+1176,CKV_AZURE_74,resource,azurerm_kusto_cluster,Ensure that Azure Data Explorer (Kusto) uses disk encryption,TRUE,Encryption at rest
+1200,CKV_AZURE_93,resource,azurerm_managed_disk,Ensure that managed disks use a specific set of disk encryption sets for the customer-managed key encryption,TRUE,Encryption at rest
+1204,CKV_AZURE_96,resource,azurerm_mysql_server,Ensure that MySQL server enables infrastructure encryption,TRUE,Encryption at rest
+1205,CKV_AZURE_97,resource,azurerm_linux_virtual_machine_scale_set,Ensure that Virtual machine scale sets have encryption at host enabled,TRUE,Encryption at rest
+1214,CKV_AZURE_105,resource,azurerm_data_lake_store,Ensure that Data Lake Store accounts enables encryption,TRUE,Encryption at rest
+1226,CKV_AZURE_117,resource,azurerm_kubernetes_cluster,Ensure that AKS uses disk encryption set,TRUE,Encryption at rest
+1240,CKV_AZURE_130,resource,azurerm_postgresql_server,Ensure that PostgreSQL server enables infrastructure encryption,TRUE,Encryption at rest
+1262,CKV_AZURE_151,resource,azurerm_windows_virtual_machine,Ensure Windows VM enables encryption,TRUE,Encryption at rest
+1338,CKV2_AZURE_1,resource,azurerm_storage_account,Ensure storage for critical data are encrypted with Customer Managed Key,TRUE,Encryption at rest
+1366,CKV2_AZURE_14,resource,azurerm_managed_disk,Ensure that Unattached disks are encrypted,TRUE,Encryption at rest
+1368,CKV2_AZURE_15,resource,azurerm_data_factory,Ensure that Azure data factories are encrypted with a customer-managed key,TRUE,Encryption at rest
+1369,CKV2_AZURE_16,resource,azurerm_mysql_server,Ensure that MySQL server enables customer-managed key for encryption,TRUE,Encryption at rest
+1371,CKV2_AZURE_17,resource,azurerm_postgresql_server,Ensure that PostgreSQL server enables customer-managed key for encryption,TRUE,Encryption at rest
+1373,CKV2_AZURE_18,resource,azurerm_storage_account,Ensure that Storage Accounts use customer-managed key for encryption,TRUE,Encryption at rest
+1068,CKV_AZURE_3,resource,azurerm_storage_account,Ensure that 'enable_https_traffic_only' is enabled,TRUE,Encryption in transit
+1086,CKV_AZURE_14,resource,azurerm_app_service,Ensure web app redirects all HTTP traffic to HTTPS in Azure App Service,TRUE,Encryption in transit
+1114,CKV_AZURE_28,resource,azurerm_mysql_server,Ensure 'Enforce SSL connection' is set to 'ENABLED' for MySQL Database Server,TRUE,Encryption in transit
+1115,CKV_AZURE_29,resource,azurerm_postgresql_server,Ensure 'Enforce SSL connection' is set to 'ENABLED' for PostgreSQL Database Server,TRUE,Encryption in transit
+1134,CKV_AZURE_47,resource,azurerm_mariadb_server,Ensure 'Enforce SSL connection' is set to 'ENABLED' for MariaDB servers,TRUE,Encryption in transit
+1165,CKV_AZURE_70,resource,azurerm_function_app,Ensure that Function apps is only accessible over HTTPS,TRUE,Encryption in transit
+1264,CKV_AZURE_153,resource,azurerm_app_service_slot,Ensure web app redirects all HTTP traffic to HTTPS in Azure App Service Slot,TRUE,Encryption in transit
+1274,CKV_AZURE_161,resource,azurerm_spring_cloud_api_portal,Ensures Spring Cloud API Portal is enabled on for HTTPS,TRUE,Encryption in transit
+1293,CKV_AZURE_178,resource,azurerm_linux_virtual_machine,Ensure linux VM enables SSH with keys for secure communication,TRUE,Encryption in transit
+1317,CKV_AZURE_197,resource,azurerm_cdn_endpoint,Ensure the Azure CDN disables the HTTP endpoint,TRUE,Encryption in transit
+1318,CKV_AZURE_198,resource,azurerm_cdn_endpoint,Ensure the Azure CDN enables the HTTPS endpoint,TRUE,Encryption in transit
+1133,CKV_AZURE_45,resource,azurerm_virtual_machine,Ensure that no sensitive credentials are exposed in VM custom_data,TRUE,Hard-coded secret
+1078,CKV_AZURE_11,resource,azurerm_mariadb_firewall_rule,Ensure no SQL Databases allow ingress from 0.0.0.0/0 (ANY IP),TRUE,IP Address binding
+1227,CKV_AZURE_118,resource,azurerm_network_interface,Ensure that Network Interfaces disable IP forwarding,TRUE,IP Address binding
+1228,CKV_AZURE_119,resource,azurerm_network_interface,Ensure that Network Interfaces don't use public IPs,TRUE,IP Address binding
+1253,CKV_AZURE_143,resource,azurerm_kubernetes_cluster,Ensure AKS cluster nodes do not have public IP addresses,TRUE,IP Address binding
+1069,CKV_AZURE_4,resource,azurerm_kubernetes_cluster,Ensure AKS logging to Azure Monitoring is Configured,TRUE,Logging/Monitoring
+1116,CKV_AZURE_30,resource,azurerm_postgresql_configuration,Ensure server parameter 'log_checkpoints' is set to 'ON' for PostgreSQL Database Server,TRUE,Logging/Monitoring
+1117,CKV_AZURE_31,resource,azurerm_postgresql_configuration,Ensure server parameter 'log_connections' is set to 'ON' for PostgreSQL Database Server,TRUE,Logging/Monitoring
+1119,CKV_AZURE_33,resource,azurerm_storage_account,Ensure Storage logging is enabled for Queue service for read  write and delete requests,TRUE,Logging/Monitoring
+1256,CKV_AZURE_146,resource,azurerm_postgresql_configuration,Ensure server parameter 'log_retention' is set to 'ON' for PostgreSQL Database Server,TRUE,Logging/Monitoring
+1267,CKV_AZURE_156,resource,azurerm_mssql_database_extended_auditing_policy,Ensure default Auditing policy for a SQL Server is configured to capture and retain the activity logs,TRUE,Logging/Monitoring
+1270,CKV_AZURE_159,resource,azurerm_function_app,Ensure function app builtin logging is enabled,TRUE,Logging/Monitoring
+1376,CKV2_AZURE_20,resource,azurerm_log_analytics_storage_insights,Ensure Storage logging is enabled for Table service for read requests,TRUE,Logging/Monitoring
+1379,CKV2_AZURE_21,resource,azurerm_log_analytics_storage_insights,Ensure Storage logging is enabled for Blob service for read requests,TRUE,Logging/Monitoring
+1089,CKV_AZURE_15,resource,azurerm_app_service,Ensure web app is using the latest version of TLS encryption,TRUE,Encryption in transit
+1098,CKV_AZURE_18,resource,azurerm_app_service,Ensure that 'HTTP Version' is the latest if used to run the web app,TRUE,Outdated feature
+1132,CKV_AZURE_44,resource,azurerm_storage_account,Ensure Storage Account is using the latest version of TLS encryption,TRUE,Encryption in transit
+1139,CKV_AZURE_52,resource,azurerm_mssql_server,Ensure MSSQL is using the latest version of TLS encryption,TRUE,Encryption in transit
+1141,CKV_AZURE_54,resource,azurerm_mysql_server,Ensure MySQL is using the latest version of TLS encryption,TRUE,Encryption in transit
+1185,CKV_AZURE_80,resource,azurerm_app_service,Ensure that 'Net Framework' version is the latest  if used as a part of the web app,TRUE,Outdated feature
+1186,CKV_AZURE_81,resource,azurerm_app_service,Ensure that 'PHP version' is the latest  if used to run the web app,TRUE,Outdated feature
+1187,CKV_AZURE_82,resource,azurerm_app_service,Ensure that 'Python version' is the latest  if used to run the web app,TRUE,Outdated feature
+1188,CKV_AZURE_83,resource,azurerm_app_service,Ensure that 'Java version' is the latest  if used to run the web app,TRUE,Outdated feature
+1255,CKV_AZURE_145,resource,azurerm_function_app,Ensure Function app is using the latest version of TLS encryption,TRUE,Encryption in transit
+1257,CKV_AZURE_147,resource,azurerm_postgresql_server,Ensure PostgreSQL is using the latest version of TLS encryption,TRUE,Encryption in transit
+1258,CKV_AZURE_148,resource,azurerm_redis_cache,Ensure Redis Cache is using the latest version of TLS encryption,TRUE,Encryption in transit
+1265,CKV_AZURE_154,resource,azurerm_app_service_slot,Ensure the App service slot is using the latest version of TLS encryption,TRUE,Encryption in transit
+1291,CKV_AZURE_177,resource,azurerm_windows_virtual_machine,Ensure Windows VM enables automatic updates,TRUE,Outdated feature
+1320,CKV_AZURE_200,resource,azurerm_cdn_endpoint_custom_domain,Ensure the Azure CDN endpoint is using the latest version of TLS encryption,TRUE,Encryption in transit
+1325,CKV_AZURE_205,resource,azurerm_servicebus_namespace,Ensure Azure Service Bus is using the latest version of TLS encryption,TRUE,Encryption in transit
+1070,CKV_AZURE_5,resource,azurerm_kubernetes_cluster,Ensure RBAC is enabled on AKS clusters,FALSE,
+1071,CKV_AZURE_6,resource,azurerm_kubernetes_cluster,Ensure AKS has an API Server Authorized IP Ranges enabled,FALSE,
+1072,CKV_AZURE_7,resource,azurerm_kubernetes_cluster,Ensure AKS cluster has Network Policy configured,FALSE,
+1073,CKV_AZURE_8,resource,azurerm_kubernetes_cluster,Ensure Kubernetes Dashboard is disabled,FALSE,
+1082,CKV_AZURE_12,resource,azurerm_network_watcher_flow_log,Ensure that Network Security Group Flow Log retention period is 'greater than 90 days',FALSE,
+1083,CKV_AZURE_13,resource,azurerm_app_service,Ensure App Service Authentication is set on Azure App Service,FALSE,
+1092,CKV_AZURE_16,resource,azurerm_app_service,Ensure that Register with Azure Active Directory is enabled on App Service,FALSE,
+1095,CKV_AZURE_17,resource,azurerm_app_service,Ensure the web app has 'Client Certificates (Incoming client certificates)' set,FALSE,
+1101,CKV_AZURE_19,resource,azurerm_security_center_subscription_pricing,Ensure that standard pricing tier is selected,FALSE,
+1102,CKV_AZURE_20,resource,azurerm_security_center_contact,Ensure that security contact 'Phone number' is set,FALSE,
+1103,CKV_AZURE_21,resource,azurerm_security_center_contact,Ensure that 'Send email notification for high severity alerts' is set to 'On',FALSE,
+1104,CKV_AZURE_22,resource,azurerm_security_center_contact,Ensure that 'Send email notification for high severity alerts' is set to 'On',FALSE,
+1105,CKV_AZURE_23,resource,azurerm_mssql_server,Ensure that 'Auditing' is set to 'On' for SQL servers,FALSE,
+1108,CKV_AZURE_24,resource,azurerm_mssql_server,Ensure that 'Auditing' Retention is 'greater than 90 days' for SQL servers,FALSE,
+1111,CKV_AZURE_25,resource,azurerm_mssql_server_security_alert_policy,Ensure that 'Threat Detection types' is set to 'All',FALSE,
+1112,CKV_AZURE_26,resource,azurerm_mssql_server_security_alert_policy,Ensure that 'Send Alerts To' is enabled for MSSQL servers,FALSE,
+1113,CKV_AZURE_27,resource,azurerm_mssql_server_security_alert_policy,Ensure that 'Email service and co-administrators' is 'Enabled' for MSSQL servers,FALSE,
+1118,CKV_AZURE_32,resource,azurerm_postgresql_configuration,Ensure server parameter 'connection_throttling' is set to 'ON' for PostgreSQL Database Server,FALSE,
+1121,CKV_AZURE_35,resource,azurerm_storage_account,Ensure default network access rule for Storage Accounts is set to deny,FALSE,
+1123,CKV_AZURE_36,resource,azurerm_storage_account,Ensure 'Trusted Microsoft Services' is enabled for Storage Account access,FALSE,
+1125,CKV_AZURE_37,resource,azurerm_monitor_log_profile,Ensure that Activity Log Retention is set 365 days or greater,FALSE,
+1126,CKV_AZURE_38,resource,azurerm_monitor_log_profile,Ensure audit profile captures all the activities,FALSE,
+1127,CKV_AZURE_39,resource,azurerm_role_definition,Ensure that no custom subscription owner roles are created,FALSE,
+1128,CKV_AZURE_40,resource,azurerm_key_vault_key,Ensure that the expiration date is set on all keys,FALSE,
+1129,CKV_AZURE_41,resource,azurerm_key_vault_secret,Ensure that the expiration date is set on all secrets,FALSE,
+1130,CKV_AZURE_42,resource,azurerm_key_vault,Ensure the key vault is recoverable,FALSE,
+1131,CKV_AZURE_43,resource,azurerm_storage_account,Ensure Storage Accounts adhere to the naming rules,FALSE,
+1137,CKV_AZURE_50,resource,azurerm_linux_virtual_machine,Ensure Virtual Machine Extensions are not Installed,FALSE,
+1142,CKV_AZURE_55,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for Servers,FALSE,
+1143,CKV_AZURE_56,resource,azurerm_function_app,Ensure that function apps enables Authentication,FALSE,
+1144,CKV_AZURE_57,resource,azurerm_app_service,Ensure that CORS disallows every resource to access app services,FALSE,
+1147,CKV_AZURE_58,resource,azurerm_synapse_workspace,Ensure that Azure Synapse workspaces enables managed virtual networks,FALSE,
+1149,CKV_AZURE_61,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for App Service,FALSE,
+1150,CKV_AZURE_62,resource,azurerm_function_app,Ensure function apps are not accessible from all regions,FALSE,
+1151,CKV_AZURE_63,resource,azurerm_app_service,Ensure that App service enables HTTP logging,FALSE,
+1154,CKV_AZURE_64,resource,azurerm_storage_sync,Ensure that Azure File Sync disables public network access,FALSE,
+1155,CKV_AZURE_65,resource,azurerm_app_service,Ensure that App service enables detailed error messages,FALSE,
+1158,CKV_AZURE_66,resource,azurerm_app_service,Ensure that App service enables failed request tracing,FALSE,
+1161,CKV_AZURE_67,resource,azurerm_function_app,Ensure that 'HTTP Version' is the latest  if used to run the Function app,FALSE,
+1164,CKV_AZURE_69,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for Azure SQL database servers,FALSE,
+1166,CKV_AZURE_71,resource,azurerm_app_service,Ensure that Managed identity provider is enabled for app services,FALSE,
+1169,CKV_AZURE_72,resource,azurerm_app_service,Ensure that remote debugging is not enabled for app services,FALSE,
+1177,CKV_AZURE_75,resource,azurerm_kusto_cluster,Ensure that Azure Data Explorer uses double encryption,FALSE,
+1178,CKV_AZURE_76,resource,azurerm_batch_account,Ensure that Azure Batch account uses key vault to encrypt data,FALSE,
+1181,CKV_AZURE_78,resource,azurerm_app_service,Ensure FTP deployments are disabled,FALSE,
+1184,CKV_AZURE_79,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for SQL servers on machines,FALSE,
+1189,CKV_AZURE_84,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for Storage,FALSE,
+1190,CKV_AZURE_85,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for Kubernetes,FALSE,
+1191,CKV_AZURE_86,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for Container Registries,FALSE,
+1192,CKV_AZURE_87,resource,azurerm_security_center_subscription_pricing,Ensure that Azure Defender is set to On for Key Vault,FALSE,
+1193,CKV_AZURE_88,resource,azurerm_app_service,Ensure that app services use Azure Files,FALSE,
+1197,CKV_AZURE_91,resource,azurerm_redis_cache,Ensure that only SSL are enabled for Cache for Redis,FALSE,
+1198,CKV_AZURE_92,resource,azurerm_linux_virtual_machine,Ensure that Virtual Machines use managed disks,FALSE,
+1201,CKV_AZURE_94,resource,azurerm_mysql_flexible_server,Ensure that My SQL server enables geo-redundant backups,FALSE,
+1203,CKV_AZURE_95,resource,azurerm_virtual_machine_scale_set,Ensure that automatic OS image patching is enabled for Virtual Machine Scale Sets,FALSE,
+1207,CKV_AZURE_98,resource,azurerm_container_group,Ensure that Azure Container group is deployed into virtual network,FALSE,
+1208,CKV_AZURE_99,resource,azurerm_cosmosdb_account,Ensure Cosmos DB accounts have restricted access,FALSE,
+1209,CKV_AZURE_100,resource,azurerm_cosmosdb_account,Ensure that Cosmos DB accounts have customer-managed keys to encrypt data at rest,FALSE,
+1211,CKV_AZURE_102,resource,azurerm_postgresql_server,Ensure that PostgreSQL server enables geo-redundant backups,FALSE,
+1212,CKV_AZURE_103,resource,azurerm_data_factory,Ensure that Azure Data Factory uses Git repository for source control,FALSE,
+1216,CKV_AZURE_107,resource,azurerm_api_management,Ensure that API management services use virtual networks,FALSE,
+1218,CKV_AZURE_109,resource,azurerm_key_vault,Ensure that key vault allows firewall rules settings,FALSE,
+1219,CKV_AZURE_110,resource,azurerm_key_vault,Ensure that key vault enables purge protection,FALSE,
+1220,CKV_AZURE_111,resource,azurerm_key_vault,Ensure that key vault enables soft delete,FALSE,
+1221,CKV_AZURE_112,resource,azurerm_key_vault_key,Ensure that key vault key is backed by HSM,FALSE,
+1223,CKV_AZURE_114,resource,azurerm_key_vault_secret,"Ensure that key vault secrets have ""content_type"" set",FALSE,
+1224,CKV_AZURE_115,resource,azurerm_kubernetes_cluster,Ensure that AKS enables private clusters,FALSE,
+1225,CKV_AZURE_116,resource,azurerm_kubernetes_cluster,Ensure that AKS uses Azure Policies Add-on,FALSE,
+1232,CKV_AZURE_122,resource,azurerm_web_application_firewall_policy,"Ensure that Application Gateway uses WAF in ""Detection"" or ""Prevention"" modes",FALSE,
+1233,CKV_AZURE_123,resource,azurerm_frontdoor_firewall_policy,"Ensure that Azure Front Door uses WAF in ""Detection"" or ""Prevention"" modes",FALSE,
+1235,CKV_AZURE_125,resource,azurerm_service_fabric_cluster,Ensures that Service Fabric use three levels of protection available,FALSE,
+1236,CKV_AZURE_126,resource,azurerm_service_fabric_cluster,Ensures that Active Directory is used for authentication for Service Fabric,FALSE,
+1237,CKV_AZURE_127,resource,azurerm_mysql_server,Ensure that My SQL server enables Threat detection policy,FALSE,
+1238,CKV_AZURE_128,resource,azurerm_postgresql_server,Ensure that PostgreSQL server enables Threat detection policy,FALSE,
+1239,CKV_AZURE_129,resource,azurerm_mariadb_server,Ensure that MariaDB server enables geo-redundant backups,FALSE,
+1241,CKV_AZURE_131,resource,azurerm_security_center_contact,Ensure that 'Security contact emails' is set,FALSE,
+1242,CKV_AZURE_132,resource,azurerm_cosmosdb_account,Ensure cosmosdb does not allow privileged escalation by restricting management plane changes,FALSE,
+1243,CKV_AZURE_133,resource,azurerm_frontdoor_firewall_policy,Ensure Front Door WAF prevents message lookup in Log4j2. See CVE-2021-44228 aka log4jshell,FALSE,
+1244,CKV_AZURE_134,resource,azurerm_cognitive_account,Ensure that Cognitive Services accounts disable public network access,FALSE,
+1245,CKV_AZURE_135,resource,azurerm_web_application_firewall_policy,Ensure Application Gateway WAF prevents message lookup in Log4j2. See CVE-2021-44228 aka log4jshell,FALSE,
+1246,CKV_AZURE_136,resource,azurerm_postgresql_flexible_server,Ensure that PostgreSQL Flexible server enables geo-redundant backups,FALSE,
+1248,CKV_AZURE_138,resource,azurerm_container_registry,Ensures that ACR disables anonymous pulling of images,FALSE,
+1250,CKV_AZURE_140,resource,azurerm_cosmosdb_account,Ensure that Local Authentication is disabled on CosmosDB,FALSE,
+1252,CKV_AZURE_142,resource,azurerm_machine_learning_compute_cluster,Ensure Machine Learning Compute Cluster Local Authentication is disabled,FALSE,
+1254,CKV_AZURE_144,resource,azurerm_machine_learning_workspace,Ensure that Public Access is disabled for Machine Learning Workspace,FALSE,
+1259,CKV_AZURE_149,resource,azurerm_linux_virtual_machine,Ensure that Virtual machine does not enable password authentication,FALSE,
+1261,CKV_AZURE_150,resource,azurerm_machine_learning_compute_cluster,Ensure Machine Learning Compute Cluster Minimum Nodes Set To 0,FALSE,
+1263,CKV_AZURE_152,resource,azurerm_api_management,Ensure Client Certificates are enforced for API management,FALSE,
+1266,CKV_AZURE_155,resource,azurerm_app_service_slot,Ensure debugging is disabled for the App service slot,FALSE,
+1268,CKV_AZURE_157,resource,azurerm_synapse_workspace,Ensure that Synapse workspace has data_exfiltration_protection_enabled,FALSE,
+1269,CKV_AZURE_158,resource,azurerm_databricks_workspace,Ensure that databricks workspace has not public,FALSE,
+1276,CKV_AZURE_163,resource,azurerm_container_registry,Enable vulnerability scanning for container images.,FALSE,
+1277,CKV_AZURE_164,resource,azurerm_container_registry,Ensures that ACR uses signed/trusted images,FALSE,
+1278,CKV_AZURE_165,resource,azurerm_container_registry,Ensure geo-replicated container registries to match multi-region container deployments.,FALSE,
+1279,CKV_AZURE_166,resource,azurerm_container_registry,Ensure container image quarantine  scan  and mark images verified,FALSE,
+1280,CKV_AZURE_167,resource,azurerm_container_registry,Ensure a retention policy is set to cleanup untagged manifests.,FALSE,
+1281,CKV_AZURE_168,resource,azurerm_kubernetes_cluster,Ensure Azure Kubernetes Cluster (AKS) nodes should use a minimum number of 50 pods.,FALSE,
+1283,CKV_AZURE_169,resource,azurerm_kubernetes_cluster,Ensure Azure Kubernetes Cluster (AKS) nodes use scale sets,FALSE,
+1284,CKV_AZURE_170,resource,azurerm_kubernetes_cluster,Ensure that AKS use the Paid Sku for its SLA,FALSE,
+1285,CKV_AZURE_171,resource,azurerm_kubernetes_cluster,Ensure AKS cluster upgrade channel is chosen,FALSE,
+1286,CKV_AZURE_172,resource,azurerm_kubernetes_cluster,Ensure autorotation of Secrets Store CSI Driver secrets for AKS clusters,FALSE,
+1287,CKV_AZURE_173,resource,azurerm_api_management,Ensure API management uses at least TLS 1.2,FALSE,
+1288,CKV_AZURE_174,resource,azurerm_api_management,Ensure API management public access is disabled,FALSE,
+1289,CKV_AZURE_175,resource,azurerm_web_pubsub,Ensure Web PubSub uses a SKU with an SLA,FALSE,
+1290,CKV_AZURE_176,resource,azurerm_web_pubsub,Ensure Web PubSub uses managed identities to access Azure resources,FALSE,
+1295,CKV_AZURE_179,resource,azurerm_linux_virtual_machine,Ensure VM agent is installed,FALSE,
+1299,CKV_AZURE_180,resource,azurerm_kusto_cluster,Ensure that data explorer uses Sku with an SLA,FALSE,
+1300,CKV_AZURE_181,resource,azurerm_kusto_cluster,Ensure that data explorer/Kusto uses managed identities to access Azure resources securely.,FALSE,
+1301,CKV_AZURE_182,resource,azurerm_virtual_network,Ensure that VNET has at least 2 connected DNS Endpoints,FALSE,
+1303,CKV_AZURE_183,resource,azurerm_virtual_network,Ensure that VNET uses local DNS addresses,FALSE,
+1304,CKV_AZURE_184,resource,azurerm_app_configuration,Ensure 'local_auth_enabled' is set to 'False',FALSE,
+1305,CKV_AZURE_185,resource,azurerm_app_configuration,Ensure 'Public Access' is not Enabled for App configuration,FALSE,
+1306,CKV_AZURE_186,resource,azurerm_app_configuration,Ensure App configuration encryption block is set.,FALSE,
+1307,CKV_AZURE_187,resource,azurerm_app_configuration,Ensure App configuration purge protection is enabled,FALSE,
+1308,CKV_AZURE_188,resource,azurerm_app_configuration,Ensure App configuration Sku is standard,FALSE,
+1309,CKV_AZURE_189,resource,azurerm_key_vault,Ensure that Azure Key Vault disables public network access,FALSE,
+1310,CKV_AZURE_190,resource,azurerm_storage_account,Ensure that Storage blobs restrict public access,FALSE,
+1311,CKV_AZURE_191,resource,azurerm_eventgrid_topic,Ensure that Managed identity provider is enabled for Azure Event Grid Topic,FALSE,
+1312,CKV_AZURE_192,resource,azurerm_eventgrid_topic,Ensure that Azure Event Grid Topic local Authentication is disabled,FALSE,
+1313,CKV_AZURE_193,resource,azurerm_eventgrid_topic,Ensure public network access is disabled for Azure Event Grid Topic,FALSE,
+1314,CKV_AZURE_194,resource,azurerm_eventgrid_domain,Ensure that Managed identity provider is enabled for Azure Event Grid Domain,FALSE,
+1315,CKV_AZURE_195,resource,azurerm_eventgrid_domain,Ensure that Azure Event Grid Domain local Authentication is disabled,FALSE,
+1316,CKV_AZURE_196,resource,azurerm_signalr_service,Ensure that SignalR uses a Paid Sku for its SLA,FALSE,
+1319,CKV_AZURE_199,resource,azurerm_servicebus_namespace,Ensure that Azure Service Bus uses double encryption,FALSE,
+1321,CKV_AZURE_201,resource,azurerm_servicebus_namespace,Ensure that Azure Service Bus uses a customer-managed key to encrypt data,FALSE,
+1322,CKV_AZURE_202,resource,azurerm_servicebus_namespace,Ensure that Managed identity provider is enabled for Azure Service Bus,FALSE,
+1323,CKV_AZURE_203,resource,azurerm_servicebus_namespace,Ensure Azure Service Bus Local Authentication is disabled,FALSE,
+1326,CKV_AZURE_206,resource,azurerm_storage_account,Ensure that Storage Accounts use replication,FALSE,
+1327,CKV_AZURE_207,resource,azurerm_search_service,Ensure Azure Cognitive Search service uses managed identities to access Azure resources,FALSE,
+1328,CKV_AZURE_208,resource,azurerm_search_service,Ensure that Azure Cognitive Search maintains SLA for index updates,FALSE,
+1329,CKV_AZURE_209,resource,azurerm_search_service,Ensure that Azure Cognitive Search maintains SLA for search index queries,FALSE,
+1330,CKV_AZURE_210,resource,azurerm_search_service,Ensure Azure Cognitive Search service allowed IPS does not give public Access,FALSE,
+1331,CKV_AZURE_211,resource,azurerm_service_plan,Ensure App Service plan suitable for production use,FALSE,
+1332,CKV_AZURE_212,resource,azurerm_service_plan,Ensure App Service has a minimum number of instances for failover,FALSE,
+1333,CKV_AZURE_213,resource,azurerm_app_service,Ensure that App Service configures health check,FALSE,
+1336,CKV_AZURE_214,resource,azurerm_linux_web_app,Ensure App Service is set to be always on,FALSE,
+1339,CKV2_AZURE_2,resource,azurerm_mssql_server_security_alert_policy,Ensure that Vulnerability Assessment (VA) is enabled on a SQL server by setting a Storage Account,FALSE,
+1341,CKV2_AZURE_3,resource,azurerm_mssql_server,Ensure that VA setting Periodic Recurring Scans is enabled on a SQL server,FALSE,
+1345,CKV2_AZURE_4,resource,azurerm_mssql_server,Ensure Azure SQL server ADS VA Send scan reports to is configured,FALSE,
+1349,CKV2_AZURE_5,resource,azurerm_mssql_server,Ensure that VA setting 'Also send email notifications to admins and subscription owners' is set for a SQL server,FALSE,
+1355,CKV2_AZURE_7,resource,azurerm_sql_server,Ensure that Azure Active Directory Admin is configured,FALSE,
+1359,CKV2_AZURE_9,resource,azurerm_virtual_machine,Ensure Virtual Machines are utilizing Managed Disks,FALSE,
+1360,CKV2_AZURE_10,resource,azurerm_virtual_machine,Ensure that Microsoft Antimalware is configured to automatically updates for Virtual Machines,FALSE,
+1362,CKV2_AZURE_11,resource,azurerm_kusto_cluster,Ensure that Azure Data Explorer encryption at rest uses a customer-managed key,FALSE,
+1363,CKV2_AZURE_12,resource,azurerm_virtual_machine,Ensure that virtual machines are backed up using Azure Backup,FALSE,
+1364,CKV2_AZURE_13,resource,azurerm_mssql_server_security_alert_policy,Ensure that sql servers enables data security policy,FALSE,
+1375,CKV2_AZURE_19,resource,azurerm_synapse_workspace,Ensure that Azure Synapse workspaces have no IP firewall rules attached,FALSE,
+1382,CKV2_AZURE_22,resource,azurerm_cognitive_account,Ensure that Cognitive Services enables customer-managed key for encryption,FALSE,

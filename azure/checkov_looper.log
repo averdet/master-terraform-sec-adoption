@@ -1,0 +1,443 @@
+2023-02-20 15:03:00,052 | INFO | Existing outfile loaded
+2023-02-20 15:03:00,349 | WARNING | openshift/installer is too large
+2023-02-20 15:03:00,649 | INFO | Cloning repo kubermatic/kubeone
+2023-02-20 15:03:03,170 | INFO | Checkov start on kubermatic/kubeone
+2023-02-20 15:03:20,231 | INFO | Existing outfile loaded
+2023-02-20 15:03:20,463 | WARNING | openshift/installer is too large
+2023-02-20 15:03:20,665 | INFO | Cloning repo kubermatic/kubeone
+2023-02-20 15:03:23,502 | INFO | Checkov start on kubermatic/kubeone
+2023-02-20 15:05:02,470 | INFO | Existing outfile loaded
+2023-02-20 15:05:02,800 | WARNING | openshift/installer is too large
+2023-02-20 15:05:03,047 | INFO | Cloning repo kubermatic/kubeone
+2023-02-20 15:05:03,056 | WARNING | Repo kubermatic/kubeone error
+2023-02-20 15:05:03,119 | INFO | Total number of repositories: 0
+2023-02-20 15:05:19,985 | INFO | Existing outfile loaded
+2023-02-20 15:05:20,231 | WARNING | openshift/installer is too large
+2023-02-20 15:05:20,487 | INFO | Cloning repo kubermatic/kubeone
+2023-02-20 15:05:22,945 | INFO | Checkov start on kubermatic/kubeone
+2023-02-20 15:05:46,482 | INFO | Existing outfile loaded
+2023-02-20 15:05:46,761 | INFO | Cloning repo Azure/terraform
+2023-02-20 15:05:47,546 | INFO | Checkov start on Azure/terraform
+2023-02-20 15:08:52,176 | INFO | Existing outfile loaded
+2023-02-20 15:08:52,448 | WARNING | openshift/installer is too large
+2023-02-20 15:08:52,711 | INFO | Cloning repo kubermatic/kubeone
+2023-02-20 15:08:54,960 | INFO | Checkov start on kubermatic/kubeone
+2023-02-20 15:09:17,109 | INFO | Erasing kubermatic/kubeone from disk
+2023-02-20 15:09:17,153 | INFO | Total number of repositories: 1
+2023-02-20 15:09:51,562 | INFO | Existing outfile loaded
+2023-02-20 15:09:51,821 | WARNING | openshift/installer is too large
+2023-02-20 15:09:52,116 | INFO | Cloning repo Azure/terraform-azurerm-caf-enterprise-scale
+2023-02-20 15:09:53,982 | INFO | Checkov start on Azure/terraform-azurerm-caf-enterprise-scale
+2023-02-20 15:11:27,702 | WARNING | Checkov failed on Azure/terraform-azurerm-caf-enterprise-scale. See 
+2023-02-20 15:11:27,982 | INFO | Cloning repo Azure/terraform
+2023-02-20 15:11:29,411 | INFO | Checkov start on Azure/terraform
+2023-02-20 15:11:47,391 | INFO | Erasing Azure/terraform from disk
+2023-02-20 15:11:47,706 | INFO | Cloning repo aztfmod/terraform-azurerm-caf
+2023-02-20 15:11:49,645 | INFO | Checkov start on aztfmod/terraform-azurerm-caf
+2023-02-20 15:14:22,264 | INFO | Erasing aztfmod/terraform-azurerm-caf from disk
+2023-02-20 15:14:27,607 | INFO | Cloning repo lynnlangit/learning-cloud
+2023-02-20 15:14:31,028 | INFO | Checkov start on lynnlangit/learning-cloud
+2023-02-20 15:14:35,693 | INFO | Erasing lynnlangit/learning-cloud from disk
+2023-02-20 15:14:35,966 | INFO | Cloning repo ned1313/terraform-tuesdays
+2023-02-20 15:14:36,565 | INFO | Checkov start on ned1313/terraform-tuesdays
+2023-02-20 15:14:56,703 | INFO | Erasing ned1313/terraform-tuesdays from disk
+2023-02-20 15:14:56,960 | INFO | Cloning repo HoussemDellai/terraform-course
+2023-02-20 15:15:01,598 | INFO | Checkov start on HoussemDellai/terraform-course
+2023-02-20 15:15:11,915 | INFO | Erasing HoussemDellai/terraform-course from disk
+2023-02-20 15:15:12,259 | INFO | Cloning repo Azure/Mission-Critical-Online
+2023-02-20 15:15:16,787 | INFO | Checkov start on Azure/Mission-Critical-Online
+2023-02-20 15:15:31,659 | INFO | Erasing Azure/Mission-Critical-Online from disk
+2023-02-20 15:15:31,963 | WARNING | Azure/avdaccelerator is too large
+2023-02-20 15:15:32,266 | INFO | Cloning repo microsoft/AzureTRE
+2023-02-20 15:15:39,171 | INFO | Checkov start on microsoft/AzureTRE
+2023-02-20 15:16:10,335 | INFO | Erasing microsoft/AzureTRE from disk
+2023-02-20 15:16:10,657 | INFO | Cloning repo ComputeCanada/magic_castle
+2023-02-20 15:16:11,450 | INFO | Checkov start on ComputeCanada/magic_castle
+2023-02-20 15:16:21,741 | INFO | Erasing ComputeCanada/magic_castle from disk
+2023-02-20 15:16:22,059 | WARNING | Azure-Samples/media-services-video-indexer is too large
+2023-02-20 15:16:22,365 | WARNING | Azure/FTALive-Sessions is too large
+2023-02-20 15:16:22,604 | INFO | Cloning repo hashicorp/hashicat-azure
+2023-02-20 15:16:23,092 | INFO | Checkov start on hashicorp/hashicat-azure
+2023-02-20 15:16:27,283 | INFO | Erasing hashicorp/hashicat-azure from disk
+2023-02-20 15:16:27,569 | INFO | Cloning repo confluentinc/terraform-provider-confluent
+2023-02-20 15:16:28,612 | INFO | Checkov start on confluentinc/terraform-provider-confluent
+2023-02-20 15:16:45,038 | WARNING | Checkov failed on confluentinc/terraform-provider-confluent. See 
+2023-02-20 15:16:45,306 | INFO | Cloning repo sassoftware/viya4-iac-azure
+2023-02-20 15:16:46,052 | INFO | Checkov start on sassoftware/viya4-iac-azure
+2023-02-20 15:16:51,776 | INFO | Erasing sassoftware/viya4-iac-azure from disk
+2023-02-20 15:16:52,020 | INFO | Cloning repo jakewalsh90/Terraform-Azure
+2023-02-20 15:16:52,699 | INFO | Checkov start on jakewalsh90/Terraform-Azure
+2023-02-20 15:17:02,847 | INFO | Erasing jakewalsh90/Terraform-Azure from disk
+2023-02-20 15:17:03,138 | INFO | Cloning repo hashicorp/terraform-azurerm-terraform-enterprise
+2023-02-20 15:17:03,863 | INFO | Checkov start on hashicorp/terraform-azurerm-terraform-enterprise
+2023-02-20 15:17:19,860 | INFO | Erasing hashicorp/terraform-azurerm-terraform-enterprise from disk
+2023-02-20 15:17:20,144 | INFO | Cloning repo Azure/NoOpsAccelerator
+2023-02-20 15:17:21,685 | INFO | Checkov start on Azure/NoOpsAccelerator
+2023-02-20 15:18:06,051 | INFO | Erasing Azure/NoOpsAccelerator from disk
+2023-02-20 15:18:06,377 | INFO | Cloning repo Azure/terraform-azurerm-loadbalancer
+2023-02-20 15:18:06,985 | INFO | Checkov start on Azure/terraform-azurerm-loadbalancer
+2023-02-20 15:18:11,520 | WARNING | Checkov failed on Azure/terraform-azurerm-loadbalancer. See 
+2023-02-20 15:18:11,785 | INFO | Cloning repo PaloAltoNetworks/terraform-azurerm-vmseries-modules
+2023-02-20 15:18:12,512 | INFO | Checkov start on PaloAltoNetworks/terraform-azurerm-vmseries-modules
+2023-02-20 15:18:21,688 | INFO | Erasing PaloAltoNetworks/terraform-azurerm-vmseries-modules from disk
+2023-02-20 15:18:21,923 | WARNING | 40net-cloud/fortinet-azure-solutions is too large
+2023-02-20 15:18:22,163 | INFO | Cloning repo CDCgov/prime-simplereport
+2023-02-20 15:18:27,666 | INFO | Checkov start on CDCgov/prime-simplereport
+2023-02-20 15:19:06,335 | INFO | Erasing CDCgov/prime-simplereport from disk
+2023-02-20 15:19:06,664 | INFO | Cloning repo mrsimonemms/gitpod-self-hosted
+2023-02-20 15:19:07,219 | INFO | Checkov start on mrsimonemms/gitpod-self-hosted
+2023-02-20 15:19:13,042 | INFO | Erasing mrsimonemms/gitpod-self-hosted from disk
+2023-02-20 15:19:13,331 | INFO | Cloning repo microsoft/planetary-computer-hub
+2023-02-20 15:19:13,892 | INFO | Checkov start on microsoft/planetary-computer-hub
+2023-02-20 15:19:18,987 | INFO | Erasing microsoft/planetary-computer-hub from disk
+2023-02-20 15:19:19,243 | INFO | Cloning repo databricks/terraform-databricks-examples
+2023-02-20 15:19:21,829 | INFO | Checkov start on databricks/terraform-databricks-examples
+2023-02-20 15:19:32,775 | INFO | Erasing databricks/terraform-databricks-examples from disk
+2023-02-20 15:19:33,040 | INFO | Cloning repo MangoInstantMessenger/MangoMessengerAPI
+2023-02-20 15:19:35,261 | INFO | Checkov start on MangoInstantMessenger/MangoMessengerAPI
+2023-02-20 15:19:50,199 | INFO | Erasing MangoInstantMessenger/MangoMessengerAPI from disk
+2023-02-20 15:19:50,494 | INFO | Cloning repo asean-rssa/tf_azure_deployment
+2023-02-20 15:19:52,845 | INFO | Checkov start on asean-rssa/tf_azure_deployment
+2023-02-20 15:20:01,006 | INFO | Erasing asean-rssa/tf_azure_deployment from disk
+2023-02-20 15:20:01,286 | WARNING | DFE-Digital/apply-for-teacher-training is too large
+2023-02-20 15:20:01,548 | INFO | Cloning repo Azure/terraform-azurerm-postgresql
+2023-02-20 15:20:02,210 | INFO | Checkov start on Azure/terraform-azurerm-postgresql
+2023-02-20 15:20:06,912 | WARNING | Checkov failed on Azure/terraform-azurerm-postgresql. See 
+2023-02-20 15:20:07,176 | INFO | Cloning repo hashicorp/vault-plugin-secrets-azure
+2023-02-20 15:20:08,871 | INFO | Checkov start on hashicorp/vault-plugin-secrets-azure
+2023-02-20 15:20:13,053 | WARNING | Checkov failed on hashicorp/vault-plugin-secrets-azure. See 
+2023-02-20 15:20:13,327 | INFO | Cloning repo equinor/radix-platform
+2023-02-20 15:20:14,990 | INFO | Checkov start on equinor/radix-platform
+2023-02-20 15:20:24,209 | INFO | Erasing equinor/radix-platform from disk
+2023-02-20 15:20:24,501 | INFO | Cloning repo Azure/azure-data-labs-modules
+2023-02-20 15:20:25,285 | INFO | Checkov start on Azure/azure-data-labs-modules
+2023-02-20 15:20:56,510 | INFO | Erasing Azure/azure-data-labs-modules from disk
+2023-02-20 15:20:56,830 | INFO | Cloning repo dfds/infrastructure-modules
+2023-02-20 15:21:02,113 | INFO | Checkov start on dfds/infrastructure-modules
+2023-02-20 15:21:45,017 | WARNING | Checkov failed on dfds/infrastructure-modules. See 
+2023-02-20 15:21:45,354 | INFO | Cloning repo adamrushuk/devops-lab
+2023-02-20 15:21:46,106 | INFO | Checkov start on adamrushuk/devops-lab
+2023-02-20 15:21:53,688 | INFO | Erasing adamrushuk/devops-lab from disk
+2023-02-20 15:21:53,927 | INFO | Cloning repo Pwd9000-ML/Azure-Terraform-Deployments
+2023-02-20 15:21:54,446 | INFO | Checkov start on Pwd9000-ML/Azure-Terraform-Deployments
+2023-02-20 15:21:58,817 | INFO | Erasing Pwd9000-ML/Azure-Terraform-Deployments from disk
+2023-02-20 15:21:59,031 | INFO | Cloning repo sergelogvinov/terraform-talos
+2023-02-20 15:21:59,691 | INFO | Checkov start on sergelogvinov/terraform-talos
+2023-02-20 15:22:15,508 | INFO | Erasing sergelogvinov/terraform-talos from disk
+2023-02-20 15:22:15,779 | INFO | Cloning repo claranet/terraform-azurerm-app-gateway
+2023-02-20 15:22:16,294 | INFO | Checkov start on claranet/terraform-azurerm-app-gateway
+2023-02-20 15:22:21,124 | INFO | Erasing claranet/terraform-azurerm-app-gateway from disk
+2023-02-20 15:22:21,409 | INFO | Cloning repo Azure-Samples/container-apps-azapi-terraform
+2023-02-20 15:22:21,880 | INFO | Checkov start on Azure-Samples/container-apps-azapi-terraform
+2023-02-20 15:22:26,820 | INFO | Erasing Azure-Samples/container-apps-azapi-terraform from disk
+2023-02-20 15:22:27,108 | INFO | Cloning repo recognizegroup/terraform
+2023-02-20 15:22:27,714 | INFO | Checkov start on recognizegroup/terraform
+2023-02-20 15:22:39,114 | INFO | Erasing recognizegroup/terraform from disk
+2023-02-20 15:22:39,379 | INFO | Cloning repo geekzter/azure-pipeline-agents
+2023-02-20 15:22:40,539 | INFO | Checkov start on geekzter/azure-pipeline-agents
+2023-02-20 15:22:47,443 | INFO | Erasing geekzter/azure-pipeline-agents from disk
+2023-02-20 15:22:47,667 | INFO | Cloning repo echo-webkom/echo-web
+2023-02-20 15:22:51,083 | INFO | Checkov start on echo-webkom/echo-web
+2023-02-20 15:22:59,383 | INFO | Erasing echo-webkom/echo-web from disk
+2023-02-20 15:22:59,643 | INFO | Cloning repo hashicorp/vault-plugin-auth-azure
+2023-02-20 15:23:03,570 | INFO | Checkov start on hashicorp/vault-plugin-auth-azure
+2023-02-20 15:23:08,031 | INFO | Erasing hashicorp/vault-plugin-auth-azure from disk
+2023-02-20 15:23:08,263 | INFO | Cloning repo PacktPublishing/Terraform-Cookbook-Second-Edition
+2023-02-20 15:23:08,855 | INFO | Checkov start on PacktPublishing/Terraform-Cookbook-Second-Edition
+2023-02-20 15:23:17,331 | INFO | Erasing PacktPublishing/Terraform-Cookbook-Second-Edition from disk
+2023-02-20 15:23:17,563 | INFO | Cloning repo jmc265/personal-cloud
+2023-02-20 15:23:18,045 | INFO | Checkov start on jmc265/personal-cloud
+2023-02-20 15:23:22,896 | WARNING | Checkov failed on jmc265/personal-cloud. See 
+2023-02-20 15:23:23,115 | INFO | Cloning repo e2eSolutionArchitect/terraform
+2023-02-20 15:23:23,669 | INFO | Checkov start on e2eSolutionArchitect/terraform
+2023-02-20 15:23:37,054 | INFO | Erasing e2eSolutionArchitect/terraform from disk
+2023-02-20 15:23:37,310 | INFO | Cloning repo PacketFabric/terraform-provider-packetfabric
+2023-02-20 15:23:38,476 | INFO | Checkov start on PacketFabric/terraform-provider-packetfabric
+2023-02-20 15:23:48,280 | INFO | Erasing PacketFabric/terraform-provider-packetfabric from disk
+2023-02-20 15:23:48,526 | INFO | Cloning repo MontiCore/montithings
+2023-02-20 15:23:51,608 | INFO | Checkov start on MontiCore/montithings
+2023-02-20 15:24:33,614 | INFO | Erasing MontiCore/montithings from disk
+2023-02-20 15:24:34,011 | INFO | Cloning repo Azure/aks-baseline-windows
+2023-02-20 15:24:41,513 | INFO | Checkov start on Azure/aks-baseline-windows
+2023-02-20 15:24:49,964 | INFO | Erasing Azure/aks-baseline-windows from disk
+2023-02-20 15:24:50,274 | INFO | Cloning repo Azure/aks-app-routing-operator
+2023-02-20 15:24:50,811 | INFO | Checkov start on Azure/aks-app-routing-operator
+2023-02-20 15:24:56,007 | INFO | Erasing Azure/aks-app-routing-operator from disk
+2023-02-20 15:24:56,282 | INFO | Cloning repo brave/security-action
+2023-02-20 15:24:56,970 | INFO | Checkov start on brave/security-action
+2023-02-20 15:25:16,747 | INFO | Erasing brave/security-action from disk
+2023-02-20 15:25:17,022 | INFO | Cloning repo nimbix/jarvice-helm
+2023-02-20 15:25:20,380 | INFO | Checkov start on nimbix/jarvice-helm
+2023-02-20 15:25:28,229 | INFO | Erasing nimbix/jarvice-helm from disk
+2023-02-20 15:25:28,458 | INFO | Cloning repo dirien/quick-bites
+2023-02-20 15:25:29,342 | INFO | Checkov start on dirien/quick-bites
+2023-02-20 15:25:36,386 | INFO | Erasing dirien/quick-bites from disk
+2023-02-20 15:25:36,652 | INFO | Cloning repo Anthony-Nolan/Atlas
+2023-02-20 15:25:47,003 | INFO | Checkov start on Anthony-Nolan/Atlas
+2023-02-20 15:27:43,007 | INFO | Erasing Anthony-Nolan/Atlas from disk
+2023-02-20 15:27:43,330 | INFO | Cloning repo jkroepke/homelab
+2023-02-20 15:27:45,804 | INFO | Checkov start on jkroepke/homelab
+2023-02-20 15:28:00,414 | INFO | Erasing jkroepke/homelab from disk
+2023-02-20 15:28:00,680 | INFO | Cloning repo claranet/terraform-azurerm-function-app
+2023-02-20 15:28:01,315 | INFO | Checkov start on claranet/terraform-azurerm-function-app
+2023-02-20 15:28:07,337 | INFO | Erasing claranet/terraform-azurerm-function-app from disk
+2023-02-20 15:28:07,608 | INFO | Cloning repo tetrateio/tetrate-service-bridge-sandbox
+2023-02-20 15:28:08,320 | INFO | Checkov start on tetrateio/tetrate-service-bridge-sandbox
+2023-02-20 15:28:16,823 | INFO | Erasing tetrateio/tetrate-service-bridge-sandbox from disk
+2023-02-20 15:28:17,058 | WARNING | GTRekter/Training is too large
+2023-02-20 15:28:17,291 | INFO | Cloning repo kashw2/Fleet-of-the-Faithful-Knights
+2023-02-20 15:28:18,520 | INFO | Checkov start on kashw2/Fleet-of-the-Faithful-Knights
+2023-02-20 15:28:27,011 | INFO | Erasing kashw2/Fleet-of-the-Faithful-Knights from disk
+2023-02-20 15:28:27,226 | INFO | Cloning repo pekalam/auctionhouse
+2023-02-20 15:28:31,105 | INFO | Checkov start on pekalam/auctionhouse
+2023-02-20 15:28:59,055 | INFO | Erasing pekalam/auctionhouse from disk
+2023-02-20 15:28:59,458 | INFO | Cloning repo ICCS-ISAC/Candy
+2023-02-20 15:29:02,129 | INFO | Checkov start on ICCS-ISAC/Candy
+2023-02-20 15:29:08,300 | WARNING | Checkov failed on ICCS-ISAC/Candy. See 
+2023-02-20 15:29:08,568 | INFO | Cloning repo briandenicola/kubernetes
+2023-02-20 15:29:09,878 | INFO | Checkov start on briandenicola/kubernetes
+2023-02-20 15:29:23,047 | INFO | Erasing briandenicola/kubernetes from disk
+2023-02-20 15:29:23,305 | INFO | Cloning repo pagopa/io-infra
+2023-02-20 15:29:24,197 | INFO | Checkov start on pagopa/io-infra
+2023-02-20 15:29:36,946 | INFO | Erasing pagopa/io-infra from disk
+2023-02-20 15:29:37,193 | INFO | Cloning repo inhashed/thehive-sentinel-integration
+2023-02-20 15:29:37,672 | INFO | Checkov start on inhashed/thehive-sentinel-integration
+2023-02-20 15:29:42,170 | INFO | Erasing inhashed/thehive-sentinel-integration from disk
+2023-02-20 15:29:42,398 | INFO | Cloning repo pagopa/cstar-infrastructure
+2023-02-20 15:29:43,567 | INFO | Checkov start on pagopa/cstar-infrastructure
+2023-02-20 15:30:03,577 | INFO | Erasing pagopa/cstar-infrastructure from disk
+2023-02-20 15:30:03,954 | INFO | Cloning repo NHSDigital/summary-care-record-api
+2023-02-20 15:30:04,919 | INFO | Checkov start on NHSDigital/summary-care-record-api
+2023-02-20 15:30:20,073 | WARNING | Checkov failed on NHSDigital/summary-care-record-api. See 
+2023-02-20 15:30:20,376 | INFO | Cloning repo hotosm/raw-data-api
+2023-02-20 15:30:27,875 | INFO | Checkov start on hotosm/raw-data-api
+2023-02-20 15:30:32,974 | INFO | Erasing hotosm/raw-data-api from disk
+2023-02-20 15:30:33,274 | INFO | Cloning repo claranet/terraform-azurerm-db-postgresql-flexible
+2023-02-20 15:30:33,782 | INFO | Checkov start on claranet/terraform-azurerm-db-postgresql-flexible
+2023-02-20 15:30:37,745 | WARNING | Checkov failed on claranet/terraform-azurerm-db-postgresql-flexible. See 
+2023-02-20 15:30:37,952 | INFO | Cloning repo benchiverton/OnlineStore
+2023-02-20 15:30:38,851 | INFO | Checkov start on benchiverton/OnlineStore
+2023-02-20 15:30:44,183 | INFO | Erasing benchiverton/OnlineStore from disk
+2023-02-20 15:30:44,427 | INFO | Cloning repo sunileman/1ClickECK
+2023-02-20 15:30:44,985 | INFO | Checkov start on sunileman/1ClickECK
+2023-02-20 15:30:55,490 | INFO | Erasing sunileman/1ClickECK from disk
+2023-02-20 15:30:55,809 | INFO | Cloning repo prancer-io/prancer-terramerra
+2023-02-20 15:30:56,642 | INFO | Checkov start on prancer-io/prancer-terramerra
+2023-02-20 15:31:14,030 | INFO | Erasing prancer-io/prancer-terramerra from disk
+2023-02-20 15:31:14,311 | INFO | Cloning repo jakewalsh90/Terraform-Modules-Azure
+2023-02-20 15:31:14,771 | INFO | Checkov start on jakewalsh90/Terraform-Modules-Azure
+2023-02-20 15:31:19,003 | INFO | Erasing jakewalsh90/Terraform-Modules-Azure from disk
+2023-02-20 15:31:19,296 | INFO | Cloning repo identiq-protocol/edge-infrastructure
+2023-02-20 15:31:19,848 | INFO | Checkov start on identiq-protocol/edge-infrastructure
+2023-02-20 15:31:26,723 | INFO | Erasing identiq-protocol/edge-infrastructure from disk
+2023-02-20 15:31:26,997 | INFO | Cloning repo hmcts/civil-citizen-ui
+2023-02-20 15:31:31,748 | INFO | Checkov start on hmcts/civil-citizen-ui
+2023-02-20 15:31:57,510 | WARNING | Checkov failed on hmcts/civil-citizen-ui. See 
+2023-02-20 15:31:57,787 | INFO | Cloning repo JFolberth/Azure_IaC_Flavors
+2023-02-20 15:31:58,778 | INFO | Checkov start on JFolberth/Azure_IaC_Flavors
+2023-02-20 15:32:04,633 | INFO | Erasing JFolberth/Azure_IaC_Flavors from disk
+2023-02-20 15:32:04,894 | INFO | Cloning repo fr-platform/terraform-azurerm-available-ips
+2023-02-20 15:32:05,374 | INFO | Checkov start on fr-platform/terraform-azurerm-available-ips
+2023-02-20 15:32:09,244 | WARNING | Checkov failed on fr-platform/terraform-azurerm-available-ips. See 
+2023-02-20 15:32:09,492 | INFO | Cloning repo zioproto/istio-aks-example
+2023-02-20 15:32:09,998 | INFO | Checkov start on zioproto/istio-aks-example
+2023-02-20 15:32:14,287 | INFO | Erasing zioproto/istio-aks-example from disk
+2023-02-20 15:32:14,571 | INFO | Cloning repo pagopa/pagopa-azure-devops
+2023-02-20 15:32:15,234 | INFO | Checkov start on pagopa/pagopa-azure-devops
+2023-02-20 15:32:24,835 | WARNING | Checkov failed on pagopa/pagopa-azure-devops. See 
+2023-02-20 15:32:25,171 | INFO | Cloning repo pagopa/terraform-infrastructure-template
+2023-02-20 15:32:25,617 | INFO | Checkov start on pagopa/terraform-infrastructure-template
+2023-02-20 15:32:29,738 | WARNING | Checkov failed on pagopa/terraform-infrastructure-template. See 
+2023-02-20 15:32:30,050 | INFO | Cloning repo Azure/terraform-azurerm-virtual-machine
+2023-02-20 15:32:30,599 | INFO | Checkov start on Azure/terraform-azurerm-virtual-machine
+2023-02-20 15:32:38,729 | WARNING | Checkov failed on Azure/terraform-azurerm-virtual-machine. See 
+2023-02-20 15:32:39,004 | INFO | Cloning repo CDCgov/trusted-intermediary
+2023-02-20 15:32:39,601 | INFO | Checkov start on CDCgov/trusted-intermediary
+2023-02-20 15:32:45,496 | INFO | Erasing CDCgov/trusted-intermediary from disk
+2023-02-20 15:32:45,767 | INFO | Cloning repo PHACDataHub/wastewater-graphql
+2023-02-20 15:32:46,355 | INFO | Checkov start on PHACDataHub/wastewater-graphql
+2023-02-20 15:32:51,065 | WARNING | Checkov failed on PHACDataHub/wastewater-graphql. See 
+2023-02-20 15:32:51,387 | INFO | Cloning repo CDCgov/phdi-azure
+2023-02-20 15:32:57,681 | INFO | Checkov start on CDCgov/phdi-azure
+2023-02-20 15:33:02,647 | INFO | Erasing CDCgov/phdi-azure from disk
+2023-02-20 15:33:02,919 | INFO | Cloning repo technicalflow/myterraform
+2023-02-20 15:33:03,418 | INFO | Checkov start on technicalflow/myterraform
+2023-02-20 15:33:08,994 | INFO | Erasing technicalflow/myterraform from disk
+2023-02-20 15:33:09,321 | INFO | Cloning repo OLeonardoRodrigues/terraform-azurerm-available-ips
+2023-02-20 15:33:09,771 | INFO | Checkov start on OLeonardoRodrigues/terraform-azurerm-available-ips
+2023-02-20 15:33:13,669 | WARNING | Checkov failed on OLeonardoRodrigues/terraform-azurerm-available-ips. See 
+2023-02-20 15:33:13,920 | INFO | Cloning repo gogorichie/tf-playground
+2023-02-20 15:33:14,371 | INFO | Checkov start on gogorichie/tf-playground
+2023-02-20 15:33:18,728 | INFO | Erasing gogorichie/tf-playground from disk
+2023-02-20 15:33:18,961 | INFO | Cloning repo massdriver-cloud/massdriver-cli
+2023-02-20 15:33:19,715 | INFO | Checkov start on massdriver-cloud/massdriver-cli
+2023-02-20 15:33:27,361 | WARNING | Checkov failed on massdriver-cloud/massdriver-cli. See 
+2023-02-20 15:33:27,621 | INFO | Cloning repo claranet/terraform-azurerm-bastion-vm
+2023-02-20 15:33:28,108 | INFO | Checkov start on claranet/terraform-azurerm-bastion-vm
+2023-02-20 15:33:32,035 | WARNING | Checkov failed on claranet/terraform-azurerm-bastion-vm. See 
+2023-02-20 15:33:32,315 | INFO | Cloning repo hmcts/aks-sds-deploy
+2023-02-20 15:33:33,201 | INFO | Checkov start on hmcts/aks-sds-deploy
+2023-02-20 15:33:38,902 | WARNING | Checkov failed on hmcts/aks-sds-deploy. See 
+2023-02-20 15:33:39,147 | INFO | Cloning repo mattiasholm/code
+2023-02-20 15:33:42,671 | INFO | Checkov start on mattiasholm/code
+2023-02-20 15:33:51,340 | INFO | Erasing mattiasholm/code from disk
+2023-02-20 15:33:51,617 | INFO | Cloning repo pavanjava/terraform-tutorial
+2023-02-20 15:33:52,048 | INFO | Checkov start on pavanjava/terraform-tutorial
+2023-02-20 15:33:57,743 | INFO | Erasing pavanjava/terraform-tutorial from disk
+2023-02-20 15:33:58,002 | INFO | Cloning repo jmvigueras/playground
+2023-02-20 15:34:00,679 | INFO | Checkov start on jmvigueras/playground
+2023-02-20 15:34:15,807 | INFO | Erasing jmvigueras/playground from disk
+2023-02-20 15:34:16,085 | INFO | Cloning repo dapr-in-prod/samples
+2023-02-20 15:34:16,604 | INFO | Checkov start on dapr-in-prod/samples
+2023-02-20 15:34:21,469 | INFO | Erasing dapr-in-prod/samples from disk
+2023-02-20 15:34:21,729 | INFO | Cloning repo LefeWare-Solutions/Azure-MasterIaCTemplates
+2023-02-20 15:34:22,315 | INFO | Checkov start on LefeWare-Solutions/Azure-MasterIaCTemplates
+2023-02-20 15:34:28,102 | INFO | Erasing LefeWare-Solutions/Azure-MasterIaCTemplates from disk
+2023-02-20 15:34:28,414 | INFO | Cloning repo sourcegraph/tf-k8s-configs
+2023-02-20 15:34:28,882 | INFO | Checkov start on sourcegraph/tf-k8s-configs
+2023-02-20 15:34:32,847 | INFO | Erasing sourcegraph/tf-k8s-configs from disk
+2023-02-20 15:34:33,125 | INFO | Cloning repo hmcts/terraform-module-vnet-peering
+2023-02-20 15:34:33,568 | INFO | Checkov start on hmcts/terraform-module-vnet-peering
+2023-02-20 15:34:37,202 | WARNING | Checkov failed on hmcts/terraform-module-vnet-peering. See 
+2023-02-20 15:34:37,464 | INFO | Cloning repo mjmenger/terraform-f5xc-azure-base
+2023-02-20 15:34:37,855 | INFO | Checkov start on mjmenger/terraform-f5xc-azure-base
+2023-02-20 15:34:41,973 | INFO | Erasing mjmenger/terraform-f5xc-azure-base from disk
+2023-02-20 15:34:42,215 | INFO | Cloning repo kvietmeier/Terraform
+2023-02-20 15:34:42,804 | INFO | Checkov start on kvietmeier/Terraform
+2023-02-20 15:34:49,599 | INFO | Erasing kvietmeier/Terraform from disk
+2023-02-20 15:34:50,071 | INFO | Cloning repo pagopa/terraform-azurerm-v3
+2023-02-20 15:34:50,935 | INFO | Checkov start on pagopa/terraform-azurerm-v3
+2023-02-20 15:35:03,953 | INFO | Erasing pagopa/terraform-azurerm-v3 from disk
+2023-02-20 15:35:04,241 | INFO | Cloning repo oaviles/hello_iac
+2023-02-20 15:35:04,737 | INFO | Checkov start on oaviles/hello_iac
+2023-02-20 15:35:10,958 | INFO | Erasing oaviles/hello_iac from disk
+2023-02-20 15:35:11,324 | INFO | Cloning repo hashicorp-demo-lab/demo-bootstrap
+2023-02-20 15:35:11,910 | INFO | Checkov start on hashicorp-demo-lab/demo-bootstrap
+2023-02-20 15:35:17,446 | WARNING | Checkov failed on hashicorp-demo-lab/demo-bootstrap. See 
+2023-02-20 15:35:17,727 | INFO | Cloning repo Contrast-Security-OSS/demo-webgoat.net
+2023-02-20 15:35:21,839 | INFO | Checkov start on Contrast-Security-OSS/demo-webgoat.net
+2023-02-20 15:35:30,336 | INFO | Erasing Contrast-Security-OSS/demo-webgoat.net from disk
+2023-02-20 15:35:30,596 | INFO | Cloning repo briandenicola/codespaces-developer-demo
+2023-02-20 15:35:31,106 | INFO | Checkov start on briandenicola/codespaces-developer-demo
+2023-02-20 15:35:36,272 | INFO | Erasing briandenicola/codespaces-developer-demo from disk
+2023-02-20 15:35:36,596 | INFO | Cloning repo hmcts/pip-data-management
+2023-02-20 15:35:37,470 | INFO | Checkov start on hmcts/pip-data-management
+2023-02-20 15:35:47,917 | WARNING | Checkov failed on hmcts/pip-data-management. See 
+2023-02-20 15:35:48,144 | INFO | Cloning repo FelixAnna/keep-hands-on
+2023-02-20 15:35:54,987 | INFO | Checkov start on FelixAnna/keep-hands-on
+2023-02-20 15:36:22,868 | INFO | Erasing FelixAnna/keep-hands-on from disk
+2023-02-20 15:36:23,211 | INFO | Cloning repo equinor/radix-terraform-azurerm-aks
+2023-02-20 15:36:23,737 | INFO | Checkov start on equinor/radix-terraform-azurerm-aks
+2023-02-20 15:36:27,808 | INFO | Erasing equinor/radix-terraform-azurerm-aks from disk
+2023-02-20 15:36:28,046 | INFO | Cloning repo DFE-Digital/get-an-identity
+2023-02-20 15:36:28,994 | INFO | Checkov start on DFE-Digital/get-an-identity
+2023-02-20 15:36:46,725 | INFO | Erasing DFE-Digital/get-an-identity from disk
+2023-02-20 15:36:47,067 | INFO | Cloning repo keithpatton/aks-workloadidentity-sample
+2023-02-20 15:36:47,642 | INFO | Checkov start on keithpatton/aks-workloadidentity-sample
+2023-02-20 15:36:54,846 | INFO | Erasing keithpatton/aks-workloadidentity-sample from disk
+2023-02-20 15:36:55,075 | INFO | Cloning repo boxboat/speedboat-terragrunt
+2023-02-20 15:36:55,526 | INFO | Checkov start on boxboat/speedboat-terragrunt
+2023-02-20 15:37:00,513 | INFO | Erasing boxboat/speedboat-terragrunt from disk
+2023-02-20 15:37:00,790 | INFO | Cloning repo geekzter/azure-pipelines-container-agent
+2023-02-20 15:37:01,383 | INFO | Checkov start on geekzter/azure-pipelines-container-agent
+2023-02-20 15:37:08,285 | INFO | Erasing geekzter/azure-pipelines-container-agent from disk
+2023-02-20 15:37:08,510 | INFO | Cloning repo paulveillard/cybersecurity-secrets-management
+2023-02-20 15:37:09,716 | INFO | Checkov start on paulveillard/cybersecurity-secrets-management
+2023-02-20 15:37:22,917 | INFO | Erasing paulveillard/cybersecurity-secrets-management from disk
+2023-02-20 15:37:23,197 | INFO | Cloning repo lacework/terraform-azure-activity-log
+2023-02-20 15:37:23,728 | INFO | Checkov start on lacework/terraform-azure-activity-log
+2023-02-20 15:37:28,445 | INFO | Erasing lacework/terraform-azure-activity-log from disk
+2023-02-20 15:37:28,697 | INFO | Cloning repo hmcts/am-org-role-mapping-service
+2023-02-20 15:37:30,081 | INFO | Checkov start on hmcts/am-org-role-mapping-service
+2023-02-20 15:37:39,945 | WARNING | Checkov failed on hmcts/am-org-role-mapping-service. See 
+2023-02-20 15:37:40,183 | INFO | Cloning repo Planning-Inspectorate/infrastructure-environments
+2023-02-20 15:37:40,900 | INFO | Checkov start on Planning-Inspectorate/infrastructure-environments
+2023-02-20 15:37:51,268 | INFO | Erasing Planning-Inspectorate/infrastructure-environments from disk
+2023-02-20 15:37:51,538 | INFO | Cloning repo joaovictorino/terraform-docker-spring
+2023-02-20 15:37:58,570 | INFO | Checkov start on joaovictorino/terraform-docker-spring
+2023-02-20 15:38:04,289 | INFO | Erasing joaovictorino/terraform-docker-spring from disk
+2023-02-20 15:38:04,582 | INFO | Cloning repo DevOps-Team-Ca/CI-CD-Team-Project-Jenkins-Azure-Pipeline-GithubActions
+2023-02-20 15:38:05,250 | INFO | Checkov start on DevOps-Team-Ca/CI-CD-Team-Project-Jenkins-Azure-Pipeline-GithubActions
+2023-02-20 15:38:09,473 | INFO | Erasing DevOps-Team-Ca/CI-CD-Team-Project-Jenkins-Azure-Pipeline-GithubActions from disk
+2023-02-20 15:38:09,768 | INFO | Cloning repo hmcts/et-sya-api
+2023-02-20 15:38:10,781 | INFO | Checkov start on hmcts/et-sya-api
+2023-02-20 15:38:18,601 | WARNING | Checkov failed on hmcts/et-sya-api. See 
+2023-02-20 15:38:18,888 | INFO | Cloning repo jmc265/jeeb-uk
+2023-02-20 15:38:19,995 | INFO | Checkov start on jmc265/jeeb-uk
+2023-02-20 15:38:28,860 | WARNING | Checkov failed on jmc265/jeeb-uk. See 
+2023-02-20 15:38:29,146 | INFO | Cloning repo qbeyond/terraform-azurerm-azure-bastion
+2023-02-20 15:38:29,597 | INFO | Checkov start on qbeyond/terraform-azurerm-azure-bastion
+2023-02-20 15:38:34,161 | INFO | Erasing qbeyond/terraform-azurerm-azure-bastion from disk
+2023-02-20 15:38:34,398 | INFO | Cloning repo equinor/terraform-azurerm-sql
+2023-02-20 15:38:34,866 | INFO | Checkov start on equinor/terraform-azurerm-sql
+2023-02-20 15:38:39,503 | INFO | Erasing equinor/terraform-azurerm-sql from disk
+2023-02-20 15:38:39,767 | INFO | Cloning repo sap-linuxlab/terraform.modules_for_sap
+2023-02-20 15:38:40,292 | INFO | Checkov start on sap-linuxlab/terraform.modules_for_sap
+2023-02-20 15:38:57,328 | INFO | Erasing sap-linuxlab/terraform.modules_for_sap from disk
+2023-02-20 15:38:57,568 | INFO | Cloning repo zakarel/Azure-terraform-templates
+2023-02-20 15:38:58,021 | INFO | Checkov start on zakarel/Azure-terraform-templates
+2023-02-20 15:39:02,711 | INFO | Erasing zakarel/Azure-terraform-templates from disk
+2023-02-20 15:39:02,973 | INFO | Cloning repo LOLRedPanda/app-core
+2023-02-20 15:39:05,796 | INFO | Checkov start on LOLRedPanda/app-core
+2023-02-20 15:39:13,166 | INFO | Erasing LOLRedPanda/app-core from disk
+2023-02-20 15:39:13,387 | INFO | Cloning repo dawlysd/azure-application-gateway-microhack
+2023-02-20 15:39:14,472 | INFO | Checkov start on dawlysd/azure-application-gateway-microhack
+2023-02-20 15:39:18,978 | INFO | Erasing dawlysd/azure-application-gateway-microhack from disk
+2023-02-20 15:39:19,207 | INFO | Cloning repo FdelMazo/7573-Arqui
+2023-02-20 15:39:21,415 | INFO | Checkov start on FdelMazo/7573-Arqui
+2023-02-20 15:39:32,463 | INFO | Erasing FdelMazo/7573-Arqui from disk
+2023-02-20 15:39:32,692 | INFO | Cloning repo tjsullivan1/tjs-scripts
+2023-02-20 15:39:33,198 | INFO | Checkov start on tjsullivan1/tjs-scripts
+2023-02-20 15:39:38,885 | INFO | Erasing tjsullivan1/tjs-scripts from disk
+2023-02-20 15:39:39,116 | INFO | Cloning repo tuananh281/devops-project
+2023-02-20 15:39:40,484 | INFO | Checkov start on tuananh281/devops-project
+2023-02-20 15:39:44,865 | INFO | Erasing tuananh281/devops-project from disk
+2023-02-20 15:39:45,162 | INFO | Cloning repo FrenchBarbusCorp/Workshop-Azure-Container-Apps
+2023-02-20 15:39:48,971 | INFO | Checkov start on FrenchBarbusCorp/Workshop-Azure-Container-Apps
+2023-02-20 15:39:54,449 | INFO | Erasing FrenchBarbusCorp/Workshop-Azure-Container-Apps from disk
+2023-02-20 15:39:54,711 | INFO | Cloning repo leancodepl/terraform-kubernetes-cluster
+2023-02-20 15:39:55,175 | INFO | Checkov start on leancodepl/terraform-kubernetes-cluster
+2023-02-20 15:39:59,996 | INFO | Erasing leancodepl/terraform-kubernetes-cluster from disk
+2023-02-20 15:40:00,341 | INFO | Cloning repo Sumit016/Cloud_Tasks
+2023-02-20 15:40:00,780 | INFO | Checkov start on Sumit016/Cloud_Tasks
+2023-02-20 15:40:05,949 | INFO | Erasing Sumit016/Cloud_Tasks from disk
+2023-02-20 15:40:06,179 | INFO | Cloning repo raedrizk/ansible-terraform-demos
+2023-02-20 15:40:06,684 | INFO | Checkov start on raedrizk/ansible-terraform-demos
+2023-02-20 15:40:11,329 | INFO | Erasing raedrizk/ansible-terraform-demos from disk
+2023-02-20 15:40:11,552 | INFO | Cloning repo bobbyabuchi/devops
+2023-02-20 15:40:12,046 | INFO | Checkov start on bobbyabuchi/devops
+2023-02-20 15:40:16,120 | INFO | Erasing bobbyabuchi/devops from disk
+2023-02-20 15:40:16,342 | INFO | Cloning repo keithpatton/aks-sample
+2023-02-20 15:40:16,877 | INFO | Checkov start on keithpatton/aks-sample
+2023-02-20 15:40:23,299 | INFO | Erasing keithpatton/aks-sample from disk
+2023-02-20 15:40:23,523 | INFO | Cloning repo antjpcdrogas/chatGPTVoiceDiscBot
+2023-02-20 15:40:23,972 | INFO | Checkov start on antjpcdrogas/chatGPTVoiceDiscBot
+2023-02-20 15:40:28,080 | INFO | Erasing antjpcdrogas/chatGPTVoiceDiscBot from disk
+2023-02-20 15:40:28,317 | INFO | Cloning repo hmcts/slack-help-bot
+2023-02-20 15:40:29,057 | INFO | Checkov start on hmcts/slack-help-bot
+2023-02-20 15:40:33,929 | WARNING | Checkov failed on hmcts/slack-help-bot. See 
+2023-02-20 15:40:33,937 | INFO | Total number of repositories: 101
+2023-04-26 11:17:46,180 | INFO | Cloning repo openshift/installer
+
+2023-04-26 11:17:46,224 | WARNING | Repo openshift/installer
+ error
+2023-04-26 11:17:46,418 | INFO | Cloning repo kubermatic/kubeone
+
+2023-04-26 11:17:46,466 | WARNING | Repo kubermatic/kubeone
+ error
+2023-04-26 11:17:46,686 | INFO | Cloning repo Azure/terraform-azurerm-caf-enterprise-scale
+
+2023-04-26 11:17:46,746 | WARNING | Repo Azure/terraform-azurerm-caf-enterprise-scale
+ error
+2023-04-26 11:17:46,995 | INFO | Cloning repo Azure/terraform
+
+2023-04-26 11:17:47,027 | WARNING | Repo Azure/terraform
+ error
+2023-04-26 11:17:47,263 | INFO | Cloning repo aztfmod/terraform-azurerm-caf
+
+2023-04-26 11:17:47,339 | WARNING | Repo aztfmod/terraform-azurerm-caf
+ error
+2023-04-26 11:17:47,557 | INFO | Cloning repo lynnlangit/learning-cloud
+
+2023-04-26 11:17:47,626 | WARNING | Repo lynnlangit/learning-cloud
+ error

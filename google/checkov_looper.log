@@ -1,0 +1,1357 @@
+2023-04-26 11:14:15,116 | INFO | Existing outfile loaded
+2023-04-26 11:14:15,297 | INFO | Cloning repo gravitational/teleport
+
+2023-04-26 11:14:15,341 | WARNING | Repo gravitational/teleport
+ error
+2023-04-26 11:14:15,519 | INFO | Cloning repo GoogleCloudPlatform/microservices-demo
+
+2023-04-26 11:14:15,564 | WARNING | Repo GoogleCloudPlatform/microservices-demo
+ error
+2023-04-26 11:14:15,754 | INFO | Cloning repo gitpod-io/gitpod
+
+2023-04-26 11:14:15,799 | WARNING | Repo gitpod-io/gitpod
+ error
+2023-04-26 11:14:16,003 | INFO | Cloning repo bridgecrewio/checkov
+
+2023-04-26 11:14:16,047 | WARNING | Repo bridgecrewio/checkov
+ error
+2023-04-26 11:14:16,263 | INFO | Cloning repo Azure/Azure-Sentinel
+
+2023-04-26 11:14:16,307 | WARNING | Repo Azure/Azure-Sentinel
+ error
+2023-04-26 11:14:16,497 | INFO | Cloning repo GoogleCloudPlatform/professional-services
+
+2023-04-26 11:14:16,533 | WARNING | Repo GoogleCloudPlatform/professional-services
+ error
+2023-04-26 11:14:16,711 | INFO | Cloning repo determined-ai/determined
+
+2023-04-26 11:14:16,759 | WARNING | Repo determined-ai/determined
+ error
+2023-04-26 11:14:16,940 | INFO | Cloning repo WorldHealthOrganization/app
+
+2023-04-26 11:14:16,989 | WARNING | Repo WorldHealthOrganization/app
+ error
+2023-04-26 11:14:17,180 | INFO | Cloning repo GoogleCloudPlatform/community
+
+2023-04-26 11:14:17,231 | WARNING | Repo GoogleCloudPlatform/community
+ error
+2023-04-26 11:14:17,427 | INFO | Cloning repo serverpod/serverpod
+
+2023-04-26 11:14:17,477 | WARNING | Repo serverpod/serverpod
+ error
+2023-04-26 11:14:17,678 | INFO | Cloning repo Azure/Microsoft-Defender-for-Cloud
+
+2023-04-26 11:14:17,729 | WARNING | Repo Azure/Microsoft-Defender-for-Cloud
+ error
+2023-04-26 11:14:17,927 | INFO | Cloning repo google/osv.dev
+
+2023-04-26 11:14:17,976 | WARNING | Repo google/osv.dev
+ error
+2023-04-26 11:14:18,179 | INFO | Cloning repo codeaprendiz/learn-devops
+
+2023-04-26 11:14:18,228 | WARNING | Repo codeaprendiz/learn-devops
+ error
+2023-04-26 11:14:18,423 | INFO | Cloning repo GoogleCloudPlatform/kubernetes-engine-samples
+
+2023-04-26 11:14:18,472 | WARNING | Repo GoogleCloudPlatform/kubernetes-engine-samples
+ error
+2023-04-26 11:14:18,668 | INFO | Cloning repo GoogleCloudPlatform/cloud-foundation-fabric
+
+2023-04-26 11:14:18,686 | WARNING | Repo GoogleCloudPlatform/cloud-foundation-fabric
+ error
+2023-04-26 11:14:18,871 | INFO | Cloning repo hail-is/hail
+
+2023-04-26 11:14:18,920 | WARNING | Repo hail-is/hail
+ error
+2023-04-26 11:14:19,099 | INFO | Cloning repo GoogleCloudPlatform/cloud-foundation-toolkit
+
+2023-04-26 11:14:19,146 | WARNING | Repo GoogleCloudPlatform/cloud-foundation-toolkit
+ error
+2023-04-26 11:14:19,325 | INFO | Cloning repo digital-asset/daml
+
+2023-04-26 11:14:19,375 | WARNING | Repo digital-asset/daml
+ error
+2023-04-26 11:14:19,572 | INFO | Cloning repo GoogleCloudPlatform/bank-of-anthos
+
+2023-04-26 11:14:19,623 | WARNING | Repo GoogleCloudPlatform/bank-of-anthos
+ error
+2023-04-26 11:14:19,786 | INFO | Cloning repo GoogleCloudPlatform/magic-modules
+
+2023-04-26 11:14:19,835 | WARNING | Repo GoogleCloudPlatform/magic-modules
+ error
+2023-04-26 11:20:55,536 | INFO | Existing outfile loaded
+2023-04-26 11:20:55,713 | INFO | Cloning repo gravitational/teleport
+
+2023-04-26 11:20:55,768 | WARNING | Repo gravitational/teleport
+ error
+2023-04-26 11:20:55,966 | INFO | Cloning repo GoogleCloudPlatform/microservices-demo
+
+2023-04-26 11:20:56,009 | WARNING | Repo GoogleCloudPlatform/microservices-demo
+ error
+2023-04-26 11:20:56,217 | INFO | Cloning repo gitpod-io/gitpod
+
+2023-04-26 11:20:56,261 | WARNING | Repo gitpod-io/gitpod
+ error
+2023-04-26 11:20:56,491 | INFO | Cloning repo bridgecrewio/checkov
+
+2023-04-26 11:20:56,537 | WARNING | Repo bridgecrewio/checkov
+ error
+2023-04-26 11:20:56,727 | INFO | Cloning repo Azure/Azure-Sentinel
+
+2023-04-26 11:20:56,775 | WARNING | Repo Azure/Azure-Sentinel
+ error
+2023-04-26 11:20:56,961 | INFO | Cloning repo GoogleCloudPlatform/professional-services
+
+2023-04-26 11:20:57,052 | WARNING | Repo GoogleCloudPlatform/professional-services
+ error
+2023-04-26 11:20:57,236 | INFO | Cloning repo determined-ai/determined
+
+2023-04-26 11:20:57,286 | WARNING | Repo determined-ai/determined
+ error
+2023-04-26 11:20:57,476 | INFO | Cloning repo WorldHealthOrganization/app
+
+2023-04-26 11:20:57,493 | WARNING | Repo WorldHealthOrganization/app
+ error
+2023-04-26 11:20:57,639 | INFO | Cloning repo GoogleCloudPlatform/community
+
+2023-04-26 11:20:57,688 | WARNING | Repo GoogleCloudPlatform/community
+ error
+2023-04-26 11:20:57,904 | INFO | Cloning repo serverpod/serverpod
+
+2023-04-26 11:20:57,954 | WARNING | Repo serverpod/serverpod
+ error
+2023-04-26 11:20:58,126 | INFO | Cloning repo Azure/Microsoft-Defender-for-Cloud
+
+2023-04-26 11:20:58,175 | WARNING | Repo Azure/Microsoft-Defender-for-Cloud
+ error
+2023-04-26 11:20:58,381 | INFO | Cloning repo google/osv.dev
+
+2023-04-26 11:20:58,394 | WARNING | Repo google/osv.dev
+ error
+2023-04-26 11:20:58,584 | INFO | Cloning repo codeaprendiz/learn-devops
+
+2023-04-26 11:20:58,596 | WARNING | Repo codeaprendiz/learn-devops
+ error
+2023-04-26 11:20:58,759 | INFO | Cloning repo GoogleCloudPlatform/kubernetes-engine-samples
+
+2023-04-26 11:20:58,808 | WARNING | Repo GoogleCloudPlatform/kubernetes-engine-samples
+ error
+2023-04-26 11:20:58,992 | INFO | Cloning repo GoogleCloudPlatform/cloud-foundation-fabric
+
+2023-04-26 11:20:59,042 | WARNING | Repo GoogleCloudPlatform/cloud-foundation-fabric
+ error
+2023-04-26 11:20:59,247 | INFO | Cloning repo hail-is/hail
+
+2023-04-26 11:20:59,297 | WARNING | Repo hail-is/hail
+ error
+2023-04-26 11:20:59,486 | INFO | Cloning repo GoogleCloudPlatform/cloud-foundation-toolkit
+
+2023-04-26 11:20:59,535 | WARNING | Repo GoogleCloudPlatform/cloud-foundation-toolkit
+ error
+2023-04-26 11:20:59,743 | INFO | Cloning repo digital-asset/daml
+
+2023-04-26 11:20:59,785 | WARNING | Repo digital-asset/daml
+ error
+2023-04-26 11:20:59,950 | INFO | Cloning repo GoogleCloudPlatform/bank-of-anthos
+
+2023-04-26 11:20:59,999 | WARNING | Repo GoogleCloudPlatform/bank-of-anthos
+ error
+2023-04-26 11:21:00,198 | INFO | Cloning repo GoogleCloudPlatform/magic-modules
+
+2023-04-26 11:21:00,247 | WARNING | Repo GoogleCloudPlatform/magic-modules
+ error
+2023-04-26 11:21:45,234 | INFO | Existing outfile loaded
+2023-04-26 11:21:45,760 | INFO | Cloning repo gravitational/teleport
+
+2023-04-26 11:23:15,691 | INFO | Existing outfile loaded
+2023-04-26 11:23:16,012 | WARNING | gravitational/teleport is too large
+2023-04-26 11:23:16,303 | INFO | Cloning repo GoogleCloudPlatform/microservices-demo
+2023-04-26 11:23:18,793 | INFO | Checkov start on GoogleCloudPlatform/microservices-demo
+2023-04-26 11:23:31,074 | INFO | Erasing GoogleCloudPlatform/microservices-demo from disk
+2023-04-26 11:23:31,371 | INFO | Cloning repo gitpod-io/gitpod
+2023-04-26 11:23:41,743 | INFO | Checkov start on gitpod-io/gitpod
+2023-04-26 11:25:09,848 | INFO | Erasing gitpod-io/gitpod from disk
+2023-04-26 11:25:15,296 | INFO | Cloning repo bridgecrewio/checkov
+2023-04-26 11:25:26,087 | INFO | Checkov start on bridgecrewio/checkov
+2023-04-26 11:27:50,687 | INFO | Erasing bridgecrewio/checkov from disk
+2023-04-26 11:27:51,373 | WARNING | Azure/Azure-Sentinel is too large
+2023-04-26 11:27:51,599 | WARNING | GoogleCloudPlatform/professional-services is too large
+2023-04-26 11:27:51,854 | WARNING | determined-ai/determined is too large
+2023-04-26 11:27:52,126 | INFO | Cloning repo WorldHealthOrganization/app
+2023-04-26 11:27:54,882 | INFO | Checkov start on WorldHealthOrganization/app
+2023-04-26 11:28:06,770 | INFO | Erasing WorldHealthOrganization/app from disk
+2023-04-26 11:28:07,054 | WARNING | GoogleCloudPlatform/community is too large
+2023-04-26 11:28:07,324 | INFO | Cloning repo serverpod/serverpod
+2023-04-26 11:28:08,322 | INFO | Checkov start on serverpod/serverpod
+2023-04-26 11:28:30,016 | WARNING | Checkov failed on serverpod/serverpod. See 
+2023-04-26 11:28:30,362 | WARNING | Azure/Microsoft-Defender-for-Cloud is too large
+2023-04-26 11:28:30,652 | INFO | Cloning repo google/osv.dev
+2023-04-26 11:28:32,652 | INFO | Checkov start on google/osv.dev
+2023-04-26 11:28:48,159 | INFO | Erasing google/osv.dev from disk
+2023-04-26 11:28:48,391 | INFO | Cloning repo codeaprendiz/learn-devops
+2023-04-26 11:28:54,267 | INFO | Checkov start on codeaprendiz/learn-devops
+2023-04-26 11:29:39,055 | INFO | Erasing codeaprendiz/learn-devops from disk
+2023-04-26 11:29:39,461 | INFO | Cloning repo GoogleCloudPlatform/kubernetes-engine-samples
+2023-04-26 11:29:40,206 | INFO | Checkov start on GoogleCloudPlatform/kubernetes-engine-samples
+2023-04-26 11:30:03,786 | INFO | Erasing GoogleCloudPlatform/kubernetes-engine-samples from disk
+2023-04-26 11:30:04,187 | INFO | Cloning repo GoogleCloudPlatform/cloud-foundation-fabric
+2023-04-26 11:30:07,648 | INFO | Checkov start on GoogleCloudPlatform/cloud-foundation-fabric
+2023-04-26 11:32:30,083 | INFO | Erasing GoogleCloudPlatform/cloud-foundation-fabric from disk
+2023-04-26 11:32:30,391 | WARNING | hail-is/hail is too large
+2023-04-26 11:32:30,689 | INFO | Cloning repo GoogleCloudPlatform/cloud-foundation-toolkit
+2023-04-26 11:32:32,322 | INFO | Checkov start on GoogleCloudPlatform/cloud-foundation-toolkit
+2023-04-26 11:33:07,055 | INFO | Erasing GoogleCloudPlatform/cloud-foundation-toolkit from disk
+2023-04-26 11:33:07,483 | WARNING | digital-asset/daml is too large
+2023-04-26 11:33:07,896 | INFO | Cloning repo GoogleCloudPlatform/bank-of-anthos
+2023-04-26 11:33:09,072 | INFO | Checkov start on GoogleCloudPlatform/bank-of-anthos
+2023-04-26 11:33:25,249 | INFO | Erasing GoogleCloudPlatform/bank-of-anthos from disk
+2023-04-26 11:33:25,559 | INFO | Cloning repo GoogleCloudPlatform/magic-modules
+2023-04-26 11:33:33,065 | INFO | Checkov start on GoogleCloudPlatform/magic-modules
+2023-04-26 11:34:11,247 | INFO | Erasing GoogleCloudPlatform/magic-modules from disk
+2023-04-26 11:34:11,689 | INFO | Cloning repo GoogleCloudPlatform/k8s-config-connector
+2023-04-26 11:34:25,303 | INFO | Checkov start on GoogleCloudPlatform/k8s-config-connector
+2023-04-26 11:41:22,335 | INFO | Erasing GoogleCloudPlatform/k8s-config-connector from disk
+2023-04-26 11:41:23,467 | INFO | Cloning repo edgelesssys/constellation
+2023-04-26 11:41:27,733 | INFO | Checkov start on edgelesssys/constellation
+2023-04-26 11:42:18,798 | INFO | Erasing edgelesssys/constellation from disk
+2023-04-26 11:42:19,154 | INFO | Cloning repo returntocorp/semgrep-rules
+2023-04-26 11:42:20,834 | INFO | Checkov start on returntocorp/semgrep-rules
+2023-04-26 11:43:05,032 | INFO | Erasing returntocorp/semgrep-rules from disk
+2023-04-26 11:43:05,381 | INFO | Cloning repo kubernetes/k8s.io
+2023-04-26 11:43:09,511 | INFO | Checkov start on kubernetes/k8s.io
+2023-04-26 11:47:05,084 | INFO | Erasing kubernetes/k8s.io from disk
+2023-04-26 11:47:05,855 | INFO | Cloning repo GoogleCloudPlatform/terraform-validator
+2023-04-26 11:47:08,607 | INFO | Checkov start on GoogleCloudPlatform/terraform-validator
+2023-04-26 11:47:17,531 | INFO | Erasing GoogleCloudPlatform/terraform-validator from disk
+2023-04-26 11:47:17,803 | INFO | Cloning repo alphagov/govuk-aws
+2023-04-26 11:47:20,987 | INFO | Checkov start on alphagov/govuk-aws
+2023-04-26 11:47:52,950 | INFO | Erasing alphagov/govuk-aws from disk
+2023-04-26 11:47:53,491 | INFO | Cloning repo databricks/terraform-provider-databricks
+2023-04-26 11:47:58,180 | INFO | Checkov start on databricks/terraform-provider-databricks
+2023-04-26 11:48:08,995 | WARNING | Checkov failed on databricks/terraform-provider-databricks. See 
+2023-04-26 11:48:09,300 | INFO | Cloning repo xUnholy/k8s-gitops
+2023-04-26 11:48:11,233 | INFO | Checkov start on xUnholy/k8s-gitops
+2023-04-26 11:48:46,865 | INFO | Erasing xUnholy/k8s-gitops from disk
+2023-04-26 11:48:47,170 | INFO | Cloning repo bacalhau-project/bacalhau
+2023-04-26 11:48:53,333 | INFO | Checkov start on bacalhau-project/bacalhau
+2023-04-26 11:49:15,664 | INFO | Erasing bacalhau-project/bacalhau from disk
+2023-04-26 11:49:16,099 | INFO | Cloning repo ine-labs/GCPGoat
+2023-04-26 11:49:18,405 | INFO | Checkov start on ine-labs/GCPGoat
+2023-04-26 11:49:27,518 | INFO | Erasing ine-labs/GCPGoat from disk
+2023-04-26 11:49:27,773 | INFO | Cloning repo terraform-google-modules/terraform-google-sql-db
+2023-04-26 11:49:28,331 | INFO | Checkov start on terraform-google-modules/terraform-google-sql-db
+2023-04-26 11:49:41,487 | INFO | Erasing terraform-google-modules/terraform-google-sql-db from disk
+2023-04-26 11:49:41,833 | INFO | Cloning repo GoogleCloudPlatform/gcpdiag
+2023-04-26 11:49:44,469 | INFO | Checkov start on GoogleCloudPlatform/gcpdiag
+2023-04-26 11:50:06,278 | INFO | Erasing GoogleCloudPlatform/gcpdiag from disk
+2023-04-26 11:50:06,593 | INFO | Cloning repo input-output-hk/hydra
+2023-04-26 11:50:12,882 | INFO | Checkov start on input-output-hk/hydra
+2023-04-26 11:50:37,772 | INFO | Erasing input-output-hk/hydra from disk
+2023-04-26 11:50:38,129 | INFO | Cloning repo googlecloudrobotics/core
+2023-04-26 11:50:39,306 | INFO | Checkov start on googlecloudrobotics/core
+2023-04-26 11:50:58,027 | INFO | Erasing googlecloudrobotics/core from disk
+2023-04-26 11:50:58,384 | INFO | Cloning repo cloudfoundry/bosh-bootloader
+2023-04-26 11:51:01,240 | INFO | Checkov start on cloudfoundry/bosh-bootloader
+2023-04-26 11:51:47,824 | INFO | Erasing cloudfoundry/bosh-bootloader from disk
+2023-04-26 11:51:48,249 | INFO | Cloning repo terraform-google-modules/terraform-docs-samples
+2023-04-26 11:51:48,881 | INFO | Checkov start on terraform-google-modules/terraform-docs-samples
+2023-04-26 11:52:03,915 | INFO | Erasing terraform-google-modules/terraform-docs-samples from disk
+2023-04-26 11:52:04,349 | INFO | Cloning repo praetorian-inc/trident
+2023-04-26 11:52:04,897 | INFO | Checkov start on praetorian-inc/trident
+2023-04-26 11:52:10,924 | INFO | Erasing praetorian-inc/trident from disk
+2023-04-26 11:52:11,315 | INFO | Cloning repo api3dao/airnode
+2023-04-26 11:52:14,870 | INFO | Checkov start on api3dao/airnode
+2023-04-26 11:53:03,218 | WARNING | Checkov failed on api3dao/airnode. See 
+2023-04-26 11:53:03,642 | INFO | Cloning repo GoogleCloudPlatform/vertex-pipelines-end-to-end-samples
+2023-04-26 11:53:04,543 | INFO | Checkov start on GoogleCloudPlatform/vertex-pipelines-end-to-end-samples
+2023-04-26 11:53:12,301 | INFO | Erasing GoogleCloudPlatform/vertex-pipelines-end-to-end-samples from disk
+2023-04-26 11:53:12,584 | INFO | Cloning repo convox/convox
+2023-04-26 11:53:19,799 | INFO | Checkov start on convox/convox
+2023-04-26 11:54:46,366 | INFO | Erasing convox/convox from disk
+2023-04-26 11:54:47,170 | WARNING | interledger/rafiki is too large
+2023-04-26 11:54:47,419 | INFO | Cloning repo terraform-google-modules/terraform-google-cloud-storage
+2023-04-26 11:54:48,123 | INFO | Checkov start on terraform-google-modules/terraform-google-cloud-storage
+2023-04-26 11:54:53,602 | INFO | Erasing terraform-google-modules/terraform-google-cloud-storage from disk
+2023-04-26 11:54:54,200 | INFO | Cloning repo silverton-io/buz
+2023-04-26 11:54:57,833 | INFO | Checkov start on silverton-io/buz
+2023-04-26 11:55:07,456 | INFO | Erasing silverton-io/buz from disk
+2023-04-26 11:55:07,683 | INFO | Cloning repo sungchun12/airflow-toolkit
+2023-04-26 11:55:09,033 | INFO | Checkov start on sungchun12/airflow-toolkit
+2023-04-26 11:55:15,759 | INFO | Erasing sungchun12/airflow-toolkit from disk
+2023-04-26 11:55:16,032 | INFO | Cloning repo interuss/dss
+2023-04-26 11:55:18,072 | INFO | Checkov start on interuss/dss
+2023-04-26 11:55:31,875 | INFO | Erasing interuss/dss from disk
+2023-04-26 11:55:32,188 | INFO | Cloning repo terraform-google-modules/docs-examples
+2023-04-26 11:55:32,850 | INFO | Checkov start on terraform-google-modules/docs-examples
+2023-04-26 11:56:27,769 | INFO | Erasing terraform-google-modules/docs-examples from disk
+2023-04-26 11:56:28,118 | INFO | Cloning repo confluentinc/terraform-provider-confluent
+2023-04-26 11:56:28,875 | INFO | Checkov start on confluentinc/terraform-provider-confluent
+2023-04-26 11:56:47,388 | WARNING | Checkov failed on confluentinc/terraform-provider-confluent. See 
+2023-04-26 11:56:47,715 | INFO | Cloning repo ClimateImpactLab/downscaleCMIP6
+2023-04-26 11:56:55,034 | INFO | Checkov start on ClimateImpactLab/downscaleCMIP6
+2023-04-26 11:57:06,864 | INFO | Erasing ClimateImpactLab/downscaleCMIP6 from disk
+2023-04-26 11:57:07,242 | WARNING | os-autoinst/os-autoinst-distri-opensuse is too large
+2023-04-26 11:57:07,533 | INFO | Cloning repo GoogleCloudPlatform/terraform-google-conversion
+2023-04-26 11:57:09,854 | INFO | Checkov start on GoogleCloudPlatform/terraform-google-conversion
+2023-04-26 11:57:17,342 | INFO | Erasing GoogleCloudPlatform/terraform-google-conversion from disk
+2023-04-26 11:57:17,674 | WARNING | hashicorp/field-workshops-consul is too large
+2023-04-26 11:57:17,955 | INFO | Cloning repo GoogleCloudPlatform/anthos-samples
+2023-04-26 11:57:18,846 | INFO | Checkov start on GoogleCloudPlatform/anthos-samples
+2023-04-26 11:57:34,329 | WARNING | Checkov failed on GoogleCloudPlatform/anthos-samples. See 
+2023-04-26 11:57:34,619 | INFO | Cloning repo GoogleCloudPlatform/rad-lab
+2023-04-26 11:57:36,269 | INFO | Checkov start on GoogleCloudPlatform/rad-lab
+2023-04-26 11:57:50,646 | INFO | Erasing GoogleCloudPlatform/rad-lab from disk
+2023-04-26 11:57:50,951 | INFO | Cloning repo terraform-google-modules/terraform-google-log-export
+2023-04-26 11:57:51,577 | INFO | Checkov start on terraform-google-modules/terraform-google-log-export
+2023-04-26 11:58:02,427 | INFO | Erasing terraform-google-modules/terraform-google-log-export from disk
+2023-04-26 11:58:02,797 | INFO | Cloning repo fortinet/fortigate-terraform-deploy
+2023-04-26 11:58:03,521 | INFO | Checkov start on fortinet/fortigate-terraform-deploy
+2023-04-26 11:58:35,395 | INFO | Erasing fortinet/fortigate-terraform-deploy from disk
+2023-04-26 11:58:35,669 | INFO | Cloning repo terraform-google-modules/terraform-google-cloud-nat
+2023-04-26 11:58:36,247 | INFO | Checkov start on terraform-google-modules/terraform-google-cloud-nat
+2023-04-26 11:58:41,622 | INFO | Erasing terraform-google-modules/terraform-google-cloud-nat from disk
+2023-04-26 11:58:41,902 | INFO | Cloning repo GoogleCloudPlatform/cloud-sql-proxy-operator
+2023-04-26 11:58:42,547 | INFO | Checkov start on GoogleCloudPlatform/cloud-sql-proxy-operator
+2023-04-26 11:58:51,124 | INFO | Erasing GoogleCloudPlatform/cloud-sql-proxy-operator from disk
+2023-04-26 11:58:51,436 | INFO | Cloning repo GoogleCloudPlatform/eventarc-samples
+2023-04-26 11:58:52,611 | INFO | Checkov start on GoogleCloudPlatform/eventarc-samples
+2023-04-26 11:59:01,251 | INFO | Erasing GoogleCloudPlatform/eventarc-samples from disk
+2023-04-26 11:59:01,564 | INFO | Cloning repo google/devops-governance
+2023-04-26 11:59:02,262 | INFO | Checkov start on google/devops-governance
+2023-04-26 11:59:18,383 | INFO | Erasing google/devops-governance from disk
+2023-04-26 11:59:18,679 | INFO | Cloning repo ministryofjustice/cloud-platform-infrastructure
+2023-04-26 11:59:20,641 | INFO | Checkov start on ministryofjustice/cloud-platform-infrastructure
+2023-04-26 11:59:28,538 | WARNING | Checkov failed on ministryofjustice/cloud-platform-infrastructure. See 
+2023-04-26 11:59:28,832 | INFO | Cloning repo 2i2c-org/infrastructure
+2023-04-26 11:59:29,889 | INFO | Checkov start on 2i2c-org/infrastructure
+2023-04-26 11:59:43,220 | INFO | Erasing 2i2c-org/infrastructure from disk
+2023-04-26 11:59:43,495 | INFO | Cloning repo GoogleCloudPlatform/knfsd-cache-utils
+2023-04-26 11:59:44,329 | INFO | Checkov start on GoogleCloudPlatform/knfsd-cache-utils
+2023-04-26 11:59:53,316 | INFO | Erasing GoogleCloudPlatform/knfsd-cache-utils from disk
+2023-04-26 11:59:53,592 | WARNING | GoogleCloudPlatform/serverless-spark-workshop is too large
+2023-04-26 11:59:53,887 | INFO | Cloning repo cockroachdb/terraform-provider-cockroach
+2023-04-26 11:59:55,493 | INFO | Checkov start on cockroachdb/terraform-provider-cockroach
+2023-04-26 12:00:26,205 | WARNING | Checkov failed on cockroachdb/terraform-provider-cockroach. See 
+2023-04-26 12:00:26,568 | WARNING | 40net-cloud/fortinet-azure-solutions is too large
+2023-04-26 12:00:26,838 | INFO | Cloning repo roleypoly/roleypoly
+2023-04-26 12:00:27,991 | INFO | Checkov start on roleypoly/roleypoly
+2023-04-26 12:00:41,022 | WARNING | Checkov failed on roleypoly/roleypoly. See 
+2023-04-26 12:00:41,316 | INFO | Cloning repo GoogleCloudPlatform/terraform-google-secure-cicd
+2023-04-26 12:00:41,945 | INFO | Checkov start on GoogleCloudPlatform/terraform-google-secure-cicd
+2023-04-26 12:00:49,244 | INFO | Erasing GoogleCloudPlatform/terraform-google-secure-cicd from disk
+2023-04-26 12:00:49,518 | INFO | Cloning repo google/llvm-premerge-checks
+2023-04-26 12:00:50,166 | INFO | Checkov start on google/llvm-premerge-checks
+2023-04-26 12:00:56,603 | INFO | Erasing google/llvm-premerge-checks from disk
+2023-04-26 12:00:56,846 | INFO | Cloning repo jenkins-x/terraform-google-jx
+2023-04-26 12:00:57,300 | INFO | Checkov start on jenkins-x/terraform-google-jx
+2023-04-26 12:01:02,479 | INFO | Erasing jenkins-x/terraform-google-jx from disk
+2023-04-26 12:01:02,695 | INFO | Cloning repo bhavink/databricks
+2023-04-26 12:01:04,104 | INFO | Checkov start on bhavink/databricks
+2023-04-26 12:01:12,389 | WARNING | Checkov failed on bhavink/databricks. See 
+2023-04-26 12:01:12,646 | INFO | Cloning repo SygniaLabs/ScallOps
+2023-04-26 12:01:13,529 | INFO | Checkov start on SygniaLabs/ScallOps
+2023-04-26 12:01:17,999 | INFO | Erasing SygniaLabs/ScallOps from disk
+2023-04-26 12:01:18,301 | INFO | Cloning repo nais/doc
+2023-04-26 12:01:19,769 | INFO | Checkov start on nais/doc
+2023-04-26 12:01:25,991 | INFO | Erasing nais/doc from disk
+2023-04-26 12:01:26,284 | INFO | Cloning repo databricks/terraform-databricks-lakehouse-blueprints
+2023-04-26 12:01:26,967 | INFO | Checkov start on databricks/terraform-databricks-lakehouse-blueprints
+2023-04-26 12:01:35,096 | INFO | Erasing databricks/terraform-databricks-lakehouse-blueprints from disk
+2023-04-26 12:01:35,399 | INFO | Cloning repo kyma-project/test-infra
+2023-04-26 12:01:38,583 | INFO | Checkov start on kyma-project/test-infra
+2023-04-26 12:02:18,820 | INFO | Erasing kyma-project/test-infra from disk
+2023-04-26 12:02:19,164 | INFO | Cloning repo llvm/llvm-zorg
+2023-04-26 12:02:20,385 | INFO | Checkov start on llvm/llvm-zorg
+2023-04-26 12:02:29,737 | INFO | Erasing llvm/llvm-zorg from disk
+2023-04-26 12:02:29,998 | INFO | Cloning repo castai/terraform-provider-castai
+2023-04-26 12:02:30,835 | INFO | Checkov start on castai/terraform-provider-castai
+2023-04-26 12:02:37,776 | WARNING | Checkov failed on castai/terraform-provider-castai. See 
+2023-04-26 12:02:38,036 | INFO | Cloning repo ubiq/shokku
+2023-04-26 12:02:38,639 | INFO | Checkov start on ubiq/shokku
+2023-04-26 12:02:44,913 | WARNING | Checkov failed on ubiq/shokku. See 
+2023-04-26 12:02:45,135 | INFO | Cloning repo wynsen/gcp-enterprise
+2023-04-26 12:02:45,590 | INFO | Checkov start on wynsen/gcp-enterprise
+2023-04-26 12:02:51,689 | INFO | Erasing wynsen/gcp-enterprise from disk
+2023-04-26 12:02:51,930 | INFO | Cloning repo mchmarny/s3cme
+2023-04-26 12:02:52,937 | INFO | Checkov start on mchmarny/s3cme
+2023-04-26 12:02:58,755 | WARNING | Checkov failed on mchmarny/s3cme. See 
+2023-04-26 12:02:59,059 | INFO | Cloning repo terraform-google-modules/terraform-google-cloud-router
+2023-04-26 12:02:59,553 | INFO | Checkov start on terraform-google-modules/terraform-google-cloud-router
+2023-04-26 12:03:04,084 | WARNING | Checkov failed on terraform-google-modules/terraform-google-cloud-router. See 
+2023-04-26 12:03:04,427 | INFO | Cloning repo pluralsh/plural-artifacts
+2023-04-26 12:03:07,464 | INFO | Checkov start on pluralsh/plural-artifacts
+2023-04-26 12:06:09,865 | INFO | Erasing pluralsh/plural-artifacts from disk
+2023-04-26 12:06:10,310 | INFO | Cloning repo eclipsesource/theia-cloud
+2023-04-26 12:06:12,290 | INFO | Checkov start on eclipsesource/theia-cloud
+2023-04-26 12:06:22,868 | INFO | Erasing eclipsesource/theia-cloud from disk
+2023-04-26 12:06:23,220 | INFO | Cloning repo terraform-google-modules/terraform-google-group
+2023-04-26 12:06:23,712 | INFO | Checkov start on terraform-google-modules/terraform-google-group
+2023-04-26 12:06:27,854 | WARNING | Checkov failed on terraform-google-modules/terraform-google-group. See 
+2023-04-26 12:06:28,111 | INFO | Cloning repo sassoftware/viya4-iac-aws
+2023-04-26 12:06:28,789 | INFO | Checkov start on sassoftware/viya4-iac-aws
+2023-04-26 12:06:34,103 | WARNING | Checkov failed on sassoftware/viya4-iac-aws. See 
+2023-04-26 12:06:34,404 | INFO | Cloning repo vmware/terraform-provider-avi
+2023-04-26 12:06:36,452 | INFO | Checkov start on vmware/terraform-provider-avi
+2023-04-26 12:06:54,019 | INFO | Erasing vmware/terraform-provider-avi from disk
+2023-04-26 12:06:54,269 | INFO | Cloning repo jimangel/kubernetes-the-easy-way
+2023-04-26 12:06:54,966 | INFO | Checkov start on jimangel/kubernetes-the-easy-way
+2023-04-26 12:06:59,333 | WARNING | Checkov failed on jimangel/kubernetes-the-easy-way. See 
+2023-04-26 12:06:59,588 | INFO | Cloning repo GoogleCloudPlatform/solutions-template
+2023-04-26 12:07:00,862 | INFO | Checkov start on GoogleCloudPlatform/solutions-template
+2023-04-26 12:07:11,113 | INFO | Erasing GoogleCloudPlatform/solutions-template from disk
+2023-04-26 12:07:11,393 | INFO | Cloning repo hashicorp/terraform-dynamic-credentials-setup-examples
+2023-04-26 12:07:11,868 | INFO | Checkov start on hashicorp/terraform-dynamic-credentials-setup-examples
+2023-04-26 12:07:16,470 | WARNING | Checkov failed on hashicorp/terraform-dynamic-credentials-setup-examples. See 
+2023-04-26 12:07:16,765 | INFO | Cloning repo rodalbuyeh/pyspark-k8s-boilerplate
+2023-04-26 12:07:17,390 | INFO | Checkov start on rodalbuyeh/pyspark-k8s-boilerplate
+2023-04-26 12:07:21,720 | INFO | Erasing rodalbuyeh/pyspark-k8s-boilerplate from disk
+2023-04-26 12:07:21,992 | INFO | Cloning repo spotify/terraform-google-aws-hybrid-cloud-vpn
+2023-04-26 12:07:22,488 | INFO | Checkov start on spotify/terraform-google-aws-hybrid-cloud-vpn
+2023-04-26 12:07:26,549 | WARNING | Checkov failed on spotify/terraform-google-aws-hybrid-cloud-vpn. See 
+2023-04-26 12:07:26,827 | INFO | Cloning repo hashicorp/hashicat-gcp
+2023-04-26 12:07:27,289 | INFO | Checkov start on hashicorp/hashicat-gcp
+2023-04-26 12:07:31,000 | INFO | Erasing hashicorp/hashicat-gcp from disk
+2023-04-26 12:07:31,327 | INFO | Cloning repo GaloyMoney/charts
+2023-04-26 12:07:32,623 | INFO | Checkov start on GaloyMoney/charts
+2023-04-26 12:07:42,631 | WARNING | Checkov failed on GaloyMoney/charts. See 
+2023-04-26 12:07:42,916 | INFO | Cloning repo privacysandbox/fledge-key-value-service
+2023-04-26 12:07:43,739 | INFO | Checkov start on privacysandbox/fledge-key-value-service
+2023-04-26 12:07:57,355 | WARNING | Checkov failed on privacysandbox/fledge-key-value-service. See 
+2023-04-26 12:07:57,667 | INFO | Cloning repo google/privacy-sandbox-aggregation-service
+2023-04-26 12:07:58,803 | INFO | Checkov start on google/privacy-sandbox-aggregation-service
+2023-04-26 12:08:05,198 | INFO | Erasing google/privacy-sandbox-aggregation-service from disk
+2023-04-26 12:08:05,490 | INFO | Cloning repo pactflow/terraform-provider-pact
+2023-04-26 12:08:06,768 | INFO | Checkov start on pactflow/terraform-provider-pact
+2023-04-26 12:08:42,793 | WARNING | Checkov failed on pactflow/terraform-provider-pact. See 
+2023-04-26 12:08:43,180 | WARNING | secrethub/examples is too large
+2023-04-26 12:08:43,415 | INFO | Cloning repo kislerdm/diagramastext
+2023-04-26 12:08:44,221 | INFO | Checkov start on kislerdm/diagramastext
+2023-04-26 12:09:05,336 | INFO | Erasing kislerdm/diagramastext from disk
+2023-04-26 12:09:05,864 | INFO | Cloning repo sighupio/furyctl
+2023-04-26 12:09:07,120 | INFO | Checkov start on sighupio/furyctl
+2023-04-26 12:09:12,912 | WARNING | Checkov failed on sighupio/furyctl. See 
+2023-04-26 12:09:13,179 | INFO | Cloning repo GoogleCloudPlatform/monolith-to-microservices-example
+2023-04-26 12:09:14,786 | INFO | Checkov start on GoogleCloudPlatform/monolith-to-microservices-example
+2023-04-26 12:09:20,505 | INFO | Erasing GoogleCloudPlatform/monolith-to-microservices-example from disk
+2023-04-26 12:09:20,789 | INFO | Cloning repo mchmarny/restme
+2023-04-26 12:09:27,559 | INFO | Checkov start on mchmarny/restme
+2023-04-26 12:09:43,741 | INFO | Erasing mchmarny/restme from disk
+2023-04-26 12:09:44,068 | INFO | Cloning repo The-Academic-Observatory/observatory-platform
+2023-04-26 12:09:50,987 | INFO | Checkov start on The-Academic-Observatory/observatory-platform
+2023-04-26 12:10:00,152 | INFO | Erasing The-Academic-Observatory/observatory-platform from disk
+2023-04-26 12:10:00,761 | INFO | Cloning repo hashicorp/cluster-api-provider-terraform-cloud
+2023-04-26 12:10:01,945 | INFO | Checkov start on hashicorp/cluster-api-provider-terraform-cloud
+2023-04-26 12:10:07,470 | INFO | Erasing hashicorp/cluster-api-provider-terraform-cloud from disk
+2023-04-26 12:10:07,780 | INFO | Cloning repo HPInc/cloud_deployment_scripts
+2023-04-26 12:10:09,002 | INFO | Checkov start on HPInc/cloud_deployment_scripts
+2023-04-26 12:10:31,043 | INFO | Erasing HPInc/cloud_deployment_scripts from disk
+2023-04-26 12:10:31,266 | INFO | Cloning repo kiali/demos
+2023-04-26 12:10:32,032 | INFO | Checkov start on kiali/demos
+2023-04-26 12:10:43,518 | INFO | Erasing kiali/demos from disk
+2023-04-26 12:10:43,780 | WARNING | CiscoDevNet/AppD-Cloud-Kickstart is too large
+2023-04-26 12:10:44,057 | INFO | Cloning repo nearform/optic
+2023-04-26 12:10:45,372 | INFO | Checkov start on nearform/optic
+2023-04-26 12:10:49,566 | WARNING | Checkov failed on nearform/optic. See 
+2023-04-26 12:10:49,830 | INFO | Cloning repo datacommonsorg/website
+2023-04-26 12:10:55,211 | INFO | Checkov start on datacommonsorg/website
+2023-04-26 12:11:22,316 | INFO | Erasing datacommonsorg/website from disk
+2023-04-26 12:11:22,651 | INFO | Cloning repo GaloyMoney/galoy-infra
+2023-04-26 12:11:23,700 | INFO | Checkov start on GaloyMoney/galoy-infra
+2023-04-26 12:11:30,138 | INFO | Erasing GaloyMoney/galoy-infra from disk
+2023-04-26 12:11:30,403 | INFO | Cloning repo cds-snc/forms-terraform
+2023-04-26 12:11:31,386 | INFO | Checkov start on cds-snc/forms-terraform
+2023-04-26 12:11:39,484 | WARNING | Checkov failed on cds-snc/forms-terraform. See 
+2023-04-26 12:11:39,714 | INFO | Cloning repo sassoftware/viya4-iac-gcp
+2023-04-26 12:11:40,387 | INFO | Checkov start on sassoftware/viya4-iac-gcp
+2023-04-26 12:11:45,073 | INFO | Erasing sassoftware/viya4-iac-gcp from disk
+2023-04-26 12:11:45,355 | WARNING | GoogleCloudPlatform/dataplex-labs is too large
+2023-04-26 12:11:45,633 | INFO | Cloning repo F5Networks/f5-bigip-runtime-init
+2023-04-26 12:11:47,022 | INFO | Checkov start on F5Networks/f5-bigip-runtime-init
+2023-04-26 12:11:53,944 | INFO | Erasing F5Networks/f5-bigip-runtime-init from disk
+2023-04-26 12:11:54,222 | INFO | Cloning repo KCarretto/realm
+2023-04-26 12:11:55,694 | INFO | Checkov start on KCarretto/realm
+2023-04-26 12:12:06,029 | INFO | Erasing KCarretto/realm from disk
+2023-04-26 12:12:06,308 | INFO | Cloning repo kriasoft/terraform-starter-kit
+2023-04-26 12:12:07,109 | INFO | Checkov start on kriasoft/terraform-starter-kit
+2023-04-26 12:12:11,498 | INFO | Erasing kriasoft/terraform-starter-kit from disk
+2023-04-26 12:12:11,763 | INFO | Cloning repo tvories/k8s-gitops
+2023-04-26 12:12:12,874 | INFO | Checkov start on tvories/k8s-gitops
+2023-04-26 12:13:00,599 | WARNING | Checkov failed on tvories/k8s-gitops. See 
+2023-04-26 12:13:00,897 | INFO | Cloning repo GoogleCloudPlatform/devrel-demos
+2023-04-26 12:13:03,083 | INFO | Checkov start on GoogleCloudPlatform/devrel-demos
+2023-04-26 12:13:12,232 | WARNING | Checkov failed on GoogleCloudPlatform/devrel-demos. See 
+2023-04-26 12:13:12,571 | INFO | Cloning repo WhatsApp/whatsapp-business-api-deployment-templates
+2023-04-26 12:13:13,074 | INFO | Checkov start on WhatsApp/whatsapp-business-api-deployment-templates
+2023-04-26 12:13:18,910 | INFO | Erasing WhatsApp/whatsapp-business-api-deployment-templates from disk
+2023-04-26 12:13:19,183 | INFO | Cloning repo GoogleCloudPlatform/matching-engine-tutorial-for-image-search
+2023-04-26 12:13:19,951 | INFO | Checkov start on GoogleCloudPlatform/matching-engine-tutorial-for-image-search
+2023-04-26 12:13:24,318 | INFO | Erasing GoogleCloudPlatform/matching-engine-tutorial-for-image-search from disk
+2023-04-26 12:13:24,516 | INFO | Cloning repo saeed349/Quant-Trading-Cloud-Infrastructure
+2023-04-26 12:13:25,076 | INFO | Checkov start on saeed349/Quant-Trading-Cloud-Infrastructure
+2023-04-26 12:13:30,368 | INFO | Erasing saeed349/Quant-Trading-Cloud-Infrastructure from disk
+2023-04-26 12:13:30,646 | INFO | Cloning repo GoogleCloudPlatform/bq-utilization-alerts
+2023-04-26 12:13:31,246 | INFO | Checkov start on GoogleCloudPlatform/bq-utilization-alerts
+2023-04-26 12:13:35,697 | INFO | Erasing GoogleCloudPlatform/bq-utilization-alerts from disk
+2023-04-26 12:13:35,930 | INFO | Cloning repo google/iap-compute-engine-demo
+2023-04-26 12:13:36,782 | INFO | Checkov start on google/iap-compute-engine-demo
+2023-04-26 12:13:41,340 | INFO | Erasing google/iap-compute-engine-demo from disk
+2023-04-26 12:13:41,597 | INFO | Cloning repo abcxyz/lumberjack
+2023-04-26 12:13:43,087 | INFO | Checkov start on abcxyz/lumberjack
+2023-04-26 12:15:01,272 | INFO | Erasing abcxyz/lumberjack from disk
+2023-04-26 12:15:01,802 | INFO | Cloning repo starburstdata/starburst-terraform
+2023-04-26 12:15:03,124 | INFO | Checkov start on starburstdata/starburst-terraform
+2023-04-26 12:15:11,183 | INFO | Erasing starburstdata/starburst-terraform from disk
+2023-04-26 12:15:11,436 | INFO | Cloning repo GoogleCloudPlatform/cloud-hackathons
+2023-04-26 12:15:15,570 | INFO | Checkov start on GoogleCloudPlatform/cloud-hackathons
+2023-04-26 12:15:21,455 | INFO | Erasing GoogleCloudPlatform/cloud-hackathons from disk
+2023-04-26 12:15:21,700 | INFO | Cloning repo jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain
+2023-04-26 12:15:22,118 | INFO | Checkov start on jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain
+2023-04-26 12:15:25,735 | WARNING | Checkov failed on jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain. See 
+2023-04-26 12:15:26,002 | INFO | Cloning repo anitechcs/microservices-reference-application
+2023-04-26 12:15:28,125 | INFO | Checkov start on anitechcs/microservices-reference-application
+2023-04-26 12:15:39,155 | INFO | Erasing anitechcs/microservices-reference-application from disk
+2023-04-26 12:15:39,405 | INFO | Cloning repo abyssparanoia/rapid-go
+2023-04-26 12:15:42,512 | INFO | Checkov start on abyssparanoia/rapid-go
+2023-04-26 12:15:50,423 | INFO | Erasing abyssparanoia/rapid-go from disk
+2023-04-26 12:15:50,689 | INFO | Cloning repo SatcherInstitute/health-equity-tracker
+2023-04-26 12:15:59,761 | INFO | Checkov start on SatcherInstitute/health-equity-tracker
+2023-04-26 12:16:15,730 | INFO | Erasing SatcherInstitute/health-equity-tracker from disk
+2023-04-26 12:16:16,115 | INFO | Cloning repo gardener/gardener-extension-provider-gcp
+2023-04-26 12:16:20,675 | INFO | Checkov start on gardener/gardener-extension-provider-gcp
+2023-04-26 12:17:59,970 | WARNING | Checkov failed on gardener/gardener-extension-provider-gcp. See 
+2023-04-26 12:18:00,441 | INFO | Cloning repo GoogleCloudPlatform/terraform-google-load-balanced-vms
+2023-04-26 12:18:01,333 | INFO | Checkov start on GoogleCloudPlatform/terraform-google-load-balanced-vms
+2023-04-26 12:18:05,621 | INFO | Erasing GoogleCloudPlatform/terraform-google-load-balanced-vms from disk
+2023-04-26 12:18:05,959 | INFO | Cloning repo PacketFabric/terraform-provider-packetfabric
+2023-04-26 12:18:06,980 | INFO | Checkov start on PacketFabric/terraform-provider-packetfabric
+2023-04-26 12:18:17,411 | INFO | Erasing PacketFabric/terraform-provider-packetfabric from disk
+2023-04-26 12:18:17,666 | INFO | Cloning repo DNXLabs/terraform-aws-ecs-app
+2023-04-26 12:18:18,193 | INFO | Checkov start on DNXLabs/terraform-aws-ecs-app
+2023-04-26 12:18:22,729 | WARNING | Checkov failed on DNXLabs/terraform-aws-ecs-app. See 
+2023-04-26 12:18:22,976 | INFO | Cloning repo PaloAltoNetworks/terraform-google-vmseries-modules
+2023-04-26 12:18:26,388 | INFO | Checkov start on PaloAltoNetworks/terraform-google-vmseries-modules
+2023-04-26 12:18:34,871 | INFO | Erasing PaloAltoNetworks/terraform-google-vmseries-modules from disk
+2023-04-26 12:18:35,160 | INFO | Cloning repo metro-digital/terraform-google-cf-projectcfg
+2023-04-26 12:18:35,717 | INFO | Checkov start on metro-digital/terraform-google-cf-projectcfg
+2023-04-26 12:18:40,676 | INFO | Erasing metro-digital/terraform-google-cf-projectcfg from disk
+2023-04-26 12:18:41,076 | INFO | Cloning repo Silectis/multi-cloud-vpn
+2023-04-26 12:18:41,521 | INFO | Checkov start on Silectis/multi-cloud-vpn
+2023-04-26 12:18:46,175 | INFO | Erasing Silectis/multi-cloud-vpn from disk
+2023-04-26 12:18:46,434 | INFO | Cloning repo ScaleSec/gcp_threat_detection_auto_remediation
+2023-04-26 12:18:46,916 | INFO | Checkov start on ScaleSec/gcp_threat_detection_auto_remediation
+2023-04-26 12:18:51,293 | INFO | Erasing ScaleSec/gcp_threat_detection_auto_remediation from disk
+2023-04-26 12:18:51,563 | INFO | Cloning repo cloudspannerecosystem/spanner-gaming-sample
+2023-04-26 12:18:52,052 | INFO | Checkov start on cloudspannerecosystem/spanner-gaming-sample
+2023-04-26 12:18:58,589 | INFO | Erasing cloudspannerecosystem/spanner-gaming-sample from disk
+2023-04-26 12:18:58,837 | INFO | Cloning repo GoogleCloudPlatform/terraform-sample-tools
+2023-04-26 12:18:59,513 | INFO | Checkov start on GoogleCloudPlatform/terraform-sample-tools
+2023-04-26 12:19:04,789 | INFO | Erasing GoogleCloudPlatform/terraform-sample-tools from disk
+2023-04-26 12:19:05,109 | INFO | Cloning repo canada-ca/accelerators_accelerateurs-gcp
+2023-04-26 12:19:05,767 | INFO | Checkov start on canada-ca/accelerators_accelerateurs-gcp
+2023-04-26 12:19:10,249 | INFO | Erasing canada-ca/accelerators_accelerateurs-gcp from disk
+2023-04-26 12:19:10,502 | INFO | Cloning repo cloud-computer/cloud-computer
+2023-04-26 12:19:12,109 | INFO | Checkov start on cloud-computer/cloud-computer
+2023-04-26 12:19:19,835 | INFO | Erasing cloud-computer/cloud-computer from disk
+2023-04-26 12:19:20,171 | WARNING | DragonSecSI/DCTF-2022 is too large
+2023-04-26 12:19:20,461 | INFO | Cloning repo chainguard-dev/registry-redirect
+2023-04-26 12:19:21,102 | INFO | Checkov start on chainguard-dev/registry-redirect
+2023-04-26 12:19:25,531 | INFO | Erasing chainguard-dev/registry-redirect from disk
+2023-04-26 12:19:25,754 | INFO | Cloning repo CloudVLab/terraform-lab-foundation
+2023-04-26 12:19:27,332 | INFO | Checkov start on CloudVLab/terraform-lab-foundation
+2023-04-26 12:19:45,796 | INFO | Erasing CloudVLab/terraform-lab-foundation from disk
+2023-04-26 12:19:46,091 | INFO | Cloning repo GoogleCloudPlatform/solutions-istio-mesh-expansion-migration
+2023-04-26 12:19:46,559 | INFO | Checkov start on GoogleCloudPlatform/solutions-istio-mesh-expansion-migration
+2023-04-26 12:19:51,313 | INFO | Erasing GoogleCloudPlatform/solutions-istio-mesh-expansion-migration from disk
+2023-04-26 12:19:51,615 | INFO | Cloning repo GoogleCloudPlatform/solutions-geospatial-analytics
+2023-04-26 12:19:52,701 | INFO | Checkov start on GoogleCloudPlatform/solutions-geospatial-analytics
+2023-04-26 12:19:59,471 | INFO | Erasing GoogleCloudPlatform/solutions-geospatial-analytics from disk
+2023-04-26 12:19:59,764 | INFO | Cloning repo ita-social-projects/OoS-Backend
+2023-04-26 12:20:00,886 | INFO | Checkov start on ita-social-projects/OoS-Backend
+2023-04-26 12:20:20,157 | INFO | Erasing ita-social-projects/OoS-Backend from disk
+2023-04-26 12:20:20,413 | INFO | Cloning repo amplication/amplication-site
+2023-04-26 12:20:22,891 | INFO | Checkov start on amplication/amplication-site
+2023-04-26 12:20:31,209 | INFO | Erasing amplication/amplication-site from disk
+2023-04-26 12:20:31,478 | INFO | Cloning repo Armitagency/cloud-native-security-cookbook-tf
+2023-04-26 12:20:32,272 | INFO | Checkov start on Armitagency/cloud-native-security-cookbook-tf
+2023-04-26 12:20:46,461 | INFO | Erasing Armitagency/cloud-native-security-cookbook-tf from disk
+2023-04-26 12:20:46,771 | INFO | Cloning repo cldcvr/gcifi-lz
+2023-04-26 12:20:47,675 | INFO | Checkov start on cldcvr/gcifi-lz
+2023-04-26 12:21:59,421 | INFO | Erasing cldcvr/gcifi-lz from disk
+2023-04-26 12:21:59,694 | WARNING | velascoluis/polyexpose is too large
+2023-04-26 12:21:59,988 | INFO | Cloning repo Quansight/qhub-ops
+2023-04-26 12:22:02,223 | INFO | Checkov start on Quansight/qhub-ops
+2023-04-26 12:22:08,130 | WARNING | Checkov failed on Quansight/qhub-ops. See 
+2023-04-26 12:22:08,444 | INFO | Cloning repo infrahq/terraform-provider-infra
+2023-04-26 12:22:08,992 | INFO | Checkov start on infrahq/terraform-provider-infra
+2023-04-26 12:22:13,499 | WARNING | Checkov failed on infrahq/terraform-provider-infra. See 
+2023-04-26 12:22:13,792 | WARNING | Vizzuality/landgriffon is too large
+2023-04-26 12:22:14,036 | WARNING | cscetbon/casskop is too large
+2023-04-26 12:22:14,369 | INFO | Cloning repo GoogleCloudPlatform/gke-securing-third-party-apps-blueprint
+2023-04-26 12:22:14,985 | INFO | Checkov start on GoogleCloudPlatform/gke-securing-third-party-apps-blueprint
+2023-04-26 12:22:19,717 | INFO | Erasing GoogleCloudPlatform/gke-securing-third-party-apps-blueprint from disk
+2023-04-26 12:22:20,002 | INFO | Cloning repo wandb/terraform-google-wandb
+2023-04-26 12:22:20,517 | INFO | Checkov start on wandb/terraform-google-wandb
+2023-04-26 12:22:27,246 | INFO | Erasing wandb/terraform-google-wandb from disk
+2023-04-26 12:22:27,801 | INFO | Cloning repo mscribellito/terraform-google-workload-identity-federation
+2023-04-26 12:22:28,190 | INFO | Checkov start on mscribellito/terraform-google-workload-identity-federation
+2023-04-26 12:22:31,891 | WARNING | Checkov failed on mscribellito/terraform-google-workload-identity-federation. See 
+2023-04-26 12:22:32,156 | INFO | Cloning repo dlorch/errors.fail
+2023-04-26 12:22:32,834 | INFO | Checkov start on dlorch/errors.fail
+2023-04-26 12:22:36,842 | INFO | Erasing dlorch/errors.fail from disk
+2023-04-26 12:22:37,083 | INFO | Cloning repo GoogleCloudPlatform/aactl
+2023-04-26 12:22:37,381 | WARNING | Repo GoogleCloudPlatform/aactl error
+2023-04-26 12:22:37,686 | INFO | Cloning repo s1mark/cloud_hun
+2023-04-26 12:22:38,457 | INFO | Checkov start on s1mark/cloud_hun
+2023-04-26 12:22:46,067 | WARNING | Checkov failed on s1mark/cloud_hun. See 
+2023-04-26 12:22:46,322 | INFO | Cloning repo frealmyr/homelab
+2023-04-26 12:22:47,870 | INFO | Checkov start on frealmyr/homelab
+2023-04-26 12:22:54,442 | WARNING | Checkov failed on frealmyr/homelab. See 
+2023-04-26 12:22:54,704 | INFO | Cloning repo Worklytics/psoxy
+2023-04-26 12:22:55,868 | INFO | Checkov start on Worklytics/psoxy
+2023-04-26 12:23:21,780 | INFO | Erasing Worklytics/psoxy from disk
+2023-04-26 12:23:22,066 | INFO | Cloning repo Cray-HPE/sigstore-poc
+2023-04-26 12:23:22,778 | INFO | Checkov start on Cray-HPE/sigstore-poc
+2023-04-26 12:23:30,434 | INFO | Erasing Cray-HPE/sigstore-poc from disk
+2023-04-26 12:23:30,666 | INFO | Cloning repo JMGaljaard/fltk-testbed
+2023-04-26 12:23:31,321 | INFO | Checkov start on JMGaljaard/fltk-testbed
+2023-04-26 12:23:38,228 | WARNING | Checkov failed on JMGaljaard/fltk-testbed. See 
+2023-04-26 12:23:38,516 | INFO | Cloning repo GoogleCloudPlatform/guacamole-on-gcp
+2023-04-26 12:23:39,009 | INFO | Checkov start on GoogleCloudPlatform/guacamole-on-gcp
+2023-04-26 12:23:44,507 | INFO | Erasing GoogleCloudPlatform/guacamole-on-gcp from disk
+2023-04-26 12:23:44,740 | INFO | Cloning repo sushil46in/terraform_modules
+2023-04-26 12:23:46,500 | INFO | Checkov start on sushil46in/terraform_modules
+2023-04-26 12:33:16,372 | INFO | Erasing sushil46in/terraform_modules from disk
+2023-04-26 12:33:17,073 | INFO | Cloning repo GoogleCloudPlatform/terraform-ecommerce-microservices-on-gke
+2023-04-26 12:33:17,603 | INFO | Checkov start on GoogleCloudPlatform/terraform-ecommerce-microservices-on-gke
+2023-04-26 12:33:22,750 | INFO | Erasing GoogleCloudPlatform/terraform-ecommerce-microservices-on-gke from disk
+2023-04-26 12:33:23,021 | INFO | Cloning repo octue/octue-sdk-python
+2023-04-26 12:33:23,962 | INFO | Checkov start on octue/octue-sdk-python
+2023-04-26 12:33:33,054 | INFO | Erasing octue/octue-sdk-python from disk
+2023-04-26 12:33:33,296 | INFO | Cloning repo AJarombek/global-aws-infrastructure
+2023-04-26 12:33:34,015 | INFO | Checkov start on AJarombek/global-aws-infrastructure
+2023-04-26 12:33:43,021 | WARNING | Checkov failed on AJarombek/global-aws-infrastructure. See 
+2023-04-26 12:33:43,310 | INFO | Cloning repo GoogleCloudPlatform/terraform-dynamic-javascript-webapp
+2023-04-26 12:33:43,842 | INFO | Checkov start on GoogleCloudPlatform/terraform-dynamic-javascript-webapp
+2023-04-26 12:33:48,297 | INFO | Erasing GoogleCloudPlatform/terraform-dynamic-javascript-webapp from disk
+2023-04-26 12:33:48,560 | INFO | Cloning repo GoogleCloudPlatform/developer-journey-app
+2023-04-26 12:33:49,158 | INFO | Checkov start on GoogleCloudPlatform/developer-journey-app
+2023-04-26 12:33:54,412 | INFO | Erasing GoogleCloudPlatform/developer-journey-app from disk
+2023-04-26 12:33:54,701 | INFO | Cloning repo hashicorp/field-demos-consul-expand-team-qapla-assets
+2023-04-26 12:33:55,284 | INFO | Checkov start on hashicorp/field-demos-consul-expand-team-qapla-assets
+2023-04-26 12:34:00,192 | INFO | Erasing hashicorp/field-demos-consul-expand-team-qapla-assets from disk
+2023-04-26 12:34:00,475 | INFO | Cloning repo smsilva/kubernetes
+2023-04-26 12:34:02,055 | INFO | Checkov start on smsilva/kubernetes
+2023-04-26 12:34:23,217 | INFO | Erasing smsilva/kubernetes from disk
+2023-04-26 12:34:23,486 | INFO | Cloning repo knative/infra
+2023-04-26 12:34:30,964 | INFO | Checkov start on knative/infra
+2023-04-26 12:36:01,071 | INFO | Erasing knative/infra from disk
+2023-04-26 12:36:01,708 | INFO | Cloning repo antoine-amara/staticpack
+2023-04-26 12:36:02,638 | INFO | Checkov start on antoine-amara/staticpack
+2023-04-26 12:36:07,318 | INFO | Erasing antoine-amara/staticpack from disk
+2023-04-26 12:36:07,546 | INFO | Cloning repo mw866/cloudflare-gke
+2023-04-26 12:36:08,019 | INFO | Checkov start on mw866/cloudflare-gke
+2023-04-26 12:36:12,108 | INFO | Erasing mw866/cloudflare-gke from disk
+2023-04-26 12:36:12,358 | INFO | Cloning repo sparkfabrik/terraform-google-gke-autopilot-mastodon
+2023-04-26 12:36:12,991 | INFO | Checkov start on sparkfabrik/terraform-google-gke-autopilot-mastodon
+2023-04-26 12:36:15,520 | WARNING | Checkov failed on sparkfabrik/terraform-google-gke-autopilot-mastodon. See 
+2023-04-26 12:36:15,714 | INFO | Cloning repo thecloudterminal01/learn-devops
+2023-04-26 12:36:16,720 | INFO | Checkov start on thecloudterminal01/learn-devops
+2023-04-26 12:36:25,539 | INFO | Erasing thecloudterminal01/learn-devops from disk
+2023-04-26 12:36:25,773 | INFO | Cloning repo gbrembati/terraform-cloudguard-gke
+2023-04-26 12:36:26,453 | INFO | Checkov start on gbrembati/terraform-cloudguard-gke
+2023-04-26 12:36:30,829 | INFO | Erasing gbrembati/terraform-cloudguard-gke from disk
+2023-04-26 12:36:31,051 | INFO | Cloning repo onugg/onu
+2023-04-26 12:36:33,288 | INFO | Checkov start on onugg/onu
+2023-04-26 12:36:47,249 | INFO | Erasing onugg/onu from disk
+2023-04-26 12:36:47,540 | INFO | Cloning repo fspin-k8s/fspin-infrastructure
+2023-04-26 12:36:48,116 | INFO | Checkov start on fspin-k8s/fspin-infrastructure
+2023-04-26 12:36:53,428 | INFO | Erasing fspin-k8s/fspin-infrastructure from disk
+2023-04-26 12:36:53,652 | INFO | Cloning repo liamstevens/gcp-pca-prep
+2023-04-26 12:36:54,146 | INFO | Checkov start on liamstevens/gcp-pca-prep
+2023-04-26 12:36:59,512 | INFO | Erasing liamstevens/gcp-pca-prep from disk
+2023-04-26 12:36:59,807 | INFO | Cloning repo GoogleCloudPlatform/csa-fw-microsegmentation
+2023-04-26 12:37:00,366 | INFO | Checkov start on GoogleCloudPlatform/csa-fw-microsegmentation
+2023-04-26 12:37:05,235 | INFO | Erasing GoogleCloudPlatform/csa-fw-microsegmentation from disk
+2023-04-26 12:37:05,434 | INFO | Cloning repo agileguru/introtocloudandiac
+2023-04-26 12:37:05,875 | INFO | Checkov start on agileguru/introtocloudandiac
+2023-04-26 12:37:09,777 | INFO | Erasing agileguru/introtocloudandiac from disk
+2023-04-26 12:37:10,021 | INFO | Cloning repo Tyler-Cash/homelab
+2023-04-26 12:37:10,812 | INFO | Checkov start on Tyler-Cash/homelab
+2023-04-26 12:37:19,212 | WARNING | Checkov failed on Tyler-Cash/homelab. See 
+2023-04-26 12:37:19,461 | INFO | Cloning repo status-im/infra-nim-waku
+2023-04-26 12:37:19,958 | INFO | Checkov start on status-im/infra-nim-waku
+2023-04-26 12:37:24,246 | WARNING | Checkov failed on status-im/infra-nim-waku. See 
+2023-04-26 12:37:24,525 | INFO | Cloning repo HCA97/de-zoomcamp-project
+2023-04-26 12:37:25,093 | INFO | Checkov start on HCA97/de-zoomcamp-project
+2023-04-26 12:37:29,355 | INFO | Erasing HCA97/de-zoomcamp-project from disk
+2023-04-26 12:37:29,637 | INFO | Cloning repo ThalesGroup/terraform-provider-ciphertrust
+2023-04-26 12:37:30,233 | INFO | Checkov start on ThalesGroup/terraform-provider-ciphertrust
+2023-04-26 12:37:41,087 | WARNING | Checkov failed on ThalesGroup/terraform-provider-ciphertrust. See 
+2023-04-26 12:37:41,353 | INFO | Cloning repo bub3690/dotting-diffusion
+2023-04-26 12:37:42,644 | INFO | Checkov start on bub3690/dotting-diffusion
+2023-04-26 12:37:46,535 | WARNING | Checkov failed on bub3690/dotting-diffusion. See 
+2023-04-26 12:37:46,748 | INFO | Cloning repo cleibl/terraform-google-gsuite-exporter-cfn
+2023-04-26 12:37:47,221 | INFO | Checkov start on cleibl/terraform-google-gsuite-exporter-cfn
+2023-04-26 12:37:51,259 | INFO | Erasing cleibl/terraform-google-gsuite-exporter-cfn from disk
+2023-04-26 12:37:51,477 | INFO | Cloning repo nickjacques/example-gcp-iap-and-hierarchical-fw-terraform
+2023-04-26 12:37:51,900 | INFO | Checkov start on nickjacques/example-gcp-iap-and-hierarchical-fw-terraform
+2023-04-26 12:37:55,865 | INFO | Erasing nickjacques/example-gcp-iap-and-hierarchical-fw-terraform from disk
+2023-04-26 12:37:56,081 | INFO | Cloning repo identiq-protocol/edge-infrastructure
+2023-04-26 12:37:56,807 | INFO | Checkov start on identiq-protocol/edge-infrastructure
+2023-04-26 12:38:04,474 | INFO | Erasing identiq-protocol/edge-infrastructure from disk
+2023-04-26 12:38:04,723 | INFO | Cloning repo AndersenLab/CAENDR
+2023-04-26 12:38:08,867 | INFO | Checkov start on AndersenLab/CAENDR
+2023-04-26 12:38:24,677 | INFO | Erasing AndersenLab/CAENDR from disk
+2023-04-26 12:38:25,270 | INFO | Cloning repo genesys/multicloud-platform
+2023-04-26 12:38:25,930 | INFO | Checkov start on genesys/multicloud-platform
+2023-04-26 12:38:31,642 | INFO | Erasing genesys/multicloud-platform from disk
+2023-04-26 12:38:31,866 | INFO | Cloning repo shapleya/tf_gcp_iap_tunnel_ssh_demo
+2023-04-26 12:38:32,362 | INFO | Checkov start on shapleya/tf_gcp_iap_tunnel_ssh_demo
+2023-04-26 12:38:36,557 | INFO | Erasing shapleya/tf_gcp_iap_tunnel_ssh_demo from disk
+2023-04-26 12:38:36,832 | INFO | Cloning repo ericreeves/packer-terraform-demo
+2023-04-26 12:38:37,587 | INFO | Checkov start on ericreeves/packer-terraform-demo
+2023-04-26 12:38:43,145 | INFO | Erasing ericreeves/packer-terraform-demo from disk
+2023-04-26 12:38:43,408 | INFO | Cloning repo bacalhau-project/amplify
+2023-04-26 12:38:45,612 | INFO | Checkov start on bacalhau-project/amplify
+2023-04-26 12:38:52,932 | INFO | Erasing bacalhau-project/amplify from disk
+2023-04-26 12:38:53,416 | INFO | Cloning repo galkin/firebase-workshop-devops
+2023-04-26 12:38:54,052 | INFO | Checkov start on galkin/firebase-workshop-devops
+2023-04-26 12:38:58,369 | INFO | Erasing galkin/firebase-workshop-devops from disk
+2023-04-26 12:38:58,586 | INFO | Cloning repo bocan/mastodon-google-cloud
+2023-04-26 12:38:59,059 | INFO | Checkov start on bocan/mastodon-google-cloud
+2023-04-26 12:39:03,730 | INFO | Erasing bocan/mastodon-google-cloud from disk
+2023-04-26 12:39:03,992 | INFO | Cloning repo bcgov/workbc-jb
+2023-04-26 12:39:06,015 | INFO | Checkov start on bcgov/workbc-jb
+2023-04-26 12:39:27,651 | WARNING | Checkov failed on bcgov/workbc-jb. See 
+2023-04-26 12:39:27,986 | INFO | Cloning repo osinfra-io/github-organization-management
+2023-04-26 12:39:28,621 | INFO | Checkov start on osinfra-io/github-organization-management
+2023-04-26 12:39:32,461 | WARNING | Checkov failed on osinfra-io/github-organization-management. See 
+2023-04-26 12:39:32,752 | INFO | Cloning repo broadinstitute/terraform-ap-modules
+2023-04-26 12:39:33,339 | INFO | Checkov start on broadinstitute/terraform-ap-modules
+2023-04-26 12:39:42,985 | INFO | Erasing broadinstitute/terraform-ap-modules from disk
+2023-04-26 12:39:43,243 | INFO | Cloning repo google/video-exclusion-toolbox
+2023-04-26 12:39:43,853 | INFO | Checkov start on google/video-exclusion-toolbox
+2023-04-26 12:39:48,785 | INFO | Erasing google/video-exclusion-toolbox from disk
+2023-04-26 12:39:49,048 | INFO | Cloning repo broadinstitute/monster-deploy
+2023-04-26 12:39:49,658 | INFO | Checkov start on broadinstitute/monster-deploy
+2023-04-26 12:39:58,785 | INFO | Erasing broadinstitute/monster-deploy from disk
+2023-04-26 12:39:59,042 | INFO | Cloning repo snsinfu/bit4
+2023-04-26 12:40:00,323 | INFO | Checkov start on snsinfu/bit4
+2023-04-26 12:41:08,440 | INFO | Erasing snsinfu/bit4 from disk
+2023-04-26 12:41:08,849 | INFO | Cloning repo DataBiosphere/data-store
+2023-04-26 12:41:10,342 | INFO | Checkov start on DataBiosphere/data-store
+2023-04-26 12:41:18,731 | INFO | Erasing DataBiosphere/data-store from disk
+2023-04-26 12:41:19,076 | INFO | Cloning repo basisai/terraform-google-vault
+2023-04-26 12:41:19,719 | INFO | Checkov start on basisai/terraform-google-vault
+2023-04-26 12:41:23,790 | INFO | Erasing basisai/terraform-google-vault from disk
+2023-04-26 12:41:24,138 | INFO | Cloning repo DDNStorage/exascaler-cloud-terraform
+2023-04-26 12:41:24,651 | INFO | Checkov start on DDNStorage/exascaler-cloud-terraform
+2023-04-26 12:41:30,292 | INFO | Erasing DDNStorage/exascaler-cloud-terraform from disk
+2023-04-26 12:41:30,508 | INFO | Cloning repo memes/terraform-google-f5-bigip
+2023-04-26 12:41:31,156 | INFO | Checkov start on memes/terraform-google-f5-bigip
+2023-04-26 12:41:50,143 | INFO | Erasing memes/terraform-google-f5-bigip from disk
+2023-04-26 12:41:50,382 | INFO | Cloning repo minhthinhls/Linux-Command-Line-Tools
+2023-04-26 12:41:51,052 | INFO | Checkov start on minhthinhls/Linux-Command-Line-Tools
+2023-04-26 12:42:18,354 | INFO | Erasing minhthinhls/Linux-Command-Line-Tools from disk
+2023-04-26 12:42:18,584 | INFO | Cloning repo eduardoocarneiro/terraform-gke
+2023-04-26 12:42:18,961 | INFO | Checkov start on eduardoocarneiro/terraform-gke
+2023-04-26 12:42:23,112 | INFO | Erasing eduardoocarneiro/terraform-gke from disk
+2023-04-26 12:42:23,404 | INFO | Cloning repo bamishr/terraform
+2023-04-26 12:42:23,885 | INFO | Checkov start on bamishr/terraform
+2023-04-26 12:42:33,406 | WARNING | Checkov failed on bamishr/terraform. See 
+2023-04-26 12:42:33,616 | INFO | Cloning repo gitrgoliveira/tfc-jit-demo
+2023-04-26 12:42:34,029 | INFO | Checkov start on gitrgoliveira/tfc-jit-demo
+2023-04-26 12:42:38,361 | INFO | Erasing gitrgoliveira/tfc-jit-demo from disk
+2023-04-26 12:42:38,631 | INFO | Cloning repo CoEDL/elpiscloud
+2023-04-26 12:42:39,530 | INFO | Checkov start on CoEDL/elpiscloud
+2023-04-26 12:42:47,533 | INFO | Erasing CoEDL/elpiscloud from disk
+2023-04-26 12:42:47,798 | INFO | Cloning repo jonathanbaraldi/devopsforlife-terraform-to-pulumi
+2023-04-26 12:42:48,293 | INFO | Checkov start on jonathanbaraldi/devopsforlife-terraform-to-pulumi
+2023-04-26 12:42:53,263 | INFO | Erasing jonathanbaraldi/devopsforlife-terraform-to-pulumi from disk
+2023-04-26 12:42:53,496 | INFO | Cloning repo inabagumi/pinkie
+2023-04-26 12:42:54,023 | INFO | Checkov start on inabagumi/pinkie
+2023-04-26 12:42:58,610 | INFO | Erasing inabagumi/pinkie from disk
+2023-04-26 12:42:58,879 | INFO | Cloning repo gbrayut/cloud-examples
+2023-04-26 12:42:59,348 | INFO | Checkov start on gbrayut/cloud-examples
+2023-04-26 12:43:05,106 | INFO | Erasing gbrayut/cloud-examples from disk
+2023-04-26 12:43:05,337 | WARNING | OranBar/sc2-sensei is too large
+2023-04-26 12:43:05,868 | INFO | Cloning repo abcxyz/guardian
+2023-04-26 12:43:06,446 | INFO | Checkov start on abcxyz/guardian
+2023-04-26 12:43:10,967 | WARNING | Checkov failed on abcxyz/guardian. See 
+2023-04-26 12:43:11,210 | INFO | Cloning repo abcxyz/terraform-modules
+2023-04-26 12:43:11,726 | INFO | Checkov start on abcxyz/terraform-modules
+2023-04-26 12:43:16,277 | INFO | Erasing abcxyz/terraform-modules from disk
+2023-04-26 12:43:16,498 | INFO | Cloning repo polytomic/on-premises
+2023-04-26 12:43:17,254 | INFO | Checkov start on polytomic/on-premises
+2023-04-26 12:43:24,142 | WARNING | Checkov failed on polytomic/on-premises. See 
+2023-04-26 12:43:24,410 | INFO | Cloning repo batect/abacus
+2023-04-26 12:43:25,072 | INFO | Checkov start on batect/abacus
+2023-04-26 12:43:30,086 | INFO | Erasing batect/abacus from disk
+2023-04-26 12:43:30,323 | INFO | Cloning repo lacework-dev/detc-resources
+2023-04-26 12:43:30,977 | INFO | Checkov start on lacework-dev/detc-resources
+2023-04-26 12:43:39,664 | INFO | Erasing lacework-dev/detc-resources from disk
+2023-04-26 12:43:39,941 | INFO | Cloning repo alphagov/govuk-knowledge-graph-gcp
+2023-04-26 12:43:40,785 | INFO | Checkov start on alphagov/govuk-knowledge-graph-gcp
+2023-04-26 12:43:50,797 | INFO | Erasing alphagov/govuk-knowledge-graph-gcp from disk
+2023-04-26 12:43:51,334 | INFO | Cloning repo splunk/terraform-provider-synthetics
+2023-04-26 12:43:52,633 | INFO | Checkov start on splunk/terraform-provider-synthetics
+2023-04-26 12:44:14,513 | WARNING | Checkov failed on splunk/terraform-provider-synthetics. See 
+2023-04-26 12:44:14,803 | INFO | Cloning repo privacysandbox/control-plane-shared-libraries
+2023-04-26 12:44:15,993 | INFO | Checkov start on privacysandbox/control-plane-shared-libraries
+2023-04-26 12:44:45,145 | WARNING | Checkov failed on privacysandbox/control-plane-shared-libraries. See 
+2023-04-26 12:44:45,506 | INFO | Cloning repo datasparq-intelligent-products/houston-quickstart-python
+2023-04-26 12:44:46,035 | INFO | Checkov start on datasparq-intelligent-products/houston-quickstart-python
+2023-04-26 12:44:50,215 | WARNING | Checkov failed on datasparq-intelligent-products/houston-quickstart-python. See 
+2023-04-26 12:44:50,438 | INFO | Cloning repo extenda/tf-module-gcp-project
+2023-04-26 12:44:51,168 | INFO | Checkov start on extenda/tf-module-gcp-project
+2023-04-26 12:44:56,907 | WARNING | Checkov failed on extenda/tf-module-gcp-project. See 
+2023-04-26 12:44:57,107 | INFO | Cloning repo LucasPickering/beta-spray
+2023-04-26 12:44:58,115 | INFO | Checkov start on LucasPickering/beta-spray
+2023-04-26 12:45:05,859 | INFO | Erasing LucasPickering/beta-spray from disk
+2023-04-26 12:45:06,092 | INFO | Cloning repo Erfandarzi/medscale
+2023-04-26 12:45:09,861 | INFO | Checkov start on Erfandarzi/medscale
+2023-04-26 12:46:15,587 | INFO | Erasing Erfandarzi/medscale from disk
+2023-04-26 12:46:16,186 | INFO | Cloning repo inabagumi/graph-infra
+2023-04-26 12:46:16,735 | INFO | Checkov start on inabagumi/graph-infra
+2023-04-26 12:46:20,823 | INFO | Erasing inabagumi/graph-infra from disk
+2023-04-26 12:46:21,044 | INFO | Cloning repo duckhue01/wild-workouts
+2023-04-26 12:46:21,619 | INFO | Checkov start on duckhue01/wild-workouts
+2023-04-26 12:46:27,894 | WARNING | Checkov failed on duckhue01/wild-workouts. See 
+2023-04-26 12:46:28,195 | INFO | Cloning repo ninech/blackbox-exporter-cloudfunction
+2023-04-26 12:46:28,628 | INFO | Checkov start on ninech/blackbox-exporter-cloudfunction
+2023-04-26 12:46:32,719 | INFO | Erasing ninech/blackbox-exporter-cloudfunction from disk
+2023-04-26 12:46:33,021 | INFO | Cloning repo limebrew-org/limebrew-infra
+2023-04-26 12:46:33,429 | INFO | Checkov start on limebrew-org/limebrew-infra
+2023-04-26 12:46:37,735 | INFO | Erasing limebrew-org/limebrew-infra from disk
+2023-04-26 12:46:38,058 | INFO | Cloning repo dragondrop-cloud/terraform-google-dragondrop-compute
+2023-04-26 12:46:38,602 | INFO | Checkov start on dragondrop-cloud/terraform-google-dragondrop-compute
+2023-04-26 12:46:43,075 | INFO | Erasing dragondrop-cloud/terraform-google-dragondrop-compute from disk
+2023-04-26 12:46:43,319 | INFO | Cloning repo springml-code/terraform-structure
+2023-04-26 12:46:43,837 | INFO | Checkov start on springml-code/terraform-structure
+2023-04-26 12:47:01,901 | INFO | Erasing springml-code/terraform-structure from disk
+2023-04-26 12:47:02,166 | INFO | Cloning repo vyshkov/gcp-serverless
+2023-04-26 12:47:03,902 | INFO | Checkov start on vyshkov/gcp-serverless
+2023-04-26 12:47:09,124 | INFO | Erasing vyshkov/gcp-serverless from disk
+2023-04-26 12:47:09,409 | INFO | Cloning repo ubikasec/ubika-waap-extra
+2023-04-26 12:47:11,394 | INFO | Checkov start on ubikasec/ubika-waap-extra
+2023-04-26 12:47:28,907 | INFO | Erasing ubikasec/ubika-waap-extra from disk
+2023-04-26 12:47:29,162 | INFO | Cloning repo jonpulsifer/infra
+2023-04-26 12:47:29,812 | INFO | Checkov start on jonpulsifer/infra
+2023-04-26 12:47:41,961 | INFO | Erasing jonpulsifer/infra from disk
+2023-04-26 12:47:42,248 | INFO | Cloning repo GoogleCloudPlatform/terraform-google-cloud-ids
+2023-04-26 12:47:42,807 | INFO | Checkov start on GoogleCloudPlatform/terraform-google-cloud-ids
+2023-04-26 12:47:47,358 | INFO | Erasing GoogleCloudPlatform/terraform-google-cloud-ids from disk
+2023-04-26 12:47:47,609 | INFO | Cloning repo gfilicetti/gHacks
+2023-04-26 12:47:50,821 | INFO | Checkov start on gfilicetti/gHacks
+2023-04-26 12:47:56,863 | INFO | Erasing gfilicetti/gHacks from disk
+2023-04-26 12:47:57,070 | INFO | Cloning repo jswortz/bqml-vertex-matching-engine
+2023-04-26 12:48:01,646 | INFO | Checkov start on jswortz/bqml-vertex-matching-engine
+2023-04-26 12:48:06,180 | INFO | Erasing jswortz/bqml-vertex-matching-engine from disk
+2023-04-26 12:48:06,462 | INFO | Cloning repo GoogleCloudPlatform/terraform-vpc-pupi
+2023-04-26 12:48:06,842 | INFO | Checkov start on GoogleCloudPlatform/terraform-vpc-pupi
+2023-04-26 12:48:10,926 | INFO | Erasing GoogleCloudPlatform/terraform-vpc-pupi from disk
+2023-04-26 12:48:11,159 | INFO | Cloning repo mohammadmonjureelahi/terraform-gke-helm-wordpress
+2023-04-26 12:48:11,698 | INFO | Checkov start on mohammadmonjureelahi/terraform-gke-helm-wordpress
+2023-04-26 12:48:17,626 | INFO | Erasing mohammadmonjureelahi/terraform-gke-helm-wordpress from disk
+2023-04-26 12:48:17,866 | INFO | Cloning repo cloudfoundry/app-runtime-interfaces-infrastructure
+2023-04-26 12:48:18,504 | INFO | Checkov start on cloudfoundry/app-runtime-interfaces-infrastructure
+2023-04-26 12:48:26,477 | INFO | Erasing cloudfoundry/app-runtime-interfaces-infrastructure from disk
+2023-04-26 12:48:26,682 | INFO | Cloning repo fpgmaas/cloudrun-example-infra
+2023-04-26 12:48:27,371 | INFO | Checkov start on fpgmaas/cloudrun-example-infra
+2023-04-26 12:48:31,433 | INFO | Erasing fpgmaas/cloudrun-example-infra from disk
+2023-04-26 12:48:31,684 | INFO | Cloning repo observerio/observer-server
+2023-04-26 12:48:33,256 | INFO | Checkov start on observerio/observer-server
+2023-04-26 12:48:41,129 | WARNING | Checkov failed on observerio/observer-server. See 
+2023-04-26 12:48:41,365 | INFO | Cloning repo rahil-p/personal-site
+2023-04-26 12:48:42,203 | INFO | Checkov start on rahil-p/personal-site
+2023-04-26 12:48:48,445 | INFO | Erasing rahil-p/personal-site from disk
+2023-04-26 12:48:48,720 | INFO | Cloning repo indeni/cloudrail-knowledge
+2023-04-26 12:48:52,593 | INFO | Checkov start on indeni/cloudrail-knowledge
+2023-04-26 13:10:25,546 | INFO | Erasing indeni/cloudrail-knowledge from disk
+2023-04-26 13:10:26,783 | INFO | Cloning repo iganari/package-gcp
+2023-04-26 13:10:31,368 | INFO | Checkov start on iganari/package-gcp
+2023-04-26 13:10:50,386 | INFO | Erasing iganari/package-gcp from disk
+2023-04-26 13:10:50,635 | INFO | Cloning repo ineffyble/AllTheClouds
+2023-04-26 13:10:50,979 | INFO | Checkov start on ineffyble/AllTheClouds
+2023-04-26 13:10:55,296 | INFO | Erasing ineffyble/AllTheClouds from disk
+2023-04-26 13:10:55,549 | INFO | Cloning repo apstndb/image-pull-secret-controller
+2023-04-26 13:10:56,028 | INFO | Checkov start on apstndb/image-pull-secret-controller
+2023-04-26 13:11:01,138 | INFO | Erasing apstndb/image-pull-secret-controller from disk
+2023-04-26 13:11:01,404 | INFO | Cloning repo byronwhitlock-google/AutoML-Labeling-Tool
+2023-04-26 13:11:02,461 | INFO | Checkov start on byronwhitlock-google/AutoML-Labeling-Tool
+2023-04-26 13:11:09,635 | INFO | Erasing byronwhitlock-google/AutoML-Labeling-Tool from disk
+2023-04-26 13:11:09,884 | INFO | Cloning repo arquivei/template-tf-module
+2023-04-26 13:11:10,274 | INFO | Checkov start on arquivei/template-tf-module
+2023-04-26 13:11:14,346 | INFO | Erasing arquivei/template-tf-module from disk
+2023-04-26 13:11:14,614 | INFO | Cloning repo ITK13201/waseda-moodle-scheduler
+2023-04-26 13:11:15,260 | INFO | Checkov start on ITK13201/waseda-moodle-scheduler
+2023-04-26 13:11:20,832 | WARNING | Checkov failed on ITK13201/waseda-moodle-scheduler. See 
+2023-04-26 13:11:21,280 | INFO | Cloning repo pwolthausen/terraform
+2023-04-26 13:11:23,202 | INFO | Checkov start on pwolthausen/terraform
+2023-04-26 13:11:33,287 | INFO | Erasing pwolthausen/terraform from disk
+2023-04-26 13:11:33,581 | INFO | Cloning repo memes/f5-google-cloud-router-big-ip
+2023-04-26 13:11:34,080 | INFO | Checkov start on memes/f5-google-cloud-router-big-ip
+2023-04-26 13:11:38,453 | INFO | Erasing memes/f5-google-cloud-router-big-ip from disk
+2023-04-26 13:11:38,700 | INFO | Cloning repo Yougo007/gke-cluster
+2023-04-26 13:11:40,200 | INFO | Checkov start on Yougo007/gke-cluster
+2023-04-26 13:11:44,341 | INFO | Erasing Yougo007/gke-cluster from disk
+2023-04-26 13:11:44,601 | INFO | Cloning repo israelmendez232/gcp-data-lake-analytics
+2023-04-26 13:11:45,091 | INFO | Checkov start on israelmendez232/gcp-data-lake-analytics
+2023-04-26 13:11:49,313 | INFO | Erasing israelmendez232/gcp-data-lake-analytics from disk
+2023-04-26 13:11:49,619 | INFO | Cloning repo tjmaynes/home-lab
+2023-04-26 13:11:50,108 | INFO | Checkov start on tjmaynes/home-lab
+2023-04-26 13:11:55,237 | WARNING | Checkov failed on tjmaynes/home-lab. See 
+2023-04-26 13:11:55,447 | INFO | Cloning repo bruhsb/terraformation
+2023-04-26 13:11:55,973 | INFO | Checkov start on bruhsb/terraformation
+2023-04-26 13:12:00,295 | INFO | Erasing bruhsb/terraformation from disk
+2023-04-26 13:12:00,578 | INFO | Cloning repo kevinpz/terraform-gcp-examples
+2023-04-26 13:12:00,980 | INFO | Checkov start on kevinpz/terraform-gcp-examples
+2023-04-26 13:12:05,034 | INFO | Erasing kevinpz/terraform-gcp-examples from disk
+2023-04-26 13:12:05,249 | INFO | Cloning repo pdemeulenaer/databricks-gcp-terraform
+2023-04-26 13:12:05,697 | INFO | Checkov start on pdemeulenaer/databricks-gcp-terraform
+2023-04-26 13:12:09,512 | INFO | Erasing pdemeulenaer/databricks-gcp-terraform from disk
+2023-04-26 13:12:09,748 | INFO | Cloning repo jacobmammoliti/consul-multicloud-demo
+2023-04-26 13:12:10,209 | INFO | Checkov start on jacobmammoliti/consul-multicloud-demo
+2023-04-26 13:12:14,964 | WARNING | Checkov failed on jacobmammoliti/consul-multicloud-demo. See 
+2023-04-26 13:12:15,191 | INFO | Cloning repo devium/kink
+2023-04-26 13:12:15,961 | INFO | Checkov start on devium/kink
+2023-04-26 13:12:24,355 | WARNING | Checkov failed on devium/kink. See 
+2023-04-26 13:12:24,652 | INFO | Cloning repo sysdiglabs/terraform-google-secure-for-cloud
+2023-04-26 13:12:25,428 | INFO | Checkov start on sysdiglabs/terraform-google-secure-for-cloud
+2023-04-26 13:12:32,387 | INFO | Erasing sysdiglabs/terraform-google-secure-for-cloud from disk
+2023-04-26 13:12:32,633 | INFO | Cloning repo luismendezescobar/myproy
+2023-04-26 13:12:38,187 | INFO | Checkov start on luismendezescobar/myproy
+2023-04-26 13:13:21,548 | INFO | Erasing luismendezescobar/myproy from disk
+2023-04-26 13:13:21,888 | INFO | Cloning repo arueth/cloudrun-web-django-tf
+2023-04-26 13:13:22,407 | INFO | Checkov start on arueth/cloudrun-web-django-tf
+2023-04-26 13:13:28,605 | INFO | Erasing arueth/cloudrun-web-django-tf from disk
+2023-04-26 13:13:28,874 | INFO | Cloning repo miiaht/kekkoslovakian-joulukortti-ky
+2023-04-26 13:13:29,745 | INFO | Checkov start on miiaht/kekkoslovakian-joulukortti-ky
+2023-04-26 13:13:34,706 | INFO | Erasing miiaht/kekkoslovakian-joulukortti-ky from disk
+2023-04-26 13:13:35,007 | INFO | Cloning repo chainguard-dev/terraform-google-chainguard-account-association
+2023-04-26 13:13:35,502 | INFO | Checkov start on chainguard-dev/terraform-google-chainguard-account-association
+2023-04-26 13:13:39,550 | INFO | Erasing chainguard-dev/terraform-google-chainguard-account-association from disk
+2023-04-26 13:13:39,810 | INFO | Cloning repo harinderjits-git/sampleapppub
+2023-04-26 13:13:40,347 | INFO | Checkov start on harinderjits-git/sampleapppub
+2023-04-26 13:13:48,322 | INFO | Erasing harinderjits-git/sampleapppub from disk
+2023-04-26 13:13:48,528 | INFO | Cloning repo ankit-jn/terraform-aws-cognito
+2023-04-26 13:13:49,240 | INFO | Checkov start on ankit-jn/terraform-aws-cognito
+2023-04-26 13:13:53,368 | WARNING | Checkov failed on ankit-jn/terraform-aws-cognito. See 
+2023-04-26 13:13:53,671 | INFO | Cloning repo speakeasy-api/helm-charts
+2023-04-26 13:13:54,374 | INFO | Checkov start on speakeasy-api/helm-charts
+2023-04-26 13:14:00,027 | INFO | Erasing speakeasy-api/helm-charts from disk
+2023-04-26 13:14:00,033 | INFO | Total number of repositories: 194
+2023-04-26 13:16:28,278 | INFO | Existing outfile loaded
+2023-04-26 13:16:28,586 | INFO | Cloning repo gravitational/teleport
+2023-04-26 13:17:11,226 | INFO | Checkov start on gravitational/teleport
+2023-04-26 13:18:43,617 | INFO | Erasing gravitational/teleport from disk
+2023-04-26 13:18:49,276 | WARNING | Azure/Azure-Sentinel is too large
+2023-04-26 13:18:49,542 | INFO | Cloning repo GoogleCloudPlatform/professional-services
+2023-04-26 13:19:13,634 | INFO | Checkov start on GoogleCloudPlatform/professional-services
+2023-04-26 13:21:54,573 | INFO | Erasing GoogleCloudPlatform/professional-services from disk
+2023-04-26 13:21:55,169 | INFO | Cloning repo determined-ai/determined
+2023-04-26 13:22:06,336 | INFO | Checkov start on determined-ai/determined
+2023-04-26 13:22:50,485 | INFO | Erasing determined-ai/determined from disk
+2023-04-26 13:22:50,868 | INFO | Cloning repo GoogleCloudPlatform/community
+2023-04-26 13:23:01,148 | INFO | Checkov start on GoogleCloudPlatform/community
+2023-04-26 13:23:24,386 | INFO | Erasing GoogleCloudPlatform/community from disk
+2023-04-26 13:23:24,960 | INFO | Cloning repo serverpod/serverpod
+2023-04-26 13:23:26,092 | INFO | Checkov start on serverpod/serverpod
+2023-04-26 13:23:46,052 | WARNING | Checkov failed on serverpod/serverpod. See 
+2023-04-26 13:23:46,423 | INFO | Cloning repo Azure/Microsoft-Defender-for-Cloud
+2023-04-26 13:23:55,824 | INFO | Checkov start on Azure/Microsoft-Defender-for-Cloud
+2023-04-26 13:24:33,519 | WARNING | Checkov failed on Azure/Microsoft-Defender-for-Cloud. See 
+2023-04-26 13:24:33,903 | INFO | Cloning repo hail-is/hail
+2023-04-26 13:24:45,620 | INFO | Checkov start on hail-is/hail
+2023-04-26 13:26:06,597 | INFO | Erasing hail-is/hail from disk
+2023-04-26 13:26:07,051 | INFO | Cloning repo digital-asset/daml
+2023-04-26 13:26:21,950 | INFO | Checkov start on digital-asset/daml
+2023-04-26 13:27:42,198 | INFO | Erasing digital-asset/daml from disk
+2023-04-26 13:27:42,808 | INFO | Cloning repo databricks/terraform-provider-databricks
+2023-04-26 13:27:47,203 | INFO | Checkov start on databricks/terraform-provider-databricks
+2023-04-26 13:27:56,074 | WARNING | Checkov failed on databricks/terraform-provider-databricks. See 
+2023-04-26 13:27:56,361 | INFO | Cloning repo api3dao/airnode
+2023-04-26 13:27:59,391 | INFO | Checkov start on api3dao/airnode
+2023-04-26 13:28:37,876 | WARNING | Checkov failed on api3dao/airnode. See 
+2023-04-26 13:28:38,222 | INFO | Cloning repo interledger/rafiki
+2023-04-26 13:28:52,649 | INFO | Checkov start on interledger/rafiki
+2023-04-26 13:29:13,494 | INFO | Erasing interledger/rafiki from disk
+2023-04-26 13:29:13,823 | INFO | Cloning repo confluentinc/terraform-provider-confluent
+2023-04-26 13:29:14,680 | INFO | Checkov start on confluentinc/terraform-provider-confluent
+2023-04-26 13:29:32,384 | WARNING | Checkov failed on confluentinc/terraform-provider-confluent. See 
+2023-04-26 13:29:32,629 | INFO | Cloning repo os-autoinst/os-autoinst-distri-opensuse
+2023-04-26 13:29:59,361 | INFO | Checkov start on os-autoinst/os-autoinst-distri-opensuse
+2023-04-26 13:30:52,733 | INFO | Erasing os-autoinst/os-autoinst-distri-opensuse from disk
+2023-04-26 13:30:53,266 | INFO | Cloning repo hashicorp/field-workshops-consul
+2023-04-26 13:31:10,425 | INFO | Checkov start on hashicorp/field-workshops-consul
+2023-04-26 13:31:34,021 | INFO | Erasing hashicorp/field-workshops-consul from disk
+2023-04-26 13:31:34,348 | INFO | Cloning repo GoogleCloudPlatform/anthos-samples
+2023-04-26 13:31:35,351 | INFO | Checkov start on GoogleCloudPlatform/anthos-samples
+2023-04-26 13:31:49,357 | WARNING | Checkov failed on GoogleCloudPlatform/anthos-samples. See 
+2023-04-26 13:31:49,689 | INFO | Cloning repo ministryofjustice/cloud-platform-infrastructure
+2023-04-26 13:31:51,718 | INFO | Checkov start on ministryofjustice/cloud-platform-infrastructure
+2023-04-26 13:31:59,456 | WARNING | Checkov failed on ministryofjustice/cloud-platform-infrastructure. See 
+2023-04-26 13:31:59,735 | INFO | Cloning repo GoogleCloudPlatform/serverless-spark-workshop
+2023-04-26 13:32:11,848 | INFO | Checkov start on GoogleCloudPlatform/serverless-spark-workshop
+2023-04-26 13:32:22,629 | INFO | Erasing GoogleCloudPlatform/serverless-spark-workshop from disk
+2023-04-26 13:32:23,001 | INFO | Cloning repo cockroachdb/terraform-provider-cockroach
+2023-04-26 13:32:24,246 | INFO | Checkov start on cockroachdb/terraform-provider-cockroach
+2023-04-26 13:32:51,643 | WARNING | Checkov failed on cockroachdb/terraform-provider-cockroach. See 
+2023-04-26 13:32:51,975 | INFO | Cloning repo 40net-cloud/fortinet-azure-solutions
+2023-04-26 13:33:00,791 | INFO | Checkov start on 40net-cloud/fortinet-azure-solutions
+2023-04-26 13:33:24,725 | INFO | Erasing 40net-cloud/fortinet-azure-solutions from disk
+2023-04-26 13:33:25,022 | INFO | Cloning repo roleypoly/roleypoly
+2023-04-26 13:33:25,983 | INFO | Checkov start on roleypoly/roleypoly
+2023-04-26 13:33:38,297 | WARNING | Checkov failed on roleypoly/roleypoly. See 
+2023-04-26 13:33:38,585 | INFO | Cloning repo bhavink/databricks
+2023-04-26 13:33:40,130 | INFO | Checkov start on bhavink/databricks
+2023-04-26 13:33:47,928 | WARNING | Checkov failed on bhavink/databricks. See 
+2023-04-26 13:33:48,225 | INFO | Cloning repo castai/terraform-provider-castai
+2023-04-26 13:33:49,032 | INFO | Checkov start on castai/terraform-provider-castai
+2023-04-26 13:33:55,925 | WARNING | Checkov failed on castai/terraform-provider-castai. See 
+2023-04-26 13:33:56,243 | INFO | Cloning repo ubiq/shokku
+2023-04-26 13:33:56,914 | INFO | Checkov start on ubiq/shokku
+2023-04-26 13:34:03,119 | WARNING | Checkov failed on ubiq/shokku. See 
+2023-04-26 13:34:03,378 | INFO | Cloning repo mchmarny/s3cme
+2023-04-26 13:34:04,299 | INFO | Checkov start on mchmarny/s3cme
+2023-04-26 13:34:10,300 | WARNING | Checkov failed on mchmarny/s3cme. See 
+2023-04-26 13:34:10,586 | INFO | Cloning repo terraform-google-modules/terraform-google-cloud-router
+2023-04-26 13:34:11,100 | INFO | Checkov start on terraform-google-modules/terraform-google-cloud-router
+2023-04-26 13:34:16,006 | WARNING | Checkov failed on terraform-google-modules/terraform-google-cloud-router. See 
+2023-04-26 13:34:16,253 | INFO | Cloning repo terraform-google-modules/terraform-google-group
+2023-04-26 13:34:16,772 | INFO | Checkov start on terraform-google-modules/terraform-google-group
+2023-04-26 13:34:21,231 | WARNING | Checkov failed on terraform-google-modules/terraform-google-group. See 
+2023-04-26 13:34:21,487 | INFO | Cloning repo sassoftware/viya4-iac-aws
+2023-04-26 13:34:22,150 | INFO | Checkov start on sassoftware/viya4-iac-aws
+2023-04-26 13:34:27,754 | WARNING | Checkov failed on sassoftware/viya4-iac-aws. See 
+2023-04-26 13:34:27,952 | INFO | Cloning repo jimangel/kubernetes-the-easy-way
+2023-04-26 13:34:28,421 | INFO | Checkov start on jimangel/kubernetes-the-easy-way
+2023-04-26 13:34:32,713 | WARNING | Checkov failed on jimangel/kubernetes-the-easy-way. See 
+2023-04-26 13:34:32,991 | INFO | Cloning repo hashicorp/terraform-dynamic-credentials-setup-examples
+2023-04-26 13:34:33,689 | INFO | Checkov start on hashicorp/terraform-dynamic-credentials-setup-examples
+2023-04-26 13:34:38,782 | WARNING | Checkov failed on hashicorp/terraform-dynamic-credentials-setup-examples. See 
+2023-04-26 13:34:39,037 | INFO | Cloning repo spotify/terraform-google-aws-hybrid-cloud-vpn
+2023-04-26 13:34:39,489 | INFO | Checkov start on spotify/terraform-google-aws-hybrid-cloud-vpn
+2023-04-26 13:34:43,549 | WARNING | Checkov failed on spotify/terraform-google-aws-hybrid-cloud-vpn. See 
+2023-04-26 13:34:43,802 | INFO | Cloning repo GaloyMoney/charts
+2023-04-26 13:34:45,115 | INFO | Checkov start on GaloyMoney/charts
+2023-04-26 13:34:54,581 | WARNING | Checkov failed on GaloyMoney/charts. See 
+2023-04-26 13:34:54,870 | INFO | Cloning repo privacysandbox/fledge-key-value-service
+2023-04-26 13:34:55,588 | INFO | Checkov start on privacysandbox/fledge-key-value-service
+2023-04-26 13:35:09,175 | WARNING | Checkov failed on privacysandbox/fledge-key-value-service. See 
+2023-04-26 13:35:09,634 | INFO | Cloning repo pactflow/terraform-provider-pact
+2023-04-26 13:35:11,169 | INFO | Checkov start on pactflow/terraform-provider-pact
+2023-04-26 13:35:44,916 | WARNING | Checkov failed on pactflow/terraform-provider-pact. See 
+2023-04-26 13:35:45,327 | INFO | Cloning repo secrethub/examples
+2023-04-26 13:35:54,083 | INFO | Checkov start on secrethub/examples
+2023-04-26 13:36:00,790 | INFO | Erasing secrethub/examples from disk
+2023-04-26 13:36:01,118 | INFO | Cloning repo sighupio/furyctl
+2023-04-26 13:36:02,570 | INFO | Checkov start on sighupio/furyctl
+2023-04-26 13:36:08,374 | WARNING | Checkov failed on sighupio/furyctl. See 
+2023-04-26 13:36:08,626 | INFO | Cloning repo CiscoDevNet/AppD-Cloud-Kickstart
+2023-04-26 13:36:19,236 | INFO | Checkov start on CiscoDevNet/AppD-Cloud-Kickstart
+2023-04-26 13:36:29,827 | INFO | Erasing CiscoDevNet/AppD-Cloud-Kickstart from disk
+2023-04-26 13:36:30,192 | INFO | Cloning repo nearform/optic
+2023-04-26 13:36:31,336 | INFO | Checkov start on nearform/optic
+2023-04-26 13:36:35,514 | WARNING | Checkov failed on nearform/optic. See 
+2023-04-26 13:36:35,769 | INFO | Cloning repo cds-snc/forms-terraform
+2023-04-26 13:36:36,550 | INFO | Checkov start on cds-snc/forms-terraform
+2023-04-26 13:36:44,073 | WARNING | Checkov failed on cds-snc/forms-terraform. See 
+2023-04-26 13:36:44,310 | INFO | Cloning repo GoogleCloudPlatform/dataplex-labs
+2023-04-26 13:36:54,319 | INFO | Checkov start on GoogleCloudPlatform/dataplex-labs
+2023-04-26 13:37:01,663 | INFO | Erasing GoogleCloudPlatform/dataplex-labs from disk
+2023-04-26 13:37:02,014 | INFO | Cloning repo tvories/k8s-gitops
+2023-04-26 13:37:03,140 | INFO | Checkov start on tvories/k8s-gitops
+2023-04-26 13:37:48,483 | WARNING | Checkov failed on tvories/k8s-gitops. See 
+2023-04-26 13:37:48,812 | INFO | Cloning repo GoogleCloudPlatform/devrel-demos
+2023-04-26 13:37:50,548 | INFO | Checkov start on GoogleCloudPlatform/devrel-demos
+2023-04-26 13:37:59,112 | WARNING | Checkov failed on GoogleCloudPlatform/devrel-demos. See 
+2023-04-26 13:37:59,381 | INFO | Cloning repo jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain
+2023-04-26 13:37:59,756 | INFO | Checkov start on jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain
+2023-04-26 13:38:03,214 | WARNING | Checkov failed on jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain. See 
+2023-04-26 13:38:03,470 | INFO | Cloning repo gardener/gardener-extension-provider-gcp
+2023-04-26 13:38:08,035 | INFO | Checkov start on gardener/gardener-extension-provider-gcp
+2023-04-26 13:39:40,101 | WARNING | Checkov failed on gardener/gardener-extension-provider-gcp. See 
+2023-04-26 13:39:40,580 | INFO | Cloning repo DNXLabs/terraform-aws-ecs-app
+2023-04-26 13:39:41,090 | INFO | Checkov start on DNXLabs/terraform-aws-ecs-app
+2023-04-26 13:39:45,456 | WARNING | Checkov failed on DNXLabs/terraform-aws-ecs-app. See 
+2023-04-26 13:39:45,727 | INFO | Cloning repo DragonSecSI/DCTF-2022
+2023-04-26 13:40:11,353 | INFO | Checkov start on DragonSecSI/DCTF-2022
+2023-04-26 13:40:26,300 | INFO | Erasing DragonSecSI/DCTF-2022 from disk
+2023-04-26 13:40:26,679 | INFO | Cloning repo velascoluis/polyexpose
+2023-04-26 13:40:35,239 | INFO | Checkov start on velascoluis/polyexpose
+2023-04-26 13:40:44,884 | INFO | Erasing velascoluis/polyexpose from disk
+2023-04-26 13:40:45,216 | INFO | Cloning repo Quansight/qhub-ops
+2023-04-26 13:40:48,860 | INFO | Checkov start on Quansight/qhub-ops
+2023-04-26 13:40:57,627 | WARNING | Checkov failed on Quansight/qhub-ops. See 
+2023-04-26 13:40:57,997 | INFO | Cloning repo infrahq/terraform-provider-infra
+2023-04-26 13:40:58,882 | INFO | Checkov start on infrahq/terraform-provider-infra
+2023-04-26 13:41:08,901 | WARNING | Checkov failed on infrahq/terraform-provider-infra. See 
+2023-04-26 13:41:09,192 | WARNING | Vizzuality/landgriffon is too large
+2023-04-26 13:41:09,457 | INFO | Cloning repo cscetbon/casskop
+2023-04-26 13:41:20,686 | INFO | Checkov start on cscetbon/casskop
+2023-04-26 13:41:38,784 | INFO | Erasing cscetbon/casskop from disk
+2023-04-26 13:41:39,061 | INFO | Cloning repo mscribellito/terraform-google-workload-identity-federation
+2023-04-26 13:41:39,457 | INFO | Checkov start on mscribellito/terraform-google-workload-identity-federation
+2023-04-26 13:41:43,854 | WARNING | Checkov failed on mscribellito/terraform-google-workload-identity-federation. See 
+2023-04-26 13:41:44,048 | INFO | Cloning repo GoogleCloudPlatform/aactl
+2023-04-26 13:41:44,276 | WARNING | Repo GoogleCloudPlatform/aactl error
+2023-04-26 13:41:44,531 | INFO | Cloning repo s1mark/cloud_hun
+2023-04-26 13:41:45,289 | INFO | Checkov start on s1mark/cloud_hun
+2023-04-26 13:41:53,839 | WARNING | Checkov failed on s1mark/cloud_hun. See 
+2023-04-26 13:41:54,093 | INFO | Cloning repo frealmyr/homelab
+2023-04-26 13:41:54,674 | INFO | Checkov start on frealmyr/homelab
+2023-04-26 13:42:01,792 | WARNING | Checkov failed on frealmyr/homelab. See 
+2023-04-26 13:42:02,009 | INFO | Cloning repo JMGaljaard/fltk-testbed
+2023-04-26 13:42:02,992 | INFO | Checkov start on JMGaljaard/fltk-testbed
+2023-04-26 13:42:11,537 | WARNING | Checkov failed on JMGaljaard/fltk-testbed. See 
+2023-04-26 13:42:11,799 | INFO | Cloning repo AJarombek/global-aws-infrastructure
+2023-04-26 13:42:12,616 | INFO | Checkov start on AJarombek/global-aws-infrastructure
+2023-04-26 13:42:23,694 | WARNING | Checkov failed on AJarombek/global-aws-infrastructure. See 
+2023-04-26 13:42:24,035 | INFO | Cloning repo sparkfabrik/terraform-google-gke-autopilot-mastodon
+2023-04-26 13:42:24,600 | INFO | Checkov start on sparkfabrik/terraform-google-gke-autopilot-mastodon
+2023-04-26 13:42:27,341 | WARNING | Checkov failed on sparkfabrik/terraform-google-gke-autopilot-mastodon. See 
+2023-04-26 13:42:27,573 | INFO | Cloning repo Tyler-Cash/homelab
+2023-04-26 13:42:28,333 | INFO | Checkov start on Tyler-Cash/homelab
+2023-04-26 13:42:38,059 | WARNING | Checkov failed on Tyler-Cash/homelab. See 
+2023-04-26 13:42:38,318 | INFO | Cloning repo status-im/infra-nim-waku
+2023-04-26 13:42:38,878 | INFO | Checkov start on status-im/infra-nim-waku
+2023-04-26 13:42:44,346 | WARNING | Checkov failed on status-im/infra-nim-waku. See 
+2023-04-26 13:42:44,714 | INFO | Cloning repo ThalesGroup/terraform-provider-ciphertrust
+2023-04-26 13:42:45,202 | INFO | Checkov start on ThalesGroup/terraform-provider-ciphertrust
+2023-04-26 13:42:58,997 | WARNING | Checkov failed on ThalesGroup/terraform-provider-ciphertrust. See 
+2023-04-26 13:42:59,216 | INFO | Cloning repo bub3690/dotting-diffusion
+2023-04-26 13:43:00,596 | INFO | Checkov start on bub3690/dotting-diffusion
+2023-04-26 13:43:04,267 | WARNING | Checkov failed on bub3690/dotting-diffusion. See 
+2023-04-26 13:43:04,618 | INFO | Cloning repo bcgov/workbc-jb
+2023-04-26 13:43:05,966 | INFO | Checkov start on bcgov/workbc-jb
+2023-04-26 13:43:27,135 | WARNING | Checkov failed on bcgov/workbc-jb. See 
+2023-04-26 13:43:27,625 | INFO | Cloning repo osinfra-io/github-organization-management
+2023-04-26 13:43:28,146 | INFO | Checkov start on osinfra-io/github-organization-management
+2023-04-26 13:43:32,383 | WARNING | Checkov failed on osinfra-io/github-organization-management. See 
+2023-04-26 13:43:32,607 | INFO | Cloning repo bamishr/terraform
+2023-04-26 13:43:33,176 | INFO | Checkov start on bamishr/terraform
+2023-04-26 13:43:44,197 | WARNING | Checkov failed on bamishr/terraform. See 
+2023-04-26 13:43:44,414 | INFO | Cloning repo OranBar/sc2-sensei
+2023-04-26 13:43:55,859 | INFO | Checkov start on OranBar/sc2-sensei
+2023-04-26 13:44:06,074 | INFO | Erasing OranBar/sc2-sensei from disk
+2023-04-26 13:44:06,429 | INFO | Cloning repo abcxyz/guardian
+2023-04-26 13:44:06,848 | INFO | Checkov start on abcxyz/guardian
+2023-04-26 13:44:12,159 | WARNING | Checkov failed on abcxyz/guardian. See 
+2023-04-26 13:44:12,472 | INFO | Cloning repo polytomic/on-premises
+2023-04-26 13:44:13,167 | INFO | Checkov start on polytomic/on-premises
+2023-04-26 13:44:21,195 | WARNING | Checkov failed on polytomic/on-premises. See 
+2023-04-26 13:44:21,448 | INFO | Cloning repo splunk/terraform-provider-synthetics
+2023-04-26 13:44:23,693 | INFO | Checkov start on splunk/terraform-provider-synthetics
+2023-04-26 13:44:50,278 | WARNING | Checkov failed on splunk/terraform-provider-synthetics. See 
+2023-04-26 13:44:50,604 | INFO | Cloning repo privacysandbox/control-plane-shared-libraries
+2023-04-26 13:44:51,785 | INFO | Checkov start on privacysandbox/control-plane-shared-libraries
+2023-04-26 13:45:27,006 | WARNING | Checkov failed on privacysandbox/control-plane-shared-libraries. See 
+2023-04-26 13:45:27,491 | INFO | Cloning repo datasparq-intelligent-products/houston-quickstart-python
+2023-04-26 13:45:28,059 | INFO | Checkov start on datasparq-intelligent-products/houston-quickstart-python
+2023-04-26 13:45:32,317 | WARNING | Checkov failed on datasparq-intelligent-products/houston-quickstart-python. See 
+2023-04-26 13:45:32,544 | INFO | Cloning repo extenda/tf-module-gcp-project
+2023-04-26 13:45:33,092 | INFO | Checkov start on extenda/tf-module-gcp-project
+2023-04-26 13:45:38,531 | WARNING | Checkov failed on extenda/tf-module-gcp-project. See 
+2023-04-26 13:45:38,784 | INFO | Cloning repo duckhue01/wild-workouts
+2023-04-26 13:45:39,373 | INFO | Checkov start on duckhue01/wild-workouts
+2023-04-26 13:45:45,378 | WARNING | Checkov failed on duckhue01/wild-workouts. See 
+2023-04-26 13:45:45,652 | INFO | Cloning repo observerio/observer-server
+2023-04-26 13:45:47,330 | INFO | Checkov start on observerio/observer-server
+2023-04-26 13:45:55,916 | WARNING | Checkov failed on observerio/observer-server. See 
+2023-04-26 13:45:56,183 | INFO | Cloning repo ITK13201/waseda-moodle-scheduler
+2023-04-26 13:45:56,951 | INFO | Checkov start on ITK13201/waseda-moodle-scheduler
+2023-04-26 13:46:02,587 | WARNING | Checkov failed on ITK13201/waseda-moodle-scheduler. See 
+2023-04-26 13:46:02,865 | INFO | Cloning repo tjmaynes/home-lab
+2023-04-26 13:46:03,336 | INFO | Checkov start on tjmaynes/home-lab
+2023-04-26 13:46:08,820 | WARNING | Checkov failed on tjmaynes/home-lab. See 
+2023-04-26 13:46:09,023 | INFO | Cloning repo jacobmammoliti/consul-multicloud-demo
+2023-04-26 13:46:09,617 | INFO | Checkov start on jacobmammoliti/consul-multicloud-demo
+2023-04-26 13:46:14,719 | WARNING | Checkov failed on jacobmammoliti/consul-multicloud-demo. See 
+2023-04-26 13:46:14,947 | INFO | Cloning repo devium/kink
+2023-04-26 13:46:15,553 | INFO | Checkov start on devium/kink
+2023-04-26 13:46:24,725 | WARNING | Checkov failed on devium/kink. See 
+2023-04-26 13:46:24,968 | INFO | Cloning repo ankit-jn/terraform-aws-cognito
+2023-04-26 13:46:25,351 | INFO | Checkov start on ankit-jn/terraform-aws-cognito
+2023-04-26 13:46:30,876 | WARNING | Checkov failed on ankit-jn/terraform-aws-cognito. See 
+2023-04-26 13:46:30,880 | INFO | Total number of repositories: 18
+2023-04-26 13:55:58,777 | INFO | Existing outfile loaded
+2023-04-26 13:55:59,155 | WARNING | Azure/Azure-Sentinel is too large
+2023-04-26 13:55:59,395 | INFO | Cloning repo serverpod/serverpod
+2023-04-26 13:56:00,391 | INFO | Checkov start on serverpod/serverpod
+2023-04-26 13:56:22,465 | WARNING | Checkov failed on serverpod/serverpod. See 
+2023-04-26 13:56:22,906 | INFO | Cloning repo Azure/Microsoft-Defender-for-Cloud
+2023-04-26 13:56:31,729 | INFO | Checkov start on Azure/Microsoft-Defender-for-Cloud
+2023-04-26 13:57:07,217 | WARNING | Checkov failed on Azure/Microsoft-Defender-for-Cloud. See 
+2023-04-26 13:57:07,861 | INFO | Cloning repo databricks/terraform-provider-databricks
+2023-04-26 13:57:11,246 | INFO | Checkov start on databricks/terraform-provider-databricks
+2023-04-26 13:57:20,030 | WARNING | Checkov failed on databricks/terraform-provider-databricks. See 
+2023-04-26 13:57:20,286 | INFO | Cloning repo api3dao/airnode
+2023-04-26 13:57:23,804 | INFO | Checkov start on api3dao/airnode
+2023-04-26 13:58:03,517 | WARNING | Checkov failed on api3dao/airnode. See 
+2023-04-26 13:58:03,869 | INFO | Cloning repo confluentinc/terraform-provider-confluent
+2023-04-26 13:58:05,066 | INFO | Checkov start on confluentinc/terraform-provider-confluent
+2023-04-26 13:58:21,124 | WARNING | Checkov failed on confluentinc/terraform-provider-confluent. See 
+2023-04-26 13:58:26,391 | INFO | Cloning repo GoogleCloudPlatform/anthos-samples
+2023-04-26 13:58:27,246 | INFO | Checkov start on GoogleCloudPlatform/anthos-samples
+2023-04-26 13:58:41,596 | WARNING | Checkov failed on GoogleCloudPlatform/anthos-samples. See 
+2023-04-26 13:58:41,887 | INFO | Cloning repo ministryofjustice/cloud-platform-infrastructure
+2023-04-26 13:58:43,869 | INFO | Checkov start on ministryofjustice/cloud-platform-infrastructure
+2023-04-26 13:58:51,329 | WARNING | Checkov failed on ministryofjustice/cloud-platform-infrastructure. See 
+2023-04-26 13:58:51,698 | INFO | Cloning repo cockroachdb/terraform-provider-cockroach
+2023-04-26 13:58:52,871 | INFO | Checkov start on cockroachdb/terraform-provider-cockroach
+2023-04-26 13:59:18,704 | WARNING | Checkov failed on cockroachdb/terraform-provider-cockroach. See 
+2023-04-26 13:59:19,025 | INFO | Cloning repo roleypoly/roleypoly
+2023-04-26 13:59:19,966 | INFO | Checkov start on roleypoly/roleypoly
+2023-04-26 13:59:31,157 | WARNING | Checkov failed on roleypoly/roleypoly. See 
+2023-04-26 13:59:31,376 | INFO | Cloning repo bhavink/databricks
+2023-04-26 13:59:33,114 | INFO | Checkov start on bhavink/databricks
+2023-04-26 13:59:40,983 | WARNING | Checkov failed on bhavink/databricks. See 
+2023-04-26 13:59:41,266 | INFO | Cloning repo castai/terraform-provider-castai
+2023-04-26 13:59:42,027 | INFO | Checkov start on castai/terraform-provider-castai
+2023-04-26 13:59:48,283 | WARNING | Checkov failed on castai/terraform-provider-castai. See 
+2023-04-26 13:59:48,842 | INFO | Cloning repo ubiq/shokku
+2023-04-26 13:59:49,437 | INFO | Checkov start on ubiq/shokku
+2023-04-26 13:59:55,137 | WARNING | Checkov failed on ubiq/shokku. See 
+2023-04-26 13:59:55,366 | INFO | Cloning repo mchmarny/s3cme
+2023-04-26 13:59:56,243 | INFO | Checkov start on mchmarny/s3cme
+2023-04-26 14:00:01,584 | WARNING | Checkov failed on mchmarny/s3cme. See 
+2023-04-26 14:00:02,053 | INFO | Cloning repo terraform-google-modules/terraform-google-cloud-router
+2023-04-26 14:00:03,536 | INFO | Checkov start on terraform-google-modules/terraform-google-cloud-router
+2023-04-26 14:00:07,899 | WARNING | Checkov failed on terraform-google-modules/terraform-google-cloud-router. See 
+2023-04-26 14:00:08,158 | INFO | Cloning repo terraform-google-modules/terraform-google-group
+2023-04-26 14:00:09,384 | INFO | Checkov start on terraform-google-modules/terraform-google-group
+2023-04-26 14:00:13,592 | WARNING | Checkov failed on terraform-google-modules/terraform-google-group. See 
+2023-04-26 14:00:14,035 | INFO | Cloning repo sassoftware/viya4-iac-aws
+2023-04-26 14:00:14,706 | INFO | Checkov start on sassoftware/viya4-iac-aws
+2023-04-26 14:00:19,947 | WARNING | Checkov failed on sassoftware/viya4-iac-aws. See 
+2023-04-26 14:00:20,182 | INFO | Cloning repo jimangel/kubernetes-the-easy-way
+2023-04-26 14:00:20,856 | INFO | Checkov start on jimangel/kubernetes-the-easy-way
+2023-04-26 14:00:24,859 | WARNING | Checkov failed on jimangel/kubernetes-the-easy-way. See 
+2023-04-26 14:00:25,196 | INFO | Cloning repo hashicorp/terraform-dynamic-credentials-setup-examples
+2023-04-26 14:00:25,647 | INFO | Checkov start on hashicorp/terraform-dynamic-credentials-setup-examples
+2023-04-26 14:00:30,243 | WARNING | Checkov failed on hashicorp/terraform-dynamic-credentials-setup-examples. See 
+2023-04-26 14:00:30,489 | INFO | Cloning repo spotify/terraform-google-aws-hybrid-cloud-vpn
+2023-04-26 14:00:30,996 | INFO | Checkov start on spotify/terraform-google-aws-hybrid-cloud-vpn
+2023-04-26 14:00:35,030 | WARNING | Checkov failed on spotify/terraform-google-aws-hybrid-cloud-vpn. See 
+2023-04-26 14:00:35,334 | INFO | Cloning repo GaloyMoney/charts
+2023-04-26 14:00:36,633 | INFO | Checkov start on GaloyMoney/charts
+2023-04-26 14:00:45,007 | WARNING | Checkov failed on GaloyMoney/charts. See 
+2023-04-26 14:00:45,368 | INFO | Cloning repo privacysandbox/fledge-key-value-service
+2023-04-26 14:00:46,287 | INFO | Checkov start on privacysandbox/fledge-key-value-service
+2023-04-26 14:00:58,481 | WARNING | Checkov failed on privacysandbox/fledge-key-value-service. See 
+2023-04-26 14:00:58,763 | INFO | Cloning repo pactflow/terraform-provider-pact
+2023-04-26 14:01:00,205 | INFO | Checkov start on pactflow/terraform-provider-pact
+2023-04-26 14:01:30,704 | WARNING | Checkov failed on pactflow/terraform-provider-pact. See 
+2023-04-26 14:01:31,040 | INFO | Cloning repo sighupio/furyctl
+2023-04-26 14:01:32,241 | INFO | Checkov start on sighupio/furyctl
+2023-04-26 14:01:38,134 | WARNING | Checkov failed on sighupio/furyctl. See 
+2023-04-26 14:01:38,463 | INFO | Cloning repo nearform/optic
+2023-04-26 14:01:40,839 | INFO | Checkov start on nearform/optic
+2023-04-26 14:01:44,996 | WARNING | Checkov failed on nearform/optic. See 
+2023-04-26 14:01:45,375 | INFO | Cloning repo cds-snc/forms-terraform
+2023-04-26 14:01:46,396 | INFO | Checkov start on cds-snc/forms-terraform
+2023-04-26 14:01:53,733 | WARNING | Checkov failed on cds-snc/forms-terraform. See 
+2023-04-26 14:01:54,177 | INFO | Cloning repo tvories/k8s-gitops
+2023-04-26 14:01:55,577 | INFO | Checkov start on tvories/k8s-gitops
+2023-04-26 14:02:41,824 | WARNING | Checkov failed on tvories/k8s-gitops. See 
+2023-04-26 14:02:42,209 | INFO | Cloning repo GoogleCloudPlatform/devrel-demos
+2023-04-26 14:02:43,982 | INFO | Checkov start on GoogleCloudPlatform/devrel-demos
+2023-04-26 14:02:53,597 | WARNING | Checkov failed on GoogleCloudPlatform/devrel-demos. See 
+2023-04-26 14:02:53,822 | INFO | Cloning repo jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain
+2023-04-26 14:02:54,192 | INFO | Checkov start on jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain
+2023-04-26 14:02:58,117 | WARNING | Checkov failed on jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain. See 
+2023-04-26 14:02:58,358 | INFO | Cloning repo gardener/gardener-extension-provider-gcp
+2023-04-26 14:03:03,283 | INFO | Checkov start on gardener/gardener-extension-provider-gcp
+2023-04-26 14:04:32,089 | WARNING | Checkov failed on gardener/gardener-extension-provider-gcp. See 
+2023-04-26 14:04:32,577 | INFO | Cloning repo DNXLabs/terraform-aws-ecs-app
+2023-04-26 14:04:33,204 | INFO | Checkov start on DNXLabs/terraform-aws-ecs-app
+2023-04-26 14:04:37,484 | WARNING | Checkov failed on DNXLabs/terraform-aws-ecs-app. See 
+2023-04-26 14:04:37,768 | INFO | Cloning repo Quansight/qhub-ops
+2023-04-26 14:04:40,396 | INFO | Checkov start on Quansight/qhub-ops
+2023-04-26 14:04:45,745 | WARNING | Checkov failed on Quansight/qhub-ops. See 
+2023-04-26 14:04:46,004 | INFO | Cloning repo infrahq/terraform-provider-infra
+2023-04-26 14:04:46,577 | INFO | Checkov start on infrahq/terraform-provider-infra
+2023-04-26 14:04:50,886 | WARNING | Checkov failed on infrahq/terraform-provider-infra. See 
+2023-04-26 14:04:51,338 | WARNING | Vizzuality/landgriffon is too large
+2023-04-26 14:04:51,571 | INFO | Cloning repo mscribellito/terraform-google-workload-identity-federation
+2023-04-26 14:04:52,181 | INFO | Checkov start on mscribellito/terraform-google-workload-identity-federation
+2023-04-26 14:04:55,759 | WARNING | Checkov failed on mscribellito/terraform-google-workload-identity-federation. See 
+2023-04-26 14:04:55,961 | INFO | Cloning repo GoogleCloudPlatform/aactl
+2023-04-26 14:04:56,234 | WARNING | Repo GoogleCloudPlatform/aactl error
+2023-04-26 14:04:56,479 | INFO | Cloning repo s1mark/cloud_hun
+2023-04-26 14:04:57,396 | INFO | Checkov start on s1mark/cloud_hun
+2023-04-26 14:05:04,398 | WARNING | Checkov failed on s1mark/cloud_hun. See 
+2023-04-26 14:05:04,653 | INFO | Cloning repo frealmyr/homelab
+2023-04-26 14:05:05,294 | INFO | Checkov start on frealmyr/homelab
+2023-04-26 14:05:11,491 | WARNING | Checkov failed on frealmyr/homelab. See 
+2023-04-26 14:05:11,723 | INFO | Cloning repo JMGaljaard/fltk-testbed
+2023-04-26 14:05:12,394 | INFO | Checkov start on JMGaljaard/fltk-testbed
+2023-04-26 14:05:18,796 | WARNING | Checkov failed on JMGaljaard/fltk-testbed. See 
+2023-04-26 14:05:19,051 | INFO | Cloning repo AJarombek/global-aws-infrastructure
+2023-04-26 14:05:20,002 | INFO | Checkov start on AJarombek/global-aws-infrastructure
+2023-04-26 14:05:28,039 | WARNING | Checkov failed on AJarombek/global-aws-infrastructure. See 
+2023-04-26 14:05:28,301 | INFO | Cloning repo sparkfabrik/terraform-google-gke-autopilot-mastodon
+2023-04-26 14:05:28,870 | INFO | Checkov start on sparkfabrik/terraform-google-gke-autopilot-mastodon
+2023-04-26 14:05:31,331 | WARNING | Checkov failed on sparkfabrik/terraform-google-gke-autopilot-mastodon. See 
+2023-04-26 14:05:31,579 | INFO | Cloning repo Tyler-Cash/homelab
+2023-04-26 14:05:32,387 | INFO | Checkov start on Tyler-Cash/homelab
+2023-04-26 14:05:40,171 | WARNING | Checkov failed on Tyler-Cash/homelab. See 
+2023-04-26 14:05:40,491 | INFO | Cloning repo status-im/infra-nim-waku
+2023-04-26 14:05:40,977 | INFO | Checkov start on status-im/infra-nim-waku
+2023-04-26 14:05:45,225 | WARNING | Checkov failed on status-im/infra-nim-waku. See 
+2023-04-26 14:05:45,510 | INFO | Cloning repo ThalesGroup/terraform-provider-ciphertrust
+2023-04-26 14:05:46,089 | INFO | Checkov start on ThalesGroup/terraform-provider-ciphertrust
+2023-04-26 14:05:58,202 | WARNING | Checkov failed on ThalesGroup/terraform-provider-ciphertrust. See 
+2023-04-26 14:05:58,418 | INFO | Cloning repo bub3690/dotting-diffusion
+2023-04-26 14:05:59,666 | INFO | Checkov start on bub3690/dotting-diffusion
+2023-04-26 14:06:03,688 | WARNING | Checkov failed on bub3690/dotting-diffusion. See 
+2023-04-26 14:06:03,963 | INFO | Cloning repo bcgov/workbc-jb
+2023-04-26 14:06:04,941 | INFO | Checkov start on bcgov/workbc-jb
+2023-04-26 14:06:25,980 | WARNING | Checkov failed on bcgov/workbc-jb. See 
+2023-04-26 14:06:26,294 | INFO | Cloning repo osinfra-io/github-organization-management
+2023-04-26 14:06:26,707 | INFO | Checkov start on osinfra-io/github-organization-management
+2023-04-26 14:06:31,855 | WARNING | Checkov failed on osinfra-io/github-organization-management. See 
+2023-04-26 14:06:32,101 | INFO | Cloning repo bamishr/terraform
+2023-04-26 14:06:32,552 | INFO | Checkov start on bamishr/terraform
+2023-04-26 14:06:43,225 | WARNING | Checkov failed on bamishr/terraform. See 
+2023-04-26 14:06:43,524 | INFO | Cloning repo abcxyz/guardian
+2023-04-26 14:06:44,006 | INFO | Checkov start on abcxyz/guardian
+2023-04-26 14:06:48,796 | WARNING | Checkov failed on abcxyz/guardian. See 
+2023-04-26 14:06:49,061 | INFO | Cloning repo polytomic/on-premises
+2023-04-26 14:06:49,730 | INFO | Checkov start on polytomic/on-premises
+2023-04-26 14:06:56,485 | WARNING | Checkov failed on polytomic/on-premises. See 
+2023-04-26 14:06:56,765 | INFO | Cloning repo splunk/terraform-provider-synthetics
+2023-04-26 14:06:57,958 | INFO | Checkov start on splunk/terraform-provider-synthetics
+2023-04-26 14:07:23,251 | WARNING | Checkov failed on splunk/terraform-provider-synthetics. See 
+2023-04-26 14:07:23,721 | INFO | Cloning repo privacysandbox/control-plane-shared-libraries
+2023-04-26 14:07:25,167 | INFO | Checkov start on privacysandbox/control-plane-shared-libraries
+2023-04-26 14:08:00,005 | WARNING | Checkov failed on privacysandbox/control-plane-shared-libraries. See 
+2023-04-26 14:08:00,309 | INFO | Cloning repo datasparq-intelligent-products/houston-quickstart-python
+2023-04-26 14:08:00,821 | INFO | Checkov start on datasparq-intelligent-products/houston-quickstart-python
+2023-04-26 14:08:05,492 | WARNING | Checkov failed on datasparq-intelligent-products/houston-quickstart-python. See 
+2023-04-26 14:08:05,789 | INFO | Cloning repo extenda/tf-module-gcp-project
+2023-04-26 14:08:06,308 | INFO | Checkov start on extenda/tf-module-gcp-project
+2023-04-26 14:08:11,616 | WARNING | Checkov failed on extenda/tf-module-gcp-project. See 
+2023-04-26 14:08:11,910 | INFO | Cloning repo duckhue01/wild-workouts
+2023-04-26 14:08:12,450 | INFO | Checkov start on duckhue01/wild-workouts
+2023-04-26 14:08:18,246 | WARNING | Checkov failed on duckhue01/wild-workouts. See 
+2023-04-26 14:08:18,599 | INFO | Cloning repo observerio/observer-server
+2023-04-26 14:08:19,833 | INFO | Checkov start on observerio/observer-server
+2023-04-26 14:08:27,231 | WARNING | Checkov failed on observerio/observer-server. See 
+2023-04-26 14:08:27,450 | INFO | Cloning repo ITK13201/waseda-moodle-scheduler
+2023-04-26 14:08:28,075 | INFO | Checkov start on ITK13201/waseda-moodle-scheduler
+2023-04-26 14:08:33,572 | WARNING | Checkov failed on ITK13201/waseda-moodle-scheduler. See 
+2023-04-26 14:08:33,794 | INFO | Cloning repo tjmaynes/home-lab
+2023-04-26 14:08:34,248 | INFO | Checkov start on tjmaynes/home-lab
+2023-04-26 14:08:39,553 | WARNING | Checkov failed on tjmaynes/home-lab. See 
+2023-04-26 14:08:39,809 | INFO | Cloning repo jacobmammoliti/consul-multicloud-demo
+2023-04-26 14:08:40,293 | INFO | Checkov start on jacobmammoliti/consul-multicloud-demo
+2023-04-26 14:08:44,922 | WARNING | Checkov failed on jacobmammoliti/consul-multicloud-demo. See 
+2023-04-26 14:08:45,137 | INFO | Cloning repo devium/kink
+2023-04-26 14:08:45,632 | INFO | Checkov start on devium/kink
+2023-04-26 14:08:55,084 | WARNING | Checkov failed on devium/kink. See 
+2023-04-26 14:08:55,290 | INFO | Cloning repo ankit-jn/terraform-aws-cognito
+2023-04-26 14:08:55,749 | INFO | Checkov start on ankit-jn/terraform-aws-cognito
+2023-04-26 14:09:00,096 | WARNING | Checkov failed on ankit-jn/terraform-aws-cognito. See 
+2023-04-26 14:09:00,100 | INFO | Total number of repositories: 0

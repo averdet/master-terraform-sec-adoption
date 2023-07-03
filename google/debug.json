@@ -1,0 +1,413 @@
+{
+    "check_type": "terraform",
+    "results": {
+        "passed_checks": [
+            {
+                "check_id": "CKV_GCP_29",
+                "bc_check_id": "BC_GCP_GCS_2",
+                "check_name": "Ensure that Cloud Storage buckets have uniform bucket-level access enabled",
+                "check_result": {
+                    "result": "PASSED",
+                    "evaluated_keys": [
+                        "uniform_bucket_level_access"
+                    ]
+                },
+                "code_block": [
+                    [
+                        125,
+                        "resource \"google_storage_bucket\" \"sc2sensei_replays_bucket\" {\n"
+                    ],
+                    [
+                        126,
+                        "\tname          = \"sc2sensei_replays_bucket\"\n"
+                    ],
+                    [
+                        127,
+                        "\tlocation      = \"EU\"\n"
+                    ],
+                    [
+                        128,
+                        "\tforce_destroy = false\n"
+                    ],
+                    [
+                        129,
+                        "\n"
+                    ],
+                    [
+                        130,
+                        "  uniform_bucket_level_access = true\n"
+                    ],
+                    [
+                        131,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/terraform/provider.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "repo_file_path": "/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "file_line_range": [
+                    125,
+                    131
+                ],
+                "resource": "google_storage_bucket.sc2sensei_replays_bucket",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.resource.gcp.GoogleStorageBucketUniformAccess",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/bc_gcp_gcs_2",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf"
+            },
+            {
+                "check_id": "CKV_GCP_113",
+                "bc_check_id": null,
+                "check_name": "Ensure IAM policy should not define public access",
+                "check_result": {
+                    "result": "PASSED",
+                    "evaluated_keys": []
+                },
+                "code_block": [
+                    [
+                        139,
+                        "data \"google_iam_policy\" \"admin\" {\n"
+                    ],
+                    [
+                        140,
+                        "  binding {\n"
+                    ],
+                    [
+                        141,
+                        "    role = \"roles/storage.admin\"\n"
+                    ],
+                    [
+                        142,
+                        "    members = [\n"
+                    ],
+                    [
+                        143,
+                        "      \"serviceAccount:${google_service_account.service_account.email}\",\n"
+                    ],
+                    [
+                        144,
+                        "      \"serviceAccount:terraform-service-account@first-melody-362112.iam.gserviceaccount.com\",\n"
+                    ],
+                    [
+                        145,
+                        "      \"user:oranbar@gmail.com\"\n"
+                    ],
+                    [
+                        146,
+                        "    ]\n"
+                    ],
+                    [
+                        147,
+                        "  }\n"
+                    ],
+                    [
+                        148,
+                        "\n"
+                    ],
+                    [
+                        149,
+                        "  binding {\n"
+                    ],
+                    [
+                        150,
+                        "      role    = \"roles/storage.objectViewer\"\n"
+                    ],
+                    [
+                        151,
+                        "      members = [\"allUsers\"]\n"
+                    ],
+                    [
+                        152,
+                        "    }\n"
+                    ],
+                    [
+                        153,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/terraform/provider.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "repo_file_path": "/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "file_line_range": [
+                    139,
+                    153
+                ],
+                "resource": "google_iam_policy.admin",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.data.gcp.GooglePolicyIsPrivate",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": {},
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": null,
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf"
+            }
+        ],
+        "failed_checks": [
+            {
+                "check_id": "CKV_GCP_102",
+                "bc_check_id": "BC_GCP_GENERAL_30",
+                "check_name": "Ensure that GCP Cloud Run services are not anonymously or publicly accessible",
+                "check_result": {
+                    "result": "FAILED",
+                    "evaluated_keys": []
+                },
+                "code_block": [
+                    [
+                        45,
+                        "resource \"google_cloud_run_service_iam_member\" \"public-cloud-run-access\" {\n"
+                    ],
+                    [
+                        46,
+                        "  location = google_cloud_run_service.default.location\n"
+                    ],
+                    [
+                        47,
+                        "  project = google_cloud_run_service.default.project\n"
+                    ],
+                    [
+                        48,
+                        "  service = google_cloud_run_service.default.name\n"
+                    ],
+                    [
+                        49,
+                        "  role = \"roles/run.invoker\"\n"
+                    ],
+                    [
+                        50,
+                        "  member = \"allUsers\"\n"
+                    ],
+                    [
+                        51,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/terraform/provider.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "repo_file_path": "/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "file_line_range": [
+                    45,
+                    51
+                ],
+                "resource": "google_cloud_run_service_iam_member.public-cloud-run-access",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.resource.gcp.GCPCloudRunPrivateService",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/ensure-cloud-run-service-is-not-anonymously-or-publicly-accessible",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "breadcrumbs": {
+                    "service": [
+                        {
+                            "type": "resource",
+                            "name": "google_cloud_run_service.default",
+                            "path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                            "module_connection": false
+                        }
+                    ],
+                    "location": [
+                        {
+                            "type": "tfvar",
+                            "name": "gcp_region",
+                            "path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/variable.auto.tfvars",
+                            "module_connection": false
+                        },
+                        {
+                            "type": "variable",
+                            "name": "gcp_region",
+                            "path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/variable.tf",
+                            "module_connection": false
+                        },
+                        {
+                            "type": "resource",
+                            "name": "google_cloud_run_service.default",
+                            "path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                            "module_connection": false
+                        }
+                    ]
+                }
+            },
+            {
+                "check_id": "CKV_GCP_62",
+                "bc_check_id": "BC_GCP_GCS_3",
+                "check_name": "Bucket should log access",
+                "check_result": {
+                    "result": "FAILED",
+                    "evaluated_keys": [
+                        "logging/[0]/log_bucket"
+                    ]
+                },
+                "code_block": [
+                    [
+                        125,
+                        "resource \"google_storage_bucket\" \"sc2sensei_replays_bucket\" {\n"
+                    ],
+                    [
+                        126,
+                        "\tname          = \"sc2sensei_replays_bucket\"\n"
+                    ],
+                    [
+                        127,
+                        "\tlocation      = \"EU\"\n"
+                    ],
+                    [
+                        128,
+                        "\tforce_destroy = false\n"
+                    ],
+                    [
+                        129,
+                        "\n"
+                    ],
+                    [
+                        130,
+                        "  uniform_bucket_level_access = true\n"
+                    ],
+                    [
+                        131,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/terraform/provider.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "repo_file_path": "/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "file_line_range": [
+                    125,
+                    131
+                ],
+                "resource": "google_storage_bucket.sc2sensei_replays_bucket",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.resource.gcp.CloudStorageLogging",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": null,
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": "https://docs.bridgecrew.io/docs/bc_gcp_logging_2",
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf"
+            },
+            {
+                "check_id": "CKV_GCP_114",
+                "bc_check_id": null,
+                "check_name": "Ensure public access prevention is enforced on Cloud Storage bucket",
+                "check_result": {
+                    "result": "FAILED",
+                    "evaluated_keys": [
+                        "public_access_prevention"
+                    ]
+                },
+                "code_block": [
+                    [
+                        125,
+                        "resource \"google_storage_bucket\" \"sc2sensei_replays_bucket\" {\n"
+                    ],
+                    [
+                        126,
+                        "\tname          = \"sc2sensei_replays_bucket\"\n"
+                    ],
+                    [
+                        127,
+                        "\tlocation      = \"EU\"\n"
+                    ],
+                    [
+                        128,
+                        "\tforce_destroy = false\n"
+                    ],
+                    [
+                        129,
+                        "\n"
+                    ],
+                    [
+                        130,
+                        "  uniform_bucket_level_access = true\n"
+                    ],
+                    [
+                        131,
+                        "}\n"
+                    ]
+                ],
+                "file_path": "/terraform/provider.tf",
+                "file_abs_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "repo_file_path": "/tmp/OranBar/sc2-sensei/terraform/provider.tf",
+                "file_line_range": [
+                    125,
+                    131
+                ],
+                "resource": "google_storage_bucket.sc2sensei_replays_bucket",
+                "evaluations": null,
+                "check_class": "checkov.terraform.checks.resource.gcp.GoogleStoragePublicAccessPrevention",
+                "fixed_definition": null,
+                "entity_tags": null,
+                "caller_file_path": null,
+                "caller_file_line_range": null,
+                "resource_address": null,
+                "severity": null,
+                "bc_category": null,
+                "benchmarks": {},
+                "description": null,
+                "short_description": null,
+                "vulnerability_details": null,
+                "connected_node": null,
+                "guideline": null,
+                "details": [],
+                "check_len": null,
+                "definition_context_file_path": "/home/alexandre/Documents/polymtl/dev/google-github-miner-replication-package/tmp/OranBar/sc2-sensei/terraform/provider.tf"
+            }
+        ],
+        "skipped_checks": [],
+        "parsing_errors": []
+    },
+    "summary": {
+        "passed": 2,
+        "failed": 3,
+        "skipped": 0,
+        "parsing_errors": 0,
+        "resource_count": 6,
+        "checkov_version": "2.3.29"
+    },
+    "url": "Add an api key '--bc-api-key <api-key>' to see more detailed insights via https://bridgecrew.cloud"
+}
