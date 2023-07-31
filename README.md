@@ -1,4 +1,4 @@
-# Exploring Security Practices in Infrastructure as Code: An Empirical Study of AWS Terraform Configurations
+# Exploring Security Practices in Infrastructure as Code: An Empirical Study
 
 This Readme file describes the process used to achieve the results of our paper. To support our findings, we provide the source code used to collect the dataset from GitHub, to proceed the Static Code Analysis with Checkov on the repositories and analyze the results in a Jupyter Notebook.  
 Except for the dataset collection process which is bonded to the data collection period, one can replicate our findings with the data provided.  
