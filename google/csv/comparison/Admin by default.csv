@@ -1,0 +1,14 @@
+Project Name,Policy ID,Evaluation
+wynsen/gcp-enterprise,POL03,TFSEC
+wynsen/gcp-enterprise,POL04,BOTH
+pluralsh/plural-artifacts,POL04,CHECKOV
+GoogleCloudPlatform/cloud-hackathons,POL04,CHECKOV
+ScaleSec/gcp_threat_detection_auto_remediation,POL03,BOTH
+canada-ca/accelerators_accelerateurs-gcp,POL03,BOTH
+GoogleCloudPlatform/solutions-istio-mesh-expansion-migration,POL04,BOTH
+GoogleCloudPlatform/guacamole-on-gcp,POL04,BOTH
+sushil46in/terraform_modules,POL03,BOTH
+broadinstitute/terraform-ap-modules,POL04,BOTH
+basisai/terraform-google-vault,POL04,CHECKOV
+gfilicetti/gHacks,POL04,CHECKOV
+sysdiglabs/terraform-google-secure-for-cloud,POL04,BOTH

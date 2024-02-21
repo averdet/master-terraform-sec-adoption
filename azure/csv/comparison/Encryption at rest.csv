@@ -1,0 +1,12 @@
+Project Name,Policy ID,Evaluation
+Azure/terraform,POL24,BOTH
+HoussemDellai/terraform-course,POL24,NONE
+sassoftware/viya4-iac-azure,POL24,BOTH
+jakewalsh90/Terraform-Azure,POL24,BOTH
+Azure/NoOpsAccelerator,POL24,BOTH
+PaloAltoNetworks/terraform-azurerm-vmseries-modules,POL24,BOTH
+databricks/terraform-databricks-examples,POL24,BOTH
+brave/security-action,POL24,NONE
+prancer-io/prancer-terramerra,POL24,BOTH
+jakewalsh90/Terraform-Modules-Azure,POL24,BOTH
+sap-linuxlab/terraform.modules_for_sap,POL24,BOTH

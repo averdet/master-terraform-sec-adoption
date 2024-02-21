@@ -1,0 +1,21 @@
+Project Name,Policy ID,Evaluation
+Azure/terraform,POL08,BOTH
+lynnlangit/learning-cloud,POL08,BOTH
+HoussemDellai/terraform-course,POL08,CHECKOV
+hashicorp/terraform-azurerm-terraform-enterprise,POL08,BOTH
+CDCgov/prime-simplereport,POL08,BOTH
+databricks/terraform-databricks-examples,POL08,CHECKOV
+MangoInstantMessenger/MangoMessengerAPI,POL08,CHECKOV
+asean-rssa/tf_azure_deployment,POL08,CHECKOV
+adamrushuk/devops-lab,POL08,BOTH
+recognizegroup/terraform,POL08,BOTH
+dirien/quick-bites,POL08,CHECKOV
+Anthony-Nolan/Atlas,POL08,BOTH
+kashw2/Fleet-of-the-Faithful-Knights,POL08,BOTH
+prancer-io/prancer-terramerra,POL08,BOTH
+CDCgov/phdi-azure,POL08,BOTH
+gogorichie/tf-playground,POL08,BOTH
+mattiasholm/code,POL08,BOTH
+pavanjava/terraform-tutorial,POL08,BOTH
+DFE-Digital/get-an-identity,POL08,BOTH
+equinor/terraform-azurerm-sql,POL08,BOTH

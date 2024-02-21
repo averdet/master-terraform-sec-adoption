@@ -1,0 +1,19 @@
+Project Name,Policy ID,Evaluation
+HoussemDellai/terraform-course,POL15,NONE
+sassoftware/viya4-iac-azure,POL15,CHECKOV
+microsoft/planetary-computer-hub,POL15,BOTH
+Azure/azure-data-labs-modules,POL15,NONE
+Azure/aks-baseline-windows,POL15,BOTH
+Azure/aks-app-routing-operator,POL15,NONE
+briandenicola/kubernetes,POL15,BOTH
+prancer-io/prancer-terramerra,POL15,TFSEC
+identiq-protocol/edge-infrastructure,POL34,CHECKOV
+identiq-protocol/edge-infrastructure,POL35,CHECKOV
+sourcegraph/tf-k8s-configs,POL15,NONE
+pagopa/terraform-azurerm-v3,POL34,BOTH
+pagopa/terraform-azurerm-v3,POL35,BOTH
+oaviles/hello_iac,POL15,NONE
+briandenicola/codespaces-developer-demo,POL15,BOTH
+equinor/radix-terraform-azurerm-aks,POL15,NONE
+boxboat/speedboat-terragrunt,POL15,NONE
+leancodepl/terraform-kubernetes-cluster,POL15,NONE

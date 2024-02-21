@@ -34,4 +34,5 @@ POL32,azure,database,no-public-access,Ensure databases are not publicly accessib
 POL33,azure,database,no-public-firewall-access,Ensure database firewalls do not permit public access,TRUE,Access policy,AVD-AZU-0029,CKV_AZURE_220,Not targeted by our study,
 POL34,azure,database,postgres-configuration-log-checkpoints,Ensure server parameter 'log_checkpoints' is set to 'ON' for PostgreSQL Database Server,TRUE,Logging/Monitoring,AVD-AZU-0024,CKV_AZURE_30,,
 POL35,azure,database,postgres-configuration-log-connections,Ensure server parameter 'log_connections' is set to 'ON' for PostgreSQL Database Server,TRUE,Logging/Monitoring,AVD-AZU-0019,CKV_AZURE_31,,
-POL36,azure,database,secure-tls-policy,Databases should have the minimum TLS set for connections,TRUE,Encryption in transit,AVD-AZU-0026,"CKV_AZURE_54, CKV_AZURE_52, ",,
+POL36,azure,database,secure-tls-policy,Databases should have the minimum TLS set for connections,TRUE,Encryption in transit,AVD-AZU-0026,CKV_AZURE_52,,
+POL37,azure,database,secure-tls-policy,Databases should have the minimum TLS set for connections,TRUE,Encryption in transit,AVD-AZU-0026,CKV_AZURE_54",,

@@ -16,6 +16,7 @@ HoussemDellai/terraform-course,POL15,NONE
 HoussemDellai/terraform-course,POL19,NONE
 HoussemDellai/terraform-course,POL22,BOTH
 HoussemDellai/terraform-course,POL24,NONE
+HoussemDellai/terraform-course,POL36,NONE
 microsoft/AzureTRE,POL10,NONE
 sassoftware/viya4-iac-azure,POL15,CHECKOV
 sassoftware/viya4-iac-azure,POL24,BOTH
@@ -35,19 +36,24 @@ databricks/terraform-databricks-examples,POL08,CHECKOV
 databricks/terraform-databricks-examples,POL10,NONE
 databricks/terraform-databricks-examples,POL24,BOTH
 databricks/terraform-databricks-examples,POL25,BOTH
+databricks/terraform-databricks-examples,POL36,NONE
 MangoInstantMessenger/MangoMessengerAPI,POL08,CHECKOV
 MangoInstantMessenger/MangoMessengerAPI,POL10,NONE
+MangoInstantMessenger/MangoMessengerAPI,POL36,NONE
 asean-rssa/tf_azure_deployment,POL08,CHECKOV
 asean-rssa/tf_azure_deployment,POL10,NONE
 asean-rssa/tf_azure_deployment,POL25,BOTH
+asean-rssa/tf_azure_deployment,POL36,NONE
 Azure/azure-data-labs-modules,POL10,BOTH
 Azure/azure-data-labs-modules,POL15,NONE
 Azure/azure-data-labs-modules,POL25,BOTH
+Azure/azure-data-labs-modules,POL36,BOTH
 adamrushuk/devops-lab,POL08,BOTH
 adamrushuk/devops-lab,POL10,BOTH
 Pwd9000-ML/Azure-Terraform-Deployments,POL10,TFSEC
 Azure-Samples/container-apps-azapi-terraform,POL10,NONE
 recognizegroup/terraform,POL08,BOTH
+recognizegroup/terraform,POL36,BOTH
 geekzter/azure-pipeline-agents,POL10,NONE
 echo-webkom/echo-web,POL10,NONE
 PacktPublishing/Terraform-Cookbook-Second-Edition,POL19,NONE
@@ -60,6 +66,7 @@ dirien/quick-bites,POL08,CHECKOV
 dirien/quick-bites,POL10,NONE
 Anthony-Nolan/Atlas,POL08,BOTH
 Anthony-Nolan/Atlas,POL10,NONE
+Anthony-Nolan/Atlas,POL36,NONE
 kashw2/Fleet-of-the-Faithful-Knights,POL08,BOTH
 kashw2/Fleet-of-the-Faithful-Knights,POL10,BOTH
 kashw2/Fleet-of-the-Faithful-Knights,POL19,BOTH
@@ -76,6 +83,7 @@ prancer-io/prancer-terramerra,POL20,NONE
 prancer-io/prancer-terramerra,POL22,TFSEC
 prancer-io/prancer-terramerra,POL24,BOTH
 prancer-io/prancer-terramerra,POL25,BOTH
+prancer-io/prancer-terramerra,POL36,NONE
 jakewalsh90/Terraform-Modules-Azure,POL24,BOTH
 identiq-protocol/edge-infrastructure,POL32,CHECKOV
 identiq-protocol/edge-infrastructure,POL34,CHECKOV
@@ -91,9 +99,10 @@ mattiasholm/code,POL08,BOTH
 mattiasholm/code,POL10,BOTH
 pavanjava/terraform-tutorial,POL08,BOTH
 pavanjava/terraform-tutorial,POL10,NONE
+pavanjava/terraform-tutorial,POL36,NONE
 jmvigueras/playground,POL10,BOTH
 jmvigueras/playground,POL25,BOTH
-LefeWare-Solutions/Azure-MasterIaCTemplates,POL28,NONE
+jmvigueras/playground,POL36,NONE
 sourcegraph/tf-k8s-configs,POL15,NONE
 pagopa/terraform-azurerm-v3,POL10,BOTH
 pagopa/terraform-azurerm-v3,POL19,BOTH
@@ -104,6 +113,7 @@ pagopa/terraform-azurerm-v3,POL34,BOTH
 pagopa/terraform-azurerm-v3,POL35,BOTH
 oaviles/hello_iac,POL10,NONE
 oaviles/hello_iac,POL15,NONE
+oaviles/hello_iac,POL36,NONE
 briandenicola/codespaces-developer-demo,POL15,BOTH
 equinor/radix-terraform-azurerm-aks,POL15,NONE
 DFE-Digital/get-an-identity,POL08,BOTH
@@ -117,6 +127,7 @@ DevOps-Team-Ca/CI-CD-Team-Project-Jenkins-Azure-Pipeline-GithubActions,POL19,NON
 DevOps-Team-Ca/CI-CD-Team-Project-Jenkins-Azure-Pipeline-GithubActions,POL22,BOTH
 equinor/terraform-azurerm-sql,POL08,BOTH
 equinor/terraform-azurerm-sql,POL10,BOTH
+equinor/terraform-azurerm-sql,POL36,BOTH
 sap-linuxlab/terraform.modules_for_sap,POL24,BOTH
 zakarel/Azure-terraform-templates,POL10,NONE
 LOLRedPanda/app-core,POL10,NONE
@@ -125,4 +136,5 @@ tuananh281/devops-project,POL10,NONE
 FrenchBarbusCorp/Workshop-Azure-Container-Apps,POL10,NONE
 leancodepl/terraform-kubernetes-cluster,POL15,NONE
 Sumit016/Cloud_Tasks,POL25,BOTH
+Sumit016/Cloud_Tasks,POL36,NONE
 bobbyabuchi/devops,POL25,BOTH
