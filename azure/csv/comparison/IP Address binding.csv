@@ -1,0 +1,6 @@
+Project Name,Policy ID,Evaluation
+ned1313/terraform-tuesdays,POL32,CHECKOV
+mrsimonemms/gitpod-self-hosted,POL32,CHECKOV
+identiq-protocol/edge-infrastructure,POL32,CHECKOV
+pagopa/terraform-azurerm-v3,POL32,BOTH
+joaovictorino/terraform-docker-spring,POL32,CHECKOV

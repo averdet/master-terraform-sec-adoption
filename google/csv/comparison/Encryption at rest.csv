@@ -1,0 +1,10 @@
+Project Name,Policy ID,Evaluation
+terraform-google-modules/terraform-docs-samples,POL47,NONE
+sassoftware/viya4-iac-gcp,POL47,NONE
+PaloAltoNetworks/terraform-google-vmseries-modules,POL47,NONE
+sushil46in/terraform_modules,POL47,CHECKOV
+bacalhau-project/amplify,POL47,NONE
+DDNStorage/exascaler-cloud-terraform,POL47,NONE
+minhthinhls/Linux-Command-Line-Tools,POL47,NONE
+Erfandarzi/medscale,POL47,NONE
+luismendezescobar/myproy,POL47,NONE
