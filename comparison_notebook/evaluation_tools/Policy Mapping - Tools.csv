@@ -1,0 +1,193 @@
+cloud_provider,service,check_name,check_description,Selected,Category,Code_Tfsec,Code_Checkov
+aws,emr,enable-at-rest-encryption,Enable at-rest encryption for EMR clusters.,TRUE,Encryption at rest,AVD-AWS-0137,CKV_AWS_350
+aws,emr,enable-in-transit-encryption,Enable in-transit encryption for EMR clusters.,TRUE,Encryption in transit,AVD-AWS-0138,CKV_AWS_351
+aws,emr,enable-local-disk-encryption,Enable local-disk encryption for EMR clusters.,TRUE,Encryption at rest,AVD-AWS-0139,CKV_AWS_349
+aws,iam,enforce-group-mfa,IAM groups should have MFA enforcement activated.,TRUE,Access policy,AVD-AWS-0123,-
+aws,iam,no-policy-wildcards,IAM policy should avoid use of wildcards and instead apply the principle of least privilege,TRUE,Admin by default,AVD-AWS-0057,CKV_AWS_62
+aws,iam,no-root-access-keys,The root user has complete access to all services and resources in an AWS account. AWS Access Keys provide programmatic access to a given account.,TRUE,Admin by default,AVD-AWS-0141,CKV_AWS_274
+aws,kms,auto-rotate-keys,A KMS key is not configured to auto-rotate.,TRUE,Encryption at rest,AVD-AWS-0065,-
+aws,neptune,enable-log-export,Neptune logs export should be enabled,TRUE,Logging/Monitoring,AVD-AWS-0075,CKV_AWS_361
+aws,neptune,enable-storage-encryption,Neptune storage must be encrypted at rest,TRUE,Encryption at rest,AVD-AWS-0076,CKV_AWS_44
+aws,neptune,encryption-customer-key,Neptune encryption should use Customer Managed Keys,TRUE,Encryption at rest,AVD-AWS-0128,CKV_AWS_280
+aws,ebs,enable-volume-encryption,EBS volumes must be encrypted,TRUE,Encryption at rest,AVD-AWS-0026,CKV_AWS_3
+aws,ebs,encryption-customer-key,EBS volume encryption should use Customer Managed Keys,TRUE,Encryption at rest,AVD-AWS-0027,CKV_AWS_189
+aws,redshift,encryption-customer-key,Redshift clusters should use at rest encryption,TRUE,Encryption at rest,AVD-AWS-0084,CKV_AWS_64
+aws,redshift,use-vpc,Redshift cluster should be deployed into a specific VPC,TRUE,Access policy,AVD-AWS-0127,CKV_AWS_87
+aws,ec2,enable-at-rest-encryption,Instance with unencrypted block device.,TRUE,Encryption at rest,AVD-AWS-0131,CKV2_AWS_2
+aws,ec2,enable-launch-config-at-rest-encryption,Launch configuration with unencrypted block device.,TRUE,Encryption at rest,AVD-AWS-0008,CKV_AWS_8
+aws,ec2,enable-volume-encryption,EBS volumes must be encrypted,TRUE,Encryption at rest,AVD-AWS-0026,CKV_AWS_3
+aws,ec2,enforce-http-token-imds,aws_instance should activate session tokens for Instance Metadata Service.,TRUE,Outdated feature,AVD-AWS-0028,CKV_AWS_79
+aws,ec2,enforce-launch-config-http-token-imds,aws_instance should activate session tokens for Instance Metadata Service.,TRUE,Outdated feature,AVD-AWS-0130,CKV_AWS_79
+aws,ec2,no-excessive-port-access,An ingress Network ACL rule allows ALL ports.,TRUE,IP Address binding,AVD-AWS-0102,CKV_AWS_352
+aws,ec2,no-public-egress-sgr,An egress security group rule allows traffic to /0.,TRUE,IP Address binding,AVD-AWS-0104,-
+aws,ec2,no-public-ingress-acl,An ingress Network ACL rule allows specific ports from /0.,TRUE,IP Address binding,AVD-AWS-0105,CKV2_AWS_1
+aws,ec2,no-public-ingress-sgr,An ingress security group rule allows traffic from /0.,TRUE,IP Address binding,AVD-AWS-0107,CKV_AWS_260
+aws,ec2,no-public-ip,Launch configuration should not have a public IP address.,TRUE,IP Address binding,AVD-AWS-0009,CKV_AWS_88
+aws,ec2,no-public-ip-subnet,Instances in a subnet should not receive a public IP address by default.,TRUE,IP Address binding,AVD-AWS-0164,CKV_AWS_130
+aws,ec2,no-secrets-in-launch-template-user-data,User data for EC2 instances must not contain sensitive AWS keys,TRUE,Hard-coded secret,AVD-AWS-0129,CKV_AWS_46
+aws,ec2,no-secrets-in-user-data,User data for EC2 instances must not contain sensitive AWS keys,TRUE,Hard-coded secret,AVD-AWS-0029,CKV_AWS_46
+aws,ec2,no-sensitive-info,Ensure all data stored in the launch configuration EBS is securely encrypted,TRUE,Encryption at rest,AVD-AWS-0122,CKV_AWS_8
+aws,ec2,volume-encryption-customer-key,EBS volume encryption should use Customer Managed Keys,TRUE,Encryption at rest,AVD-AWS-0027,CKV_AWS_189
+aws,rds,enable-performance-insights,Enable Performance Insights to detect potential problems,TRUE,Logging/Monitoring,AVD-AWS-0133,CKV_AWS_353
+aws,rds,enable-performance-insights-encryption,Encryption for RDS Performance Insights should be enabled.,TRUE,Logging/Monitoring,AVD-AWS-0078,CKV_AWS_354
+aws,rds,encrypt-cluster-storage-data,There is no encryption specified or encryption is disabled on the RDS Cluster.,TRUE,Encryption at rest,AVD-AWS-0079,CKV_AWS_16
+aws,rds,encrypt-instance-storage-data,RDS encryption has not been enabled at a DB Instance level.,TRUE,Encryption at rest,AVD-AWS-0080,-
+aws,rds,no-public-db-access,A database resource is marked as publicly accessible.,TRUE,Access policy,AVD-AWS-0082,CKV_AWS_17
+aws,efs,enable-at-rest-encryption,EFS Encryption has not been enabled,TRUE,Encryption at rest,AVD-AWS-0037,CKV_AWS_42
+aws,eks,enable-control-plane-logging,EKS Clusters should have cluster control plane logging turned on,TRUE,Logging/Monitoring,AVD-AWS-0038,CKV_AWS_37
+aws,eks,encrypt-secrets,EKS should have the encryption of secrets enabled,TRUE,Hard-coded secret,AVD-AWS-0039,CKV_AWS_58
+aws,eks,no-public-cluster-access,EKS Clusters should have the public access disabled,TRUE,Access policy,AVD-AWS-0040,CKV_AWS_39
+aws,eks,no-public-cluster-access-to-cidr,EKS cluster should not have open CIDR range for public access,TRUE,IP Address binding,AVD-AWS-0041,CKV_AWS_38
+aws,codebuild,enable-encryption,CodeBuild Project artifacts encryption should not be disabled,TRUE,Encryption at rest,AVD-AWS-0018,CKV_AWS_78
+aws,elastic-search,enable-domain-encryption,Elasticsearch domain isn't encrypted at rest.,TRUE,Encryption at rest,AVD-AWS-0048,CKV_AWS_5
+aws,elastic-search,enable-domain-logging,Domain logging should be enabled for Elastic Search domains,TRUE,Logging/Monitoring,AVD-AWS-0042,CKV_AWS_84
+aws,elastic-search,enable-in-transit-encryption,Elasticsearch domain uses plaintext traffic for node to node communication.,TRUE,Encryption in transit,AVD-AWS-0043,CKV_AWS_6
+aws,elastic-search,enforce-https,Elasticsearch doesn't enforce HTTPS traffic.,TRUE,Encryption in transit,AVD-AWS-0046,CKV_AWS_83
+aws,elastic-search,use-secure-tls-policy,Elasticsearch domain endpoint is using outdated TLS policy.,TRUE,Outdated feature,AVD-AWS-0126,CKV_AWS_228
+aws,sqs,enable-queue-encryption,Unencrypted SQS queue.,TRUE,Encryption at rest,AVD-AWS-0096,CKV_AWS_27
+aws,sqs,no-wildcards-in-policy-documents,AWS SQS policy document has wildcard action statement.,TRUE,Admin by default,AVD-AWS-0097,CKV_AWS_72
+aws,sqs,queue-encryption-use-cmk,SQS queue should be encrypted with a CMK.,TRUE,Encryption at rest,AVD-AWS-0135,CKV_AWS_3
+aws,ssm,avoid-leaks-via-http,Secrets should not be exfiltrated using Terraform HTTP data blocks,TRUE,Hard-coded secret,AVD-AWS-0134,CKV2_AWS_36
+aws,ssm,secret-use-customer-key,Secrets Manager should use customer managed keys,TRUE,Encryption at rest,AVD-AWS-0098,CKV_AWS_337
+aws,workspaces,enable-disk-encryption,Root and user volumes on Workspaces should be encrypted,TRUE,Encryption at rest,AVD-AWS-0109,"CKV_AWS_155, CKV_AWS_156"
+aws,elb,alb-not-public,Load balancer is exposed to the internet.,TRUE,Access policy,AVD-AWS-0053,-
+aws,elb,drop-invalid-headers,Load balancers should drop invalid headers,TRUE,Access policy,AVD-AWS-0052,-
+aws,elb,http-not-used,Use of plain HTTP.,TRUE,Encryption in transit,AVD-AWS-0054,CKV_AWS_131	
+aws,elb,use-secure-tls-policy,An outdated SSL policy is in use by a load balancer.,TRUE,Outdated feature,AVD-AWS-0047,CKV_AWS_103
+aws,dynamodb,enable-at-rest-encryption,DAX Cluster and tables should always encrypt data at rest,TRUE,Encryption at rest,AVD-AWS-0023,CKV_AWS_47
+aws,dynamodb,table-customer-key,DynamoDB tables should use at rest encryption with a Customer Managed Key,TRUE,Encryption at rest,AVD-AWS-0025,CKV_AWS_119
+aws,athena,enable-at-rest-encryption,"Athena databases and workgroup configurations are created unencrypted at rest by default, they should be encrypted",TRUE,Encryption at rest,AVD-AWS-0006,CKV_AWS_77
+aws,athena,no-encryption-override,Athena workgroups should enforce configuration to prevent client disabling encryption,TRUE,Encryption at rest,AVD-AWS-0007,CKV_AWS_82
+aws,cloudwatch,log-group-customer-key,CloudWatch log groups should be encrypted using CMK,TRUE,Encryption at rest,AVD-AWS-0017,CKV_AWS_158
+aws,lambda,enable-tracing,Lambda functions should have X-Ray tracing enabled,TRUE,Logging/Monitoring,AVD-AWS-0066,CKV_AWS_50
+aws,lambda,restrict-source-arn,Ensure that lambda function permission has a source arn specified,TRUE,Access policy,AVD-AWS-0067,CKV_AWS_364
+aws,elasticache,enable-at-rest-encryption,Elasticache Replication Group stores unencrypted data at-rest.,TRUE,Encryption at rest,AVD-AWS-0045,CKV_AWS_29
+aws,elasticache,enable-in-transit-encryption,Elasticache Replication Group uses unencrypted traffic.,TRUE,Encryption in transit,AVD-AWS-0051,CKV_AWS_30
+aws,ecs,enable-container-insight,ECS clusters should have container insights enabled,TRUE,Logging/Monitoring,AVD-AWS-0034,CKV_AWS_65
+aws,ecs,enable-in-transit-encryption,ECS Task Definitions with EFS volumes should use in-transit encryption,TRUE,Encryption in transit,AVD-AWS-0035,CKV_AWS_97
+aws,ecs,no-plaintext-secrets,Task definition defines sensitive environment variable(s).,TRUE,Hard-coded secret,AVD-AWS-0036,-
+aws,kinesis,enable-in-transit-encryption,Kinesis stream is unencrypted.,TRUE,Encryption at rest,AVD-AWS-0064,CKV_AWS_43
+aws,sns,enable-topic-encryption,Unencrypted SNS topic.,TRUE,Encryption at rest,AVD-AWS-0095,CKV_AWS_26
+aws,sns,topic-encryption-use-cmk,SNS topic not encrypted with CMK.,TRUE,Encryption at rest,AVD-AWS-0136,CKV_AWS_26
+aws,vpc,no-default-vpc,AWS best practice to not use the default VPC for workflows,TRUE,Access policy,AVD-AWS-0101,CKV_AWS_148
+aws,vpc,no-excessive-port-access,An ingress Network ACL rule allows ALL ports.,TRUE,IP Address binding,AVD-AWS-0102,CKV_AWS_352
+aws,vpc,no-public-egress-sgr,An egress security group rule allows traffic to /0.,TRUE,IP Address binding,AVD-AWS-0104,-
+aws,vpc,no-public-ingress-acl,An ingress Network ACL rule allows specific ports from /0.,TRUE,IP Address binding,AVD-AWS-0105,CKV2_AWS_1
+aws,vpc,no-public-ingress-sgr,An ingress security group rule allows traffic from /0.,TRUE,IP Address binding,AVD-AWS-0104,CKV_AWS_24
+aws,documentdb,enable-log-export,DocumentDB logs export should be enabled,TRUE,Logging/Monitoring,AVD-AWS-0020,CKV_AWS_85
+aws,documentdb,enable-storage-encryption,DocumentDB storage must be encrypted,TRUE,Encryption at rest,AVD-AWS-0021,CKV_AWS_74
+aws,documentdb,encryption-customer-key,DocumentDB encryption should use Customer Managed Keys,TRUE,Encryption at rest,AVD-AWS-0022,CKV_AWS_182
+aws,cloudtrail,enable-all-regions,Cloudtrail should be enabled in all regions regardless of where your AWS resources are generally homed,TRUE,Logging/Monitoring,AVD-AWS-0014,CKV_AWS_67
+aws,cloudtrail,enable-at-rest-encryption,Cloudtrail should be encrypted at rest to secure access to sensitive trail data,TRUE,Encryption at rest,AVD-AWS-0015,CKV_AWS_35
+aws,cloudtrail,enable-log-validation,Cloudtrail log validation should be enabled to prevent tampering of log data,TRUE,Logging/Monitoring,AVD-AWS-0016,CKV_AWS_36
+aws,cloudtrail,ensure-cloudwatch-integration,CloudTrail logs should be stored in S3 and also sent to CloudWatch Logs,TRUE,Logging/Monitoring,AVD-AWS-0162,CKV2_AWS_10
+aws,cloudtrail,no-public-log-access,The S3 Bucket backing Cloudtrail should be private,TRUE,Access policy,AVD-AWS-0161,-
+aws,cloudtrail,require-bucket-access-logging,You should enable bucket access logging on the CloudTrail S3 bucket.,TRUE,Logging/Monitoring,AVD-AWS-0163,CKV_AWS_18
+aws,mq,enable-audit-logging,MQ Broker should have audit logging enabled,TRUE,Logging/Monitoring,AVD-AWS-0070,CKV_AWS_197
+aws,mq,enable-general-logging,MQ Broker should have general logging enabled,TRUE,Logging/Monitoring,AVD-AWS-0071,CKV_AWS_48
+aws,mq,no-public-access,Ensure MQ Broker is not publicly exposed,TRUE,Access policy,AVD-AWS-0072,CKV_AWS_69
+aws,ecr,no-public-access,ECR repository policy must block public access,TRUE,Access policy,AVD-AWS-0032,CKV_AWS_32
+aws,ecr,repository-customer-key,ECR Repository should use customer managed keys to allow more control,TRUE,Encryption at rest,AVD-AWS-0033,CKV_AWS_136
+aws,s3,block-public-acls,S3 Access block should block public ACL,TRUE,Access policy,AVD-AWS-0086,CKV_AWS_53
+aws,s3,block-public-policy,S3 Access block should block public policy,TRUE,Access policy,AVD-AWS-0087,CKV_AWS_54
+aws,s3,enable-bucket-encryption,Unencrypted S3 bucket.,TRUE,Encryption at rest,AVD-AWS-0088,CKV_AWS_19
+aws,s3,enable-bucket-logging,S3 Bucket does not have logging enabled.,TRUE,Logging/Monitoring,AVD-AWS-0089,CKV_AWS_18
+aws,s3,encryption-customer-key,S3 encryption should use Customer Managed Keys,TRUE,Encryption at rest,AVD-AWS-0132,CKV_AWS_181
+aws,s3,ignore-public-acls,S3 Access Block should Ignore Public Acl,TRUE,Access policy,AVD-AWS-0091,CKV_AWS_55
+aws,s3,no-public-access-with-acl,S3 Buckets not publicly accessible through ACL.,TRUE,Access policy,AVD-AWS-0092,CKV2_AWS_43
+aws,s3,no-public-buckets,S3 Access block should restrict public bucket to limit access,TRUE,Access policy,AVD-AWS-0093,CKV2_AWS_6
+aws,s3,specify-public-access-block,S3 buckets should each define an aws_s3_bucket_public_access_block,TRUE,Access policy,AVD-AWS-0094,CKV2_AWS_6
+aws,cloudfront,enable-logging,Cloudfront distribution should have Access Logging configured,TRUE,Logging/Monitoring,AVD-AWS-0010,CKV_AWS_86
+aws,cloudfront,enforce-https,CloudFront distribution allows unencrypted (HTTP) communications.,TRUE,Encryption in transit,AVD-AWS-0012,CKV_AWS_34
+aws,cloudfront,use-secure-tls-policy,CloudFront distribution uses outdated SSL/TLS protocols.,TRUE,Outdated feature,AVD-AWS-0013,CKV2_AWS_54
+aws,api-gateway,enable-access-logging,API Gateway stages for V1 and V2 should have access logging enabled,TRUE,Logging/Monitoring,AVD-AWS-0001,CKV_AWS_76
+aws,api-gateway,enable-tracing,API Gateway must have X-Ray tracing enabled,TRUE,Logging/Monitoring,AVD-AWS-0003,CKV_AWS_73
+aws,api-gateway,no-public-access,No unauthorized access to API Gateway methods,TRUE,Access policy,AVD-AWS-0004,CKV2_AWS_51
+aws,api-gateway,use-secure-tls-policy,API Gateway domain name uses outdated SSL/TLS protocols.,TRUE,Outdated feature,AVD-AWS-0005,-
+aws,autoscaling,enable-at-rest-encryption,Launch configuration with unencrypted block device.,TRUE,Encryption at rest,AVD-AWS-0008,CKV_AWS_8
+aws,autoscaling,enforce-http-token-imds,aws_instance should activate session tokens for Instance Metadata Service.,TRUE,Outdated feature,AVD-AWS-0130,-
+aws,autoscaling,no-public-ip,Launch configuration should not have a public IP address.,TRUE,IP Address binding,AVD-AWS-0009,-
+aws,autoscaling,no-secrets-in-user-data,User data for EC2 instances must not contain sensitive AWS keys,TRUE,Hard-coded secret,AVD-AWS-0129,CKV_AWS_46
+aws,autoscaling,no-sensitive-info,Ensure all data stored in the launch configuration EBS is securely encrypted,TRUE,Encryption at rest,AVD-AWS-0122,CKV_AWS_8
+aws,msk,enable-in-transit-encryption,A MSK cluster allows unencrypted data in transit.,TRUE,Encryption in transit,AVD-AWS-0073,CKV_AWS_81
+aws,msk,enable-logging,Ensure MSK Cluster logging is enabled,TRUE,Logging/Monitoring,AVD-AWS-0074,CKV_AWS_80
+azure,monitor,capture-all-activities,Ensure log profile captures all activities,TRUE,Logging/Monitoring,AVD-AZU-0033,CKV_AZURE_38
+azure,network,disable-rdp-from-internet,"RDP access should not be accessible from the Internet, should be blocked on port 3389",TRUE,Access policy,AVD-AZU-0048,CKV_AZURE_9
+azure,network,no-public-egress,An outbound network security rule allows traffic to /0.,TRUE,IP Address binding,AVD-AZU-0051,
+azure,network,no-public-ingress,An inbound network security rule allows traffic from /0.,TRUE,IP Address binding,AVD-AZU-0047,
+azure,network,ssh-blocked-from-internet,"SSH access should not be accessible from the Internet, should be blocked on port 22",TRUE,IP Address binding,AVD-AZU-0050,CKV_AZURE_10
+azure,datafactory,no-public-access,"Data Factory should have public access disabled, the default is enabled.",TRUE,Access policy,AVD-AZU-0035,CKV_AZURE_104
+azure,storage,enforce-https,Storage accounts should be configured to only accept transfers that are over secure connections,TRUE,Encryption in transit,AVD-AZU-0008,CKV2_AZURE_33
+azure,storage,no-public-access,Storage containers in blob storage mode should not have public access,TRUE,Access policy,AVD-AZU-0007,CKV2_AZURE_8
+azure,storage,queue-services-logging-enabled,"When using Queue Services for a storage account, logging should be enabled.",TRUE,Logging/Monitoring,AVD-AZU-0009,CKV_AZURE_33
+azure,storage,use-secure-tls-policy,The minimum TLS version for Storage Accounts should be TLS1_2,TRUE,Encryption in transit,AVD-AZU-0011,CKV_AZURE_44
+azure,authorization,limit-role-actions,Roles limited to the required actions,TRUE,Admin by default,AVD-AZU-0030,CKV_AZURE_39
+azure,keyvault,specify-network-acl,Key vault should have the network acl block specified,TRUE,Access policy,AVD-AZU-0013,CKV_AZURE_189
+azure,container,configured-network-policy,Ensure AKS cluster has Network Policy configured,TRUE,Access policy,AVD-AZU-0043,CKV_AZURE_7
+azure,container,limit-authorized-ips,Ensure AKS has an API Server Authorized IP Ranges enabled,TRUE,IP Address binding,AVD-AZU-0041,CKV_AZURE_6
+azure,container,logging,Ensure AKS logging to Azure Monitoring is Configured,TRUE,Logging/Monitoring,AVD-AZU-0040,CKV_AZURE_4
+azure,container,use-rbac-permissions,Ensure RBAC is enabled on AKS clusters,TRUE,Access policy,AVD-AZU-0042,CKV_AZURE_5
+azure,appservice,account-identity-registered,Web App has registration with AD enabled,TRUE,Access policy,AVD-AZU-0002,
+azure,appservice,authentication-enabled,App Service authentication is activated,TRUE,Access policy,AVD-AZU-0003,CKV_AZURE_13
+azure,appservice,enable-http2,Web App uses the latest HTTP version,TRUE,Outdated feature,AVD-AZU-0005,CKV_AZURE_18
+azure,appservice,enforce-https,Ensure the Function App can only be accessed via HTTPS. The default is false.,TRUE,Encryption in transit,AVD-AZU-0004,CKV_AZURE_70
+azure,appservice,require-client-cert,Web App accepts incoming client certificate,TRUE,Encryption in transit,AVD-AZU-0001,CKV_AZURE_17
+azure,appservice,use-secure-tls-policy,Web App uses latest TLS version,TRUE,Encryption in transit,AVD-AZU-0006,CKV_AZURE_15
+azure,compute,disable-password-authentication,Password authentication should be disabled on Azure virtual machines,TRUE,Access policy,AVD-AZU-0039,CKV_AZURE_149
+azure,compute,enable-disk-encryption,Enable disk encryption on managed disk,TRUE,Encryption at rest,AVD-AZU-0038,CKV_AZURE_2
+azure,compute,no-secrets-in-custom-data,Ensure that no sensitive credentials are exposed in VM custom_data,TRUE,Hard-coded secret,AVD-AZU-0037,CKV_AZURE_45
+azure,datalake,enable-at-rest-encryption,Unencrypted data lake storage.,TRUE,Encryption at rest,AVD-AZU-0036,CKV_AZURE_105
+azure,database,all-threat-alerts-enabled,No threat detections are set,TRUE,Logging/Monitoring,AVD-AZU-0028,CKV_AZURE_25
+azure,database,enable-audit,Auditing should be enabled on Azure SQL Databases,TRUE,Logging/Monitoring,AVD-AZU-0027,
+azure,database,enable-ssl-enforcement,SSL should be enforced on database connections where applicable,TRUE,Encryption in transit,AVD-AZU-0020,"CKV_AZURE_28, CKV_AZURE_29, CKV_AZURE_47"
+azure,database,no-public-access,Ensure databases are not publicly accessible,TRUE,Access policy,AVD-AZU-0022,CKV_AZURE_11
+azure,database,no-public-firewall-access,Ensure database firewalls do not permit public access,TRUE,Access policy,AVD-AZU-0029,CKV_AZURE_220
+azure,database,postgres-configuration-log-checkpoints,Ensure server parameter 'log_checkpoints' is set to 'ON' for PostgreSQL Database Server,TRUE,Logging/Monitoring,AVD-AZU-0024,CKV_AZURE_30
+azure,database,postgres-configuration-log-connections,Ensure server parameter 'log_connections' is set to 'ON' for PostgreSQL Database Server,TRUE,Logging/Monitoring,AVD-AZU-0019,CKV_AZURE_31
+azure,database,secure-tls-policy,Databases should have the minimum TLS set for connections,TRUE,Encryption in transit,AVD-AZU-0026,"CKV_AZURE_54, CKV_AZURE_52, "
+google,iam,no-folder-level-default-service-account-assignment,Roles should not be assigned to default service accounts,TRUE,Admin by default,AVD-GCP-0004,
+google,iam,no-org-level-default-service-account-assignment,Roles should not be assigned to default service accounts,TRUE,Admin by default,AVD-GCP-0008,
+google,iam,no-org-level-service-account-impersonation,Users should not be granted service account access at the organization level,TRUE,Admin by default,AVD-GCP-0009,CKV_GCP_45
+google,iam,no-privileged-service-accounts,Service accounts should not have roles assigned with excessive privileges,TRUE,Admin by default,AVD-GCP-0007,CKV_GCP_42
+google,iam,no-project-level-default-service-account-assignment,Roles should not be assigned to default service accounts,TRUE,Admin by default,AVD-GCP-0006,CKV_GCP_30
+google,iam,no-project-level-service-account-impersonation,Users should not be granted service account access at the project level,TRUE,Admin by default,AVD-GCP-0011,CKV_GCP_49
+google,iam,no-user-granted-permissions,IAM granted directly to user.,TRUE,Access policy,AVD-GCP-0003,CKV_GCP_41
+google,bigquery,no-public-access,BigQuery datasets should only be accessible within the organisation,TRUE,Access policy,AVD-GCP-0046,CKV_GCP_15
+google,storage,enable-ubla,Ensure that Cloud Storage buckets have uniform bucket-level access enabled,TRUE,Access policy,AVD-GCP-0002,CKV_GCP_29
+google,storage,no-public-access,Ensure that Cloud Storage bucket is not anonymously or publicly accessible.,TRUE,Access policy,AVD-AZU-0007,CKV_GCP_28
+google,gke,enable-ip-aliasing,Clusters should have IP aliasing enabled,TRUE,IP Address binding,AVD-GCP-0049,
+google,gke,enable-network-policy,Network Policy should be enabled on GKE clusters,TRUE,Access policy,AVD-GCP-0056,CKV_GCP_20
+google,gke,enable-private-cluster,Clusters should be set to private,TRUE,Access policy,AVD-GCP-0059,CKV_GCP_64
+google,gke,enable-stackdriver-logging,Stackdriver Logging should be enabled,TRUE,Logging/Monitoring,AVD-GCP-0060,CKV_GCP_1
+google,gke,enable-stackdriver-monitoring,Stackdriver Monitoring should be enabled,TRUE,Logging/Monitoring,AVD-GCP-0052,CKV_GCP_8
+google,gke,no-public-control-plane,GKE Control Plane should not be publicly accessible,TRUE,Access policy,AVD-GCP-0053,CKV_GCP_18
+google,gke,use-rbac-permissions,Legacy ABAC permissions are enabled.,TRUE,Access policy,AVD-GCP-0062,
+google,gke,use-service-account,Checks for service account defined for GKE nodes,TRUE,Access policy,AVD-GCP-0050,
+google,dns,enable-dnssec,Cloud DNS should use DNSSEC,TRUE,Encryption in transit,AVD-GCP-0013,CKV_GCP_16
+google,dns,no-rsa-sha1,Zone signing should not use RSA SHA1,TRUE,Encryption at rest,AVD-GCP-0012,CKV_GCP_17
+google,sql,enable-pg-temp-file-logging,Temporary file logging should be enabled for all temporary files.,TRUE,Logging/Monitoring,AVD-GCP-0014,
+google,sql,encrypt-in-transit-data,SSL connections to a SQL database instance should be enforced.,TRUE,Encryption in transit,AVD-GCP-0015,"CKV_AZURE_28, CKV_AZURE_29, CKV_AZURE_47"
+google,sql,no-contained-db-auth,Contained database authentication should be disabled,TRUE,Access policy,AVD-GCP-0023,CKV_GCP_59
+google,sql,no-cross-db-ownership-chaining,Cross-database ownership chaining should be disabled,TRUE,Admin by default,AVD-GCP-0019,CKV_GCP_58
+google,sql,no-public-access,Ensure that Cloud SQL Database Instances are not publicly exposed,TRUE,Access policy,AVD-GCP-0017,CKV_GCP_11
+google,sql,pg-log-checkpoints,Ensure that logging of checkpoints is enabled.,TRUE,Logging/Monitoring,AVD-GCP-0025,CKV_GCP_51
+google,sql,pg-log-connections,Ensure that logging of connections is enabled.,TRUE,Logging/Monitoring,AVD-GCP-0016,CKV_GCP_52
+google,sql,pg-log-disconnections,Ensure that logging of disconnections is enabled.,TRUE,Logging/Monitoring,AVD-GCP-0022,CKV_GCP_53
+google,sql,pg-log-errors,Ensure that Postgres errors are logged,TRUE,Logging/Monitoring,AVD-GCP-0018,CKV_GCP_109
+google,sql,pg-log-lock-waits,Ensure that logging of lock waits is enabled.,TRUE,Logging/Monitoring,AVD-GCP-0020,CKV_GCP_54
+google,sql,pg-no-min-statement-logging,Ensure that logging of long statements is disabled.,TRUE,Logging/Monitoring,AVD-GCP-0021,
+google,compute,disk-encryption-customer-key,Disks should be encrypted with customer managed encryption keys,TRUE,Encryption at rest,AVD-GCP-003,
+google,compute,disk-encryption-no-plaintext-key,The encryption key used to encrypt a compute disk has been specified in plaintext.,TRUE,Hard-coded secret,AVD-GCP-0037,
+google,compute,enable-shielded-vm-im,Instances should have Shielded VM integrity monitoring enabled,TRUE,Logging/Monitoring,AVD-GCP-0045,CKV_GCP_39
+google,compute,enable-vpc-flow-logs,VPC flow logs should be enabled for all subnetworks,TRUE,Logging/Monitoring,AVD-GCP-0029,CKV_GCP_26
+google,compute,no-default-service-account,Instances should not use the default service account,TRUE,Admin by default,AVD-GCP-0044,CKV_GCP_30
+google,compute,no-ip-forwarding,Instances should not have IP forwarding enabled,TRUE,IP Address binding,AVD-GCP-0043,CKV_GCP_36
+google,compute,no-oslogin-override,Instances should not override the project setting for OS Login,TRUE,Access policy,AVD-GCP-0036,CKV_GCP_34
+google,compute,no-project-wide-ssh-keys,Disable project-wide SSH keys for all instances,TRUE,Access policy,AVD-GCP-0030,CKV_GCP_32
+google,compute,no-public-egress,An outbound firewall rule allows traffic to /0.,TRUE,IP Address binding,AVD-GCP-0035,
+google,compute,no-public-ingress,An inbound firewall rule allows traffic from /0.,TRUE,IP Address binding,AVD-GCP-0027,
+google,compute,no-public-ip,Instances should not have public IP addresses,TRUE,IP Address binding,AVD-GCP-0031,CKV_GCP_40
+google,compute,no-serial-port,Disable serial port connectivity for all instances,TRUE,Access policy,AVD-GCP-0032,CKV_GCP_35
+google,compute,use-secure-tls-policy,SSL policies should enforce secure versions of TLS,TRUE,Encryption in transit,AVD-GCP-0039,
+google,compute,vm-disk-encryption-customer-key,VM disks should be encrypted with Customer Supplied Encryption Keys,TRUE,Encryption at rest,AVD-GCP-0033,CKV_GCP_37
+general,secrets,no-plaintext-exposure,Secret/sensitive data should not be exposed in plaintext.,TRUE,Hard-coded secret,,
