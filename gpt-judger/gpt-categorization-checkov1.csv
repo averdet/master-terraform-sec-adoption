@@ -1,0 +1,122 @@
+code,original_category,assigned_category
+CKV_AWS_1,Admin by default,Access policy
+CKV_AWS_2,Encryption in transit,Encryption in transit
+CKV_AWS_3,Encryption at rest,Encryption at rest
+CKV_AWS_5,Encryption at rest,Encryption at rest
+CKV_AWS_6,Encryption in transit,Encryption in transit
+CKV_AWS_8,Encryption at rest,Encryption at rest
+CKV_AWS_16,Encryption at rest,Encryption at rest
+CKV_AWS_17,Access policy,Access policy
+CKV_AWS_18,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_19,Encryption at rest,Encryption at rest
+CKV_AWS_20,Access policy,Access policy
+CKV_AWS_22,Encryption at rest,Encryption at rest
+CKV_AWS_24,IP Address binding,IP Address binding
+CKV_AWS_25,IP Address binding,IP Address binding
+CKV_AWS_26,Encryption at rest,Encryption at rest
+CKV_AWS_27,Encryption at rest,Encryption at rest
+CKV_AWS_29,Encryption at rest,Encryption at rest
+CKV_AWS_30,Encryption in transit,Encryption in transit
+CKV_AWS_31,Encryption in transit,Encryption in transit
+CKV_AWS_32,Access policy,Access policy
+CKV_AWS_33,Admin by default,Access policy
+CKV_AWS_34,Encryption in transit,Encryption in transit
+CKV_AWS_35,Encryption at rest,Encryption at rest
+CKV_AWS_38,IP Address binding,IP Address binding
+CKV_AWS_39,Access policy,Access policy
+CKV_AWS_40,Access policy,Access policy
+CKV_AWS_41,Hard-coded secret,Hard-coded secret
+CKV_AWS_42,Encryption at rest,Encryption at rest
+CKV_AWS_43,Encryption at rest,Encryption at rest
+CKV_AWS_44,Encryption at rest,Encryption at rest
+CKV_AWS_45,Hard-coded secret,Hard-coded secret
+CKV_AWS_46,Hard-coded secret,Hard-coded secret
+CKV_AWS_47,Encryption at rest,Encryption at rest
+CKV_AWS_48,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_49,Admin by default,Access policy
+CKV_AWS_50,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_53,Access policy,Access policy
+CKV_AWS_54,Access policy,Access policy
+CKV_AWS_55,Access policy,Access policy
+CKV_AWS_56,Access policy,Access policy
+CKV_AWS_57,Access policy,Access policy
+CKV_AWS_58,Hard-coded secret,Encryption at rest
+CKV_AWS_59,Access policy,Access policy
+CKV_AWS_60,Access policy,Access policy
+CKV_AWS_61,Access policy,Access policy
+CKV_AWS_62,Admin by default,Access policy
+CKV_AWS_63,Admin by default,Access policy
+CKV_AWS_64,Encryption at rest,Encryption at rest
+CKV_AWS_67,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_68,Access policy,Access policy
+CKV_AWS_69,Access policy,Access policy
+CKV_AWS_71,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_72,Admin by default,Access policy
+CKV_AWS_73,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_76,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_77,Encryption at rest,Encryption at rest
+CKV_AWS_79,Outdated feature,Access policy
+CKV_AWS_83,Encryption in transit,Encryption in transit
+CKV_AWS_84,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_87,Access policy,Access policy
+CKV_AWS_88,IP Address binding,IP Address binding
+CKV_AWS_91,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_92,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_94,Encryption at rest,Encryption at rest
+CKV_AWS_96,Encryption at rest,Encryption at rest
+CKV_AWS_97,Encryption in transit,Encryption in transit
+CKV_AWS_98,Encryption at rest,Encryption at rest
+CKV_AWS_99,Encryption at rest,Encryption at rest
+CKV_AWS_100,IP Address binding,IP Address binding
+CKV_AWS_101,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_102,Access policy,Access policy
+CKV_AWS_103,Encryption in transit,Encryption in transit
+CKV_AWS_105,Encryption in transit,Encryption in transit
+CKV_AWS_106,Encryption at rest,Encryption at rest
+CKV_AWS_107,Access policy,Access policy
+CKV_AWS_108,Access policy,Access policy
+CKV_AWS_110,Access policy,Access policy
+CKV_AWS_111,Access policy,Access policy
+CKV_AWS_112,Encryption in transit,Encryption in transit
+CKV_AWS_113,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_117,Access policy,Access policy
+CKV_AWS_118,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_119,Encryption at rest,Encryption at rest
+CKV_AWS_126,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_130,IP Address binding,Access policy
+CKV_AWS_131,Encryption in transit,Logging/Monitoring
+CKV_AWS_136,Encryption at rest,Encryption at rest
+CKV_AWS_140,Encryption at rest,Encryption at rest
+CKV_AWS_142,Encryption at rest,Encryption at rest
+CKV_AWS_155,Encryption at rest,Encryption at rest
+CKV_AWS_156,Encryption at rest,Encryption at rest
+CKV_AWS_168,Access policy,Access policy
+CKV_AWS_169,Access policy,Access policy
+CKV_AWS_173,Encryption at rest,Encryption at rest
+CKV_AWS_201,Encryption at rest,Encryption at rest
+CKV_AWS_202,Encryption in transit,Encryption in transit
+CKV_AWS_204,Encryption at rest,Encryption at rest
+CKV_AWS_208,Outdated feature,Outdated feature
+CKV_AWS_209,Encryption at rest,Encryption at rest
+CKV_AWS_212,Encryption at rest,Encryption at rest
+CKV_AWS_213,Encryption in transit,Encryption in transit
+CKV_AWS_214,Encryption at rest,Encryption at rest
+CKV_AWS_215,Encryption in transit,Encryption in transit
+CKV_AWS_226,Outdated feature,Outdated feature
+CKV_AWS_227,Encryption at rest,Access policy
+CKV_AWS_229,IP Address binding,IP Address binding
+CKV_AWS_230,IP Address binding,IP Address binding
+CKV_AWS_231,IP Address binding,IP Address binding
+CKV_AWS_232,IP Address binding,IP Address binding
+CKV_AWS_250,Outdated feature,Outdated feature
+CKV_AWS_251,Logging/Monitoring,Logging/Monitoring
+CKV_AWS_260,IP Address binding,IP Address binding
+CKV2_AWS_1,IP Address binding,Access policy
+CKV2_AWS_2,Encryption at rest,Encryption at rest
+CKV2_AWS_6,Access policy,Access policy
+CKV2_AWS_7,Access policy,IP Address binding
+CKV2_AWS_11,Logging/Monitoring,Logging/Monitoring
+CKV2_AWS_12,Access policy,Access policy
+CKV2_AWS_20,Encryption in transit,Encryption in transit
+CKV2_AWS_28,Access policy,Access policy
+CKV2_AWS_29,Access policy,Access policy

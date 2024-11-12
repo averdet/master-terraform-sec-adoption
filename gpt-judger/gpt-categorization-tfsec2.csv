@@ -1,0 +1,113 @@
+code,original_category,assigned_category
+AVD-AWS-0137,Encryption at rest,Encryption at rest
+AVD-AWS-0138,Encryption in transit,Encryption in transit
+AVD-AWS-0139,Encryption at rest,Encryption at rest
+AVD-AWS-0123,Access policy,Access policy
+AVD-AWS-0057,Admin by default,Access policy
+AVD-AWS-0141,Admin by default,Access policy
+AVD-AWS-0065,Encryption at rest,Outdated feature
+AVD-AWS-0075,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0076,Encryption at rest,Encryption at rest
+AVD-AWS-0128,Encryption at rest,Encryption at rest
+AVD-AWS-0026,Encryption at rest,Encryption at rest
+AVD-AWS-0027,Encryption at rest,Encryption at rest
+AVD-AWS-0084,Encryption at rest,Encryption at rest
+AVD-AWS-0127,Access policy,Access policy
+AVD-AWS-0131,Encryption at rest,Encryption at rest
+AVD-AWS-0008,Encryption at rest,Encryption at rest
+AVD-AWS-0026,Encryption at rest,Encryption at rest
+AVD-AWS-0028,Outdated feature,Access policy
+AVD-AWS-0130,Outdated feature,Access policy
+AVD-AWS-0102,IP Address binding,Access policy
+AVD-AWS-0104,IP Address binding,IP Address binding
+AVD-AWS-0105,IP Address binding,IP Address binding
+AVD-AWS-0107,IP Address binding,IP Address binding
+AVD-AWS-0009,IP Address binding,IP Address binding
+AVD-AWS-0164,IP Address binding,Access policy
+AVD-AWS-0129,Hard-coded secret,Access policy
+AVD-AWS-0029,Hard-coded secret,Access policy
+AVD-AWS-0122,Encryption at rest,Encryption at rest
+AVD-AWS-0027,Encryption at rest,Encryption at rest
+AVD-AWS-0133,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0078,Logging/Monitoring,Encryption at rest
+AVD-AWS-0079,Encryption at rest,Encryption at rest
+AVD-AWS-0080,Encryption at rest,Encryption at rest
+AVD-AWS-0082,Access policy,IP Address binding
+AVD-AWS-0037,Encryption at rest,Encryption at rest
+AVD-AWS-0038,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0039,Hard-coded secret,Encryption at rest
+AVD-AWS-0040,Access policy,Access policy
+AVD-AWS-0041,IP Address binding,IP Address binding
+AVD-AWS-0018,Encryption at rest,Encryption at rest
+AVD-AWS-0048,Encryption at rest,Encryption at rest
+AVD-AWS-0042,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0043,Encryption in transit,Encryption in transit
+AVD-AWS-0046,Encryption in transit,Encryption in transit
+AVD-AWS-0126,Outdated feature,Encryption in transit
+AVD-AWS-0096,Encryption at rest,Encryption at rest
+AVD-AWS-0097,Admin by default,Access policy
+AVD-AWS-0135,Encryption at rest,Encryption at rest
+AVD-AWS-0134,Hard-coded secret,Hard-coded secret
+AVD-AWS-0098,Encryption at rest,Encryption at rest
+AVD-AWS-0109,Encryption at rest,Encryption at rest
+AVD-AWS-0053,Access policy,IP Address binding
+AVD-AWS-0052,Access policy,Access policy
+AVD-AWS-0054,Encryption in transit,Encryption in transit
+AVD-AWS-0047,Outdated feature,Outdated feature
+AVD-AWS-0023,Encryption at rest,Encryption at rest
+AVD-AWS-0025,Encryption at rest,Encryption at rest
+AVD-AWS-0006,Encryption at rest,Encryption at rest
+AVD-AWS-0007,Encryption at rest,Encryption at rest
+AVD-AWS-0017,Encryption at rest,Encryption at rest
+AVD-AWS-0066,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0067,Access policy,Access policy
+AVD-AWS-0045,Encryption at rest,Encryption at rest
+AVD-AWS-0051,Encryption in transit,Encryption in transit
+AVD-AWS-0034,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0035,Encryption in transit,Encryption in transit
+AVD-AWS-0036,Hard-coded secret,Hard-coded secret
+AVD-AWS-0064,Encryption at rest,Encryption in transit
+AVD-AWS-0095,Encryption at rest,Encryption at rest
+AVD-AWS-0136,Encryption at rest,Encryption at rest
+AVD-AWS-0101,Access policy,Access policy
+AVD-AWS-0102,IP Address binding,Access policy
+AVD-AWS-0104,IP Address binding,IP Address binding
+AVD-AWS-0105,IP Address binding,IP Address binding
+AVD-AWS-0104,IP Address binding,IP Address binding
+AVD-AWS-0020,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0021,Encryption at rest,Encryption at rest
+AVD-AWS-0022,Encryption at rest,Encryption at rest
+AVD-AWS-0014,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0015,Encryption at rest,Encryption at rest
+AVD-AWS-0016,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0162,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0161,Access policy,Access policy
+AVD-AWS-0163,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0070,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0071,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0072,Access policy,Access policy
+AVD-AWS-0032,Access policy,Access policy
+AVD-AWS-0033,Encryption at rest,Encryption at rest
+AVD-AWS-0086,Access policy,Access policy
+AVD-AWS-0087,Access policy,Access policy
+AVD-AWS-0088,Encryption at rest,Encryption at rest
+AVD-AWS-0089,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0132,Encryption at rest,Encryption at rest
+AVD-AWS-0091,Access policy,Access policy
+AVD-AWS-0092,Access policy,Access policy
+AVD-AWS-0093,Access policy,Access policy
+AVD-AWS-0094,Access policy,Access policy
+AVD-AWS-0010,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0012,Encryption in transit,Encryption in transit
+AVD-AWS-0013,Outdated feature,Encryption in transit
+AVD-AWS-0001,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0003,Logging/Monitoring,Logging/Monitoring
+AVD-AWS-0004,Access policy,Access policy
+AVD-AWS-0005,Outdated feature,Encryption in transit
+AVD-AWS-0008,Encryption at rest,Encryption at rest
+AVD-AWS-0130,Outdated feature,Access policy
+AVD-AWS-0009,IP Address binding,IP Address binding
+AVD-AWS-0129,Hard-coded secret,Access policy
+AVD-AWS-0122,Encryption at rest,Encryption at rest
+AVD-AWS-0073,Encryption in transit,Encryption in transit
+AVD-AWS-0074,Logging/Monitoring,Logging/Monitoring
